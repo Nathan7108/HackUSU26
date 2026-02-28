@@ -1846,6 +1846,70 @@ async def _background_compute_remaining() -> None:
     print(f"Background: computed {len(all_rows)} remaining countries in {elapsed:.1f}s")
 
 
+async def _apply_live_sentiment_boost() -> None:
+    """Fetch live headlines for priority countries, run FinBERT, and boost scores based on breaking news severity."""
+    from backend.ml.sentiment import analyze_headlines_sentiment
+    boosted = []
+    for code in PRIORITY_COUNTRIES:
+        info = MONITORED_COUNTRIES.get(code)
+        if not info or code not in _country_scores:
+            continue
+        try:
+            headlines_raw = await fetch_headlines(info["name"], max_headlines=15)
+            titles = [h["title"] for h in headlines_raw if h.get("title")]
+            if not titles:
+                continue
+            sentiment = analyze_headlines_sentiment(titles, country_code=code)
+            neg = sentiment.get("finbert_negative_score", 0.0)
+            volume = sentiment.get("headline_volume", 0)
+            escalatory = sentiment.get("headline_escalatory_pct", 0.0)
+            negativity = sentiment.get("media_negativity_index", 0.0)
+
+            # Calculate boost: extreme negativity in high-volume breaking news = large boost
+            # neg > 0.6 with high volume = significant event happening NOW
+            boost = 0
+            if neg > 0.8 and volume >= 5:
+                boost = min(35, int(neg * 40))       # massive: strikes, war, invasion
+            elif neg > 0.6 and volume >= 3:
+                boost = min(20, int(neg * 25))       # major: sanctions, military buildup
+            elif neg > 0.4 and volume >= 2:
+                boost = min(10, int(neg * 12))       # elevated: tensions, threats
+
+            if boost > 0:
+                entry = _country_scores[code]
+                old_score = entry["riskScore"]
+                new_score = min(100, old_score + boost)
+                new_level = level_from_score(new_score)
+                entry["riskScore"] = new_score
+                entry["riskLevel"] = new_level
+                entry["computedAt"] = datetime.utcnow().isoformat() + "Z"
+                # Store sentiment in features for transparency
+                entry["features"]["live_sentiment_neg"] = round(neg, 3)
+                entry["features"]["live_sentiment_boost"] = boost
+                entry["features"]["live_headline_volume"] = volume
+                boosted.append(f"{code} {old_score}→{new_score} (neg={neg:.2f}, vol={volume}, boost=+{boost})")
+        except Exception as e:
+            print(f"  Sentiment boost {code}: {e}")
+            continue
+
+    if boosted:
+        print(f"[Sentinel] Live sentiment boosts applied: {', '.join(boosted)}")
+        # Rebuild dashboard with updated scores
+        all_rows = [
+            {"code": c, "name": _country_scores[c]["name"],
+             "riskScore": _country_scores[c]["riskScore"], "riskLevel": _country_scores[c]["riskLevel"],
+             "isAnomaly": _country_scores[c]["isAnomaly"], "anomalyScore": _country_scores[c]["anomalyScore"]}
+            for c in _country_scores
+        ]
+        _rebuild_dashboard_summary(all_rows)
+        _save_scores_cache()
+        _notify_alerts([
+            {"severity": "high", "type": "SENTIMENT_SPIKE", "country": _country_scores[c.split()[0]]["name"],
+             "detail": f"Live news sentiment spike detected — risk score adjusted {c.split()[1]}"}
+            for c in boosted if int(c.split('boost=+')[1].rstrip(')')) >= 15
+        ])
+
+
 async def refresh_loop() -> None:
     """Background: full refresh every 15 minutes."""
     while True:
@@ -1854,6 +1918,8 @@ async def refresh_loop() -> None:
         all_codes = list(MONITORED_COUNTRIES.keys())
         rows = await loop.run_in_executor(None, _compute_batch_sync, all_codes)
         _rebuild_dashboard_summary(rows)
+        # Apply live headline sentiment on top of ML scores
+        await _apply_live_sentiment_boost()
         _save_scores_cache()
         await _refresh_live_sources()
         print(f"Scores refreshed at {datetime.utcnow().isoformat()}Z — {len(rows)} countries")
@@ -1951,6 +2017,8 @@ async def _startup_compute() -> None:
             print(f"GPT-4o recommendations ready in {time.perf_counter() - t1:.1f}s")
         except Exception as e:
             print(f"GPT-4o recommendations failed: {e}")
+        # Apply live sentiment boost from breaking news immediately
+        await _apply_live_sentiment_boost()
         # Refresh all scores from data in background (non-blocking)
         asyncio.create_task(_background_refresh_all())
         asyncio.create_task(_refresh_live_sources())
@@ -1992,6 +2060,8 @@ async def _startup_compute() -> None:
         _rebuild_dashboard_summary(priority_rows_fresh + all_rows)
         print(f"Remaining {len(all_rows)} countries computed in {time.perf_counter() - t0:.1f}s")
 
+    # Apply live sentiment boost from breaking news
+    await _apply_live_sentiment_boost()
     # Save cache for next restart
     _save_scores_cache()
 
@@ -2425,11 +2495,99 @@ async def api_data_sources():
     }
 
 
+_notified_live_events: set[str] = set()  # deduplicate across refreshes
+
+
+def _push_live_notifications(data: dict) -> None:
+    """Generate ntfy notifications from real live source data (GDACS, USGS, ReliefWeb, NASA)."""
+    if not NTFY_TOPIC:
+        return
+    try:
+        loop = asyncio.get_running_loop()
+    except RuntimeError:
+        return
+
+    alerts_to_send: list[tuple[str, str, str, str]] = []  # (title, body, priority, tags)
+
+    # GDACS disaster alerts — Orange/Red only
+    for alert in data.get("gdacs_alerts", {}).get("alerts", []):
+        level = alert.get("alertLevel", "")
+        if level not in ("Orange", "Red"):
+            continue
+        key = f"gdacs-{alert.get('name', '')}-{alert.get('date', '')}"
+        if key in _notified_live_events:
+            continue
+        _notified_live_events.add(key)
+        etype = alert.get("eventType", "Disaster")
+        country = alert.get("country", "Unknown")
+        prio = "urgent" if level == "Red" else "high"
+        tag = "volcano" if etype == "VO" else "cyclone" if etype == "TC" else "ocean" if etype == "TS" else "warning"
+        alerts_to_send.append((
+            f"GDACS {level}: {etype} — {country}",
+            f"{alert.get('name', 'Unknown event')} | Severity: {alert.get('severity') or 'N/A'}",
+            prio, tag,
+        ))
+
+    # USGS earthquakes — M5.5+
+    for eq in data.get("usgs_earthquakes", {}).get("events", []):
+        mag = eq.get("magnitude", 0) or 0
+        if mag < 5.5:
+            continue
+        key = f"usgs-{eq.get('place', '')}-{eq.get('time', '')}"
+        if key in _notified_live_events:
+            continue
+        _notified_live_events.add(key)
+        prio = "urgent" if mag >= 7.0 else "high" if mag >= 6.0 else "default"
+        alerts_to_send.append((
+            f"Earthquake M{mag:.1f} — {eq.get('place', 'Unknown')}",
+            f"Depth: {eq.get('depth_km', '?')}km | {eq.get('time', '')}",
+            prio, "earthquake",
+        ))
+
+    # ReliefWeb — humanitarian reports mentioning key conflict zones
+    conflict_kw = ["iran", "israel", "gaza", "yemen", "houthi", "ukraine", "russia", "taiwan", "china", "strait", "red sea", "bombing", "missile", "attack", "conflict", "escalat"]
+    for report in data.get("reliefweb_reports", {}).get("reports", []):
+        title = report.get("title", "")
+        title_lower = title.lower()
+        if not any(kw in title_lower for kw in conflict_kw):
+            continue
+        key = f"rw-{title[:60]}"
+        if key in _notified_live_events:
+            continue
+        _notified_live_events.add(key)
+        countries = ", ".join(report.get("countries", [])[:3]) or "Global"
+        alerts_to_send.append((
+            f"ReliefWeb: {countries}",
+            title[:200],
+            "high", "newspaper",
+        ))
+
+    # NASA EONET — wildfires, storms near monitored regions
+    for ev in data.get("nasa_eonet", {}).get("events", []):
+        key = f"nasa-{ev.get('title', '')[:40]}"
+        if key in _notified_live_events:
+            continue
+        _notified_live_events.add(key)
+        cats = ", ".join(ev.get("categories", []))
+        alerts_to_send.append((
+            f"NASA EONET: {ev.get('title', 'Natural Event')}",
+            f"Type: {cats} | {ev.get('date', '')}",
+            "default", "earth_americas",
+        ))
+
+    # Cap at 8 notifications per refresh to avoid spam
+    for title, body, prio, tag in alerts_to_send[:8]:
+        loop.create_task(_send_ntfy(title, body, prio, tag))
+    if alerts_to_send:
+        print(f"[Sentinel] Pushed {min(len(alerts_to_send), 8)} live notifications")
+
+
 async def _refresh_live_sources() -> None:
-    """Fire-and-forget live source refresh."""
+    """Fire-and-forget live source refresh + push notifications."""
     global _live_source_data
     try:
         _live_source_data = await fetch_all_live_sources()
+        _push_live_notifications(_live_source_data)
     except Exception:
         pass  # never block the main loop
 
@@ -2582,7 +2740,7 @@ async def api_recommendations():
 # --- Headlines cache for ticker (refreshed with scores) ---
 _headlines_cache: dict[str, list[dict]] = {}
 _headlines_cache_time: float = 0
-_HEADLINES_CACHE_TTL = 600  # 10 minutes
+_HEADLINES_CACHE_TTL = 21600  # 6 hours — NewsAPI free tier is 100 req/day, so cache aggressively
 
 
 @app.get("/api/headlines")
@@ -2591,20 +2749,34 @@ async def api_headlines():
     global _headlines_cache, _headlines_cache_time
 
     now = time.time()
+    # Serve cached data if available and fresh
     if _headlines_cache and (now - _headlines_cache_time) < _HEADLINES_CACHE_TTL:
         return {"headlines": _headlines_cache, "cached": True, "fetchedAt": datetime.utcfromtimestamp(_headlines_cache_time).isoformat() + "Z"}
 
+    # Try to fetch fresh headlines
     results: dict[str, list[dict]] = {}
+    any_success = False
     for code in PRIORITY_COUNTRIES:
         country_name = MONITORED_COUNTRIES.get(code, {}).get("name", code)
         try:
             raw = await fetch_headlines(country_name, max_headlines=5)
             results[code] = [{"text": h["title"], "source": h["source"]} for h in raw]
+            if results[code]:
+                any_success = True
         except Exception:
             results[code] = []
 
-    _headlines_cache = results
-    _headlines_cache_time = now
+    # Only update cache if we actually got headlines (don't overwrite good data with rate-limited empty data)
+    if any_success:
+        _headlines_cache = results
+        _headlines_cache_time = now
+        return {"headlines": results, "cached": False, "fetchedAt": datetime.utcnow().isoformat() + "Z"}
+
+    # Rate limited or failed — serve stale cache if we have it
+    if _headlines_cache:
+        return {"headlines": _headlines_cache, "cached": True, "fetchedAt": datetime.utcfromtimestamp(_headlines_cache_time).isoformat() + "Z"}
+
+    # Nothing at all
     return {"headlines": results, "cached": False, "fetchedAt": datetime.utcnow().isoformat() + "Z"}
 
 
