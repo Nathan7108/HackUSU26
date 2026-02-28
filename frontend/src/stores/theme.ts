@@ -7,7 +7,7 @@ interface ThemeStore {
   toggleTheme: () => void
 }
 
-export const useThemeStore = create<ThemeStore>()((set) => ({
+export const useThemeStore = create<ThemeStore>()((_set) => ({
   theme: "midnight" as Theme,
   setTheme: () => {},
   toggleTheme: () => {},
