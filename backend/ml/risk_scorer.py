@@ -23,6 +23,10 @@ from backend.ml.data.fetch_ucdp import compute_ucdp_features
 
 RISK_LABELS = ["LOW", "MODERATE", "ELEVATED", "HIGH", "CRITICAL"]
 
+# --- Cached model and label encoder (loaded once, reused across all predict_risk calls) ---
+_cached_model = None
+_cached_le = None
+
 # Weights for weighted probability score — higher classes contribute more (0-100).
 CLASS_WEIGHTS = {
     "LOW": 0,
@@ -401,14 +405,17 @@ def predict_risk(features: dict) -> dict:
     Returns dict with risk_level, risk_score (0-100), confidence, probabilities, top_drivers (5 names).
     risk_level is always derived from risk_score thresholds so they never contradict.
     """
-    root = _repo_root()
-    model_path = root / "models" / "risk_scorer.pkl"
-    encoder_path = root / "models" / "risk_label_encoder.pkl"
-    if not model_path.exists() or not encoder_path.exists():
-        raise FileNotFoundError("Train the risk scorer first: python -m backend.ml.risk_scorer")
-
-    model = joblib.load(model_path)
-    le = joblib.load(encoder_path)
+    global _cached_model, _cached_le
+    if _cached_model is None or _cached_le is None:
+        root = _repo_root()
+        model_path = root / "models" / "risk_scorer.pkl"
+        encoder_path = root / "models" / "risk_label_encoder.pkl"
+        if not model_path.exists() or not encoder_path.exists():
+            raise FileNotFoundError("Train the risk scorer first: python -m backend.ml.risk_scorer")
+        _cached_model = joblib.load(model_path)
+        _cached_le = joblib.load(encoder_path)
+    model = _cached_model
+    le = _cached_le
 
     X = pd.DataFrame([{col: features.get(col, 0) for col in FEATURE_COLUMNS}])
     probabilities = model.predict_proba(X)[0]
