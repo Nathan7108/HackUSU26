@@ -1,6 +1,24 @@
-import type { KPI, DashboardSummary } from "@/types"
+import type { KPI, KpiDataPoint, DashboardSummary } from "@/types"
 import { countries, getCountriesByRisk, getAnomalyCountries } from "@/data"
 import { alerts } from "@/data"
+
+function generateChartData(
+  baseValues: number[],
+  startDate: string = "2026-01-01",
+): KpiDataPoint[] {
+  const points: KpiDataPoint[] = []
+  const start = new Date(startDate)
+
+  for (let i = 0; i < baseValues.length; i++) {
+    const date = new Date(start)
+    date.setDate(start.getDate() + i * 7) // weekly data
+    points.push({
+      date: date.toISOString().slice(0, 10),
+      value: baseValues[i],
+    })
+  }
+  return points
+}
 
 export function getDashboardSummary(): DashboardSummary {
   const sorted = getCountriesByRisk()
@@ -29,6 +47,8 @@ export function getDashboardSummary(): DashboardSummary {
       trend: "ESCALATING",
       trendDelta: 2.4,
       sparkline: [62, 64, 63, 66, 68, 67, 70, globalThreatIndex],
+      chartData: generateChartData([54, 56, 58, 55, 60, 62, 64, 63, 66, 68, 67, 70, globalThreatIndex]),
+      chartColor: globalThreatIndex >= 70 ? "var(--risk-high)" : "var(--risk-elevated)",
     },
     {
       label: "Active Anomalies",
@@ -36,6 +56,8 @@ export function getDashboardSummary(): DashboardSummary {
       trend: "ESCALATING",
       trendDelta: 1,
       sparkline: [1, 1, 2, 1, 2, 3, anomalies.length],
+      chartData: generateChartData([0, 1, 1, 0, 1, 2, 1, 1, 2, 1, 2, 3, anomalies.length]),
+      chartColor: "var(--risk-critical)",
     },
     {
       label: "CRITICAL + HIGH",
@@ -43,6 +65,8 @@ export function getDashboardSummary(): DashboardSummary {
       trend: "STABLE",
       trendDelta: 0,
       sparkline: [2, 3, 3, 2, 3, 3, highPlus],
+      chartData: generateChartData([2, 2, 3, 3, 2, 2, 3, 3, 2, 3, 3, 3, highPlus]),
+      chartColor: "var(--risk-high)",
     },
     {
       label: "Escalating Now",
@@ -51,14 +75,8 @@ export function getDashboardSummary(): DashboardSummary {
       trend: "ESCALATING",
       trendDelta: 2,
       sparkline: [2, 3, 3, 4, 3, 5, escalating],
-    },
-    {
-      label: "Model Confidence",
-      value: avgConfidence,
-      unit: "%",
-      trend: "STABLE",
-      trendDelta: 0.2,
-      sparkline: [84, 85, 85, 86, 85, 86, avgConfidence],
+      chartData: generateChartData([1, 2, 2, 3, 3, 2, 4, 3, 3, 4, 3, 5, escalating]),
+      chartColor: "var(--risk-elevated)",
     },
   ]
 

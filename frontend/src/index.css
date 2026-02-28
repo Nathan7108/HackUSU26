@@ -211,21 +211,8 @@
 /* ============================================
    BASE STYLES
    ============================================ */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 html, body, #root {
   height: 100%;
-  width: 100%;
-  overflow: hidden;
-  background-color: var(--sentinel-bg-base);
-  color: var(--sentinel-text-primary);
-  font-family: var(--font-sans);
-  font-size: 13px;
-  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

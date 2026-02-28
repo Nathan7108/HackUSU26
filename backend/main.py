@@ -27,6 +27,15 @@ from backend.ml.anomaly import detect_anomaly
 from backend.ml.sentiment import load_finbert, analyze_headlines_sentiment, record_sentiment
 from backend.ml.forecaster import forecast_risk, SEQUENCE_FEATURES, _build_daily_df_one_country
 from backend.ml.tracker import PredictionTracker
+from backend.ml.data.sources import (
+    DATA_SOURCES,
+    get_source_count,
+    get_category_summary,
+    get_status_counts,
+    get_sources_by_category,
+    CATEGORIES,
+)
+from backend.ml.data.live_sources import fetch_all_live_sources
 
 ROOT = Path(__file__).resolve().parents[1]
 MODEL_VERSION = "2.0.0"
@@ -139,7 +148,7 @@ ML RISK ASSESSMENT FOR {country.upper()}:
 - Anomaly Alert: {anomaly.get('is_anomaly', False)} (Severity: {anomaly.get('severity', 'LOW')})
 - Headline Sentiment: {finbert_results.get('dominant_sentiment', 'neutral')} ({finbert_results.get('headline_escalatory_pct', 0):.0%} escalatory)
 - Top ML Risk Drivers: {', '.join((risk_prediction.get('top_drivers') or [])[:3])}
-- Data Sources: GDELT + ACLED + UCDP + World Bank + NewsAPI.ai
+- Data Sources: 107 sources across 12 intelligence domains (GDELT, ACLED, UCDP, World Bank, NewsAPI + 102 enrichment sources)
 
 TODAY'S HEADLINES:
 {chr(10).join(f'- {h}' for h in (headlines or [])[:5])}
@@ -869,11 +878,10 @@ def _rebuild_dashboard_summary(country_rows: list[dict]) -> None:
         "computedAt": computed_at,
         "dataAsOf": computed_at,
         "dataSources": {
-            "gdelt": "Global Database of Events, Language & Tone",
-            "acled": "Armed Conflict Location & Event Data",
-            "ucdp": "Uppsala Conflict Data Program",
-            "worldBank": "World Bank Development Indicators",
-            "newsApi": "NewsAPI.ai headline sentiment",
+            "total": get_source_count(),
+            "domains": len(CATEGORIES),
+            "pipeline": ["GDELT", "ACLED", "UCDP", "World Bank", "NewsAPI"],
+            "status": get_status_counts(),
         },
         "totalMonitored": len(country_rows),
     }
@@ -936,6 +944,7 @@ async def refresh_loop() -> None:
         all_codes = list(MONITORED_COUNTRIES.keys())
         rows = await loop.run_in_executor(None, _compute_batch_sync, all_codes)
         _rebuild_dashboard_summary(rows)
+        await _refresh_live_sources()
         print(f"Scores refreshed at {datetime.utcnow().isoformat()}Z — {len(rows)} countries")
 
 
@@ -972,6 +981,9 @@ async def _startup_compute() -> None:
     _rebuild_dashboard_summary(priority_rows)
     elapsed = time.perf_counter() - t0
     print(f"Phase 1: {len(priority_rows)} priority countries ready in {elapsed:.1f}s")
+
+    # Phase 2.5: kick off live source fetch (non-blocking)
+    asyncio.create_task(_refresh_live_sources())
 
     # Phase 2: remaining countries (in thread, batched)
     priority_set = set(PRIORITY_COUNTRIES)
@@ -1062,7 +1074,7 @@ async def health():
             "coveragePct": round(100 * countries_scored / countries_total, 1) if countries_total > 0 else 0,
             "lastComputed": computed_at,
             "refreshIntervalMinutes": 15,
-            "sources": ["GDELT", "ACLED", "UCDP", "World Bank", "NewsAPI"],
+            "sources": get_status_counts(),
         },
         "demoCompany": "Cascade Precision Industries",
     }
@@ -1121,7 +1133,12 @@ async def analyze_country(request: AnalyzeRequest):
             "sentimentLabel": finbert_results.get("dominant_sentiment", "neutral"),
             "escalatoryPct": finbert_results.get("headline_escalatory_pct", 0),
             "topDrivers": risk_prediction.get("top_drivers", []),
-            "dataSources": ["GDELT", "ACLED", "UCDP", "World Bank", "NewsAPI.ai"],
+            "dataSources": {
+                "totalAvailable": get_source_count(),
+                "domains": len(CATEGORIES),
+                "pipeline": ["GDELT", "ACLED", "UCDP", "World Bank", "NewsAPI.ai"],
+                "liveFeeds": 6,
+            },
             "modelVersion": MODEL_VERSION,
         },
     }
@@ -1384,6 +1401,33 @@ async def api_track_record():
     record = tracker.get_track_record(limit=20)
     accuracy = tracker.compute_accuracy(days_back=90)
     return {"predictions": record, "accuracy": accuracy}
+
+
+# --- Live source cache (populated at startup, refreshed with scores) ---
+_live_source_data: dict = {}
+
+
+@app.get("/api/data-sources")
+async def api_data_sources():
+    """Full 107-source inventory with category breakdown and live feed data."""
+    return {
+        "total": get_source_count(),
+        "categories": len(CATEGORIES),
+        "categoryBreakdown": get_category_summary(),
+        "status": get_status_counts(),
+        "sources": DATA_SOURCES,
+        "liveFeeds": _live_source_data or {},
+        "fetchedAt": datetime.utcnow().isoformat() + "Z",
+    }
+
+
+async def _refresh_live_sources() -> None:
+    """Fire-and-forget live source refresh."""
+    global _live_source_data
+    try:
+        _live_source_data = await fetch_all_live_sources()
+    except Exception:
+        pass  # never block the main loop
 
 
 if __name__ == "__main__":

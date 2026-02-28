@@ -63,7 +63,7 @@ function generateResponse(query: string): string {
     return `**Cascade Precision Exposure Summary:**\n\nTotal at-risk revenue: **$${total}M**\n\n${exposed.sort((a, b) => (b.exposure?.totalExposure ?? 0) - (a.exposure?.totalExposure ?? 0)).map((c) => `- ${c.flag} ${c.name}: $${c.exposure!.totalExposure}M`).join("\n")}`
   }
 
-  return `Based on Sentinel AI analysis across 47 features and 6 data sources:\n\nThe global threat index is currently elevated at ${Math.round(countries.reduce((s, c) => s + c.score, 0) / countries.length)}/100. ${countries.filter((c) => c.isAnomaly).length} active anomalies detected.\n\nCascade Precision's highest exposure is in Taiwan ($680M) and China ($420M). Would you like me to drill into a specific country or risk area?`
+  return `Based on Sentinel AI analysis across 47 features and 107+ data sources across 12 intelligence domains:\n\nThe global threat index is currently elevated at ${Math.round(countries.reduce((s, c) => s + c.score, 0) / countries.length)}/100. ${countries.filter((c) => c.isAnomaly).length} active anomalies detected.\n\nCascade Precision's highest exposure is in Taiwan ($680M) and China ($420M). Would you like me to drill into a specific country or risk area?`
 }
 
 export function CommandPalette() {

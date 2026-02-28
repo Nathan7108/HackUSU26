@@ -39,7 +39,7 @@ export function CountriesPage() {
   }, [search, sortKey, filterRisk])
 
   return (
-    <div className="flex h-full flex-col overflow-hidden p-4">
+    <div className="flex h-full flex-col overflow-hidden">
       {/* Header */}
       <div className="flex items-center justify-between mb-4">
         <div className="flex flex-col">

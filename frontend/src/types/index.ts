@@ -95,6 +95,11 @@ export interface Alert {
   timestamp: string
 }
 
+export interface KpiDataPoint {
+  date: string
+  value: number
+}
+
 export interface KPI {
   label: string
   value: number
@@ -102,6 +107,8 @@ export interface KPI {
   trend: Trend
   trendDelta: number
   sparkline?: number[]
+  chartData?: KpiDataPoint[]
+  chartColor?: string
 }
 
 export interface DashboardSummary {

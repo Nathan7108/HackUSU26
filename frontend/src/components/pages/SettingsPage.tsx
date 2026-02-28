@@ -5,7 +5,7 @@ export function SettingsPage() {
   const { theme, setTheme } = useThemeStore()
 
   return (
-    <div className="flex h-full flex-col overflow-y-auto p-4">
+    <div className="flex h-full flex-col overflow-y-auto">
       {/* Header */}
       <div className="flex flex-col mb-6">
         <h1

@@ -30,7 +30,7 @@ export function CountryDetailPage() {
   }
 
   return (
-    <div className="flex h-full overflow-hidden">
+    <div className="flex min-h-0 flex-1 overflow-hidden rounded-xl">
       {/* Left: Globe focused on country */}
       <div className="relative flex-1">
         <GlobeMap />

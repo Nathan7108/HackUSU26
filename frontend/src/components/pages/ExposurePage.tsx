@@ -15,7 +15,7 @@ export function ExposurePage() {
   )
 
   return (
-    <div className="flex h-full flex-col overflow-y-auto p-4">
+    <div className="flex h-full flex-col overflow-y-auto">
       {/* Header */}
       <div className="flex items-center justify-between mb-4">
         <div className="flex flex-col">

@@ -8,7 +8,7 @@ export function ForecastsPage() {
     .sort((a, b) => b.score - a.score)
 
   return (
-    <div className="flex h-full flex-col overflow-y-auto p-4">
+    <div className="flex h-full flex-col overflow-y-auto">
       {/* Header */}
       <div className="flex flex-col mb-4">
         <h1
