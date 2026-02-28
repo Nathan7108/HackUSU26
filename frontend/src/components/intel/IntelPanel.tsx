@@ -1,16 +1,23 @@
 import { useEffect, useRef } from "react"
 import { AnimatePresence, motion } from "motion/react"
 import NumberFlow from "@number-flow/react"
-import { X, TrendingUp, AlertTriangle, Factory, Route, ChevronRight } from "lucide-react"
+import { X, TrendingUp, AlertTriangle, Factory, Route, ChevronRight, Loader2 } from "lucide-react"
 import { useAppStore } from "@/stores/app"
 import { getCountryByCode } from "@/data"
+import { useAnalysis } from "@/hooks/use-dashboard"
 import { riskColor, riskMutedColor, trendIcon, trendColor, formatMoney } from "@/lib/risk"
 import type { Country, Recommendation } from "@/types"
 import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Area, AreaChart } from "recharts"
 
 export function IntelPanel() {
   const { selectedCountryCode, setIntelPanelOpen } = useAppStore()
-  const country = selectedCountryCode ? getCountryByCode(selectedCountryCode) : null
+  const mockCountry = selectedCountryCode ? getCountryByCode(selectedCountryCode) : null
+  const { data: liveOverlay, isLoading: isAnalyzing } = useAnalysis(selectedCountryCode)
+
+  // Merge: backend analysis overlays on top of mock data
+  const country: Country | null = mockCountry
+    ? { ...mockCountry, ...liveOverlay }
+    : null
 
   if (!country) return null
 
@@ -42,27 +49,47 @@ export function IntelPanel() {
               >
                 {country.name}
               </span>
-              <span
-                className="font-data text-[10px]"
-                style={{ color: "var(--sentinel-text-tertiary)" }}
-              >
-                {country.code} — INTELLIGENCE BRIEF
+              <span className="flex items-center gap-2">
+                <span
+                  className="font-data text-[10px]"
+                  style={{ color: "var(--sentinel-text-tertiary)" }}
+                >
+                  {country.code} — INTELLIGENCE BRIEF
+                </span>
+                <span
+                  className="rounded px-1.5 py-0.5 font-data text-[8px] font-bold tracking-wider"
+                  style={{
+                    backgroundColor: liveOverlay ? "rgba(34,197,94,0.12)" : "rgba(234,179,8,0.12)",
+                    color: liveOverlay ? "var(--risk-low)" : "var(--risk-elevated)",
+                  }}
+                >
+                  {liveOverlay ? "LIVE" : "MOCK"}
+                </span>
               </span>
             </div>
           </div>
-          <button
-            onClick={() => setIntelPanelOpen(false)}
-            className="flex h-7 w-7 items-center justify-center rounded-md transition-colors"
-            style={{ color: "var(--sentinel-text-tertiary)" }}
-            onMouseEnter={(e) => {
-              e.currentTarget.style.backgroundColor = "var(--sentinel-bg-overlay)"
-            }}
-            onMouseLeave={(e) => {
-              e.currentTarget.style.backgroundColor = "transparent"
-            }}
-          >
-            <X size={16} />
-          </button>
+          <div className="flex items-center gap-2">
+            {isAnalyzing && (
+              <Loader2
+                size={14}
+                className="animate-spin"
+                style={{ color: "var(--sentinel-accent)" }}
+              />
+            )}
+            <button
+              onClick={() => setIntelPanelOpen(false)}
+              className="flex h-7 w-7 items-center justify-center rounded-md transition-colors"
+              style={{ color: "var(--sentinel-text-tertiary)" }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.backgroundColor = "var(--sentinel-bg-overlay)"
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.backgroundColor = "transparent"
+              }}
+            >
+              <X size={16} />
+            </button>
+          </div>
         </div>
 
         {/* Score hero */}

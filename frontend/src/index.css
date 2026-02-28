@@ -252,6 +252,38 @@ html, body, #root {
 .mapboxgl-canvas { outline: none; }
 .mapboxgl-ctrl-logo, .mapboxgl-ctrl-attrib { display: none !important; }
 
+/* Sentinel popup theme */
+.sentinel-popup .mapboxgl-popup-content {
+  background: rgba(10, 14, 20, 0.92);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  padding: 10px 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+  color: #e2e8f0;
+}
+.sentinel-popup .mapboxgl-popup-tip {
+  border-top-color: rgba(10, 14, 20, 0.92);
+}
+.sentinel-popup-inner { font-family: 'Inter', sans-serif; font-size: 11px; }
+.sentinel-popup-title { font-weight: 700; font-size: 12px; margin-bottom: 2px; color: #f1f5f9; }
+.sentinel-popup-sub { opacity: 0.5; font-size: 10px; }
+.sentinel-popup-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 6px; }
+.sentinel-popup-val { font-family: 'JetBrains Mono', monospace; font-weight: 700; font-size: 12px; }
+.sentinel-popup-badge { font-family: 'JetBrains Mono', monospace; font-weight: 600; font-size: 10px; opacity: 0.8; }
+
+/* Chokepoint marker */
+.sentinel-chokepoint {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  pointer-events: none;
+}
+
+/* Country marker label visibility */
+.sentinel-country { z-index: 2; }
+.sentinel-facility { z-index: 1; }
+
 /* ============================================
    shadcn base layer
    ============================================ */

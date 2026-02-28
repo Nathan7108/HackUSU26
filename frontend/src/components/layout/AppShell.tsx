@@ -1,6 +1,7 @@
 import type { ReactNode } from "react"
 import { useMatches } from "@tanstack/react-router"
 import { AppSidebar } from "@/components/app-sidebar"
+import { DataStatusBadge } from "@/components/layout/DataStatusBadge"
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -43,7 +44,7 @@ export function AppShell({ children }: { children: ReactNode }) {
     <SidebarProvider defaultOpen={getSidebarCookie()}>
       <AppSidebar />
       <SidebarInset className="min-w-0 h-svh flex flex-col overflow-hidden">
-        <header className="z-20 flex h-16 shrink-0 items-center gap-2 border-b border-border bg-sidebar transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-12">
+        <header className="z-20 flex h-16 shrink-0 items-center justify-between gap-2 border-b border-border bg-sidebar transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-12">
           <div className="flex items-center gap-2 px-4">
             <SidebarTrigger className="-ml-1" />
             <Separator
@@ -63,6 +64,9 @@ export function AppShell({ children }: { children: ReactNode }) {
                 </BreadcrumbItem>
               </BreadcrumbList>
             </Breadcrumb>
+          </div>
+          <div className="px-4">
+            <DataStatusBadge />
           </div>
         </header>
         <div className="flex min-w-0 flex-1 flex-col overflow-hidden">
