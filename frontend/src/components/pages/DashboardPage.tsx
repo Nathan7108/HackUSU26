@@ -54,13 +54,13 @@ export function DashboardPage() {
 
         {/* Main content: Globe + Sidebar panels */}
         <div className="flex min-h-0 min-w-0 flex-1 overflow-hidden rounded-xl">
-          {/* Globe area */}
-          <div className="relative min-w-0 flex-1 overflow-hidden rounded-xl">
+          {/* Globe area — capped so panels stay visible on ultrawide */}
+          <div className="relative min-w-0 flex-1 max-w-[65%] overflow-hidden rounded-xl">
             <GlobeMap onMapReady={() => { setMapReady(true) }} />
           </div>
 
-          {/* Right panel stack — single scrollable column, full height */}
-          <div className="w-72 shrink-0 self-stretch overflow-y-auto p-2">
+          {/* Right panel stack — wider on large screens */}
+          <div className="w-72 2xl:w-80 shrink-0 flex-1 min-w-72 max-w-96 self-stretch overflow-y-auto p-2">
             <div className="flex min-h-full flex-col gap-2">
               <Watchlist countries={dashboard.countries} />
               <ExposureSummary />
