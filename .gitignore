@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.venv/
+env/
+
+# ML Models (large binary files)
+models/*.pkl
+models/*.pt
+models/*.joblib
+!models/.gitkeep
+
+# Data (large downloaded datasets)
+data/gdelt/*.csv
+data/gdelt/*.zip
+data/gdelt/zips/
+data/acled/*.csv
+data/ucdp/*.csv
+data/world_bank/*.csv
+data/world_bank/*.json
+!data/**/.gitkeep
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+.next/
