@@ -21,7 +21,7 @@ export function NewsTicker({ countries }: NewsTickerProps) {
 
   return (
     <div
-      className="flex h-7 shrink-0 items-center overflow-hidden border-t"
+      className="flex h-9 shrink-0 items-center overflow-hidden border-t"
       style={{
         backgroundColor: "var(--sentinel-bg-muted)",
         borderColor: "var(--sentinel-border-subtle)",

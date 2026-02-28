@@ -307,13 +307,45 @@ CASCADE_HOTSPOTS = {
         "industries": ["Maritime Shipping", "Global Logistics", "Insurance"],
         "watch": ["Houthi attack frequency in Bab el-Mandeb", "US/UK naval operations in Red Sea", "Shipping insurance premiums for Suez transit", "Alternative routing costs"],
     },
-    "SA": {  # Saudi Arabia — Red Sea adjacent
+    "EG": {
+        "exposure": "$1.1B (Suez transit)",
+        "risk_source": "Suez Canal disruption risk",
+        "basis": "Singapore→Rotterdam route transits Suez. 12% of global trade passes through. Blockages add 10-14 days via Cape.",
+        "recommendation": "MAINTAIN Cape of Good Hope contingency routing. Pre-negotiate surge capacity with Maersk and CMA CGM for emergency rerouting within 48 hours.",
+        "industries": ["Maritime Shipping", "Global Logistics", "Aerospace Supply Chain"],
+        "watch": ["Suez Canal transit volumes and delays", "Egyptian political stability", "Regional military activity near canal zone", "Alternative routing costs"],
+    },
+    "IL": {
         "exposure": "$1.1B (Red Sea corridor)",
-        "risk_source": "Red Sea shipping disruption",
-        "basis": "Singapore→Rotterdam route passes through Bab el-Mandeb. Rerouting adds 10-14 days.",
-        "recommendation": "EVALUATE air freight for critical avionics components. Cost: 5x sea freight. Lead time reduction: 12 days. For $680M chip packaging, air freight premium is justified during peak escalation.",
-        "industries": ["Maritime Shipping", "Aerospace Supply Chain", "Energy"],
-        "watch": ["Red Sea shipping lane safety status", "Suez Canal transit volumes", "Regional military buildup", "Oil price impacts on freight"],
+        "risk_source": "Regional conflict — Red Sea/Suez disruption",
+        "basis": "Israel-Gaza/Lebanon conflict amplifies Red Sea shipping risk. Houthi attacks directly tied to regional escalation.",
+        "recommendation": "MONITOR ceasefire status. Escalation triggers automatic rerouting of Singapore→Rotterdam cargo via Cape of Good Hope.",
+        "industries": ["Defense", "Maritime Shipping", "Aerospace Supply Chain"],
+        "watch": ["Israel-Gaza ceasefire status", "Lebanon/Hezbollah activity", "Houthi attack correlation with Israeli operations", "Red Sea shipping insurance rates"],
+    },
+    "PH": {
+        "exposure": "$680M (SCS transit)",
+        "risk_source": "South China Sea transit risk",
+        "basis": "Hsinchu→Nagoya route transits SCS near Philippine EEZ. China-Philippines tensions over Second Thomas Shoal ongoing.",
+        "recommendation": "EVALUATE northern routing via Luzon Strait to bypass contested waters. Additional transit time: 18 hours. Cost: $1.2M/year.",
+        "industries": ["Maritime Shipping", "Aerospace Electronics", "Defense"],
+        "watch": ["China-Philippines naval incidents in SCS", "US-Philippines defense cooperation", "Freedom of navigation operations", "Shipping lane safety advisories"],
+    },
+    "JP": {
+        "exposure": "$290M (facility)",
+        "risk_source": "Nagoya facility operational risk",
+        "basis": "Assembly & test facility in Nagoya. Japan-China tensions and natural disaster risk. Currently stable.",
+        "recommendation": "MAINTAIN current operations. Japan facility is lowest-risk node in supply chain. Ensure earthquake preparedness protocols current.",
+        "industries": ["Aerospace Manufacturing", "Subsystem Integration", "Defense"],
+        "watch": ["Japan-China diplomatic relations", "Seismic activity near Nagoya", "Yen exchange rate impact on costs", "Japan defense spending trajectory"],
+    },
+    "KR": {
+        "exposure": "$12M (qualification)",
+        "risk_source": "Backup source qualification — Samsung Foundry",
+        "basis": "Samsung Foundry in Pyeongtaek is primary backup for Taiwan chip packaging. Qualification in progress.",
+        "recommendation": "ACCELERATE Samsung Foundry qualification timeline. Current: 14 weeks. Target: 10 weeks with dedicated engineering team. Qualification cost: $12M.",
+        "industries": ["Semiconductors", "Aerospace Electronics", "Advanced Manufacturing"],
+        "watch": ["Samsung Foundry capacity utilization", "North Korea provocation level", "US-ROK alliance stability", "Chip packaging technology roadmap"],
     },
 }
 
@@ -528,13 +560,18 @@ def _build_local_brief(country: str, country_code: str, risk_prediction: dict, f
     }
 
 
-# Priority countries for demo (Pacific Ridge Industries exposure + geopolitically diverse)
+# Priority countries for demo (Cascade Precision Industries supply chain)
+# Tier 1: Risk hotspots with direct Cascade exposure
+# Tier 2: Trade route chokepoint countries
+# Tier 3: Facility host countries (should score LOW/STABLE)
+# Tier 4: Conflict context
 PRIORITY_COUNTRIES = [
-    "UA", "TW", "IR", "VE", "PK", "ET", "RS", "BR",  # original 8
-    "RU", "CN", "IL", "SA", "NG", "MX", "IN", "IQ",   # major geopolitical
-    "SY", "SD", "CO", "TR",                             # conflict + emerging
+    "TW", "CN", "RU", "YE",   # Tier 1: risk hotspots
+    "IR", "EG", "IL", "PH",   # Tier 2: chokepoints
+    "JP", "KR",                # Tier 3: facility/backup
+    "UA",                      # Tier 4: conflict context
 ]
-DASHBOARD_COUNTRY_LIMIT = 20
+DASHBOARD_COUNTRY_LIMIT = 11
 
 
 def _score_country(code: str, info: dict, features: dict) -> dict:
