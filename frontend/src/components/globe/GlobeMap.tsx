@@ -468,7 +468,7 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
     try {
       m = new mapboxgl.Map({
         container: mapBox.current, style: "mapbox://styles/mapbox/dark-v11",
-        center: [55, 20], zoom: 1.2, projection: "globe",
+        center: [55, 20], zoom: 1.8, projection: "globe",
         attributionControl: false, logoPosition: "bottom-left", maxZoom: 8, minZoom: 0.8,
         renderWorldCopies: false,
       })
