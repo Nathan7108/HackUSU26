@@ -3,6 +3,7 @@
 # See GitHub Issue #16.
 
 import json
+import math
 import warnings
 from pathlib import Path
 
@@ -424,28 +425,39 @@ def predict_risk(features: dict) -> dict:
     xgb_score = score_from_probabilities(probabilities.tolist(), labels)
 
     # --- Feature-based heuristic score for blending (prevents all-100 clustering) ---
-    fatalities = min(float(features.get("acled_fatalities_30d", 0) or 0), 5000)
-    battles = min(float(features.get("acled_battle_count", 0) or 0), 200)
-    explosions = min(float(features.get("acled_explosion_count", 0) or 0), 100)
-    protests = min(float(features.get("acled_protest_count", 0) or 0), 200)
+    # NOTE: ACLED features are cumulative all-time (window_days=99999 in pipeline),
+    # so we use log-scale normalization to compress wide ranges properly.
+    fatalities_raw = max(float(features.get("acled_fatalities_30d", 0) or 0), 0)
+    battles_raw = max(float(features.get("acled_battle_count", 0) or 0), 0)
+    explosions_raw = max(float(features.get("acled_explosion_count", 0) or 0), 0)
+    protests_raw = max(float(features.get("acled_protest_count", 0) or 0), 0)
     goldstein = float(features.get("gdelt_goldstein_mean", 0) or 0)
     conflict_pct = float(features.get("gdelt_conflict_pct", 0) or 0)
     inflation = float(features.get("wb_inflation_latest", 0) or 0)
     ucdp_deaths = float(features.get("ucdp_total_deaths", 0) or 0)
 
+    # Sqrt-scale normalization: sqrt(x)/sqrt(max) maps [0, max] -> [0, 1]
+    # Sqrt gives much better differentiation than log for cumulative data:
+    # 50K fatalities = 0.50, 10K = 0.22, 1K = 0.07, 100 = 0.02
+    fat_n = min(1.0, math.sqrt(fatalities_raw) / math.sqrt(200000))
+    bat_n = min(1.0, math.sqrt(battles_raw) / math.sqrt(100000))
+    exp_n = min(1.0, math.sqrt(explosions_raw) / math.sqrt(50000))
+    pro_n = min(1.0, math.sqrt(protests_raw) / math.sqrt(100000))
+    ucdp_n = min(1.0, math.sqrt(ucdp_deaths) / math.sqrt(500000))
+
     heuristic = min(100, (
-        (fatalities / 5000) * 30
-        + (battles / 200) * 20
-        + (explosions / 100) * 15
-        + (protests / 200) * 10
+        fat_n * 30
+        + bat_n * 20
+        + exp_n * 15
+        + pro_n * 10
         + max(0, -goldstein) * 3
         + conflict_pct * 20
         + min(inflation, 50) * 0.3
-        + min(ucdp_deaths / 50000, 1) * 15
+        + ucdp_n * 15
     ))
 
-    # Blend: 55% XGBoost, 45% heuristic — uses ML but grounds it in real feature magnitudes
-    risk_score = max(0, min(100, int(round(xgb_score * 0.55 + heuristic * 0.45))))
+    # Blend: 50% XGBoost, 50% heuristic — balanced between ML and feature-grounded scoring
+    risk_score = max(0, min(100, int(round(xgb_score * 0.50 + heuristic * 0.50))))
 
     # Level derived from score — ALWAYS consistent
     risk_level = level_from_score(risk_score)

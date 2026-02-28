@@ -70,6 +70,49 @@ FEATURE_COLUMNS = [
     "economic_stress_score",
 ]
 
+# Common English names overriding formal ISO 3166-1 names
+COMMON_NAMES: dict[str, str] = {
+    "IR": "Iran", "SY": "Syria", "VE": "Venezuela", "KR": "South Korea",
+    "KP": "North Korea", "RU": "Russia", "BO": "Bolivia", "MD": "Moldova",
+    "TZ": "Tanzania", "CD": "DR Congo", "LA": "Laos", "FM": "Micronesia",
+    "TR": "Turkey", "VN": "Vietnam", "BN": "Brunei", "TW": "Taiwan",
+    "CI": "Ivory Coast", "PS": "Palestine", "HK": "Hong Kong", "MO": "Macau",
+    "SZ": "Eswatini", "VI": "US Virgin Islands", "VG": "British Virgin Islands",
+    "BQ": "Caribbean Netherlands", "SX": "Sint Maarten", "MF": "Saint Martin",
+    "SH": "Saint Helena",
+}
+
+
+def _region_from_coords(lat: float, lng: float) -> str:
+    """Assign a region based on latitude/longitude when region is missing."""
+    if lat == 0 and lng == 0:
+        return "Other"
+    # Europe: roughly lat 35-72, lng -25-40
+    if 35 <= lat <= 72 and -25 <= lng <= 40:
+        return "Europe"
+    # Middle East: lat 12-42, lng 25-63
+    if 12 <= lat <= 42 and 25 <= lng <= 63:
+        return "Middle East"
+    # Central/South Asia: lat 5-45, lng 63-100
+    if 5 <= lat <= 45 and 63 <= lng <= 100:
+        return "Asia"
+    # East/Southeast Asia: lat -10-55, lng 100-150
+    if -10 <= lat <= 55 and 100 <= lng <= 150:
+        return "Asia"
+    # Africa: lat -35-37, lng -20-52 (exclude Middle East overlap)
+    if -35 <= lat <= 37 and -20 <= lng <= 52 and not (lat >= 35 and lng >= 25):
+        return "Africa"
+    # Americas: lng < -30
+    if lng < -30:
+        return "Americas"
+    # Oceania
+    if lat < 0 and lng > 100:
+        return "Oceania"
+    if lat < 25 and lng > 150:
+        return "Oceania"
+    return "Other"
+
+
 def _load_countries() -> dict:
     """Load MONITORED_COUNTRIES from data/countries.json; fallback to original 8 if missing."""
     path = Path(__file__).resolve().parents[2] / "data" / "countries.json"
@@ -78,12 +121,12 @@ def _load_countries() -> dict:
             entries = json.load(f)
         return {
             e["iso2"]: {
-                "name": e["name"],
+                "name": COMMON_NAMES.get(e["iso2"], e["name"]),
                 "iso3": e["iso3"],
                 "acled_name": e.get("acled_name", e["name"]),
                 "lat": e.get("lat", 0),
                 "lng": e.get("lng", 0),
-                "region": e.get("region", ""),
+                "region": e.get("region", "") or _region_from_coords(e.get("lat", 0), e.get("lng", 0)),
             }
             for e in entries
             if e.get("iso2")
