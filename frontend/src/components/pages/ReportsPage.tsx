@@ -180,14 +180,13 @@ export function ReportsPage() {
           <Card className="p-0 h-full overflow-hidden flex flex-col">
             {/* Table header */}
             <div
-              className="grid grid-cols-[80px_1fr_80px_80px_80px_80px] gap-2 px-3 py-2 text-[10px] font-data font-bold tracking-wider"
+              className="grid grid-cols-[80px_1fr_80px_80px_80px] gap-2 px-3 py-2 text-[10px] font-data font-bold tracking-wider"
               style={{ color: "var(--sentinel-text-tertiary)", borderBottom: "1px solid var(--sentinel-border-subtle)" }}
             >
               <span>COUNTRY</span>
               <span>TIME</span>
               <span>PREDICTED</span>
               <span className="text-right">SCORE</span>
-              <span className="text-right">CONF</span>
               <span className="text-center">RESULT</span>
             </div>
             {/* Table rows */}
@@ -323,7 +322,7 @@ function PredictionRow({ prediction: p }: { prediction: TrackRecordPrediction })
 
   return (
     <div
-      className="grid grid-cols-[80px_1fr_80px_80px_80px_80px] gap-2 px-3 py-1.5 items-center transition-colors"
+      className="grid grid-cols-[80px_1fr_80px_80px_80px] gap-2 px-3 py-1.5 items-center transition-colors"
       style={{ borderBottom: "1px solid var(--sentinel-border-subtle)" }}
       onMouseEnter={(e) => { e.currentTarget.style.backgroundColor = "var(--sentinel-bg-muted)" }}
       onMouseLeave={(e) => { e.currentTarget.style.backgroundColor = "transparent" }}
@@ -339,9 +338,6 @@ function PredictionRow({ prediction: p }: { prediction: TrackRecordPrediction })
       </span>
       <span className="font-data text-[12px] text-right tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
         {p.risk_score}
-      </span>
-      <span className="font-data text-[12px] text-right tabular-nums" style={{ color: "var(--sentinel-text-secondary)" }}>
-        {(p.confidence * 100).toFixed(0)}%
       </span>
       <div className="flex justify-center">
         {p.prediction_correct === null ? (

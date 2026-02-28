@@ -135,12 +135,6 @@ export function IntelPanel() {
                 ({country.trendDelta > 0 ? "+" : ""}{country.trendDelta} 24h)
               </span>
             </div>
-            <span
-              className="font-data text-[11px]"
-              style={{ color: "var(--sentinel-text-tertiary)" }}
-            >
-              Confidence: {Math.round(country.confidence * 100)}%
-            </span>
             {country.isAnomaly && (
               <div className="flex items-center gap-1 mt-0.5">
                 <AlertTriangle size={11} style={{ color: "var(--risk-critical)" }} />
@@ -200,56 +194,113 @@ export function IntelPanel() {
           {isAnalyzing && !liveOverlay ? (
             <div className="flex flex-col gap-2">
               {[1, 2, 3, 4, 5].map((n) => (
-                <div key={n} className="flex gap-2 py-1.5">
+                <div key={n} className="flex gap-3 py-2">
                   <div
-                    className="h-5 w-5 shrink-0 rounded-full animate-pulse"
+                    className="h-6 w-6 shrink-0 rounded-full animate-pulse"
                     style={{ backgroundColor: "var(--sentinel-bg-overlay)" }}
                   />
-                  <div
-                    className="h-3 flex-1 rounded animate-pulse"
-                    style={{
-                      width: `${90 - n * 5}%`,
-                      backgroundColor: "var(--sentinel-bg-overlay)",
-                    }}
-                  />
+                  <div className="flex-1 space-y-1.5 pt-1">
+                    <div
+                      className="h-2.5 rounded animate-pulse"
+                      style={{
+                        width: `${95 - n * 8}%`,
+                        backgroundColor: "var(--sentinel-bg-overlay)",
+                      }}
+                    />
+                    <div
+                      className="h-2 rounded animate-pulse"
+                      style={{
+                        width: "30%",
+                        backgroundColor: "var(--sentinel-bg-overlay)",
+                        opacity: 0.5,
+                      }}
+                    />
+                  </div>
                 </div>
               ))}
             </div>
           ) : (
-            <div className="flex flex-col gap-0">
-              {country.causalChain.map((step, i) => (
-                <motion.div
-                  key={i}
-                  initial={{ opacity: 0, x: -20 }}
-                  animate={{ opacity: 1, x: 0 }}
-                  transition={{ delay: i * 0.08, duration: 0.3 }}
-                  className="flex gap-2 py-1.5"
-                >
-                  <div className="flex flex-col items-center">
-                    <span
-                      className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full font-data text-[10px] font-bold"
-                      style={{
-                        backgroundColor: riskMutedColor[country.riskLevel],
-                        color: riskColor[country.riskLevel],
-                      }}
-                    >
-                      {i + 1}
-                    </span>
-                    {i < country.causalChain.length - 1 && (
-                      <div
-                        className="flex-1 w-px my-0.5"
-                        style={{ backgroundColor: "var(--sentinel-border)" }}
-                      />
-                    )}
-                  </div>
-                  <span
-                    className="text-[12px] leading-snug pt-0.5"
-                    style={{ color: "var(--sentinel-text-secondary)" }}
+            <div className="flex flex-col gap-0 relative">
+              {/* Vertical connector line */}
+              {country.causalChain.length > 1 && (
+                <div
+                  className="absolute left-[11px] top-[14px] w-[2px] rounded-full"
+                  style={{
+                    height: `calc(100% - 28px)`,
+                    background: `linear-gradient(to bottom, ${riskColor[country.riskLevel]}40, ${riskColor[country.riskLevel]}10)`,
+                  }}
+                />
+              )}
+              {country.causalChain.map((step, i) => {
+                const isFirst = i === 0
+                const isLast = i === country.causalChain.length - 1
+                const pct = Math.round(step.probability * 100)
+                return (
+                  <motion.div
+                    key={i}
+                    initial={{ opacity: 0, x: -16 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: i * 0.06, duration: 0.25 }}
+                    className="flex gap-3 py-[6px] relative"
                   >
-                    {step}
-                  </span>
-                </motion.div>
-              ))}
+                    {/* Step indicator */}
+                    <div className="flex flex-col items-center z-10">
+                      <span
+                        className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full font-data text-[10px] font-bold shadow-sm"
+                        style={{
+                          backgroundColor: isFirst
+                            ? riskColor[country.riskLevel]
+                            : riskMutedColor[country.riskLevel],
+                          color: isFirst ? "#fff" : riskColor[country.riskLevel],
+                          boxShadow: isFirst
+                            ? `0 0 8px ${riskColor[country.riskLevel]}50`
+                            : undefined,
+                        }}
+                      >
+                        {i + 1}
+                      </span>
+                    </div>
+                    {/* Content */}
+                    <div className="flex-1 min-w-0 pt-0.5">
+                      {(isFirst || isLast) && (
+                        <span
+                          className="font-data text-[9px] font-bold tracking-wider uppercase mb-0.5 block"
+                          style={{
+                            color: isFirst
+                              ? riskColor[country.riskLevel]
+                              : "var(--sentinel-text-tertiary)",
+                          }}
+                        >
+                          {isFirst ? "TRIGGER" : "PROJECTION"}
+                        </span>
+                      )}
+                      <div className="flex items-start justify-between gap-2">
+                        <span
+                          className="text-[12px] leading-snug"
+                          style={{ color: "var(--sentinel-text-secondary)" }}
+                        >
+                          {step.event}
+                        </span>
+                        <span
+                          className="shrink-0 font-data text-[10px] font-semibold tabular-nums rounded px-1.5 py-0.5 mt-px"
+                          style={{
+                            backgroundColor:
+                              pct >= 80
+                                ? `${riskColor[country.riskLevel]}18`
+                                : "var(--sentinel-bg-overlay)",
+                            color:
+                              pct >= 80
+                                ? riskColor[country.riskLevel]
+                                : "var(--sentinel-text-tertiary)",
+                          }}
+                        >
+                          {pct}%
+                        </span>
+                      </div>
+                    </div>
+                  </motion.div>
+                )
+              })}
             </div>
           )}
         </Section>

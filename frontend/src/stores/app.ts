@@ -27,10 +27,20 @@ interface AppStore {
   isCommandOpen: boolean
   setCommandOpen: (open: boolean) => void
 
+  // Chat panel (expanded AI chat)
+  isChatPanelOpen: boolean
+  setChatPanelOpen: (open: boolean) => void
+
   // Chat messages (persist across open/close)
   chatMessages: ChatMessage[]
   setChatMessages: (msgs: ChatMessage[] | ((prev: ChatMessage[]) => ChatMessage[])) => void
   clearChat: () => void
+
+  // Streaming state (shared between dropdown + panel)
+  isStreaming: boolean
+  setIsStreaming: (v: boolean) => void
+  streamingText: string
+  setStreamingText: (v: string) => void
 
   // Global map reference (set by GlobeMap, read by demo shortcuts)
   mapInstance: MapboxMap | null
@@ -61,12 +71,21 @@ export const useAppStore = create<AppStore>()((set, get) => ({
   isCommandOpen: false,
   setCommandOpen: (open) => set({ isCommandOpen: open }),
 
+  isChatPanelOpen: false,
+  setChatPanelOpen: (open) =>
+    set({ isChatPanelOpen: open, ...(open ? { isCommandOpen: false } : {}) }),
+
   chatMessages: [],
   setChatMessages: (msgs) =>
     set((state) => ({
       chatMessages: typeof msgs === "function" ? msgs(state.chatMessages) : msgs,
     })),
-  clearChat: () => set({ chatMessages: [] }),
+  clearChat: () => set({ chatMessages: [], streamingText: "", isStreaming: false }),
+
+  isStreaming: false,
+  setIsStreaming: (v) => set({ isStreaming: v }),
+  streamingText: "",
+  setStreamingText: (v) => set({ streamingText: v }),
 
   mapInstance: null,
   setMapInstance: (map) => set({ mapInstance: map }),

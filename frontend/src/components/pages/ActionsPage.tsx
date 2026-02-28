@@ -292,7 +292,7 @@ function ActionDetailSheet({ rec, onClose }: { rec: BackendRecommendation; onClo
               </SheetDescription>
             </div>
           </div>
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3 pr-8">
             <button
               onClick={handleViewOnMap}
               className="flex items-center gap-1.5 rounded px-2.5 py-1.5 font-data text-[11px] font-bold tracking-wide transition-colors hover:opacity-80"

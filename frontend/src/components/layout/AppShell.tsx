@@ -1,8 +1,11 @@
 import type { ReactNode } from "react"
 import { useMatches } from "@tanstack/react-router"
+import { AnimatePresence } from "motion/react"
 import { AppSidebar } from "@/components/app-sidebar"
 import { DataStatusBadge } from "@/components/layout/DataStatusBadge"
 import { SentinelSearchBar } from "@/components/sentinel/SentinelSearchBar"
+import { SentinelChatPanel } from "@/components/sentinel/SentinelChatPanel"
+import { useAppStore } from "@/stores/app"
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -33,6 +36,7 @@ function getSidebarCookie(): boolean {
 }
 
 export function AppShell({ children }: { children: ReactNode }) {
+  const isChatPanelOpen = useAppStore((s) => s.isChatPanelOpen)
   const matches = useMatches()
   const currentPath = matches[matches.length - 1]?.fullPath ?? "/dashboard"
   const isCountryDetail = currentPath.startsWith("/country/")
@@ -77,8 +81,13 @@ export function AppShell({ children }: { children: ReactNode }) {
             <DataStatusBadge />
           </div>
         </header>
-        <div className="flex min-w-0 flex-1 flex-col overflow-hidden">
-          {children}
+        <div className="flex min-w-0 flex-1 overflow-hidden">
+          <div className="flex min-w-0 flex-1 flex-col overflow-hidden">
+            {children}
+          </div>
+          <AnimatePresence>
+            {isChatPanelOpen && <SentinelChatPanel />}
+          </AnimatePresence>
         </div>
       </SidebarInset>
     </SidebarProvider>

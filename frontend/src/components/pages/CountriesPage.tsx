@@ -313,7 +313,7 @@ export function CountriesPage() {
       <div className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-lg border" style={{ backgroundColor: "var(--sentinel-bg-surface)", borderColor: "var(--sentinel-border-subtle)" }}>
         {/* Table header */}
         <div
-          className="grid grid-cols-[40px_200px_1fr_100px_96px_76px_80px_60px_44px] items-center gap-2 border-b px-4 py-2"
+          className="grid grid-cols-[40px_200px_1fr_100px_96px_76px_80px_44px] items-center gap-2 border-b px-4 py-2"
           style={{ backgroundColor: "var(--sentinel-bg-muted)", borderColor: "var(--sentinel-border-subtle)" }}
         >
           <HeaderLabel>#</HeaderLabel>
@@ -323,7 +323,6 @@ export function CountriesPage() {
           <HeaderLabel>RISK LEVEL</HeaderLabel>
           <SortableHeader label="24H Δ" sortKey="delta" currentSort={sortKey} currentDir={sortDir} onSort={handleSort} />
           <SortableHeader label="TREND" sortKey="trend" currentSort={sortKey} currentDir={sortDir} onSort={handleSort} />
-          <HeaderLabel>CONF</HeaderLabel>
           <HeaderLabel className="text-center">ANOM</HeaderLabel>
         </div>
 
@@ -407,7 +406,7 @@ function CountryRow({ row, rank, exposure, onClick }: {
   return (
     <button
       onClick={onClick}
-      className="group grid w-full grid-cols-[40px_200px_1fr_100px_96px_76px_80px_60px_44px] items-center gap-2 border-b px-4 py-2.5 text-left transition-colors"
+      className="group grid w-full grid-cols-[40px_200px_1fr_100px_96px_76px_80px_44px] items-center gap-2 border-b px-4 py-2.5 text-left transition-colors"
       style={{ borderColor: "var(--sentinel-border-subtle)" }}
       onMouseEnter={(e) => { e.currentTarget.style.backgroundColor = "var(--sentinel-bg-elevated)" }}
       onMouseLeave={(e) => { e.currentTarget.style.backgroundColor = "transparent" }}
@@ -468,14 +467,6 @@ function CountryRow({ row, rank, exposure, onClick }: {
         {trendIcon[row.trend]}{" "}
         {row.trend === "DE-ESCALATING" ? "DE-ESC" : row.trend.slice(0, 5)}
       </span>
-
-      {/* Confidence */}
-      <div className="flex flex-col items-start gap-0.5">
-        <span className="font-data text-sm tabular-nums" style={{ color: "var(--sentinel-text-secondary)" }}>{Math.round(row.confidence * 100)}%</span>
-        <div className="h-1 w-11 rounded-full" style={{ backgroundColor: "var(--sentinel-bg-elevated)" }}>
-          <div className="h-full rounded-full" style={{ width: `${row.confidence * 100}%`, backgroundColor: "var(--sentinel-accent)", opacity: 0.6 }} />
-        </div>
-      </div>
 
       {/* Anomaly */}
       <div className="flex items-center justify-center">

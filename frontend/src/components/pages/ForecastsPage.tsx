@@ -443,93 +443,152 @@ function ForecastMini({ label, value, current, riskLevel }: {
 
 function ForecastRow({ data }: { data: CountryForecast }) {
   const delta = data.delta90
+  const [expanded, setExpanded] = useState(false)
 
   return (
     <div
-      className="grid items-center gap-3 px-4 py-2 transition-colors"
-      style={{
-        gridTemplateColumns: "minmax(160px,1fr) 100px 80px 80px 80px 80px 140px",
-        borderBottom: "1px solid var(--sentinel-border-subtle)",
-      }}
-      onMouseEnter={(e) => { e.currentTarget.style.backgroundColor = "var(--sentinel-bg-elevated)" }}
-      onMouseLeave={(e) => { e.currentTarget.style.backgroundColor = "transparent" }}
+      style={{ borderBottom: "1px solid var(--sentinel-border-subtle)" }}
     >
-      {/* Country */}
-      <div className="flex items-center gap-2 min-w-0">
-        <span className="text-base shrink-0">{data.flag}</span>
-        <div className="flex flex-col min-w-0">
-          <span className="text-sm font-medium truncate" style={{ color: "var(--sentinel-text-primary)" }}>
-            {data.name}
+      <div
+        className="grid items-center gap-3 px-4 py-2 transition-colors cursor-pointer"
+        style={{
+          gridTemplateColumns: "minmax(160px,1fr) 100px 80px 80px 80px 80px 140px",
+        }}
+        onClick={() => setExpanded((p) => !p)}
+        onMouseEnter={(e) => { e.currentTarget.style.backgroundColor = "var(--sentinel-bg-elevated)" }}
+        onMouseLeave={(e) => { e.currentTarget.style.backgroundColor = "transparent" }}
+      >
+        {/* Country */}
+        <div className="flex items-center gap-2 min-w-0">
+          <span className="text-base shrink-0">{data.flag}</span>
+          <div className="flex flex-col min-w-0">
+            <span className="text-sm font-medium truncate" style={{ color: "var(--sentinel-text-primary)" }}>
+              {data.name}
+            </span>
+            <span className="font-data text-[11px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
+              {data.code3}
+            </span>
+          </div>
+        </div>
+
+        {/* Current score + badge */}
+        <div className="flex items-center gap-2">
+          <span className="font-data text-sm font-bold tabular-nums" style={{ color: riskColor[data.riskLevel] }}>
+            {formatScore(data.currentScore)}
           </span>
-          <span className="font-data text-[11px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
-            {data.code3}
+          <span
+            className="rounded px-1.5 py-px font-data text-[10px] font-semibold"
+            style={{ backgroundColor: riskMutedColor[data.riskLevel], color: riskColor[data.riskLevel] }}
+          >
+            {data.riskLevel}
           </span>
+        </div>
+
+        {/* 30d */}
+        <span className="font-data text-sm tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
+          {formatScore(data.forecast30)}
+        </span>
+
+        {/* 60d */}
+        <span className="font-data text-sm tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
+          {formatScore(data.forecast60)}
+        </span>
+
+        {/* 90d */}
+        <span className="font-data text-sm font-bold tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
+          {formatScore(data.forecast90)}
+        </span>
+
+        {/* Delta */}
+        <div className="flex items-center gap-1">
+          <span style={{ color: trendColor[data.trend], fontSize: 12 }}>
+            {trendIcon[data.trend]}
+          </span>
+          <span
+            className="font-data text-sm font-semibold tabular-nums"
+            style={{ color: delta > 0 ? "var(--risk-critical)" : delta < 0 ? "var(--risk-low)" : "var(--sentinel-text-tertiary)" }}
+          >
+            {delta > 0 ? "+" : ""}{delta}
+          </span>
+        </div>
+
+        {/* Sparkline */}
+        <div className="h-8">
+          <ResponsiveContainer width="100%" height="100%">
+            <AreaChart data={data.forecastPoints}>
+              <defs>
+                <linearGradient id={`row-${data.code3}`} x1="0" y1="0" x2="0" y2="1">
+                  <stop offset="0%" stopColor={riskColor[data.riskLevel]} stopOpacity={0.2} />
+                  <stop offset="100%" stopColor={riskColor[data.riskLevel]} stopOpacity={0} />
+                </linearGradient>
+              </defs>
+              <YAxis hide domain={["dataMin - 3", "dataMax + 3"]} />
+              <Area
+                type="monotone"
+                dataKey="score"
+                stroke={riskColor[data.riskLevel]}
+                fill={`url(#row-${data.code3})`}
+                strokeWidth={1.5}
+                dot={false}
+              />
+            </AreaChart>
+          </ResponsiveContainer>
         </div>
       </div>
 
-      {/* Current score + badge */}
-      <div className="flex items-center gap-2">
-        <span className="font-data text-sm font-bold tabular-nums" style={{ color: riskColor[data.riskLevel] }}>
-          {formatScore(data.currentScore)}
-        </span>
-        <span
-          className="rounded px-1.5 py-px font-data text-[10px] font-semibold"
-          style={{ backgroundColor: riskMutedColor[data.riskLevel], color: riskColor[data.riskLevel] }}
+      {/* Expanded chart panel */}
+      {expanded && (
+        <div
+          className="px-4 pb-4 pt-1"
+          style={{ backgroundColor: "var(--sentinel-bg-elevated)" }}
         >
-          {data.riskLevel}
-        </span>
-      </div>
-
-      {/* 30d */}
-      <span className="font-data text-sm tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
-        {formatScore(data.forecast30)}
-      </span>
-
-      {/* 60d */}
-      <span className="font-data text-sm tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
-        {formatScore(data.forecast60)}
-      </span>
-
-      {/* 90d */}
-      <span className="font-data text-sm font-bold tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
-        {formatScore(data.forecast90)}
-      </span>
-
-      {/* Delta */}
-      <div className="flex items-center gap-1">
-        <span style={{ color: trendColor[data.trend], fontSize: 12 }}>
-          {trendIcon[data.trend]}
-        </span>
-        <span
-          className="font-data text-sm font-semibold tabular-nums"
-          style={{ color: delta > 0 ? "var(--risk-critical)" : delta < 0 ? "var(--risk-low)" : "var(--sentinel-text-tertiary)" }}
-        >
-          {delta > 0 ? "+" : ""}{delta}
-        </span>
-      </div>
-
-      {/* Sparkline */}
-      <div className="h-8">
-        <ResponsiveContainer width="100%" height="100%">
-          <AreaChart data={data.forecastPoints}>
-            <defs>
-              <linearGradient id={`row-${data.code3}`} x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stopColor={riskColor[data.riskLevel]} stopOpacity={0.2} />
-                <stop offset="100%" stopColor={riskColor[data.riskLevel]} stopOpacity={0} />
-              </linearGradient>
-            </defs>
-            <YAxis hide domain={["dataMin - 3", "dataMax + 3"]} />
-            <Area
-              type="monotone"
-              dataKey="score"
-              stroke={riskColor[data.riskLevel]}
-              fill={`url(#row-${data.code3})`}
-              strokeWidth={1.5}
-              dot={false}
-            />
-          </AreaChart>
-        </ResponsiveContainer>
-      </div>
+          <div className="h-40">
+            <ResponsiveContainer width="100%" height="100%">
+              <AreaChart data={data.forecastPoints}>
+                <defs>
+                  <linearGradient id={`exp-${data.code3}`} x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stopColor={riskColor[data.riskLevel]} stopOpacity={0.25} />
+                    <stop offset="100%" stopColor={riskColor[data.riskLevel]} stopOpacity={0} />
+                  </linearGradient>
+                </defs>
+                <XAxis
+                  dataKey="day"
+                  tick={{ fontSize: 10, fill: "var(--sentinel-text-tertiary)" }}
+                  axisLine={false}
+                  tickLine={false}
+                  tickFormatter={(d: number) => `${d}d`}
+                />
+                <YAxis hide domain={["dataMin - 5", "dataMax + 5"]} />
+                <ReferenceLine y={data.currentScore} stroke="var(--sentinel-border)" strokeDasharray="3 3" />
+                <Tooltip
+                  contentStyle={{
+                    backgroundColor: "var(--sentinel-bg-elevated)",
+                    border: "1px solid var(--sentinel-border)",
+                    borderRadius: 6,
+                    fontSize: 12,
+                  }}
+                  labelFormatter={(d: number) => `Day ${d}`}
+                  formatter={(v: number) => [formatScore(v), "Score"]}
+                />
+                <Area
+                  type="monotone"
+                  dataKey="score"
+                  stroke={riskColor[data.riskLevel]}
+                  fill={`url(#exp-${data.code3})`}
+                  strokeWidth={2}
+                  dot={{ r: 3, fill: riskColor[data.riskLevel], stroke: "var(--sentinel-bg-surface)", strokeWidth: 1.5 }}
+                  activeDot={{ r: 5 }}
+                />
+              </AreaChart>
+            </ResponsiveContainer>
+          </div>
+          <div className="grid grid-cols-3 gap-2 mt-2">
+            <ForecastMini label="30d" value={data.forecast30} current={data.currentScore} riskLevel={data.riskLevel} />
+            <ForecastMini label="60d" value={data.forecast60} current={data.currentScore} riskLevel={data.riskLevel} />
+            <ForecastMini label="90d" value={data.forecast90} current={data.currentScore} riskLevel={data.riskLevel} />
+          </div>
+        </div>
+      )}
     </div>
   )
 }

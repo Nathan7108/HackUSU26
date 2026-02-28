@@ -1,4 +1,4 @@
-import { facilities, tradeRoutes } from "@/data"
+import { facilities, tradeRoutes, companyProfile } from "@/data"
 import type { DashboardSummary } from "@/types"
 
 // ── Context Serializer ─────────────────────────────────────────
@@ -66,14 +66,35 @@ ${tradeRoutes.map((r) => `- ${r.id}: ${r.from.name} (${r.from.location}) → ${r
 - Trend: ${sel.trend} (${sel.trendDelta > 0 ? "+" : ""}${sel.trendDelta})
 - Anomaly: ${sel.isAnomaly ? `YES — ${sel.anomalyDriver}` : "No"}
 - Brief: ${sel.brief}
-- Causal Chain: ${sel.causalChain.join(" → ")}
+- Causal Chain: ${sel.causalChain.map((s) => s.event).join(" → ")}
 - Recommendations: ${sel.recommendations?.map((r) => `${r.priority}: ${r.action} (ROI ${r.roi}x)`).join("; ") ?? "None"}
 - Exposure: ${sel.exposure ? `$${sel.exposure.totalExposure}M — ${sel.exposure.description}` : "No direct Cascade exposure"}
 - Headlines: ${sel.headlines.map((h) => `[${h.sentiment}] ${h.text} (${h.source})`).join("; ")}`)
     }
   }
 
-  // 8. ML model info
+  // 8. Company profile
+  sections.push(`## CASCADE PRECISION — COMPANY PROFILE
+- Name: ${companyProfile.name} (${companyProfile.ticker})
+- CEO: ${companyProfile.ceo} | Founded: ${companyProfile.founded}
+- HQ: ${companyProfile.hq}
+- Revenue: ${companyProfile.revenue} | Employees: ${companyProfile.employees}
+- Sector: ${companyProfile.sector}
+- Customers: ${companyProfile.customers.join(", ")}
+- Description: ${companyProfile.description}
+- Supply Chain Exposure: ${companyProfile.supplyChainExposure.total} (${companyProfile.supplyChainExposure.percentOfRevenue}% of revenue) through ${companyProfile.supplyChainExposure.chokepoints} chokepoints
+- ${companyProfile.supplyChainExposure.summary}
+
+### Historical Losses ($70M total)
+${companyProfile.historicalLosses.map((l) => `- ${l.event} (${l.year}): ${l.amount} — ${l.description}`).join("\n")}
+
+### Key Risk Hotspots
+${companyProfile.keyRisks.map((r) => `- ${r.hotspot}: ${r.exposure} — ${r.basis}`).join("\n")}
+
+### Sentinel Recommendations
+${companyProfile.recommendations.map((cat) => `**${cat.category}:**\n${cat.actions.map((a) => `  - ${a}`).join("\n")}`).join("\n")}`)
+
+  // 9. ML model info
   sections.push(`## PLATFORM SPECS
 - 4 ML models: XGBoost Risk Scorer (47 features), LSTM Forecaster (30/60/90 day), Isolation Forest Anomaly Detector, FinBERT Sentiment
 - 107 data sources across 12 intelligence domains
@@ -86,19 +107,18 @@ ${tradeRoutes.map((r) => `- ${r.id}: ${r.from.name} (${r.from.location}) → ${r
 
 // ── System Prompt ──────────────────────────────────────────────
 
-const SYSTEM_PROMPT = `You are Sentinel AI, an elite geopolitical intelligence analyst built into a real-time crisis prediction platform. You have access to LIVE data from 107 sources across 12 intelligence domains, processed by 4 ML models (XGBoost, LSTM, Isolation Forest, FinBERT).
+const SYSTEM_PROMPT = `You are Sentinel AI, an elite geopolitical intelligence analyst embedded in a real-time crisis prediction platform. You process LIVE data from 107 sources across 12 intelligence domains through 4 ML models (XGBoost risk scoring, LSTM forecasting, Isolation Forest anomaly detection, FinBERT sentiment analysis).
 
-Your customer is Cascade Precision Industries, a $3.8B aerospace manufacturer. Your job is to provide sharp, actionable intelligence about geopolitical risks and their supply chain impact.
+Your client is Cascade Precision Industries (CSPI) — a $3.8B Tier 2 aerospace manufacturer headquartered in Portland, OR. You know this company intimately: its facilities, supply chains, customers, historical losses, risk exposures, and improvement roadmap. You are their dedicated intelligence analyst.
 
-RULES:
-- Be concise and direct. Use the Bloomberg/Palantir analyst tone.
-- Always cite specific numbers from the live data below — risk scores, dollar exposures, anomaly drivers.
-- When discussing a country, reference its exact current score, trend, and any anomalies.
-- When discussing supply chain risk, reference specific facilities, trade routes, and chokepoints.
-- Format with **bold** for key metrics and use bullet points for clarity.
-- If the user asks about something not in the data, say so honestly.
-- Never make up data. Only reference what's in the live context below.
-- Keep responses under 200 words unless the user asks for a deep dive.
+RESPONSE STYLE:
+- **Tone**: Senior intelligence analyst briefing a C-suite executive. Confident, precise, no filler.
+- **Structure**: Use **bold** for key metrics, dollar amounts, and risk levels. Use bullet points for lists. Use section headers for longer answers.
+- **Data**: Always cite exact numbers — risk scores, dollar exposures, trends, timestamps. Never approximate when you have the precise figure.
+- **Company questions**: When asked about CSPI (revenue, customers, facilities, losses, exposure, recommendations), answer with rich detail from the company profile. Reference specific facilities by name and location, cite exact historical loss amounts, and connect risks to specific business operations.
+- **Actionable**: End threat assessments with a concrete recommendation when relevant — include cost-to-act vs cost-of-inaction when available.
+- **Honesty**: If something isn't in the data, say so. Never fabricate.
+- **Length**: Default to concise (150-250 words). Go deeper when the user asks for a deep dive, breakdown, or detailed analysis.
 
 LIVE DASHBOARD DATA:
 `

@@ -1,9 +1,9 @@
-import { useEffect, useState, useRef, useCallback } from "react"
+import { useEffect, useState, useRef } from "react"
 import { AnimatePresence, motion } from "motion/react"
-import { Sparkles, ArrowUp, Loader2, RotateCcw } from "lucide-react"
+import { Sparkles, ArrowUp, Loader2, RotateCcw, PanelRight } from "lucide-react"
 import { useAppStore } from "@/stores/app"
-import { useDashboard } from "@/hooks/use-dashboard"
-import { serializeContext, streamChat, type ChatMessage } from "@/lib/sentinel-ai"
+import { RenderMarkdown } from "@/components/sentinel/RenderMarkdown"
+import { useChatStream } from "@/hooks/use-chat-stream"
 
 const examplePrompts = [
   "Brief me on all active threats",
@@ -16,18 +16,17 @@ export function SentinelSearchBar() {
   const {
     isCommandOpen,
     setCommandOpen,
-    selectedCountryCode,
+    setChatPanelOpen,
     chatMessages,
-    setChatMessages,
     clearChat,
+    isStreaming,
+    streamingText,
   } = useAppStore()
-  const { dashboard } = useDashboard()
+  const { submitMessage } = useChatStream()
   const [query, setQuery] = useState("")
-  const [isStreaming, setIsStreaming] = useState(false)
-  const [streamingText, setStreamingText] = useState("")
   const [placeholderIdx, setPlaceholderIdx] = useState(0)
   const inputRef = useRef<HTMLTextAreaElement>(null)
-  const messagesEndRef = useRef<HTMLDivElement>(null)
+  const scrollRef = useRef<HTMLDivElement>(null)
   const wrapperRef = useRef<HTMLDivElement>(null)
 
   // Rotate placeholder
@@ -73,9 +72,15 @@ export function SentinelSearchBar() {
     }
   }, [isCommandOpen])
 
-  // Scroll to bottom on new messages
+  // Scroll to bottom — instant during streaming, smooth on new complete messages
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
+    const el = scrollRef.current
+    if (!el) return
+    // Only auto-scroll if user is near the bottom (within 80px)
+    const nearBottom = el.scrollHeight - el.scrollTop - el.clientHeight < 80
+    if (nearBottom) {
+      el.scrollTop = el.scrollHeight
+    }
   }, [chatMessages, streamingText])
 
   // Auto-resize textarea
@@ -86,46 +91,12 @@ export function SentinelSearchBar() {
     }
   }, [query])
 
-  const handleSubmit = useCallback(
-    (text?: string) => {
-      const input = text ?? query
-      if (!input.trim() || isStreaming) return
-
-      setChatMessages((prev) => [...prev, { role: "user", content: input }])
-      setQuery("")
-      setIsStreaming(true)
-      setStreamingText("")
-
-      const history: ChatMessage[] = [
-        ...chatMessages.map((m) => ({ role: m.role as "user" | "assistant", content: m.content })),
-        { role: "user" as const, content: input },
-      ]
-
-      const context = serializeContext(dashboard, selectedCountryCode)
-      let accumulated = ""
-
-      streamChat(
-        history,
-        context,
-        (chunk) => {
-          accumulated += chunk
-          setStreamingText(accumulated)
-        },
-        () => {
-          setChatMessages((prev) => [...prev, { role: "assistant", content: accumulated }])
-          setStreamingText("")
-          setIsStreaming(false)
-        },
-        (err) => {
-          console.error("Sentinel AI error:", err)
-          setChatMessages((prev) => [...prev, { role: "assistant", content: `Error: ${err.message}` }])
-          setStreamingText("")
-          setIsStreaming(false)
-        },
-      )
-    },
-    [query, chatMessages, isStreaming, dashboard, selectedCountryCode, setChatMessages],
-  )
+  const handleSubmit = (text?: string) => {
+    const input = text ?? query
+    if (!input.trim()) return
+    setQuery("")
+    submitMessage(input)
+  }
 
   const hasMessages = chatMessages.length > 0 || !!streamingText
 
@@ -205,7 +176,7 @@ export function SentinelSearchBar() {
 
             {/* ── Messages ── */}
             {hasMessages && (
-              <div className="flex-1 overflow-y-auto px-4 py-3" style={{ maxHeight: 340 }}>
+              <div ref={scrollRef} className="flex-1 overflow-y-auto px-4 py-3" style={{ maxHeight: 340 }}>
                 {chatMessages.map((msg, i) => (
                   <div key={i} className="mb-3">
                     {msg.role === "user" ? (
@@ -260,7 +231,6 @@ export function SentinelSearchBar() {
                   </div>
                 )}
 
-                <div ref={messagesEndRef} />
               </div>
             )}
 
@@ -310,22 +280,33 @@ export function SentinelSearchBar() {
                 style={{ borderTop: "1px solid var(--sentinel-border-subtle)" }}
               >
                 <button
-                  onClick={() => {
-                    clearChat()
-                    setStreamingText("")
-                  }}
+                  onClick={clearChat}
                   className="flex items-center gap-1.5 text-[11px] transition-opacity hover:opacity-80"
                   style={{ color: "var(--sentinel-text-tertiary)" }}
                 >
                   <RotateCcw size={10} />
                   New conversation
                 </button>
-                <span
-                  className="font-data text-[10px]"
-                  style={{ color: "var(--sentinel-text-tertiary)", opacity: 0.4 }}
-                >
-                  esc to close
-                </span>
+                <div className="flex items-center gap-3">
+                  <button
+                    onClick={() => {
+                      setCommandOpen(false)
+                      setChatPanelOpen(true)
+                    }}
+                    className="flex items-center gap-1.5 text-[11px] transition-opacity hover:opacity-80"
+                    style={{ color: "var(--sentinel-text-tertiary)" }}
+                    title="Expand to side panel"
+                  >
+                    <PanelRight size={10} />
+                    Expand
+                  </button>
+                  <span
+                    className="font-data text-[10px]"
+                    style={{ color: "var(--sentinel-text-tertiary)", opacity: 0.4 }}
+                  >
+                    esc to close
+                  </span>
+                </div>
               </div>
             )}
           </motion.div>
@@ -335,30 +316,3 @@ export function SentinelSearchBar() {
   )
 }
 
-// ── Markdown ────────────────────────────────────────────────────
-
-function RenderMarkdown({ text }: { text: string }) {
-  return (
-    <>
-      {text.split("\n").map((line, j) => (
-        <div key={j} className={line === "" ? "h-2" : ""}>
-          {line
-            .replace(/\*\*(.*?)\*\*/g, "«$1»")
-            .split("«")
-            .map((part, k) => {
-              if (part.includes("»")) {
-                const [bold, rest] = part.split("»")
-                return (
-                  <span key={k}>
-                    <strong style={{ color: "var(--sentinel-text-primary)" }}>{bold}</strong>
-                    {rest}
-                  </span>
-                )
-              }
-              return <span key={k}>{part}</span>
-            })}
-        </div>
-      ))}
-    </>
-  )
-}

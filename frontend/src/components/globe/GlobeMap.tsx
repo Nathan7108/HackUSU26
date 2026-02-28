@@ -563,7 +563,7 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
   }, [ready, apiCountries])
 
   useEffect(() => {
-    const m = map.current; if (!m || !selectedCountryCode) return
+    const m = map.current; if (!m || !ready || !selectedCountryCode) return
     ;(m as any)._stopSpin?.()
     const coords = resolveCoords(selectedCountryCode, apiCountries)
     if (!coords) return
@@ -573,7 +573,7 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
     } else {
       m.flyTo({ center: coords, zoom, duration: 1500, essential: true })
     }
-  }, [selectedCountryCode, apiCountries, isDemoMode])
+  }, [selectedCountryCode, apiCountries, isDemoMode, ready])
 
   // Layer visibility toggle
   useEffect(() => {

@@ -22,12 +22,17 @@ export interface Country {
   lat: number
   lng: number
   brief: string
-  causalChain: string[]
+  causalChain: CausalStep[]
   riskDrivers: RiskDriver[]
   forecast: ForecastPoint[]
   headlines: Headline[]
   exposure?: ExposureData
   recommendations?: Recommendation[]
+}
+
+export interface CausalStep {
+  event: string
+  probability: number
 }
 
 export interface RiskDriver {

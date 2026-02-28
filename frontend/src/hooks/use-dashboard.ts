@@ -298,7 +298,7 @@ export function useAnalysis(countryCode3: string | null) {
         confidence: data.mlMetadata.confidence,
         isAnomaly: data.mlMetadata.anomalyDetected,
         brief: data.summary,
-        causalChain: data.causalChain.map((s) => s.event),
+        causalChain: data.causalChain.map((s) => ({ event: s.event, probability: s.probability })),
         riskDrivers: data.mlMetadata.topDrivers.slice(0, 5).map((d, i) => ({
           feature: d,
           importance: Math.max(0.05, 0.35 - i * 0.06),
