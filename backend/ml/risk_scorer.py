@@ -529,7 +529,8 @@ def predict_risk(features: dict) -> dict:
     ))
 
     # Blend: 50% XGBoost, 50% heuristic — balanced between ML and feature-grounded scoring
-    risk_score = max(0, min(100, int(round(xgb_score * 0.50 + heuristic * 0.50))))
+    risk_score_raw = max(0.0, min(100.0, xgb_score * 0.50 + heuristic * 0.50))
+    risk_score = max(0, min(100, int(round(risk_score_raw))))
 
     # Level derived from score — ALWAYS consistent
     risk_level = level_from_score(risk_score)
@@ -569,6 +570,7 @@ def predict_risk(features: dict) -> dict:
     return {
         "risk_level": risk_level,
         "risk_score": risk_score,
+        "risk_score_raw": round(risk_score_raw, 4),
         "confidence": round(confidence, 3),
         "probabilities": proba_dict,
         "top_drivers": top_drivers,

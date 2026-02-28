@@ -2,7 +2,7 @@ import type { Vessel } from "@/types"
 
 /* ─── Voyage durations (days) per route ───────────────────── */
 export const VOYAGE_DAYS: Record<string, number> = {
-  r1: 3, r2: 2, r3: 5, r4: 21, r5: 1, r6: 14, r7: 1, r8: 18, r9: 12,
+  r1: 3, r2: 2, r3: 5, r4: 21, r5: 1, r6: 14, r7: 1, r8: 18, r9: 12, r10: 33,
 }
 
 /* ─── Chokepoints for proximity detection ─────────────────── */
@@ -13,6 +13,8 @@ const CHOKEPOINT_ZONES = [
   { name: "SUEZ CANAL", lng: 32.3, lat: 30.5 },
   { name: "STRAIT OF HORMUZ", lng: 56.3, lat: 26.5 },
   { name: "SOUTH CHINA SEA", lng: 115.0, lat: 14.5 },
+  { name: "CAPE OF GOOD HOPE", lng: 18.5, lat: -34.4 },
+  { name: "STRAIT OF GIBRALTAR", lng: -5.6, lat: 36.0 },
 ]
 
 const CHOKEPOINT_RADIUS_DEG = 3.0
@@ -137,7 +139,7 @@ export function vesselTypeLabel(type: string): string {
 export const ROUTE_RISK: Record<string, string> = {
   r1: "#f97316", r2: "#eab308", r3: "#eab308",
   r4: "#f97316", r5: "#22c55e", r6: "#22c55e",
-  r7: "#22c55e", r8: "#eab308", r9: "#22c55e",
+  r7: "#22c55e", r8: "#eab308", r9: "#22c55e", r10: "#22c55e",
 }
 
 /* ─── Route chokepoint names (ordered by position on route) ── */
@@ -151,6 +153,7 @@ const ROUTE_CHOKEPOINTS: Record<string, string[]> = {
   r7: [],
   r8: [],
   r9: [],
+  r10: ["Cape of Good Hope"],
 }
 
 /* ─── Location-aware vessel brief ────────────────────────── */

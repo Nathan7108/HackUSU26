@@ -113,4 +113,21 @@ export const VESSELS: Vessel[] = [
     cargo: "Landing Gear Assemblies", cargoValue: 112, insurancePremium: 5.6,
     departurePort: "Toulouse", arrivalPort: "Portland", progressOffset: 0.68, speed: 1.0,
   },
+
+  // ── r10: Singapore → Cape of Good Hope → Rotterdam (rerouted) ────
+  {
+    id: "v10a", name: "MV Cape Sentinel", type: "container", routeId: "r10",
+    cargo: "Rerouted Avionics Modules", cargoValue: 180, insurancePremium: 5.4,
+    departurePort: "Singapore", arrivalPort: "Rotterdam", progressOffset: 0.15, speed: 1.0,
+  },
+  {
+    id: "v10b", name: "MV Southern Cross", type: "bulk-carrier", routeId: "r10",
+    cargo: "Titanium Alloy Ingots", cargoValue: 95, insurancePremium: 2.9,
+    departurePort: "Singapore", arrivalPort: "Rotterdam", progressOffset: 0.52, speed: 1.0,
+  },
+  {
+    id: "v10c", name: "MV Good Hope Express", type: "container", routeId: "r10",
+    cargo: "Electronic Warfare Subsystems", cargoValue: 105, insurancePremium: 3.2,
+    departurePort: "Singapore", arrivalPort: "Rotterdam", progressOffset: 0.78, speed: 1.0,
+  },
 ]

@@ -9,7 +9,7 @@ export const facilities: Facility[] = [
     lng: -122.68,
     type: "hq",
     function: "Titanium casting, final assembly",
-    annualValue: 1400,
+    annualValue: 1520,
   },
   {
     id: "toulouse",
@@ -49,7 +49,7 @@ export const facilities: Facility[] = [
     lng: 109.84,
     type: "processing",
     function: "Yttrium/scandium coatings feedstock",
-    annualValue: 420,
+    annualValue: 280,
   },
   {
     id: "nagoya",
