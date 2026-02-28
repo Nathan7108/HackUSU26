@@ -2,6 +2,8 @@ import { create } from "zustand"
 import { persist } from "zustand/middleware"
 import type { Theme } from "@/types"
 
+const THEME_ORDER: Theme[] = ["light", "dark", "midnight"]
+
 interface ThemeStore {
   theme: Theme
   setTheme: (theme: Theme) => void
@@ -17,7 +19,9 @@ export const useThemeStore = create<ThemeStore>()(
         applyTheme(theme)
       },
       toggleTheme: () => {
-        const next = get().theme === "dark" ? "light" : "dark"
+        const current = get().theme
+        const idx = THEME_ORDER.indexOf(current)
+        const next = THEME_ORDER[(idx + 1) % THEME_ORDER.length]
         set({ theme: next })
         applyTheme(next)
       },
@@ -28,10 +32,11 @@ export const useThemeStore = create<ThemeStore>()(
 
 function applyTheme(theme: Theme) {
   const root = document.documentElement
+  root.classList.remove("dark", "midnight")
   if (theme === "dark") {
     root.classList.add("dark")
-  } else {
-    root.classList.remove("dark")
+  } else if (theme === "midnight") {
+    root.classList.add("midnight")
   }
 }
 

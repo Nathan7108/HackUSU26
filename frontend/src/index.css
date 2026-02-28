@@ -2,7 +2,7 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 
-@custom-variant dark (&:is(.dark *));
+@custom-variant dark (&:is(.dark *, .midnight *));
 
 /* ============================================
    SENTINEL AI — Design System
@@ -85,13 +85,75 @@
 
 /* ============================================
    DARK THEME
-   Navy-charcoal with subtle blue tint.
-   NOT pure black. Depth through layered surfaces.
+   Blue-slate palette built from #404D68.
+   Not too dark — readable, modern, Palantir feel.
    ============================================ */
 .dark {
   color-scheme: dark;
 
-  /* Sentinel tokens */
+  /* Sentinel tokens — blue-slate elevation scale */
+  --sentinel-bg-base: #36425A;
+  --sentinel-bg-surface: #3E4C66;
+  --sentinel-bg-elevated: #485874;
+  --sentinel-bg-overlay: #526382;
+  --sentinel-bg-muted: #303B51;
+  --sentinel-border: #566585;
+  --sentinel-border-subtle: #485874;
+  --sentinel-border-strong: #7080A0;
+  --sentinel-text-primary: #EBF0F7;
+  --sentinel-text-secondary: #A8B8D0;
+  --sentinel-text-tertiary: #7888A5;
+  --sentinel-text-inverse: #1a2030;
+  --sentinel-accent: #5B9CF6;
+  --sentinel-accent-hover: #7BB4F8;
+  --sentinel-accent-muted: rgba(91, 156, 246, 0.18);
+
+  /* shadcn overrides — mapped to blue-slate palette */
+  --background: #36425A;
+  --foreground: #EBF0F7;
+  --card: #3E4C66;
+  --card-foreground: #EBF0F7;
+  --popover: #485874;
+  --popover-foreground: #EBF0F7;
+  --primary: #5B9CF6;
+  --primary-foreground: #1a2030;
+  --secondary: #485874;
+  --secondary-foreground: #EBF0F7;
+  --muted: #485874;
+  --muted-foreground: #A8B8D0;
+  --accent: #485874;
+  --accent-foreground: #EBF0F7;
+  --destructive: #ef4444;
+  --border: #566585;
+  --input: #566585;
+  --ring: #5B9CF6;
+  --chart-1: #5B9CF6;
+  --chart-2: #22c55e;
+  --chart-3: #eab308;
+  --chart-4: #f97316;
+  --chart-5: #ef4444;
+  --sidebar: #303B51;
+  --sidebar-foreground: #EBF0F7;
+  --sidebar-primary: #5B9CF6;
+  --sidebar-primary-foreground: #EBF0F7;
+  --sidebar-accent: #485874;
+  --sidebar-accent-foreground: #EBF0F7;
+  --sidebar-border: #485874;
+  --sidebar-ring: #5B9CF6;
+
+  /* Scrollbar */
+  --sentinel-scrollbar-track: transparent;
+  --sentinel-scrollbar-thumb: #566585;
+  --sentinel-scrollbar-thumb-hover: #7080A0;
+}
+
+/* ============================================
+   MIDNIGHT THEME
+   Original navy-charcoal. Deep, cinematic dark.
+   ============================================ */
+.midnight {
+  color-scheme: dark;
+
   --sentinel-bg-base: #0f1419;
   --sentinel-bg-surface: #151b23;
   --sentinel-bg-elevated: #1c2430;
@@ -108,7 +170,6 @@
   --sentinel-accent-hover: #60a5fa;
   --sentinel-accent-muted: rgba(59, 130, 246, 0.15);
 
-  /* shadcn overrides — mapped to Sentinel dark palette */
   --background: #0f1419;
   --foreground: #e2e8f0;
   --card: #151b23;
@@ -141,14 +202,13 @@
   --sidebar-border: #1e293b;
   --sidebar-ring: #3b82f6;
 
-  /* Scrollbar */
   --sentinel-scrollbar-track: transparent;
   --sentinel-scrollbar-thumb: #2d3748;
   --sentinel-scrollbar-thumb-hover: #475569;
 }
 
 /* ============================================
-   RISK COLORS — Same in both themes
+   RISK COLORS — Same in all themes
    ============================================ */
 :root {
   --risk-critical: #ef4444;
@@ -249,8 +309,14 @@ html, body, #root {
 /* ============================================
    MAPBOX OVERRIDES
    ============================================ */
-.mapboxgl-canvas { outline: none; }
+.mapboxgl-canvas { outline: none; width: 100% !important; height: 100% !important; }
 .mapboxgl-ctrl-logo, .mapboxgl-ctrl-attrib { display: none !important; }
+
+/* GPU-accelerate all markers so they stick to the globe during rotation */
+.mapboxgl-marker {
+  will-change: transform;
+  backface-visibility: hidden;
+}
 
 /* Sentinel popup theme */
 .sentinel-popup .mapboxgl-popup-content {
@@ -345,6 +411,39 @@ html, body, #root {
   text-transform: uppercase;
   white-space: nowrap;
   opacity: 0.8;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.9), 0 0 2px rgba(0, 0, 0, 0.8);
+}
+
+/* Vessel HTML markers */
+.sentinel-vessel-marker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  pointer-events: auto;
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.5));
+  transition: transform 0.15s ease;
+}
+.sentinel-vessel-marker:hover { transform: scale(1.15); }
+.svm-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1.5px solid;
+  backdrop-filter: blur(4px);
+}
+.svm-icon svg { display: block; }
+.svm-label {
+  margin-top: 2px;
+  font-family: 'JetBrains Mono', 'SF Mono', ui-monospace, monospace;
+  font-size: 7px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
   text-shadow: 0 1px 4px rgba(0, 0, 0, 0.9), 0 0 2px rgba(0, 0, 0, 0.8);
 }
 

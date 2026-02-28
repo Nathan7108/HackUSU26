@@ -1,5 +1,9 @@
 import type { Alert } from "@/types"
 
+function ago(minutes: number): string {
+  return new Date(Date.now() - minutes * 60_000).toISOString()
+}
+
 export const alerts: Alert[] = [
   {
     id: "a1",
@@ -9,7 +13,7 @@ export const alerts: Alert[] = [
     countryName: "China",
     title: "Rare earth export anomaly detected",
     description: "Yttrium prices surged 60%. Isolation Forest flagged rare_earth_export_controls with anomaly score 0.89.",
-    timestamp: "2026-02-26T09:15:00Z",
+    timestamp: ago(3),
   },
   {
     id: "a2",
@@ -19,7 +23,7 @@ export const alerts: Alert[] = [
     countryName: "Ukraine",
     title: "Ukraine risk score spike +4.2",
     description: "340% increase in GDELT conflict-coded events. 47 new ACLED battle events in Donetsk.",
-    timestamp: "2026-02-27T14:32:00Z",
+    timestamp: ago(8),
   },
   {
     id: "a3",
@@ -29,7 +33,7 @@ export const alerts: Alert[] = [
     countryName: "Iran",
     title: "Iran escalated to CRITICAL",
     description: "IAEA confirms 83.7% enrichment. EU sanctions triggered 12% Rial devaluation.",
-    timestamp: "2026-02-27T12:18:00Z",
+    timestamp: ago(14),
   },
   {
     id: "a4",
@@ -39,7 +43,7 @@ export const alerts: Alert[] = [
     countryName: "Taiwan",
     title: "Taiwan 60-day forecast: ELEVATED → HIGH",
     description: "LSTM projects score reaching 78 within 60 days. PLA exercises and $1.8B arms sale driving escalation.",
-    timestamp: "2026-02-27T08:00:00Z",
+    timestamp: ago(22),
   },
   {
     id: "a5",
@@ -49,7 +53,7 @@ export const alerts: Alert[] = [
     countryName: "Yemen",
     title: "Shipping attack frequency anomaly",
     description: "23 attacks on commercial vessels in 30 days. Insurance premiums up 400%. $1.1B Cascade cargo at risk.",
-    timestamp: "2026-02-27T06:45:00Z",
+    timestamp: ago(31),
   },
   {
     id: "a6",
@@ -59,7 +63,7 @@ export const alerts: Alert[] = [
     countryName: "China",
     title: "China risk score +3.1 in 24h",
     description: "Rare earth export controls tightening. Two US manufacturers paused production.",
-    timestamp: "2026-02-26T16:30:00Z",
+    timestamp: ago(45),
   },
   {
     id: "a7",
@@ -69,7 +73,7 @@ export const alerts: Alert[] = [
     countryName: "Philippines",
     title: "Philippines risk score +1.9",
     description: "15 China coast guard harassment incidents in 30 days. SCS transit risk rising for Hsinchu→Nagoya route.",
-    timestamp: "2026-02-27T10:20:00Z",
+    timestamp: ago(52),
   },
   {
     id: "a8",
@@ -79,6 +83,6 @@ export const alerts: Alert[] = [
     countryName: "Iran",
     title: "Sanctions pressure anomaly flagged",
     description: "Isolation Forest detected anomalous sanctions_pressure_idx with z-score 3.2. Strait of Hormuz risk elevated.",
-    timestamp: "2026-02-27T11:45:00Z",
+    timestamp: ago(67),
   },
 ]

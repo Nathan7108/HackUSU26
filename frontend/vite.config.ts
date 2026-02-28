@@ -11,4 +11,31 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  server: {
+    proxy: {
+      "/api": {
+        target: "http://localhost:8000",
+        changeOrigin: true,
+        secure: false,
+      },
+      "/health": {
+        target: "http://localhost:8000",
+        changeOrigin: true,
+        secure: false,
+      },
+    },
+  },
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          'mapbox': ['mapbox-gl'],
+          'deckgl': ['@deck.gl/core', '@deck.gl/layers', '@deck.gl/mapbox'],
+          'recharts': ['recharts'],
+          'motion': ['motion/react'],
+          'radix': ['radix-ui'],
+        },
+      },
+    },
+  },
 })

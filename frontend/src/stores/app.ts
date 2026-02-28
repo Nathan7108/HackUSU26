@@ -1,6 +1,11 @@
 import { create } from "zustand"
 import type { Country } from "@/types"
 
+export interface ChatMessage {
+  role: "user" | "assistant"
+  content: string
+}
+
 interface AppStore {
   // Selected country (drives globe + intel panel)
   selectedCountryCode: string | null
@@ -21,6 +26,11 @@ interface AppStore {
   // Command palette (AI chat)
   isCommandOpen: boolean
   setCommandOpen: (open: boolean) => void
+
+  // Chat messages (persist across open/close)
+  chatMessages: ChatMessage[]
+  setChatMessages: (msgs: ChatMessage[] | ((prev: ChatMessage[]) => ChatMessage[])) => void
+  clearChat: () => void
 }
 
 export const useAppStore = create<AppStore>()((set, get) => ({
@@ -28,7 +38,6 @@ export const useAppStore = create<AppStore>()((set, get) => ({
   selectCountry: (code) => {
     const current = get().selectedCountryCode
     if (code === current) {
-      // Toggle off
       set({ selectedCountryCode: null, isIntelPanelOpen: false })
     } else {
       set({ selectedCountryCode: code, isIntelPanelOpen: code !== null })
@@ -47,4 +56,11 @@ export const useAppStore = create<AppStore>()((set, get) => ({
 
   isCommandOpen: false,
   setCommandOpen: (open) => set({ isCommandOpen: open }),
+
+  chatMessages: [],
+  setChatMessages: (msgs) =>
+    set((state) => ({
+      chatMessages: typeof msgs === "function" ? msgs(state.chatMessages) : msgs,
+    })),
+  clearChat: () => set({ chatMessages: [] }),
 }))

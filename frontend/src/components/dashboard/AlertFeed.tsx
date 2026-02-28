@@ -1,3 +1,4 @@
+import { memo } from "react"
 import type { Alert } from "@/types"
 import { riskColor, riskMutedColor, timeAgo } from "@/lib/risk"
 import { AlertTriangle, TrendingUp, ArrowUpRight, Activity } from "lucide-react"
@@ -61,7 +62,7 @@ export function AlertFeed({ alerts }: AlertFeedProps) {
   )
 }
 
-function AlertRow({ alert }: { alert: Alert }) {
+const AlertRow = memo(function AlertRow({ alert }: { alert: Alert }) {
   const Icon = alertIcons[alert.type]
 
   return (
@@ -120,4 +121,4 @@ function AlertRow({ alert }: { alert: Alert }) {
       </div>
     </div>
   )
-}
+})

@@ -1,10 +1,11 @@
 import { useEffect, useRef } from "react"
 import { AnimatePresence, motion } from "motion/react"
 import NumberFlow from "@number-flow/react"
-import { X, TrendingUp, AlertTriangle, Factory, Route, ChevronRight, Loader2 } from "lucide-react"
+import { X, TrendingUp, AlertTriangle, Factory, Route, ChevronRight, Loader2, Zap, ArrowRight } from "lucide-react"
+import { useRouter } from "@tanstack/react-router"
 import { useAppStore } from "@/stores/app"
 import { getCountryByCode } from "@/data"
-import { useAnalysis, useDashboard } from "@/hooks/use-dashboard"
+import { useAnalysis, useForecast, useDashboard } from "@/hooks/use-dashboard"
 import { riskColor, riskMutedColor, trendIcon, trendColor, formatMoney } from "@/lib/risk"
 import type { Country, Recommendation } from "@/types"
 import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Area, AreaChart } from "recharts"
@@ -17,11 +18,16 @@ export function IntelPanel() {
     ? dashboard.countries.find((c) => c.code === selectedCountryCode) ?? null
     : null
   const { data: liveOverlay, isLoading: isAnalyzing } = useAnalysis(selectedCountryCode)
+  const { data: liveForecast } = useForecast(selectedCountryCode)
 
   // Merge: backend analysis overlays on top of mock data, fall back to dashboard country
   const baseCountry = mockCountry ?? dashboardCountry
   const country: Country | null = baseCountry
-    ? { ...baseCountry, ...liveOverlay }
+    ? {
+        ...baseCountry,
+        ...liveOverlay,
+        ...(liveForecast ? { forecast: liveForecast.forecast, trend: liveForecast.trend } : {}),
+      }
     : null
 
   if (!country) return null
@@ -154,51 +160,101 @@ export function IntelPanel() {
 
         {/* Brief */}
         <Section title="INTELLIGENCE SUMMARY">
-          <p
-            className="text-[11px] leading-relaxed"
-            style={{ color: "var(--sentinel-text-secondary)" }}
-          >
-            {country.brief}
-          </p>
+          {isAnalyzing && !liveOverlay ? (
+            <div className="flex flex-col gap-2">
+              <div className="flex items-center gap-2 mb-1">
+                <Loader2
+                  size={12}
+                  className="animate-spin"
+                  style={{ color: "var(--sentinel-accent)" }}
+                />
+                <span
+                  className="font-data text-[10px]"
+                  style={{ color: "var(--sentinel-text-tertiary)" }}
+                >
+                  Generating live intelligence brief...
+                </span>
+              </div>
+              <div className="flex flex-col gap-1.5">
+                {[100, 95, 80, 60].map((w) => (
+                  <div
+                    key={w}
+                    className="h-2.5 rounded animate-pulse"
+                    style={{
+                      width: `${w}%`,
+                      backgroundColor: "var(--sentinel-bg-overlay)",
+                    }}
+                  />
+                ))}
+              </div>
+            </div>
+          ) : (
+            <p
+              className="text-[11px] leading-relaxed"
+              style={{ color: "var(--sentinel-text-secondary)" }}
+            >
+              {country.brief}
+            </p>
+          )}
         </Section>
 
         {/* Causal Chain */}
         <Section title="CAUSAL CHAIN ANALYSIS">
-          <div className="flex flex-col gap-0">
-            {country.causalChain.map((step, i) => (
-              <motion.div
-                key={i}
-                initial={{ opacity: 0, x: -20 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: i * 0.08, duration: 0.3 }}
-                className="flex gap-2 py-1.5"
-              >
-                <div className="flex flex-col items-center">
-                  <span
-                    className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full font-data text-[9px] font-bold"
+          {isAnalyzing && !liveOverlay ? (
+            <div className="flex flex-col gap-2">
+              {[1, 2, 3, 4, 5].map((n) => (
+                <div key={n} className="flex gap-2 py-1.5">
+                  <div
+                    className="h-5 w-5 shrink-0 rounded-full animate-pulse"
+                    style={{ backgroundColor: "var(--sentinel-bg-overlay)" }}
+                  />
+                  <div
+                    className="h-3 flex-1 rounded animate-pulse"
                     style={{
-                      backgroundColor: riskMutedColor[country.riskLevel],
-                      color: riskColor[country.riskLevel],
+                      width: `${90 - n * 5}%`,
+                      backgroundColor: "var(--sentinel-bg-overlay)",
                     }}
-                  >
-                    {i + 1}
-                  </span>
-                  {i < country.causalChain.length - 1 && (
-                    <div
-                      className="flex-1 w-px my-0.5"
-                      style={{ backgroundColor: "var(--sentinel-border)" }}
-                    />
-                  )}
+                  />
                 </div>
-                <span
-                  className="text-[11px] leading-snug pt-0.5"
-                  style={{ color: "var(--sentinel-text-secondary)" }}
+              ))}
+            </div>
+          ) : (
+            <div className="flex flex-col gap-0">
+              {country.causalChain.map((step, i) => (
+                <motion.div
+                  key={i}
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: i * 0.08, duration: 0.3 }}
+                  className="flex gap-2 py-1.5"
                 >
-                  {step}
-                </span>
-              </motion.div>
-            ))}
-          </div>
+                  <div className="flex flex-col items-center">
+                    <span
+                      className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full font-data text-[9px] font-bold"
+                      style={{
+                        backgroundColor: riskMutedColor[country.riskLevel],
+                        color: riskColor[country.riskLevel],
+                      }}
+                    >
+                      {i + 1}
+                    </span>
+                    {i < country.causalChain.length - 1 && (
+                      <div
+                        className="flex-1 w-px my-0.5"
+                        style={{ backgroundColor: "var(--sentinel-border)" }}
+                      />
+                    )}
+                  </div>
+                  <span
+                    className="text-[11px] leading-snug pt-0.5"
+                    style={{ color: "var(--sentinel-text-secondary)" }}
+                  >
+                    {step}
+                  </span>
+                </motion.div>
+              ))}
+            </div>
+          )}
         </Section>
 
         {/* Forecast chart */}
@@ -272,43 +328,74 @@ export function IntelPanel() {
           </div>
         </Section>
 
-        {/* Headlines */}
+        {/* Headlines / Key Factors */}
         <Section title="LATEST INTELLIGENCE">
-          <div className="flex flex-col gap-1.5">
-            {country.headlines.map((headline, i) => (
-              <div
-                key={i}
-                className="flex gap-2 rounded-md px-2 py-1.5"
-                style={{ backgroundColor: "var(--sentinel-bg-elevated)" }}
-              >
-                <span
-                  className="h-1.5 w-1.5 mt-1.5 shrink-0 rounded-full"
-                  style={{
-                    backgroundColor:
-                      headline.sentiment === "negative"
-                        ? "var(--sentiment-negative)"
-                        : headline.sentiment === "positive"
-                          ? "var(--sentiment-positive)"
-                          : "var(--sentiment-neutral)",
-                  }}
-                />
-                <div className="flex flex-col gap-0.5">
-                  <span
-                    className="text-[11px] leading-snug"
-                    style={{ color: "var(--sentinel-text-primary)" }}
-                  >
-                    {headline.text}
-                  </span>
-                  <span
-                    className="font-data text-[9px]"
-                    style={{ color: "var(--sentinel-text-tertiary)" }}
-                  >
-                    {headline.source}
-                  </span>
+          {isAnalyzing && !liveOverlay ? (
+            <div className="flex flex-col gap-1.5">
+              {[1, 2, 3].map((n) => (
+                <div
+                  key={n}
+                  className="flex gap-2 rounded-md px-2 py-2.5"
+                  style={{ backgroundColor: "var(--sentinel-bg-elevated)" }}
+                >
+                  <div
+                    className="h-1.5 w-1.5 mt-1 shrink-0 rounded-full animate-pulse"
+                    style={{ backgroundColor: "var(--sentinel-bg-overlay)" }}
+                  />
+                  <div
+                    className="h-3 rounded animate-pulse"
+                    style={{
+                      width: `${95 - n * 10}%`,
+                      backgroundColor: "var(--sentinel-bg-overlay)",
+                    }}
+                  />
                 </div>
-              </div>
-            ))}
-          </div>
+              ))}
+            </div>
+          ) : country.headlines.length > 0 ? (
+            <div className="flex flex-col gap-1.5">
+              {country.headlines.map((headline, i) => (
+                <div
+                  key={i}
+                  className="flex gap-2 rounded-md px-2 py-1.5"
+                  style={{ backgroundColor: "var(--sentinel-bg-elevated)" }}
+                >
+                  <span
+                    className="h-1.5 w-1.5 mt-1.5 shrink-0 rounded-full"
+                    style={{
+                      backgroundColor:
+                        headline.sentiment === "negative"
+                          ? "var(--sentiment-negative)"
+                          : headline.sentiment === "positive"
+                            ? "var(--sentiment-positive)"
+                            : "var(--sentiment-neutral)",
+                    }}
+                  />
+                  <div className="flex flex-col gap-0.5">
+                    <span
+                      className="text-[11px] leading-snug"
+                      style={{ color: "var(--sentinel-text-primary)" }}
+                    >
+                      {headline.text}
+                    </span>
+                    <span
+                      className="font-data text-[9px]"
+                      style={{ color: "var(--sentinel-text-tertiary)" }}
+                    >
+                      {headline.source}
+                    </span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <span
+              className="text-[10px] italic"
+              style={{ color: "var(--sentinel-text-tertiary)" }}
+            >
+              No intelligence data available.
+            </span>
+          )}
         </Section>
 
         {/* Cascade Exposure */}
@@ -377,6 +464,9 @@ export function IntelPanel() {
             </div>
           </Section>
         )}
+
+        {/* Action Panel — navigate to /actions */}
+        <ActionPanel countryName={country.name} actionCount={country.recommendations?.length ?? 0} />
 
         {/* Bottom padding */}
         <div className="h-4 shrink-0" />
@@ -464,5 +554,53 @@ function RecommendationCard({ rec, index }: { rec: Recommendation; index: number
         </span>
       </div>
     </motion.div>
+  )
+}
+
+function ActionPanel({ countryName, actionCount }: { countryName: string; actionCount: number }) {
+  const router = useRouter()
+
+  return (
+    <div
+      className="border-t px-4 py-3"
+      style={{ borderColor: "var(--sentinel-border-subtle)" }}
+    >
+      <button
+        onClick={() => router.navigate({ to: "/actions" })}
+        className="flex w-full items-center gap-3 rounded-md border p-3 transition-colors"
+        style={{
+          backgroundColor: "var(--sentinel-accent-muted)",
+          borderColor: "var(--sentinel-accent)30",
+        }}
+        onMouseEnter={(e) => {
+          e.currentTarget.style.backgroundColor = "var(--sentinel-accent)18"
+        }}
+        onMouseLeave={(e) => {
+          e.currentTarget.style.backgroundColor = "var(--sentinel-accent-muted)"
+        }}
+      >
+        <div
+          className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md"
+          style={{ backgroundColor: "var(--sentinel-accent)20" }}
+        >
+          <Zap size={16} style={{ color: "var(--sentinel-accent)" }} />
+        </div>
+        <div className="flex flex-col items-start gap-0.5 flex-1">
+          <span
+            className="text-[11px] font-semibold"
+            style={{ color: "var(--sentinel-text-primary)" }}
+          >
+            View Full Mitigation Portfolio
+          </span>
+          <span
+            className="font-data text-[9px]"
+            style={{ color: "var(--sentinel-text-tertiary)" }}
+          >
+            {actionCount} actions for {countryName} — 14 total across all hotspots
+          </span>
+        </div>
+        <ArrowRight size={14} style={{ color: "var(--sentinel-accent)" }} />
+      </button>
+    </div>
   )
 }

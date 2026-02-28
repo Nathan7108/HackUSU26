@@ -4,9 +4,11 @@ import { AlertFeed } from "@/components/dashboard/AlertFeed"
 import { ExposureSummary } from "@/components/dashboard/ExposureSummary"
 import { NewsTicker } from "@/components/dashboard/NewsTicker"
 import { GlobeMap } from "@/components/globe/GlobeMap"
-import { IntelPanel } from "@/components/intel/IntelPanel"
+import { lazy, Suspense } from "react"
 import { useAppStore } from "@/stores/app"
 import { useDashboard } from "@/hooks/use-dashboard"
+
+const IntelPanel = lazy(() => import("@/components/intel/IntelPanel").then(m => ({ default: m.IntelPanel })))
 
 export function DashboardPage() {
   const { isIntelPanelOpen } = useAppStore()
@@ -38,7 +40,9 @@ export function DashboardPage() {
           </div>
 
           {/* Intel slide-in panel */}
-          {isIntelPanelOpen && <IntelPanel />}
+          <Suspense fallback={null}>
+            {isIntelPanelOpen && <IntelPanel />}
+          </Suspense>
         </div>
       </div>
 

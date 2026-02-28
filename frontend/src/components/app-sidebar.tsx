@@ -1,6 +1,5 @@
 import * as React from "react"
 import {
-  Shield,
   LayoutDashboard,
   List,
   Route,
@@ -12,6 +11,20 @@ import {
   Globe,
   Brain,
 } from "lucide-react"
+
+function SentinelIcon({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 32 32" fill="none" className={className}>
+      <path
+        d="M16 2L4 8v8.5C4 24.3 9.4 30 16 31.5 22.6 30 28 24.3 28 16.5V8L16 2Z"
+        fill="currentColor" fillOpacity={0.15} stroke="currentColor" strokeWidth={1.6} strokeLinejoin="round"
+      />
+      <path d="M9 16c2-3.8 4.5-5.2 7-5.2s5 1.4 7 5.2" stroke="currentColor" strokeWidth={1.6} strokeLinecap="round" />
+      <path d="M9 16c2 3.8 4.5 5.2 7 5.2s5-1.4 7-5.2" stroke="currentColor" strokeWidth={1.6} strokeLinecap="round" />
+      <circle cx={16} cy={16} r={2.3} fill="currentColor" />
+    </svg>
+  )
+}
 
 import { NavMain } from "@/components/nav-main"
 import { NavProjects } from "@/components/nav-projects"
@@ -34,7 +47,7 @@ const data = {
   teams: [
     {
       name: "Sentinel AI",
-      logo: Shield,
+      logo: SentinelIcon,
       plan: "Enterprise",
     },
     {
@@ -51,7 +64,6 @@ const data = {
       isActive: true,
       items: [
         { title: "Overview", url: "/dashboard" },
-        { title: "Globe View", url: "/dashboard" },
       ],
     },
     {
@@ -61,6 +73,7 @@ const data = {
       items: [
         { title: "Country Rankings", url: "/countries" },
         { title: "Exposure Map", url: "/exposure" },
+        { title: "Recommended Actions", url: "/actions" },
       ],
     },
     {
@@ -78,7 +91,6 @@ const data = {
       icon: Brain,
       items: [
         { title: "Model Performance", url: "/reports" },
-        { title: "Settings", url: "/settings" },
       ],
     },
   ],

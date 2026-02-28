@@ -3,7 +3,11 @@
  * Centralized fetch wrappers for all backend endpoints.
  */
 
-const API_BASE = import.meta.env.VITE_API_URL ?? "http://localhost:8000"
+// In dev, use relative URLs so Vite's proxy handles routing (avoids CORS / mixed-content).
+// In production, set VITE_API_URL to the actual backend origin.
+const API_BASE = import.meta.env.PROD
+  ? (import.meta.env.VITE_API_URL ?? "")
+  : ""
 
 async function apiFetch<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${API_BASE}${path}`, {
@@ -25,6 +29,7 @@ export interface BackendCountryRow {
   riskLevel: string
   isAnomaly: boolean
   anomalyScore: number
+  scoreDelta: number
 }
 
 export interface BackendDashboardSummary {
@@ -56,14 +61,16 @@ export interface BackendAlert {
   severity: string
 }
 
+export interface BackendKpiHistoryMetric {
+  period: string
+  values: Array<{ date: string; value: number }>
+}
+
 export interface BackendKpiHistory {
-  history: Array<{
-    date: string
-    globalThreatIndex: number
-    activeAnomalies: number
-    highPlusCountries: number
-    escalationAlerts24h: number
-  }>
+  globalThreatIndex: BackendKpiHistoryMetric
+  activeAnomalies: BackendKpiHistoryMetric
+  highPlusCountries: BackendKpiHistoryMetric
+  escalationAlerts24h: BackendKpiHistoryMetric
 }
 
 export interface BackendCausalChainStep {
@@ -100,6 +107,15 @@ export interface BackendAnalysis {
   }
 }
 
+export interface BackendForecast {
+  countryCode: string
+  country: string
+  forecast_30d: number
+  forecast_60d: number
+  forecast_90d: number
+  trend: string
+}
+
 // ── API functions ───────────────────────────────────────────────
 
 export function fetchDashboardSummary(): Promise<BackendDashboardSummary> {
@@ -121,6 +137,134 @@ export function fetchAnalysis(country: string, countryCode: string): Promise<Bac
   })
 }
 
-export function fetchHealth(): Promise<Record<string, unknown>> {
+export function fetchForecast(country: string, countryCode: string): Promise<BackendForecast> {
+  return apiFetch("/api/forecast", {
+    method: "POST",
+    body: JSON.stringify({ country, countryCode }),
+  })
+}
+
+export function fetchHealth(): Promise<HealthResponse> {
   return apiFetch("/health")
+}
+
+export function fetchTrackRecord(): Promise<TrackRecordResponse> {
+  return apiFetch("/api/track-record")
+}
+
+export interface HealthResponse {
+  status: string
+  api: boolean
+  ml: boolean
+  version: string
+  uptime: string
+  uptimeSeconds: number
+  models: {
+    riskScorer: { ready: boolean; type: string; features: number }
+    anomalyDetection: { ready: boolean; type: string; countryModels: number }
+    forecaster: { ready: boolean; type: string; horizons: string[] }
+    sentiment: { type: string; model: string }
+  }
+  data: {
+    countriesScored: number
+    countriesTotal: number
+    coveragePct: number
+    lastComputed: string | null
+    refreshIntervalMinutes: number
+    sources: Record<string, number>
+  }
+}
+
+export interface TrackRecordPrediction {
+  country_code: string
+  predicted_at: string
+  risk_level: string
+  risk_score: number
+  confidence: number
+  model_version: string
+  actual_risk_level: string | null
+  prediction_correct: number | null
+}
+
+export interface TrackRecordResponse {
+  predictions: TrackRecordPrediction[]
+  accuracy: {
+    total_evaluated: number
+    correct: number
+    accuracy_pct: number
+    days_back: number
+  }
+}
+
+// ── Live Feeds types ──────────────────────────────────────────
+
+export interface USGSEvent {
+  magnitude: number
+  place: string
+  time: string
+  lat: number
+  lng: number
+  depth_km: number
+  url: string
+}
+
+export interface GDACSAlert {
+  eventType: string
+  name: string
+  alertLevel: string // "Green" | "Orange" | "Red"
+  country: string
+  date: string
+  severity: string | null
+  lat: number
+  lng: number
+}
+
+export interface ReliefWebReport {
+  title: string
+  date: string
+  countries: string[]
+  sources: string[]
+  url: string
+}
+
+export interface OONIIncident {
+  title: string
+  shortDescription: string
+  startTime: string
+  endTime: string | null
+  ASNs: number[]
+  CCs: string[]
+  published: boolean
+}
+
+export interface NASAEvent {
+  title: string
+  categories: string[]
+  date: string
+  lat: number
+  lng: number
+  link: string
+}
+
+export interface LiveFeedsResponse {
+  usgs_earthquakes: { source: string; count: number; events: USGSEvent[]; fetchedAt: string }
+  gdacs_alerts: { source: string; count: number; alerts: GDACSAlert[]; fetchedAt: string }
+  reliefweb_reports: { source: string; count: number; reports: ReliefWebReport[]; fetchedAt: string }
+  ooni_censorship: { source: string; count: number; incidents: OONIIncident[]; fetchedAt: string }
+  nasa_eonet: { source: string; count: number; events: NASAEvent[]; fetchedAt: string }
+}
+
+export interface DataSourcesResponse {
+  total: number
+  categories: number
+  liveFeeds: LiveFeedsResponse
+  fetchedAt: string
+}
+
+export function fetchDataSources(): Promise<DataSourcesResponse> {
+  return apiFetch("/api/data-sources")
+}
+
+export function fetchRecentActivity(): Promise<{ items: Array<{ time: string; icon: string; label: string; detail: string }> }> {
+  return apiFetch("/api/recent-activity")
 }

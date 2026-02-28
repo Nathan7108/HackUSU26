@@ -5,7 +5,7 @@
 export type RiskLevel = "CRITICAL" | "HIGH" | "ELEVATED" | "MODERATE" | "LOW"
 export type Trend = "ESCALATING" | "STABLE" | "DE-ESCALATING"
 export type Sentiment = "positive" | "negative" | "neutral"
-export type Theme = "light" | "dark"
+export type Theme = "light" | "dark" | "midnight"
 
 export interface Country {
   code: string
@@ -82,6 +82,26 @@ export interface Recommendation {
   roi: number
   leadTime: string
   priority: "IMMEDIATE" | "SHORT_TERM" | "MEDIUM_TERM"
+  trigger: string // "Taiwan risk score hits 78+ (LSTM projects 60 days)"
+  costOfInaction: number // in millions — the scary number
+  evidence: string // real-world proof with sources
+}
+
+// Vessel tracking
+export type VesselType = "bulk-carrier" | "container" | "tanker" | "ro-ro" | "general-cargo"
+
+export interface Vessel {
+  id: string
+  name: string
+  type: VesselType
+  routeId: string
+  cargo: string
+  cargoValue: number   // in millions
+  insurancePremium: number // in millions
+  departurePort: string
+  arrivalPort: string
+  progressOffset: number // 0–1 stagger within route
+  speed: number          // multiplier (1.0 = normal)
 }
 
 export interface Alert {

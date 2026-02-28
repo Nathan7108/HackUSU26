@@ -1,6 +1,5 @@
 import { useRouter, useMatches } from "@tanstack/react-router"
 import {
-  Shield,
   Globe,
   LayoutDashboard,
   List,
@@ -46,7 +45,16 @@ export function Sidebar() {
         style={{ color: "var(--sentinel-accent)" }}
         title="Sentinel AI"
       >
-        <Shield size={22} strokeWidth={2.2} />
+        <svg viewBox="0 0 32 32" fill="none" width={22} height={22}>
+          <path
+            d="M16 2L4 8v8.5C4 24.3 9.4 30 16 31.5 22.6 30 28 24.3 28 16.5V8L16 2Z"
+            fill="currentColor" fillOpacity={0.12} stroke="currentColor" strokeWidth={1.4} strokeLinejoin="round"
+          />
+          <path d="M9 16c2-3.8 4.5-5.2 7-5.2s5 1.4 7 5.2" stroke="currentColor" strokeWidth={1.4} strokeLinecap="round" />
+          <path d="M9 16c2 3.8 4.5 5.2 7 5.2s5-1.4 7-5.2" stroke="currentColor" strokeWidth={1.4} strokeLinecap="round" />
+          <circle cx={16} cy={16} r={2.3} fill="currentColor" />
+          <circle cx={16} cy={16} r={4} stroke="currentColor" strokeWidth={0.7} strokeOpacity={0.35} />
+        </svg>
       </button>
 
       {/* Globe shortcut */}

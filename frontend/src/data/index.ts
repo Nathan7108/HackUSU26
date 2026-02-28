@@ -2,3 +2,4 @@ export { countries, mlStats, getCountryByCode, getCountriesByRisk, getAnomalyCou
 export { facilities, getFacilityById } from "./facilities"
 export { tradeRoutes, getRoutesByRisk, getRoutesForCountry } from "./routes"
 export { alerts } from "./alerts"
+export { VESSELS } from "./vessels"

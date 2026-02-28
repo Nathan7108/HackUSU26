@@ -2,7 +2,10 @@ import { useQuery } from "@tanstack/react-query"
 import { COUNTRY_COORDS } from "@/data/countryCoords"
 import type { RiskLevel } from "@/types"
 
-const API = import.meta.env.VITE_API_URL as string
+// In dev, use relative URL so Vite proxy handles it (avoids CORS / mixed-content)
+const API = import.meta.env.PROD
+  ? (import.meta.env.VITE_API_URL ?? "")
+  : ""
 
 interface ApiCountry {
   countryCode: string

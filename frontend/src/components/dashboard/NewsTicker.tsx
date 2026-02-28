@@ -1,3 +1,4 @@
+import { useMemo } from "react"
 import type { Country } from "@/types"
 import { riskColor } from "@/lib/risk"
 
@@ -6,18 +7,19 @@ interface NewsTickerProps {
 }
 
 export function NewsTicker({ countries }: NewsTickerProps) {
-  // Collect all headlines with country context
-  const items = countries.flatMap((country) =>
-    country.headlines.map((h) => ({
-      flag: country.flag,
-      code: country.code,
-      riskLevel: country.riskLevel,
-      ...h,
-    })),
-  )
-
-  // Double for seamless loop
-  const doubled = [...items, ...items]
+  // Collect all headlines with country context, memoized to avoid re-computation
+  const doubled = useMemo(() => {
+    const items = countries.flatMap((country) =>
+      country.headlines.map((h) => ({
+        flag: country.flag,
+        code: country.code,
+        riskLevel: country.riskLevel,
+        ...h,
+      })),
+    )
+    // Double for seamless loop
+    return [...items, ...items]
+  }, [countries])
 
   return (
     <div
@@ -48,7 +50,7 @@ export function NewsTicker({ countries }: NewsTickerProps) {
       <div className="flex-1 overflow-hidden">
         <div className="animate-ticker flex items-center whitespace-nowrap">
           {doubled.map((item, i) => (
-            <span key={i} className="mr-8 flex items-center gap-2">
+            <span key={`${i < doubled.length / 2 ? "a" : "b"}-${item.code}-${item.text}`} className="mr-8 flex items-center gap-2">
               <span className="text-xs">{item.flag}</span>
               <span
                 className="font-data text-[9px] font-semibold"
