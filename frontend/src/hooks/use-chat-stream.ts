@@ -1,6 +1,6 @@
 import { useRef, useCallback } from "react"
 import { useAppStore } from "@/stores/app"
-import { useDashboard } from "@/hooks/use-dashboard"
+import { useDashboard, useRecommendations } from "@/hooks/use-dashboard"
 import { serializeContext, streamChat, type ChatMessage } from "@/lib/sentinel-ai"
 
 /**
@@ -18,6 +18,7 @@ export function useChatStream() {
     selectedCountryCode,
   } = useAppStore()
   const { dashboard } = useDashboard()
+  const { data: recsData } = useRecommendations()
 
   const accRef = useRef("")
   const rafRef = useRef(0)
@@ -36,7 +37,7 @@ export function useChatStream() {
         { role: "user" as const, content: input },
       ]
 
-      const context = serializeContext(dashboard, selectedCountryCode)
+      const context = serializeContext(dashboard, selectedCountryCode, recsData?.recommendations)
 
       streamChat(
         history,
@@ -73,7 +74,7 @@ export function useChatStream() {
         },
       )
     },
-    [chatMessages, isStreaming, dashboard, selectedCountryCode, setChatMessages, setIsStreaming, setStreamingText],
+    [chatMessages, isStreaming, dashboard, selectedCountryCode, recsData, setChatMessages, setIsStreaming, setStreamingText],
   )
 
   return { submitMessage }

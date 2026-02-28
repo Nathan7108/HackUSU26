@@ -1,5 +1,6 @@
 import { facilities, tradeRoutes, companyProfile } from "@/data"
 import type { DashboardSummary } from "@/types"
+import type { BackendRecommendation } from "@/lib/api"
 
 // ── Context Serializer ─────────────────────────────────────────
 // Packs ALL live dashboard data into a compact string for GPT's system prompt.
@@ -7,6 +8,7 @@ import type { DashboardSummary } from "@/types"
 export function serializeContext(
   dashboard: DashboardSummary | null,
   selectedCountryCode: string | null,
+  recommendations?: BackendRecommendation[],
 ): string {
   const sections: string[] = []
   const now = new Date().toISOString()
@@ -73,7 +75,16 @@ ${tradeRoutes.map((r) => `- ${r.id}: ${r.from.name} (${r.from.location}) → ${r
     }
   }
 
-  // 8. Company profile
+  // 8. Active recommendations (GPT-4o generated mitigation actions)
+  if (recommendations && recommendations.length > 0) {
+    sections.push(`## ACTIVE RECOMMENDATIONS (${recommendations.length} actions)
+${recommendations.map((r) => `- [${r.priority}] ${r.countryName} (${r.countryCode}): ${r.action}
+  Cost: $${r.cost}M | Protected: $${r.riskReduction}M | ROI: ${r.roi}x | Lead: ${r.leadTime}
+  Trigger: ${r.trigger}
+  Evidence: ${r.evidence.slice(0, 200)}...`).join("\n")}`)
+  }
+
+  // 9. Company profile
   sections.push(`## CASCADE PRECISION — COMPANY PROFILE
 - Name: ${companyProfile.name} (${companyProfile.ticker})
 - CEO: ${companyProfile.ceo} | Founded: ${companyProfile.founded}
@@ -107,18 +118,24 @@ ${companyProfile.recommendations.map((cat) => `**${cat.category}:**\n${cat.actio
 
 // ── System Prompt ──────────────────────────────────────────────
 
-const SYSTEM_PROMPT = `You are Sentinel AI, an elite geopolitical intelligence analyst embedded in a real-time crisis prediction platform. You process LIVE data from 107 sources across 12 intelligence domains through 4 ML models (XGBoost risk scoring, LSTM forecasting, Isolation Forest anomaly detection, FinBERT sentiment analysis).
+const SYSTEM_PROMPT = `You are Sentinel AI, an elite geopolitical intelligence analyst embedded in a real-time crisis prediction platform.
 
-Your client is Cascade Precision Industries (CSPI) — a $3.8B Tier 2 aerospace manufacturer headquartered in Portland, OR. You know this company intimately: its facilities, supply chains, customers, historical losses, risk exposures, and improvement roadmap. You are their dedicated intelligence analyst.
+CRITICAL RULES — YOU MUST FOLLOW THESE:
+1. **ONLY use numbers from the LIVE DASHBOARD DATA below.** Every risk score, anomaly count, GTI value, dollar exposure, and country risk level you cite MUST come verbatim from the data provided. If a number is not in the data, DO NOT invent one.
+2. **Never fabricate events, scores, or statistics.** If you don't have data on something, say "not currently tracked" or "outside our monitoring scope."
+3. **Never round, estimate, or inflate numbers.** If Iran's risk score is 60, say 60 — not 94, not "approximately 90."
+4. **Distinguish between ML-detected data and general knowledge.** You may reference real-world events you know about (e.g. Houthi attacks, China rare earth controls) but ALWAYS pair them with the exact Sentinel risk scores and exposure figures from the data. Never assign scores that aren't in the data.
+5. **Active anomalies, alerts, and country counts must match the data exactly.** Do not exaggerate the number of alerts or anomalies.
+
+YOUR CLIENT: Cascade Precision Industries (CSPI) — $3.8B Tier 2 aerospace manufacturer, Portland OR. You know their facilities, supply chains, exposures, and historical losses from the data below.
 
 RESPONSE STYLE:
 - **Tone**: Senior intelligence analyst briefing a C-suite executive. Confident, precise, no filler.
-- **Structure**: Use **bold** for key metrics, dollar amounts, and risk levels. Use bullet points for lists. Use section headers for longer answers.
-- **Data**: Always cite exact numbers — risk scores, dollar exposures, trends, timestamps. Never approximate when you have the precise figure.
-- **Company questions**: When asked about CSPI (revenue, customers, facilities, losses, exposure, recommendations), answer with rich detail from the company profile. Reference specific facilities by name and location, cite exact historical loss amounts, and connect risks to specific business operations.
-- **Actionable**: End threat assessments with a concrete recommendation when relevant — include cost-to-act vs cost-of-inaction when available.
-- **Honesty**: If something isn't in the data, say so. Never fabricate.
-- **Length**: Default to concise (150-250 words). Go deeper when the user asks for a deep dive, breakdown, or detailed analysis.
+- **Structure**: Use **bold** for key metrics, dollar amounts, and risk levels. Use bullet points for lists.
+- **Data grounding**: Always cite the exact score from the data: "Yemen is at **78/100 HIGH**" not "Yemen is at critical risk."
+- **Actionable**: End with a concrete next step — what should CSPI do RIGHT NOW? Reference specific recommendations from the data (cost-to-act vs cost-of-inaction).
+- **Context**: Connect risks to specific CSPI facilities, routes, and dollar exposures.
+- **Length**: 150-300 words. Go deeper only when asked.
 
 LIVE DASHBOARD DATA:
 `
@@ -159,8 +176,8 @@ export async function streamChat(
         model: "gpt-4o-mini",
         messages: [systemMessage, ...messages],
         stream: true,
-        max_tokens: 800,
-        temperature: 0.7,
+        max_tokens: 1000,
+        temperature: 0.3,
       }),
     })
 
