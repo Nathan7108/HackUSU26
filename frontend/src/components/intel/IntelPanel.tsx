@@ -4,19 +4,24 @@ import NumberFlow from "@number-flow/react"
 import { X, TrendingUp, AlertTriangle, Factory, Route, ChevronRight, Loader2 } from "lucide-react"
 import { useAppStore } from "@/stores/app"
 import { getCountryByCode } from "@/data"
-import { useAnalysis } from "@/hooks/use-dashboard"
+import { useAnalysis, useDashboard } from "@/hooks/use-dashboard"
 import { riskColor, riskMutedColor, trendIcon, trendColor, formatMoney } from "@/lib/risk"
 import type { Country, Recommendation } from "@/types"
 import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Area, AreaChart } from "recharts"
 
 export function IntelPanel() {
   const { selectedCountryCode, setIntelPanelOpen } = useAppStore()
+  const { dashboard } = useDashboard()
   const mockCountry = selectedCountryCode ? getCountryByCode(selectedCountryCode) : null
+  const dashboardCountry = selectedCountryCode
+    ? dashboard.countries.find((c) => c.code === selectedCountryCode) ?? null
+    : null
   const { data: liveOverlay, isLoading: isAnalyzing } = useAnalysis(selectedCountryCode)
 
-  // Merge: backend analysis overlays on top of mock data
-  const country: Country | null = mockCountry
-    ? { ...mockCountry, ...liveOverlay }
+  // Merge: backend analysis overlays on top of mock data, fall back to dashboard country
+  const baseCountry = mockCountry ?? dashboardCountry
+  const country: Country | null = baseCountry
+    ? { ...baseCountry, ...liveOverlay }
     : null
 
   if (!country) return null

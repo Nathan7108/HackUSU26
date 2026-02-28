@@ -78,23 +78,21 @@ function WatchlistRow({
         if (!isSelected) e.currentTarget.style.backgroundColor = "transparent"
       }}
     >
-      {/* Flag + Name */}
+      {/* Code + Flag + Name */}
       <div className="flex items-center gap-2 min-w-0 flex-1">
+        <span
+          className="font-data text-[10px] font-bold tracking-wide w-8 shrink-0"
+          style={{ color: "var(--sentinel-text-tertiary)" }}
+        >
+          {country.code}
+        </span>
         <span className="text-base leading-none">{country.flag}</span>
-        <div className="flex flex-col min-w-0">
-          <span
-            className="text-xs font-medium truncate"
-            style={{ color: "var(--sentinel-text-primary)" }}
-          >
-            {country.name}
-          </span>
-          <span
-            className="font-data text-[10px]"
-            style={{ color: "var(--sentinel-text-tertiary)" }}
-          >
-            {country.code}
-          </span>
-        </div>
+        <span
+          className="text-xs font-medium truncate"
+          style={{ color: "var(--sentinel-text-primary)" }}
+        >
+          {country.name}
+        </span>
       </div>
 
       {/* Score */}
