@@ -28,11 +28,13 @@ export function DashboardPage() {
             <GlobeMap />
           </div>
 
-          {/* Right panel stack */}
-          <div className="flex w-72 shrink-0 flex-col gap-2 overflow-y-auto p-2">
-            <Watchlist countries={dashboard.countries} />
-            <ExposureSummary countries={dashboard.countries} />
-            <AlertFeed alerts={dashboard.alerts} />
+          {/* Right panel stack — single scrollable column, full height */}
+          <div className="w-72 shrink-0 self-stretch overflow-y-auto p-2">
+            <div className="flex min-h-full flex-col gap-2">
+              <Watchlist countries={dashboard.countries} />
+              <ExposureSummary countries={dashboard.countries} />
+              <AlertFeed alerts={dashboard.alerts} />
+            </div>
           </div>
 
           {/* Intel slide-in panel */}

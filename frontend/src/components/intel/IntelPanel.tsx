@@ -34,7 +34,7 @@ export function IntelPanel() {
         animate={{ x: 0, opacity: 1 }}
         exit={{ x: 400, opacity: 0 }}
         transition={{ type: "spring", damping: 28, stiffness: 300 }}
-        className="flex w-96 shrink-0 flex-col overflow-y-auto border-l"
+        className="flex w-96 shrink-0 flex-col overflow-y-auto rounded-md border ml-2"
         style={{
           backgroundColor: "var(--sentinel-bg-surface)",
           borderColor: "var(--sentinel-border-subtle)",

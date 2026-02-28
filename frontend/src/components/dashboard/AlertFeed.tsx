@@ -20,7 +20,7 @@ export function AlertFeed({ alerts }: AlertFeedProps) {
 
   return (
     <div
-      className="flex flex-col rounded-md border"
+      className="flex min-h-0 flex-1 flex-col rounded-md border"
       style={{
         backgroundColor: "var(--sentinel-bg-surface)",
         borderColor: "var(--sentinel-border-subtle)",
@@ -52,7 +52,7 @@ export function AlertFeed({ alerts }: AlertFeedProps) {
       </div>
 
       {/* Alert list */}
-      <div className="flex flex-col overflow-y-auto" style={{ maxHeight: "280px" }}>
+      <div className="flex min-h-0 flex-1 flex-col overflow-y-auto">
         {sorted.map((alert) => (
           <AlertRow key={alert.id} alert={alert} />
         ))}
