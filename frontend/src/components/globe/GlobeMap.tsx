@@ -15,6 +15,7 @@ import {
 
 const TOKEN = import.meta.env.VITE_MAPBOX_TOKEN as string
 
+
 const RISK: Record<string, string> = {
   CRITICAL: "#ef4444", HIGH: "#f97316", ELEVATED: "#eab308",
   MODERATE: "#3b82f6", LOW: "#22c55e",
@@ -284,11 +285,11 @@ export function GlobeMap() {
   useEffect(() => { if (apiCountries) countriesRef.current = apiCountries }, [apiCountries])
 
   const fogFor = () => ({
-    color: "rgb(11, 11, 25)",
-    "high-color": "rgb(11, 11, 25)",
-    "horizon-blend": 0,
-    "space-color": "rgb(2, 2, 6)",
-    "star-intensity": 1.0,
+    color: "rgb(20, 24, 45)",
+    "high-color": "rgb(15, 18, 35)",
+    "horizon-blend": 0.03,
+    "space-color": "rgb(8, 10, 20)",
+    "star-intensity": 0.8,
   })
 
   const buildNightGeoJSON = (): GeoJSON.FeatureCollection => {
@@ -317,8 +318,8 @@ export function GlobeMap() {
     const src = m.getSource("night-overlay") as mapboxgl.GeoJSONSource | undefined
     if (src) { src.setData(data); return }
     m.addSource("night-overlay", { type: "geojson", data })
-    m.addLayer({ id: "night-fill", type: "fill", source: "night-overlay", paint: { "fill-color": "rgba(2, 4, 20, 0.25)" } })
-    m.addLayer({ id: "night-edge", type: "line", source: "night-overlay", paint: { "line-color": "rgba(20, 30, 80, 0.12)", "line-width": 60, "line-blur": 60 } })
+    m.addLayer({ id: "night-fill", type: "fill", source: "night-overlay", paint: { "fill-color": "rgba(2, 4, 20, 0.12)" } })
+    m.addLayer({ id: "night-edge", type: "line", source: "night-overlay", paint: { "line-color": "rgba(20, 30, 80, 0.06)", "line-width": 40, "line-blur": 40 } })
   }
 
   const addAllLayers = useCallback((m: mapboxgl.Map) => {
@@ -423,26 +424,28 @@ export function GlobeMap() {
   useEffect(() => {
     if (!mapBox.current) return
     if (map.current) { map.current.remove(); map.current = null }
+    if (!TOKEN) return
     mapboxgl.accessToken = TOKEN
     let cancelled = false
-    const m = new mapboxgl.Map({
-      container: mapBox.current, style: "mapbox://styles/mapbox/standard",
-      center: [55, 20], zoom: 1.5, projection: "globe",
-      attributionControl: false, logoPosition: "bottom-left", maxZoom: 8, minZoom: 0.8,
-      renderWorldCopies: false,
+    let m: mapboxgl.Map
+    try {
+      m = new mapboxgl.Map({
+        container: mapBox.current, style: "mapbox://styles/mapbox/dark-v11",
+        center: [55, 20], zoom: 1.5, projection: "globe",
+        attributionControl: false, logoPosition: "bottom-left", maxZoom: 8, minZoom: 0.8,
+        renderWorldCopies: false,
+      })
+    } catch (e) {
+      console.error("[GlobeMap] Failed to create map:", e)
+      return
+    }
+    m.on("error", (e) => {
+      console.error("[GlobeMap] Map error:", e.error?.message || e)
     })
     m.on("style.load", () => {
       if (cancelled) return
       m.setFog(fogFor())
-      // Defer config so style internals finish initializing
-      setTimeout(() => {
-        if (cancelled) return
-        try {
-          m.setConfigProperty("basemap", "lightPreset", "night")
-          m.setConfigProperty("basemap", "theme", "faded")
-        } catch { /* style not ready yet — fog + layers still work */ }
-        setReady(true)
-      }, 100)
+      setReady(true)
     })
     map.current = m
     return () => { cancelled = true; m.remove(); map.current = null }
@@ -451,15 +454,17 @@ export function GlobeMap() {
   useEffect(() => {
     const m = map.current; if (!m) return
     if (firstStyle.current) { firstStyle.current = false; return }
-    // Same style, just re-apply config — no setStyle needed
-    if (m.isStyleLoaded()) {
-      m.setConfigProperty("basemap", "lightPreset", "night")
-      m.setConfigProperty("basemap", "theme", "faded")
-      m.setFog(fogFor())
-    }
+    if (m.isStyleLoaded()) m.setFog(fogFor())
   }, [theme])
 
-  useEffect(() => { if (ready && map.current) addAllLayers(map.current) }, [ready, addAllLayers])
+  useEffect(() => {
+    if (!ready || !map.current) return
+    try {
+      addAllLayers(map.current)
+    } catch (e) {
+      console.error("[GlobeMap] addAllLayers crashed:", e)
+    }
+  }, [ready, addAllLayers])
 
   useEffect(() => {
     if (!ready || !map.current) return
@@ -498,8 +503,8 @@ export function GlobeMap() {
   }, [selectedCountryCode, apiCountries])
 
   return (
-    <div className="relative h-full w-full overflow-hidden" style={{ backgroundColor: "#020206" }}>
-      <div ref={mapBox} className="absolute inset-0" style={{ right: "-13rem" }} />
+    <div style={{ position: "relative", width: "100%", height: "100%", overflow: "hidden", backgroundColor: "#020206" }}>
+      <div ref={mapBox} style={{ position: "absolute", top: 0, left: 0, right: 0, bottom: 0 }} />
       <div className="pointer-events-none absolute top-3 left-3 flex items-center gap-2 rounded-md bg-black/70 px-2.5 py-1.5 backdrop-blur-sm border border-white/[0.06]">
         <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
         <span className="font-data text-[9px] font-semibold tracking-widest text-white/60">
