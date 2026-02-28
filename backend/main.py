@@ -2532,7 +2532,18 @@ async def api_exposure():
 @app.get("/api/recommendations")
 async def api_recommendations():
     """Strategic recommendations for all Cascade hotspot countries (GPT-4o generated)."""
-    gpt_recs = await get_recommendations()
+    try:
+        gpt_recs = await get_recommendations()
+    except Exception as e:
+        print(f"Recommendations generation failed: {e}")
+        return {
+            "company": "Cascade Precision Industries",
+            "totalRecommendations": 0,
+            "recommendations": [],
+            "computedAt": datetime.utcnow().isoformat() + "Z",
+            "error": "Recommendations are still generating. Please retry shortly.",
+        }
+
     recommendations = []
     for code, rec in gpt_recs.items():
         country_name = MONITORED_COUNTRIES.get(code, {}).get("name", code)
