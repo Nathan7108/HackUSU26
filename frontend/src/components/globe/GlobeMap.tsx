@@ -58,22 +58,22 @@ const WAYPOINTS: Record<string, [number, number][]> = {
   r1: [[109.84,40.66],[112,36],[116,33],[119.5,30],[121,27],[120.97,24.8]],
   // Hsinchu → Nagoya (East China Sea, stay well offshore)
   r2: [[120.97,24.8],[123,26],[126,28],[129.5,30.5],[133,32.5],[136.91,35.18]],
-  // Nagoya → Singapore (stay offshore east of Philippines, through open South China Sea)
-  r3: [[136.91,35.18],[135,32],[132,28],[129,23],[125,17],[120,12],[114,7],[109,3],[103.82,1.35]],
-  // Singapore → Rotterdam (Malacca → Indian Ocean → Red Sea → Suez → Med → Atlantic)
-  r4: [[103.82,1.35],[100,3],[96,5.5],[85,8],[75,11],[65,13.5],[56,15],[51,12.8],[44.5,12.5],[43.3,13],[42.5,15],[40,20],[36,24],[33.5,28],[32.6,30],[32.3,31.2],[31.5,32],[29,33.5],[25,35.5],[16,38],[10,38.5],[5,38],[-1,37],[-5.5,36],[-9,38],[-6,43],[-3,47],[1,50],[4.48,51.92]],
+  // Nagoya → Singapore (swing east of Japan, pass east of Philippines in open Pacific, then west into SCS)
+  r3: [[136.91,35.18],[137,32],[136,28],[134,24],[132,20],[130,16],[127,11],[121,6],[114,3],[109,2],[103.82,1.35]],
+  // Singapore → Rotterdam (Malacca Strait → Indian Ocean → Bab el-Mandeb → Red Sea → Suez → Med)
+  r4: [[103.82,1.35],[99,2],[95,4],[88,7],[78,10],[68,13],[58,16],[52,13],[45,12.5],[43.3,12.8],[42.8,14.5],[41,18],[38,22],[35,26],[33,29],[32.3,31.2],[31.5,32],[29,33.5],[25,35.5],[16,38],[10,38.5],[5,38],[-1,37],[-5.5,36],[-9,38],[-6,43],[-3,47],[1,50],[4.48,51.92]],
   // Rotterdam → Toulouse (European overland)
   r5: [[4.48,51.92],[3,49],[2.3,47],[1.44,43.6]],
-  // Rotterdam → Portland (North Atlantic, stay well clear of land)
-  r6: [[4.48,51.92],[-2,50],[-10,49],[-20,47],[-35,45],[-50,42],[-60,40],[-68,38],[-72,35],[-74,30],[-76,25],[-80,20],[-84,15],[-88,12],[-92,15],[-98,18],[-105,22],[-112,28],[-118,33],[-122,38],[-123.5,42],[-122.68,45.52]],
+  // Rotterdam → Portland (North Atlantic, south around Florida, through Gulf of Mexico, up US west coast)
+  r6: [[4.48,51.92],[-2,50],[-10,49],[-20,47],[-35,45],[-50,42],[-60,40],[-65,37],[-70,33],[-75,28],[-80,25],[-83,23],[-86,22],[-90,24],[-95,26],[-98,26],[-102,24],[-108,26],[-114,30],[-118,33],[-121,37],[-123,42],[-122.68,45.52]],
   // Vicenza → Toulouse (European overland)
   r7: [[11.54,45.55],[7,45],[4,44.5],[1.44,43.6]],
   // Baotou → Portland (Trans-Pacific, great circle arc over open ocean)
   r8: [[109.84,40.66],[117.7,39],[125,37],[135,36],[145,40],[160,44],[175,47],[190,48],[210,48],[225,47],[235,45.5],[237.32,45.52]],
-  // Toulouse → Portland (South Atlantic route, stay offshore west Africa / Americas)
-  r9: [[1.44,43.6],[-3,43],[-10,40],[-18,36],[-30,32],[-45,28],[-55,25],[-65,22],[-74,18],[-80,15],[-85,13],[-90,15],[-98,18],[-105,22],[-112,28],[-118,33],[-122,38],[-123.5,42],[-122.68,45.52]],
-  // Singapore → Rotterdam (Cape of Good Hope, stay well offshore Africa)
-  r10: [[103.82,1.35],[96,-2],[85,-6],[72,-12],[58,-20],[45,-28],[35,-34],[22,-35],[18,-34.5],[15,-30],[10,-20],[5,-10],[2,0],[0,10],[-5,25],[-8,33],[-6,37],[-3,42],[0,47],[3,50],[4.48,51.92]],
+  // Toulouse → Portland (Atlantic, south of Florida, through Gulf of Mexico, up US west coast)
+  r9: [[1.44,43.6],[-3,43],[-10,40],[-18,36],[-30,32],[-45,28],[-55,25],[-63,22],[-70,20],[-75,22],[-80,25],[-83,23],[-86,22],[-90,24],[-95,26],[-98,26],[-102,24],[-108,26],[-114,30],[-118,33],[-121,37],[-123,42],[-122.68,45.52]],
+  // Singapore → Rotterdam (Cape of Good Hope, wide arc well offshore east/south Africa)
+  r10: [[103.82,1.35],[96,-2],[85,-6],[72,-14],[60,-22],[48,-30],[38,-35],[25,-36],[18,-34.8],[14,-28],[8,-18],[3,-5],[0,8],[-3,20],[-7,32],[-9,37],[-6,42],[-2,47],[2,50],[4.48,51.92]],
 }
 const CHOKEPOINTS = [
   { name: "TAIWAN STRAIT", lat: 24.5, lng: 119.5, risk: "HIGH" },
@@ -502,7 +502,7 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
     const spin = () => {
       if (!spinning) return
       const c = m.getCenter()
-      m.easeTo({ center: [c.lng + 30, c.lat], duration: 60000, easing: (t: number) => t })
+      m.easeTo({ center: [c.lng + 60, c.lat], duration: 60000, easing: (t: number) => t })
     }
     const startSpin = () => { spinning = true; spin() }
     const stopSpin = () => { spinning = false; m.stop() }
