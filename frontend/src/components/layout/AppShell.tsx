@@ -65,7 +65,7 @@ export function AppShell({ children }: { children: ReactNode }) {
             </Breadcrumb>
           </div>
         </header>
-        <div className="flex min-w-0 flex-1 flex-col gap-4 overflow-hidden p-4 pt-0">
+        <div className="flex min-w-0 flex-1 flex-col overflow-hidden">
           {children}
         </div>
       </SidebarInset>

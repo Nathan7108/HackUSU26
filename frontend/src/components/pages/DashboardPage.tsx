@@ -15,31 +15,34 @@ export function DashboardPage() {
 
   return (
     <div className="flex min-h-0 min-w-0 flex-1 flex-col overflow-hidden">
-      {/* KPI Strip — full width top row */}
-      <div className="pb-2">
-        <KpiStrip kpis={summary.kpis} />
-      </div>
-
-      {/* Main content: Globe + Sidebar panels */}
-      <div className="flex min-h-0 min-w-0 flex-1 overflow-hidden rounded-xl">
-        {/* Globe area */}
-        <div className="relative min-w-0 flex-1 overflow-hidden rounded-xl">
-          <GlobeMap />
+      {/* Padded content area */}
+      <div className="flex min-h-0 flex-1 flex-col px-4 pt-4 pb-2 overflow-hidden">
+        {/* KPI Strip — full width top row */}
+        <div className="pb-2">
+          <KpiStrip kpis={summary.kpis} />
         </div>
 
-        {/* Right panel stack */}
-        <div className="flex w-72 shrink-0 flex-col gap-2 overflow-y-auto p-2">
-          <Watchlist countries={summary.countries} />
-          <ExposureSummary countries={summary.countries} />
-          <AlertFeed alerts={summary.alerts} />
-        </div>
+        {/* Main content: Globe + Sidebar panels */}
+        <div className="flex min-h-0 min-w-0 flex-1 overflow-hidden rounded-xl">
+          {/* Globe area */}
+          <div className="relative min-w-0 flex-1 overflow-hidden rounded-xl">
+            <GlobeMap />
+          </div>
 
-        {/* Intel slide-in panel */}
-        {isIntelPanelOpen && <IntelPanel />}
+          {/* Right panel stack */}
+          <div className="flex w-72 shrink-0 flex-col gap-2 overflow-y-auto p-2">
+            <Watchlist countries={summary.countries} />
+            <ExposureSummary countries={summary.countries} />
+            <AlertFeed alerts={summary.alerts} />
+          </div>
+
+          {/* Intel slide-in panel */}
+          {isIntelPanelOpen && <IntelPanel />}
+        </div>
       </div>
 
-      {/* Bottom news ticker — breaks out of parent padding, spans sidebar edge to screen edge */}
-      <div className="-mx-4 -mb-4 shrink-0">
+      {/* News ticker — full bleed, sits flush at bottom edge */}
+      <div className="shrink-0">
         <NewsTicker countries={summary.countries} />
       </div>
     </div>
