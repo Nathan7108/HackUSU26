@@ -1,0 +1,88 @@
+import type { Facility } from "@/types"
+
+export const facilities: Facility[] = [
+  {
+    id: "portland",
+    name: "HQ + Primary Foundry",
+    location: "Portland, OR",
+    lat: 45.52,
+    lng: -122.68,
+    type: "hq",
+    function: "Titanium casting, final assembly",
+    annualValue: 1400,
+  },
+  {
+    id: "toulouse",
+    name: "Composite Plant",
+    location: "Toulouse, France",
+    lat: 43.6,
+    lng: 1.44,
+    type: "manufacturing",
+    function: "Carbon fiber structures (near Airbus)",
+    annualValue: 620,
+  },
+  {
+    id: "verdi",
+    name: "Titanium Forging",
+    location: "Verdi, Italy",
+    lat: 45.44,
+    lng: 10.99,
+    type: "manufacturing",
+    function: "Precision forgings for landing gear",
+    annualValue: 340,
+  },
+  {
+    id: "hsinchu",
+    name: "Electronics Packaging",
+    location: "Hsinchu, Taiwan",
+    lat: 24.8,
+    lng: 120.97,
+    type: "manufacturing",
+    function: "Avionics chip packaging (near TSMC)",
+    annualValue: 680,
+  },
+  {
+    id: "baotou",
+    name: "Rare Earth Processing",
+    location: "Baotou, China",
+    lat: 40.66,
+    lng: 109.84,
+    type: "processing",
+    function: "Yttrium/scandium coatings feedstock",
+    annualValue: 420,
+  },
+  {
+    id: "nagoya",
+    name: "Assembly & Test",
+    location: "Nagoya, Japan",
+    lat: 35.18,
+    lng: 136.91,
+    type: "assembly",
+    function: "Subsystem integration",
+    annualValue: 290,
+  },
+  {
+    id: "singapore",
+    name: "APAC Distribution",
+    location: "Singapore",
+    lat: 1.35,
+    lng: 103.82,
+    type: "distribution",
+    function: "Transshipment hub",
+    annualValue: 0,
+  },
+  {
+    id: "rotterdam",
+    name: "EU Distribution",
+    location: "Rotterdam, NL",
+    lat: 51.92,
+    lng: 4.48,
+    type: "distribution",
+    function: "European logistics hub",
+    annualValue: 0,
+  },
+]
+
+export function getFacilityById(id: string): Facility | undefined {
+  return facilities.find((f) => f.id === id)
+}
