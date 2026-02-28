@@ -13,7 +13,7 @@ import { IntelPanel } from "@/components/intel/IntelPanel"
 export function DashboardPage() {
   const { isIntelPanelOpen } = useAppStore()
   const { dashboard, isLoading, error } = useDashboard()
-  const [mapReady, setMapReady] = useState(false)
+  const [, setMapReady] = useState(false)
 
   if (isLoading) {
     return (

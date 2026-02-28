@@ -61,6 +61,7 @@ const WAYPOINTS: Record<string, [number, number][]> = {
   r7: [[11.54,45.55],[7,45],[4,44.5],[1.44,43.6]],
   r8: [[109.84,40.66],[117.7,39],[125,37],[135,36],[145,40],[160,44],[175,47],[190,48],[210,48],[225,47],[235,45.5],[237.32,45.52]],
   r9: [[1.44,43.6],[-2,44],[-10,42],[-30,37],[-50,30],[-65,24],[-76,18],[-79.5,9],[-85,9],[-95,14],[-105,20],[-118,32],[-124,40],[-122.68,45.52]],
+  r10: [[103.82,1.35],[95,0],[80,-5],[65,-15],[45,-30],[30,-35],[18,-34],[5,-20],[0,5],[-5,30],[-2,45],[4.48,51.92]],
 }
 const CHOKEPOINTS = [
   { name: "TAIWAN STRAIT", lat: 24.5, lng: 119.5, risk: "HIGH" },
@@ -69,6 +70,8 @@ const CHOKEPOINTS = [
   { name: "SUEZ CANAL", lat: 30.5, lng: 32.3, risk: "ELEVATED" },
   { name: "STRAIT OF HORMUZ", lat: 26.5, lng: 56.3, risk: "CRITICAL" },
   { name: "SOUTH CHINA SEA", lat: 14.5, lng: 115.0, risk: "ELEVATED" },
+  { name: "CAPE OF GOOD HOPE", lat: -34.4, lng: 18.5, risk: "ELEVATED" },
+  { name: "STRAIT OF GIBRALTAR", lat: 36.0, lng: -5.6, risk: "LOW" },
 ]
 
 function catmullRom(pts: [number, number][], seg = 32): [number, number][] {
@@ -368,7 +371,7 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
     m.on("click", "country-fill", (e) => { const code = e.features?.[0]?.properties?.iso_3166_1; if (code) selectCountry(code) })
     const cPopup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false, className: "sentinel-popup", maxWidth: "220px", offset: 14 })
     let hoveredCountryCode = ""
-    const updateCountryPopup = (e: mapboxgl.MapMouseEvent & { features?: mapboxgl.MapGeoJSONFeature[] }) => {
+    const updateCountryPopup = (e: mapboxgl.MapMouseEvent & { features?: mapboxgl.GeoJSONFeature[] }) => {
       m.getCanvas().style.cursor = "pointer"
       const code = e.features?.[0]?.properties?.iso_3166_1 ?? ""
       if (code && code !== hoveredCountryCode) {
@@ -714,11 +717,3 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
   )
 }
 
-function Leg({ icon, label }: { icon: React.ReactNode; label: string }) {
-  return (
-    <div className="flex items-center gap-1.5">
-      {icon}
-      <span className="font-data text-[11px] tracking-wider text-white/55">{label}</span>
-    </div>
-  )
-}

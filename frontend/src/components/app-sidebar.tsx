@@ -3,7 +3,6 @@ import {
   LayoutDashboard,
   List,
   Bell,
-  Sparkles,
   Globe,
   Brain,
 } from "lucide-react"

@@ -36,11 +36,6 @@ interface CountryForecast {
 
 // ── Transform ───────────────────────────────────────────────────
 
-function toRiskLevel(s: string): RiskLevel {
-  const u = s.toUpperCase()
-  if (u === "CRITICAL" || u === "HIGH" || u === "ELEVATED" || u === "MODERATE" || u === "LOW") return u as RiskLevel
-  return "MODERATE"
-}
 
 function toTrend(s: string): Trend {
   const u = s.toUpperCase()
