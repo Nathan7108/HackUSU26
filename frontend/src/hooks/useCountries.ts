@@ -4,7 +4,7 @@ import type { RiskLevel } from "@/types"
 
 // In dev, use relative URL so Vite proxy handles it (avoids CORS / mixed-content)
 const API = import.meta.env.PROD
-  ? (import.meta.env.VITE_API_URL ?? "")
+  ? (import.meta.env.VITE_API_URL || "https://hackusu26-production.up.railway.app")
   : ""
 
 interface ApiCountry {

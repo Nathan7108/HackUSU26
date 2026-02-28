@@ -4,9 +4,9 @@
  */
 
 // In dev, use relative URLs so Vite's proxy handles routing (avoids CORS / mixed-content).
-// In production, set VITE_API_URL to the actual backend origin.
+// In production, use VITE_API_URL env var or fall back to Railway deployment.
 const API_BASE = import.meta.env.PROD
-  ? (import.meta.env.VITE_API_URL ?? "")
+  ? (import.meta.env.VITE_API_URL || "https://hackusu26-production.up.railway.app")
   : ""
 
 async function apiFetch<T>(path: string, init?: RequestInit): Promise<T> {
