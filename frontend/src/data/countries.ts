@@ -87,15 +87,15 @@ export const countries: Country[] = [
     lat: 35.86,
     lng: 104.2,
     brief:
-      "Rare earth export controls continue to tighten. Yttrium prices surged 60% with two North American coating manufacturers pausing production. China requires end-user declarations for export licenses, specifically targeting US semiconductor sector. Zero domestic US scandium production leaves no alternative supply.",
+      "Rare earth export controls continue to tighten. Yttrium oxide prices have surged over 1,400% since China imposed export licensing in April 2025 — from $8/kg to over $120/kg. Two North American coating manufacturers have paused production. China requires end-user declarations for export licenses, specifically targeting US defense and semiconductor sectors. Zero domestic US scandium production and near-zero separated yttrium supply outside China.",
     causalChain: [
-      "China maintains rare earth export license requirements with end-user declarations",
-      "Yttrium prices surge 60%, now 70x higher than one year ago",
-      "Two North American yttrium coating manufacturers pause production",
-      "US has zero domestic scandium production capability",
+      "China maintains rare earth export license requirements with end-user declarations since April 2025",
+      "Yttrium oxide prices surge 1,400% ($8/kg → $120+/kg), heaviest rare earth impact of all controlled minerals",
+      "Two North American yttrium coating manufacturers pause production on supply gaps",
+      "US has zero domestic scandium production; separated heavy rare earth supply outside China near-zero",
       "FinBERT sentiment analysis shows -0.68 aggregate across 1,800 articles",
       "XGBoost assigns 0.64 risk with anomaly flag on rare_earth_export_controls",
-      "LSTM forecast projects continued escalation as trade tensions persist",
+      "LSTM forecast projects continued escalation as China retains export control leverage",
     ],
     riskDrivers: [
       { feature: "rare_earth_export_controls", importance: 0.35 },
@@ -112,7 +112,7 @@ export const countries: Country[] = [
     ],
     headlines: [
       { text: "Rare earth shortages worsen in US aerospace, chips despite trade truce", sentiment: "negative", source: "Reuters" },
-      { text: "Yttrium prices spike 60% as China blocks export licenses to US", sentiment: "negative", source: "Bloomberg" },
+      { text: "Yttrium oxide prices up 1,400% since April 2025 as China retains export controls", sentiment: "negative", source: "Bloomberg" },
       { text: "Two North American coating manufacturers pause production on supply gaps", sentiment: "negative", source: "FT" },
     ],
     exposure: {
@@ -123,11 +123,11 @@ export const countries: Country[] = [
     },
     recommendations: [
       {
-        action: "ACCELERATE yttrium buffer stock from Lynas Rare Earths",
-        description: "Purchase 6-month yttrium buffer from Lynas (Kalgoorlie, Australia). Only non-Chinese producer at scale.",
-        cost: 3.2,
+        action: "STOCKPILE yttrium via MP Materials + spot market",
+        description: "Acquire 6-month yttrium buffer via MP Materials (Mountain Pass, CA) and spot market. Separated heavy rare earth supply outside China is near-zero — stockpiling at elevated prices is only near-term option.",
+        cost: 4.8,
         riskReduction: 420,
-        roi: 131,
+        roi: 87,
         leadTime: "6 weeks",
         priority: "IMMEDIATE",
       },
@@ -218,15 +218,15 @@ export const countries: Country[] = [
     lat: 15.55,
     lng: 48.52,
     brief:
-      "Houthi attacks on commercial shipping in the Red Sea and Bab el-Mandeb strait continue to escalate. 23 attacks on commercial vessels in the past 30 days. Insurance premiums for Suez transit have increased 400%. 80% of Asia-Europe container traffic now rerouting via Cape of Good Hope, adding 10-14 days transit time and $15-20B annually to global shipping costs.",
+      "Houthi conditional ceasefire remains fragile since November 2025 suspension. Despite 5-month attack pause, Suez Canal transits still down 65% from 2023 levels — ships have not returned. Ceasefire explicitly conditional on Gaza operations. Insurance premiums remain 400% above pre-crisis levels. Recommencing attacks would immediately re-expose $1.1B Singapore→Rotterdam corridor. UN Security Council Resolution 2812 (January 2026) extended threat monitoring for 6 months.",
     causalChain: [
-      "Houthi forces launch 23 attacks on commercial vessels in 30-day window",
-      "GDELT records 290% spike in Red Sea security events",
-      "Lloyd's of London raises war risk premiums 400% for Suez transit",
-      "80% of Asia-Europe container traffic reroutes via Cape of Good Hope",
-      "ACLED confirms sustained Houthi capability despite US/UK strikes",
-      "XGBoost assigns 0.91 risk with shipping_attack_frequency as top driver",
-      "LSTM forecast projects no de-escalation within 90-day window",
+      "Houthi conditional ceasefire since November 2025 — explicitly tied to Gaza ceasefire holding",
+      "Suez Canal transits remain 65% below 2023 levels despite 5-month attack pause",
+      "Lloyd's of London maintains elevated war risk premiums — 400% above pre-crisis baseline",
+      "Shipping lines have not returned to Red Sea routing, maintaining Cape of Good Hope diversions",
+      "UN Security Council Resolution 2812 extends Houthi threat monitoring through mid-2026",
+      "XGBoost assigns 0.91 risk — ceasefire fragility and latent capability drive sustained score",
+      "LSTM forecast projects HIGH risk if ceasefire collapses; ELEVATED if it holds",
     ],
     riskDrivers: [
       { feature: "shipping_attack_frequency", importance: 0.36 },
@@ -242,9 +242,9 @@ export const countries: Country[] = [
       { day: 90, score: 94 },
     ],
     headlines: [
-      { text: "Houthi forces attack two more container ships near Bab el-Mandeb strait", sentiment: "negative", source: "Reuters" },
-      { text: "Shipping insurance for Red Sea transit hits record premiums", sentiment: "negative", source: "Lloyd's List" },
-      { text: "US Navy intercepts drone and missile attack in Gulf of Aden", sentiment: "negative", source: "AP" },
+      { text: "Suez Canal traffic stalls at 65% below normal despite 5-month Houthi ceasefire", sentiment: "negative", source: "gCaptain" },
+      { text: "UN extends Houthi threat monitoring through mid-2026 under Resolution 2812", sentiment: "negative", source: "UN News" },
+      { text: "Shipping lines maintain Cape routing — war risk premiums still 400% elevated", sentiment: "negative", source: "Lloyd's List" },
     ],
     exposure: {
       totalExposure: 1100,
