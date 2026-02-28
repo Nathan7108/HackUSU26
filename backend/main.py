@@ -447,15 +447,55 @@ async def generate_gpt_recommendations() -> dict[str, dict]:
     raise RuntimeError("Failed to generate GPT-4o recommendations after all retries")
 
 
+def _load_recs_cache() -> dict[str, dict] | None:
+    """Load recommendations from disk cache. Returns dict or None."""
+    try:
+        if not _RECS_CACHE_PATH.exists():
+            return None
+        with open(_RECS_CACHE_PATH, "r") as f:
+            data = json.load(f)
+        if not data or not isinstance(data, dict) or "recs" not in data:
+            return None
+        return data["recs"]
+    except Exception as e:
+        print(f"Recommendations cache load failed: {e}")
+        return None
+
+
+def _save_recs_cache(recs: dict[str, dict]) -> None:
+    """Persist recommendations to disk."""
+    try:
+        _RECS_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+        with open(_RECS_CACHE_PATH, "w") as f:
+            json.dump({"recs": recs, "savedAt": datetime.utcnow().isoformat() + "Z"}, f)
+        print(f"Recommendations cache saved ({len(recs)} countries)")
+    except Exception as e:
+        print(f"Recommendations cache write failed (non-fatal): {e}")
+
+
 async def get_recommendations() -> dict[str, dict]:
-    """Cache-aware wrapper: return cached if fresh, otherwise generate."""
+    """Cache-aware wrapper: memory → disk → GPT-4o generation."""
     global _gpt_recommendations, _gpt_recommendations_time
     now = time.time()
+
+    # 1. In-memory cache (fresh within TTL)
     if _gpt_recommendations and (now - _gpt_recommendations_time) < _GPT_RECOMMENDATIONS_TTL:
         return _gpt_recommendations
+
+    # 2. Disk cache (survives restarts)
+    if not _gpt_recommendations:
+        disk = _load_recs_cache()
+        if disk:
+            _gpt_recommendations = disk
+            _gpt_recommendations_time = now
+            print(f"Recommendations loaded from disk cache ({len(disk)} countries)")
+            return disk
+
+    # 3. Generate fresh via GPT-4o
     result = await generate_gpt_recommendations()
     _gpt_recommendations = result
     _gpt_recommendations_time = time.time()
+    _save_recs_cache(result)
     return result
 
 
@@ -1079,6 +1119,7 @@ _ACLED_FEATURE_KEYS = [
 
 _KPI_CACHE_PATH = ROOT / "data" / "kpi_history_cache.json"
 _SCORES_CACHE_PATH = ROOT / "data" / "country_scores_cache.json"
+_RECS_CACHE_PATH = ROOT / "data" / "recommendations_cache.json"
 
 
 def _gdelt_features_fast(df: pd.DataFrame) -> dict:
