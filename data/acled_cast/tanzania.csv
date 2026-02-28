@@ -1,0 +1,1171 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Tanzania,Arusha,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141098
+Tanzania,Arusha,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141098
+Tanzania,Arusha,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141098
+Tanzania,Arusha,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Arusha,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141098
+Tanzania,Dar es Salaam,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dar es Salaam,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Dodoma,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141098
+Tanzania,Geita,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Geita,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Iringa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141098
+Tanzania,Kagera,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kagera,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Pemba,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Kaskazini Unguja,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Katavi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Katavi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Katavi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141098
+Tanzania,Katavi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Katavi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Kigoma,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141099
+Tanzania,Kigoma,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141099
+Tanzania,Kigoma,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Kigoma,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kigoma,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Kilimanjaro,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Kilimanjaro,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Kilimanjaro,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kilimanjaro,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Kusini Unguja,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Lindi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Manyara,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Manyara,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Mara,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mara,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,May,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141099
+Tanzania,Mbeya,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mbeya,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Mjini Magharibi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mjini Magharibi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Morogoro,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141099
+Tanzania,Morogoro,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Morogoro,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mtwara,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Mwanza,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Njombe,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Pwani,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Rukwa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Rukwa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141099
+Tanzania,Rukwa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Rukwa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Ruvuma,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Shinyanga,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Simiyu,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Singida,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Songwe,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tabora,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Tanga,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141100
+Tanzania,Arusha,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Dar es Salaam,September,2024,0,0,0,0,3.0,0.0,0.0,3.0,1730731004
+Tanzania,Dodoma,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Geita,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Iringa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Kagera,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Kaskazini Pemba,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Kaskazini Unguja,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Katavi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Kigoma,September,2024,1,0,0,1,3.0,0.0,0.0,3.0,1730731004
+Tanzania,Kilimanjaro,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Kusini Unguja,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Lindi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Manyara,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Mara,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Mbeya,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Mjini Magharibi,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730731004
+Tanzania,Morogoro,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Mtwara,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Mwanza,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Njombe,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Pwani,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Rukwa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Ruvuma,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Shinyanga,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Simiyu,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Singida,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Songwe,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Tabora,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Tanga,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731004
+Tanzania,Arusha,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Arusha,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Dar es Salaam,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Dar es Salaam,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010311
+Tanzania,Dodoma,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Dodoma,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Geita,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Geita,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Iringa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Iringa,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010311
+Tanzania,Kagera,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Kagera,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Kaskazini Pemba,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Kaskazini Pemba,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Kaskazini Unguja,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Kaskazini Unguja,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010311
+Tanzania,Katavi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Katavi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Kigoma,October,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Kigoma,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Kilimanjaro,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Kilimanjaro,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Kusini Unguja,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Kusini Unguja,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Lindi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Lindi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Manyara,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Manyara,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mara,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mara,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mbeya,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mbeya,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mjini Magharibi,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mjini Magharibi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Morogoro,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Morogoro,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mtwara,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mtwara,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mwanza,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Mwanza,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Njombe,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010312
+Tanzania,Njombe,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Pwani,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010312
+Tanzania,Pwani,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Rukwa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Rukwa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Ruvuma,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Ruvuma,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Shinyanga,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Shinyanga,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Simiyu,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Simiyu,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Singida,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Singida,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010312
+Tanzania,Songwe,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Songwe,November,2024,0,0,0,0,3.0,0.0,0.0,3.0,1734010312
+Tanzania,Tabora,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Tabora,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Tanga,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Tanga,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010312
+Tanzania,Arusha,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Dar es Salaam,December,2024,1,0,0,1,2.0,0.0,0.0,2.0,1737033375
+Tanzania,Dodoma,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Geita,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Iringa,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Kagera,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Kaskazini Pemba,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Kaskazini Unguja,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Katavi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Kigoma,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Kilimanjaro,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Kusini Unguja,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033375
+Tanzania,Lindi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Manyara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Mara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Mbeya,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033376
+Tanzania,Mjini Magharibi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Morogoro,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Mtwara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Mwanza,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Njombe,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Pwani,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Rukwa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Ruvuma,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Shinyanga,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Simiyu,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Singida,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Songwe,December,2024,2,0,0,2,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Tabora,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Tanga,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033376
+Tanzania,Arusha,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Dar es Salaam,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Dodoma,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Geita,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Iringa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Kagera,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Kaskazini Pemba,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Kaskazini Unguja,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Katavi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Kigoma,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Kilimanjaro,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Kusini Unguja,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Lindi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Manyara,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Mara,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Mbeya,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Mjini Magharibi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Morogoro,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Mtwara,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Mwanza,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Njombe,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Pwani,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Rukwa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Ruvuma,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Shinyanga,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Simiyu,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Singida,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Songwe,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Tabora,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Tanga,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854873
+Tanzania,Arusha,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Dar es Salaam,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Dodoma,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Geita,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Iringa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Kagera,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Kaskazini Pemba,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Kaskazini Unguja,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Katavi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Kigoma,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Kilimanjaro,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Kusini Unguja,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Lindi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Manyara,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Mara,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Mbeya,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Mjini Magharibi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Morogoro,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Mtwara,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Mwanza,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Njombe,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Pwani,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Rukwa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Ruvuma,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Shinyanga,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Simiyu,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Singida,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Songwe,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Tabora,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Tanga,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266644
+Tanzania,Arusha,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Dar es Salaam,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Dodoma,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Geita,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Iringa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Kagera,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Kaskazini Pemba,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Kaskazini Unguja,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Katavi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Kigoma,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Kilimanjaro,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Kusini Unguja,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Lindi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Manyara,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Mara,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Mbeya,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Mjini Magharibi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Morogoro,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Mtwara,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Mwanza,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Njombe,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Pwani,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Rukwa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Ruvuma,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Shinyanga,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Simiyu,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Singida,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Songwe,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Tabora,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Tanga,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Tanzania,Arusha,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Dar es Salaam,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702919
+Tanzania,Dodoma,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Geita,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Iringa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Kagera,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Kaskazini Pemba,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Kaskazini Unguja,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Katavi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Kigoma,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Kilimanjaro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Kusini Unguja,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Lindi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Manyara,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Mara,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Mbeya,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Mjini Magharibi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Morogoro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Mtwara,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Mwanza,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Njombe,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Pwani,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Rukwa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Ruvuma,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Shinyanga,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Simiyu,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Singida,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Songwe,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Tabora,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Tanga,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702919
+Tanzania,Arusha,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732031
+Tanzania,Dar es Salaam,May,2025,1,0,0,1,2.0,0.0,0.0,2.0,1749732031
+Tanzania,Dodoma,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Geita,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Iringa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Kagera,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Kaskazini Pemba,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Kaskazini Unguja,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Katavi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Kigoma,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Kilimanjaro,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Kusini Unguja,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Lindi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Manyara,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Mara,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Mbeya,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732031
+Tanzania,Mjini Magharibi,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732031
+Tanzania,Morogoro,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Mtwara,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Mwanza,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Njombe,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Pwani,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Rukwa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Ruvuma,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Shinyanga,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Simiyu,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Singida,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Songwe,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Tabora,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Tanga,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732031
+Tanzania,Arusha,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Arusha,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Arusha,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Arusha,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Arusha,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Arusha,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Tanzania,Arusha,December,2025,2,0,0,2,,,,,1765375966
+Tanzania,Dar es Salaam,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Dar es Salaam,July,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Tanzania,Dar es Salaam,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+Tanzania,Dar es Salaam,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Tanzania,Dar es Salaam,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Tanzania,Dar es Salaam,November,2025,1,0,0,1,7.0,0.0,0.0,7.0,1765375966
+Tanzania,Dar es Salaam,December,2025,7,0,0,7,,,,,1765375966
+Tanzania,Dodoma,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Dodoma,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Dodoma,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Dodoma,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Dodoma,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Tanzania,Dodoma,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Dodoma,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Geita,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Geita,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Tanzania,Geita,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Tanzania,Geita,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Geita,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Geita,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Tanzania,Geita,December,2025,2,0,0,2,,,,,1765375966
+Tanzania,Iringa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Iringa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Iringa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Iringa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Iringa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Iringa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Iringa,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Kagera,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kagera,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kagera,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Kagera,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Kagera,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Kagera,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Kagera,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Pemba,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kaskazini Pemba,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kaskazini Pemba,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Kaskazini Pemba,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Kaskazini Pemba,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Kaskazini Pemba,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Kaskazini Pemba,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Unguja,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kaskazini Unguja,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kaskazini Unguja,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Kaskazini Unguja,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Kaskazini Unguja,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Kaskazini Unguja,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Kaskazini Unguja,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Katavi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Katavi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Katavi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Katavi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Katavi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Katavi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Katavi,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Kigoma,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kigoma,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kigoma,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+Tanzania,Kigoma,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Kigoma,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Tanzania,Kigoma,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Tanzania,Kigoma,December,2025,1,0,0,1,,,,,1765375966
+Tanzania,Kilimanjaro,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kilimanjaro,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kilimanjaro,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Kilimanjaro,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Kilimanjaro,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Kilimanjaro,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Tanzania,Kilimanjaro,December,2025,1,0,0,1,,,,,1765375966
+Tanzania,Kusini Unguja,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kusini Unguja,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Kusini Unguja,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Kusini Unguja,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Kusini Unguja,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Kusini Unguja,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Kusini Unguja,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Lindi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Lindi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Lindi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Lindi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Lindi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Lindi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Lindi,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Manyara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Manyara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Manyara,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Manyara,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Manyara,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Manyara,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Manyara,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Mara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mara,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Tanzania,Mara,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Tanzania,Mara,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Mara,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Tanzania,Mara,November,2025,1,0,0,1,2.0,0.0,0.0,2.0,1765375966
+Tanzania,Mara,December,2025,3,0,0,3,,,,,1765375966
+Tanzania,Mbeya,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mbeya,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mbeya,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Mbeya,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Mbeya,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Mbeya,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Tanzania,Mbeya,December,2025,1,0,0,1,,,,,1765375966
+Tanzania,Mjini Magharibi,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mjini Magharibi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mjini Magharibi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Mjini Magharibi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Mjini Magharibi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Mjini Magharibi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Mjini Magharibi,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Morogoro,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Morogoro,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Morogoro,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Morogoro,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Morogoro,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Tanzania,Morogoro,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Morogoro,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Mtwara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mtwara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mtwara,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Mtwara,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Mtwara,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Mtwara,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Mtwara,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Mwanza,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mwanza,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Mwanza,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Mwanza,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Mwanza,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Mwanza,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Mwanza,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Njombe,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Njombe,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Njombe,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Njombe,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Njombe,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Tanzania,Njombe,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Njombe,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Pwani,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Pwani,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Pwani,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Pwani,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Pwani,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Pwani,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Tanzania,Pwani,December,2025,1,0,0,1,,,,,1765375966
+Tanzania,Rukwa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Rukwa,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Tanzania,Rukwa,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Rukwa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Rukwa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Rukwa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Rukwa,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Ruvuma,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Ruvuma,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Ruvuma,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Ruvuma,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Ruvuma,October,2025,0,0,0,0,2.0,1.0,0.0,1.0,1762435626
+Tanzania,Ruvuma,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Ruvuma,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Shinyanga,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Shinyanga,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Shinyanga,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Shinyanga,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Shinyanga,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Tanzania,Shinyanga,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Shinyanga,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Simiyu,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Simiyu,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Simiyu,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Simiyu,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Simiyu,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Tanzania,Simiyu,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Simiyu,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Singida,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Singida,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Singida,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Singida,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Singida,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Tanzania,Singida,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Singida,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Songwe,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Songwe,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Songwe,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Songwe,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Songwe,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Songwe,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Tanzania,Songwe,December,2025,1,0,0,1,,,,,1765375966
+Tanzania,Tabora,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Tabora,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Tabora,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Tabora,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Tabora,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Tabora,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Tabora,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Tanga,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Tanzania,Tanga,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Tanzania,Tanga,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Tanzania,Tanga,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Tanzania,Tanga,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Tanzania,Tanga,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Tanzania,Tanga,December,2025,0,0,0,0,,,,,1765375966
+Tanzania,Arusha,January,2026,2,0,0,2,,,,,1765375966
+Tanzania,Dar es Salaam,January,2026,7,0,0,7,,,,,1765375966
+Tanzania,Dodoma,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Geita,January,2026,2,0,0,2,,,,,1765375966
+Tanzania,Iringa,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kagera,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Pemba,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Unguja,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Katavi,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kigoma,January,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kilimanjaro,January,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kusini Unguja,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Lindi,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Manyara,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mara,January,2026,3,0,0,3,,,,,1765375966
+Tanzania,Mbeya,January,2026,1,0,0,1,,,,,1765375966
+Tanzania,Mjini Magharibi,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Morogoro,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mtwara,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mwanza,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Njombe,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Pwani,January,2026,1,0,0,1,,,,,1765375966
+Tanzania,Rukwa,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Ruvuma,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Shinyanga,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Simiyu,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Singida,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Songwe,January,2026,1,0,0,1,,,,,1765375966
+Tanzania,Tabora,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Tanga,January,2026,0,0,0,0,,,,,1765375966
+Tanzania,Arusha,February,2026,2,0,0,2,,,,,1765375966
+Tanzania,Dar es Salaam,February,2026,7,0,0,7,,,,,1765375966
+Tanzania,Dodoma,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Geita,February,2026,2,0,0,2,,,,,1765375966
+Tanzania,Iringa,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kagera,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Pemba,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Unguja,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Katavi,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kigoma,February,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kilimanjaro,February,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kusini Unguja,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Lindi,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Manyara,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mara,February,2026,3,0,0,3,,,,,1765375966
+Tanzania,Mbeya,February,2026,1,0,0,1,,,,,1765375966
+Tanzania,Mjini Magharibi,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Morogoro,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mtwara,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mwanza,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Njombe,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Pwani,February,2026,1,0,0,1,,,,,1765375966
+Tanzania,Rukwa,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Ruvuma,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Shinyanga,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Simiyu,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Singida,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Songwe,February,2026,1,0,0,1,,,,,1765375966
+Tanzania,Tabora,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Tanga,February,2026,0,0,0,0,,,,,1765375966
+Tanzania,Arusha,March,2026,2,0,0,2,,,,,1765375966
+Tanzania,Dar es Salaam,March,2026,7,0,0,7,,,,,1765375966
+Tanzania,Dodoma,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Geita,March,2026,2,0,0,2,,,,,1765375966
+Tanzania,Iringa,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kagera,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Pemba,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Unguja,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Katavi,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kigoma,March,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kilimanjaro,March,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kusini Unguja,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Lindi,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Manyara,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mara,March,2026,3,0,0,3,,,,,1765375966
+Tanzania,Mbeya,March,2026,1,0,0,1,,,,,1765375966
+Tanzania,Mjini Magharibi,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Morogoro,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mtwara,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mwanza,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Njombe,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Pwani,March,2026,1,0,0,1,,,,,1765375966
+Tanzania,Rukwa,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Ruvuma,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Shinyanga,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Simiyu,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Singida,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Songwe,March,2026,1,0,0,1,,,,,1765375966
+Tanzania,Tabora,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Tanga,March,2026,0,0,0,0,,,,,1765375966
+Tanzania,Arusha,April,2026,2,0,0,2,,,,,1765375966
+Tanzania,Dar es Salaam,April,2026,7,0,0,7,,,,,1765375966
+Tanzania,Dodoma,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Geita,April,2026,2,0,0,2,,,,,1765375966
+Tanzania,Iringa,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kagera,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Pemba,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Unguja,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Katavi,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kigoma,April,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kilimanjaro,April,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kusini Unguja,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Lindi,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Manyara,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mara,April,2026,3,0,0,3,,,,,1765375966
+Tanzania,Mbeya,April,2026,1,0,0,1,,,,,1765375966
+Tanzania,Mjini Magharibi,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Morogoro,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mtwara,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mwanza,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Njombe,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Pwani,April,2026,1,0,0,1,,,,,1765375966
+Tanzania,Rukwa,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Ruvuma,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Shinyanga,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Simiyu,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Singida,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Songwe,April,2026,1,0,0,1,,,,,1765375966
+Tanzania,Tabora,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Tanga,April,2026,0,0,0,0,,,,,1765375966
+Tanzania,Arusha,May,2026,2,0,0,2,,,,,1765375966
+Tanzania,Dar es Salaam,May,2026,7,0,0,7,,,,,1765375966
+Tanzania,Dodoma,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Geita,May,2026,2,0,0,2,,,,,1765375966
+Tanzania,Iringa,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kagera,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Pemba,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kaskazini Unguja,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Katavi,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Kigoma,May,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kilimanjaro,May,2026,1,0,0,1,,,,,1765375966
+Tanzania,Kusini Unguja,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Lindi,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Manyara,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mara,May,2026,3,0,0,3,,,,,1765375966
+Tanzania,Mbeya,May,2026,1,0,0,1,,,,,1765375966
+Tanzania,Mjini Magharibi,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Morogoro,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mtwara,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Mwanza,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Njombe,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Pwani,May,2026,1,0,0,1,,,,,1765375966
+Tanzania,Rukwa,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Ruvuma,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Shinyanga,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Simiyu,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Singida,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Songwe,May,2026,1,0,0,1,,,,,1765375966
+Tanzania,Tabora,May,2026,0,0,0,0,,,,,1765375966
+Tanzania,Tanga,May,2026,0,0,0,0,,,,,1765375966

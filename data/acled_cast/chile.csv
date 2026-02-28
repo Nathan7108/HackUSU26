@@ -1,0 +1,625 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Chile,Antofagasta,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560795
+Chile,Antofagasta,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560795
+Chile,Antofagasta,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chile,Antofagasta,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560796
+Chile,Antofagasta,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560796
+Chile,Araucania,March,2023,3,1,0,2,8.0,2.0,0.0,6.0,1728560796
+Chile,Araucania,April,2023,6,1,0,5,3.0,1.0,0.0,2.0,1728560796
+Chile,Araucania,May,2023,4,1,0,3,11.0,2.0,0.0,9.0,1728560796
+Chile,Araucania,June,2023,4,1,0,2,4.0,1.0,0.0,3.0,1728560796
+Chile,Araucania,July,2023,4,1,0,3,3.0,2.0,0.0,1.0,1728560796
+Chile,Araucania,August,2023,3,1,0,2,7.0,6.0,0.0,1.0,1728560796
+Chile,Araucania,September,2023,7,5,0,2,1.0,0.0,0.0,1.0,1728560796
+Chile,Araucania,October,2023,1,0,0,1,4.0,2.0,0.0,2.0,1728560796
+Chile,Araucania,November,2023,4,2,0,2,1.0,0.0,0.0,1.0,1728560796
+Chile,Araucania,December,2023,2,0,0,2,2.0,1.0,0.0,1.0,1728560796
+Chile,Araucania,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560796
+Chile,Araucania,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560796
+Chile,Araucania,March,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560796
+Chile,Araucania,April,2024,0,0,0,0,4.0,1.0,0.0,3.0,1728560796
+Chile,Araucania,May,2024,3,1,0,2,0.0,0.0,0.0,0.0,1728560796
+Chile,Araucania,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560796
+Chile,Araucania,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560796
+Chile,Araucania,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560796
+Chile,Arica y Parinacota,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,June,2024,0,0,0,0,1.0,0.0,1.0,0.0,1728560797
+Chile,Arica y Parinacota,July,2024,1,0,1,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Arica y Parinacota,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560797
+Chile,Atacama,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Atacama,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Atacama,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Atacama,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560798
+Chile,Atacama,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560798
+Chile,Atacama,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Atacama,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Atacama,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Atacama,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Atacama,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560798
+Chile,Aysen,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Aysen,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Aysen,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Aysen,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Aysen,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Aysen,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Aysen,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Aysen,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Aysen,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Biobio,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560799
+Chile,Biobio,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560799
+Chile,Biobio,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560799
+Chile,Biobio,June,2023,1,0,0,1,3.0,0.0,1.0,2.0,1728560799
+Chile,Biobio,July,2023,2,0,1,1,3.0,0.0,0.0,3.0,1728560799
+Chile,Biobio,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560799
+Chile,Biobio,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560800
+Chile,Biobio,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560800
+Chile,Biobio,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560800
+Chile,Biobio,December,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560800
+Chile,Biobio,January,2024,1,0,0,1,2.0,1.0,0.0,1.0,1728560800
+Chile,Biobio,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560800
+Chile,Biobio,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560800
+Chile,Biobio,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560800
+Chile,Biobio,May,2024,1,1,0,0,1.0,0.0,0.0,1.0,1728560800
+Chile,Biobio,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560800
+Chile,Biobio,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560800
+Chile,Biobio,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560800
+Chile,Coquimbo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560800
+Chile,Coquimbo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560800
+Chile,Coquimbo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560800
+Chile,Coquimbo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560801
+Chile,Coquimbo,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560801
+Chile,Coquimbo,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Coquimbo,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560801
+Chile,Los Lagos,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Los Lagos,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Los Lagos,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Los Lagos,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Los Lagos,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560801
+Chile,Los Lagos,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560801
+Chile,Los Lagos,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Lagos,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,May,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560802
+Chile,Los Rios,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560802
+Chile,Los Rios,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560802
+Chile,Los Rios,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Los Rios,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Los Rios,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Los Rios,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Los Rios,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Magallanes,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560803
+Chile,Maule,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560804
+Chile,Maule,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Maule,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Metropolitana,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Metropolitana,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Metropolitana,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Metropolitana,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Metropolitana,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560804
+Chile,Metropolitana,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560804
+Chile,Metropolitana,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560804
+Chile,Metropolitana,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560804
+Chile,Metropolitana,November,2023,1,0,0,1,1.0,1.0,0.0,0.0,1728560805
+Chile,Metropolitana,December,2023,2,1,0,1,1.0,0.0,0.0,1.0,1728560805
+Chile,Metropolitana,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560805
+Chile,Metropolitana,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560805
+Chile,Metropolitana,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560805
+Chile,Metropolitana,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560805
+Chile,Metropolitana,May,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560805
+Chile,Metropolitana,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560805
+Chile,Metropolitana,July,2024,0,0,0,0,2.0,1.0,0.0,1.0,1728560805
+Chile,Metropolitana,August,2024,2,1,0,1,3.0,0.0,0.0,3.0,1728560805
+Chile,Nuble,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,June,2023,0,0,0,0,1.0,0.0,1.0,0.0,1728560805
+Chile,Nuble,July,2023,2,0,1,1,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560805
+Chile,Nuble,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,Nuble,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,Nuble,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,Nuble,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,Nuble,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560806
+Chile,O'Higgins,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,O'Higgins,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560806
+Chile,Tarapaca,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560807
+Chile,Tarapaca,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560807
+Chile,Tarapaca,May,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Tarapaca,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Valparaiso,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Valparaiso,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Valparaiso,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560807
+Chile,Valparaiso,June,2023,0,0,0,0,1.0,0.0,1.0,0.0,1728560807
+Chile,Valparaiso,July,2023,2,0,1,1,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560808
+Chile,Valparaiso,November,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560808
+Chile,Valparaiso,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560808
+Chile,Valparaiso,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560808
+Chile,Antofagasta,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730984
+Chile,Araucania,September,2024,0,0,0,0,1.0,1.0,0.0,0.0,1730730984
+Chile,Arica y Parinacota,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Atacama,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Aysen,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Biobio,September,2024,1,0,0,1,1.0,1.0,0.0,0.0,1730730984
+Chile,Coquimbo,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730984
+Chile,Los Lagos,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Los Rios,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Magallanes,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Maule,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Metropolitana,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730730984
+Chile,Nuble,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,O'Higgins,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Tarapaca,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Valparaiso,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chile,Antofagasta,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Antofagasta,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Araucania,October,2024,1,1,0,0,1.0,0.0,0.0,1.0,1734010273
+Chile,Araucania,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010273
+Chile,Arica y Parinacota,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Arica y Parinacota,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Atacama,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Atacama,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Aysen,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Aysen,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Biobio,October,2024,1,1,0,0,2.0,0.0,0.0,2.0,1734010273
+Chile,Biobio,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010273
+Chile,Coquimbo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Coquimbo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Los Lagos,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Los Lagos,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Los Rios,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Los Rios,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Magallanes,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Magallanes,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Maule,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Maule,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010273
+Chile,Metropolitana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Metropolitana,November,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010273
+Chile,Nuble,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Nuble,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,O'Higgins,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,O'Higgins,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Tarapaca,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Tarapaca,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Valparaiso,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Valparaiso,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chile,Antofagasta,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Araucania,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033337
+Chile,Arica y Parinacota,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Atacama,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Aysen,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Biobio,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Coquimbo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Los Lagos,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Los Rios,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Magallanes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Maule,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033337
+Chile,Metropolitana,December,2024,2,0,0,2,1.0,1.0,0.0,0.0,1737033337
+Chile,Nuble,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,O'Higgins,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Tarapaca,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Valparaiso,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chile,Antofagasta,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chile,Araucania,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854844
+Chile,Arica y Parinacota,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Atacama,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Aysen,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Biobio,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Coquimbo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Los Lagos,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Los Rios,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Magallanes,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Maule,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Metropolitana,January,2025,2,1,0,1,0.0,0.0,0.0,0.0,1738854844
+Chile,Nuble,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,O'Higgins,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Tarapaca,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Valparaiso,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854844
+Chile,Antofagasta,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Araucania,February,2025,1,1,0,0,2.0,0.0,0.0,2.0,1741266613
+Chile,Arica y Parinacota,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Atacama,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Aysen,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Biobio,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266613
+Chile,Coquimbo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Los Lagos,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Los Rios,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Magallanes,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Maule,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Metropolitana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Nuble,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,O'Higgins,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Tarapaca,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chile,Valparaiso,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266614
+Chile,Antofagasta,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Araucania,March,2025,1,0,0,1,2.0,1.0,0.0,1.0,1744287541
+Chile,Arica y Parinacota,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287541
+Chile,Atacama,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Aysen,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Biobio,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287541
+Chile,Coquimbo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Los Lagos,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Los Rios,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Magallanes,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Maule,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Metropolitana,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287541
+Chile,Nuble,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,O'Higgins,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Tarapaca,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chile,Valparaiso,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287541
+Chile,Antofagasta,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Araucania,April,2025,2,1,0,1,2.0,1.0,0.0,1.0,1746702910
+Chile,Arica y Parinacota,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702910
+Chile,Atacama,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Aysen,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Biobio,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702910
+Chile,Coquimbo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Los Lagos,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Los Rios,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Magallanes,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Maule,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Metropolitana,April,2025,1,0,0,1,2.0,0.0,0.0,2.0,1746702910
+Chile,Nuble,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,O'Higgins,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Tarapaca,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chile,Valparaiso,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702910
+Chile,Antofagasta,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732006
+Chile,Araucania,May,2025,2,1,0,1,1.0,0.0,0.0,1.0,1749732006
+Chile,Arica y Parinacota,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chile,Atacama,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chile,Aysen,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chile,Biobio,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732006
+Chile,Coquimbo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chile,Los Lagos,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chile,Los Rios,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chile,Magallanes,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732007
+Chile,Maule,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732007
+Chile,Metropolitana,May,2025,2,0,0,2,2.0,0.0,1.0,1.0,1749732007
+Chile,Nuble,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732007
+Chile,O'Higgins,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732007
+Chile,Tarapaca,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732007
+Chile,Valparaiso,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732007
+Chile,Antofagasta,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Chile,Antofagasta,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Antofagasta,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Antofagasta,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Antofagasta,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Antofagasta,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Antofagasta,December,2025,0,0,0,0,,,,,1765375966
+Chile,Araucania,June,2025,1,0,0,1,4.0,1.0,0.0,3.0,1754429217
+Chile,Araucania,July,2025,3,1,0,2,1.0,0.0,0.0,1.0,1754429217
+Chile,Araucania,August,2025,1,0,0,1,2.0,0.0,0.0,2.0,1757596698
+Chile,Araucania,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Chile,Araucania,October,2025,1,0,0,1,3.0,0.0,0.0,3.0,1762435626
+Chile,Araucania,November,2025,3,0,0,3,2.0,2.0,0.0,0.0,1765375966
+Chile,Araucania,December,2025,1,1,0,0,,,,,1765375966
+Chile,Arica y Parinacota,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Arica y Parinacota,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Arica y Parinacota,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Chile,Arica y Parinacota,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Chile,Arica y Parinacota,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Arica y Parinacota,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Arica y Parinacota,December,2025,0,0,0,0,,,,,1765375966
+Chile,Atacama,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Atacama,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Atacama,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Atacama,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Atacama,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Atacama,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Atacama,December,2025,0,0,0,0,,,,,1765375966
+Chile,Aysen,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Aysen,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Chile,Aysen,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Chile,Aysen,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Aysen,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Aysen,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Aysen,December,2025,0,0,0,0,,,,,1765375966
+Chile,Biobio,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Biobio,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Biobio,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Biobio,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Biobio,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Chile,Biobio,November,2025,1,0,0,1,1.0,1.0,0.0,0.0,1765375966
+Chile,Biobio,December,2025,1,1,0,0,,,,,1765375966
+Chile,Coquimbo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Coquimbo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Coquimbo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Coquimbo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Coquimbo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Coquimbo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Coquimbo,December,2025,0,0,0,0,,,,,1765375966
+Chile,Los Lagos,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Los Lagos,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Los Lagos,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Los Lagos,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Los Lagos,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Los Lagos,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Los Lagos,December,2025,0,0,0,0,,,,,1765375966
+Chile,Los Rios,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Los Rios,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Los Rios,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Los Rios,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Los Rios,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Los Rios,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Los Rios,December,2025,0,0,0,0,,,,,1765375966
+Chile,Magallanes,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Magallanes,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Magallanes,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Magallanes,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Magallanes,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Magallanes,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Magallanes,December,2025,0,0,0,0,,,,,1765375966
+Chile,Maule,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Maule,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Maule,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Maule,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Maule,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Maule,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Maule,December,2025,0,0,0,0,,,,,1765375966
+Chile,Metropolitana,June,2025,2,0,1,1,2.0,0.0,0.0,2.0,1754429217
+Chile,Metropolitana,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Chile,Metropolitana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Metropolitana,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Chile,Metropolitana,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Chile,Metropolitana,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Chile,Metropolitana,December,2025,0,0,0,0,,,,,1765375966
+Chile,Nuble,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Nuble,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Nuble,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Nuble,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Nuble,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Nuble,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Nuble,December,2025,0,0,0,0,,,,,1765375966
+Chile,O'Higgins,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,O'Higgins,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,O'Higgins,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,O'Higgins,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,O'Higgins,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,O'Higgins,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,O'Higgins,December,2025,0,0,0,0,,,,,1765375966
+Chile,Tarapaca,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Chile,Tarapaca,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Tarapaca,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Tarapaca,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chile,Tarapaca,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chile,Tarapaca,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Tarapaca,December,2025,0,0,0,0,,,,,1765375966
+Chile,Valparaiso,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Valparaiso,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chile,Valparaiso,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chile,Valparaiso,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Chile,Valparaiso,October,2025,2,0,0,2,0.0,0.0,0.0,0.0,1762435626
+Chile,Valparaiso,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chile,Valparaiso,December,2025,0,0,0,0,,,,,1765375966
+Chile,Antofagasta,January,2026,0,0,0,0,,,,,1765375966
+Chile,Araucania,January,2026,1,1,0,0,,,,,1765375966
+Chile,Arica y Parinacota,January,2026,0,0,0,0,,,,,1765375966
+Chile,Atacama,January,2026,0,0,0,0,,,,,1765375966
+Chile,Aysen,January,2026,0,0,0,0,,,,,1765375966
+Chile,Biobio,January,2026,1,1,0,0,,,,,1765375966
+Chile,Coquimbo,January,2026,0,0,0,0,,,,,1765375966
+Chile,Los Lagos,January,2026,0,0,0,0,,,,,1765375966
+Chile,Los Rios,January,2026,0,0,0,0,,,,,1765375966
+Chile,Magallanes,January,2026,0,0,0,0,,,,,1765375966
+Chile,Maule,January,2026,0,0,0,0,,,,,1765375966
+Chile,Metropolitana,January,2026,0,0,0,0,,,,,1765375966
+Chile,Nuble,January,2026,0,0,0,0,,,,,1765375966
+Chile,O'Higgins,January,2026,0,0,0,0,,,,,1765375966
+Chile,Tarapaca,January,2026,0,0,0,0,,,,,1765375966
+Chile,Valparaiso,January,2026,0,0,0,0,,,,,1765375966
+Chile,Antofagasta,February,2026,0,0,0,0,,,,,1765375966
+Chile,Araucania,February,2026,1,1,0,0,,,,,1765375966
+Chile,Arica y Parinacota,February,2026,0,0,0,0,,,,,1765375966
+Chile,Atacama,February,2026,0,0,0,0,,,,,1765375966
+Chile,Aysen,February,2026,0,0,0,0,,,,,1765375966
+Chile,Biobio,February,2026,1,1,0,0,,,,,1765375966
+Chile,Coquimbo,February,2026,0,0,0,0,,,,,1765375966
+Chile,Los Lagos,February,2026,0,0,0,0,,,,,1765375966
+Chile,Los Rios,February,2026,0,0,0,0,,,,,1765375966
+Chile,Magallanes,February,2026,0,0,0,0,,,,,1765375966
+Chile,Maule,February,2026,0,0,0,0,,,,,1765375966
+Chile,Metropolitana,February,2026,0,0,0,0,,,,,1765375966
+Chile,Nuble,February,2026,0,0,0,0,,,,,1765375966
+Chile,O'Higgins,February,2026,0,0,0,0,,,,,1765375966
+Chile,Tarapaca,February,2026,0,0,0,0,,,,,1765375966
+Chile,Valparaiso,February,2026,0,0,0,0,,,,,1765375966
+Chile,Antofagasta,March,2026,0,0,0,0,,,,,1765375966
+Chile,Araucania,March,2026,1,1,0,0,,,,,1765375966
+Chile,Arica y Parinacota,March,2026,0,0,0,0,,,,,1765375966
+Chile,Atacama,March,2026,0,0,0,0,,,,,1765375966
+Chile,Aysen,March,2026,0,0,0,0,,,,,1765375966
+Chile,Biobio,March,2026,1,1,0,0,,,,,1765375966
+Chile,Coquimbo,March,2026,0,0,0,0,,,,,1765375966
+Chile,Los Lagos,March,2026,0,0,0,0,,,,,1765375966
+Chile,Los Rios,March,2026,0,0,0,0,,,,,1765375966
+Chile,Magallanes,March,2026,0,0,0,0,,,,,1765375966
+Chile,Maule,March,2026,0,0,0,0,,,,,1765375966
+Chile,Metropolitana,March,2026,0,0,0,0,,,,,1765375966
+Chile,Nuble,March,2026,0,0,0,0,,,,,1765375966
+Chile,O'Higgins,March,2026,0,0,0,0,,,,,1765375966
+Chile,Tarapaca,March,2026,0,0,0,0,,,,,1765375966
+Chile,Valparaiso,March,2026,0,0,0,0,,,,,1765375966
+Chile,Antofagasta,April,2026,0,0,0,0,,,,,1765375966
+Chile,Araucania,April,2026,1,1,0,0,,,,,1765375966
+Chile,Arica y Parinacota,April,2026,0,0,0,0,,,,,1765375966
+Chile,Atacama,April,2026,0,0,0,0,,,,,1765375966
+Chile,Aysen,April,2026,0,0,0,0,,,,,1765375966
+Chile,Biobio,April,2026,1,1,0,0,,,,,1765375966
+Chile,Coquimbo,April,2026,0,0,0,0,,,,,1765375966
+Chile,Los Lagos,April,2026,0,0,0,0,,,,,1765375966
+Chile,Los Rios,April,2026,0,0,0,0,,,,,1765375966
+Chile,Magallanes,April,2026,0,0,0,0,,,,,1765375966
+Chile,Maule,April,2026,0,0,0,0,,,,,1765375966
+Chile,Metropolitana,April,2026,0,0,0,0,,,,,1765375966
+Chile,Nuble,April,2026,0,0,0,0,,,,,1765375966
+Chile,O'Higgins,April,2026,0,0,0,0,,,,,1765375966
+Chile,Tarapaca,April,2026,0,0,0,0,,,,,1765375966
+Chile,Valparaiso,April,2026,0,0,0,0,,,,,1765375966
+Chile,Antofagasta,May,2026,0,0,0,0,,,,,1765375966
+Chile,Araucania,May,2026,1,1,0,0,,,,,1765375966
+Chile,Arica y Parinacota,May,2026,0,0,0,0,,,,,1765375966
+Chile,Atacama,May,2026,0,0,0,0,,,,,1765375966
+Chile,Aysen,May,2026,0,0,0,0,,,,,1765375966
+Chile,Biobio,May,2026,0,0,0,0,,,,,1765375966
+Chile,Coquimbo,May,2026,0,0,0,0,,,,,1765375966
+Chile,Los Lagos,May,2026,0,0,0,0,,,,,1765375966
+Chile,Los Rios,May,2026,0,0,0,0,,,,,1765375966
+Chile,Magallanes,May,2026,0,0,0,0,,,,,1765375966
+Chile,Maule,May,2026,0,0,0,0,,,,,1765375966
+Chile,Metropolitana,May,2026,0,0,0,0,,,,,1765375966
+Chile,Nuble,May,2026,0,0,0,0,,,,,1765375966
+Chile,O'Higgins,May,2026,0,0,0,0,,,,,1765375966
+Chile,Tarapaca,May,2026,0,0,0,0,,,,,1765375966
+Chile,Valparaiso,May,2026,0,0,0,0,,,,,1765375966

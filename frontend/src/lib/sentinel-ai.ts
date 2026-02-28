@@ -1,5 +1,5 @@
-import { countries, facilities, tradeRoutes, getAnomalyCountries, getCountriesByRisk } from "@/data"
-import type { DashboardSummary, Country } from "@/types"
+import { facilities, tradeRoutes } from "@/data"
+import type { DashboardSummary } from "@/types"
 
 // ── Context Serializer ─────────────────────────────────────────
 // Packs ALL live dashboard data into a compact string for GPT's system prompt.
@@ -21,8 +21,8 @@ export function serializeContext(
 - Model Confidence: ${dashboard.modelConfidence}%`)
   }
 
-  // 2. All countries with risk scores (use live dashboard data if available, else mock)
-  const countryList = dashboard?.countries?.length ? dashboard.countries : getCountriesByRisk()
+  // 2. All countries with risk scores (live API data only)
+  const countryList = dashboard?.countries ?? []
   sections.push(`## ALL MONITORED COUNTRIES (${countryList.length})
 ${countryList
   .sort((a, b) => b.score - a.score)
@@ -42,8 +42,8 @@ ${liveAlerts
   .map((a) => `- [${a.severity}] ${a.title} — ${a.description} (${a.timestamp})`)
   .join("\n")}`)
 
-  // 4. Anomalies detail
-  const anomalies = getAnomalyCountries()
+  // 4. Anomalies detail (from live dashboard data)
+  const anomalies = countryList.filter((c) => c.isAnomaly)
   if (anomalies.length > 0) {
     sections.push(`## ANOMALY DETAILS (Isolation Forest)
 ${anomalies.map((c) => `- ${c.name}: driver="${c.anomalyDriver}" detected=${c.anomalyTime}`).join("\n")}`)

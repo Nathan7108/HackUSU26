@@ -1,0 +1,937 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Argentina,Buenos Aires,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560655
+Argentina,Buenos Aires,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Argentina,Buenos Aires,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Buenos Aires,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Buenos Aires,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Buenos Aires,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Buenos Aires,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Buenos Aires,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Buenos Aires,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Buenos Aires,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Catamarca,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Chaco,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Chaco,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Chaco,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Chaco,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Chaco,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Chaco,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Chaco,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560656
+Argentina,Chaco,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chaco,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Chubut,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560657
+Argentina,Ciudad Autonoma de Buenos Aires,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Ciudad Autonoma de Buenos Aires,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Cordoba,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560658
+Argentina,Corrientes,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Corrientes,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Entre Rios,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560659
+Argentina,Formosa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Formosa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,Jujuy,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560660
+Argentina,La Pampa,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560661
+Argentina,La Pampa,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Pampa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,La Rioja,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560661
+Argentina,Mendoza,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Mendoza,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Misiones,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Neuquen,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Neuquen,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Neuquen,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Neuquen,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Neuquen,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Neuquen,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Neuquen,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560662
+Argentina,Neuquen,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Neuquen,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Rio Negro,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Salta,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Salta,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Salta,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Salta,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Salta,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560663
+Argentina,Salta,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,Salta,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Juan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Luis,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Luis,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560664
+Argentina,San Luis,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,San Luis,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Cruz,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560665
+Argentina,Santa Fe,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santa Fe,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Santiago del Estero,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560666
+Argentina,Tierra del Fuego,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tierra del Fuego,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tucuman,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tucuman,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tucuman,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tucuman,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tucuman,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560667
+Argentina,Tucuman,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Tucuman,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560668
+Argentina,Buenos Aires,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Argentina,Catamarca,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Argentina,Chaco,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Argentina,Chubut,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Argentina,Ciudad Autonoma de Buenos Aires,September,2024,0,0,0,0,1.0,0.0,1.0,0.0,1730730979
+Argentina,Cordoba,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Corrientes,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Entre Rios,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Formosa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Jujuy,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,La Pampa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,La Rioja,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Mendoza,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Misiones,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Neuquen,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Rio Negro,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Salta,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,San Juan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,San Luis,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Santa Cruz,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Santa Fe,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Santiago del Estero,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Tierra del Fuego,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Tucuman,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730980
+Argentina,Buenos Aires,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Buenos Aires,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Catamarca,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Catamarca,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Chaco,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Chaco,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Chubut,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Chubut,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Ciudad Autonoma de Buenos Aires,October,2024,1,0,1,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Ciudad Autonoma de Buenos Aires,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Cordoba,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Cordoba,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Corrientes,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Corrientes,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Entre Rios,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Entre Rios,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Argentina,Formosa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Formosa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Jujuy,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Jujuy,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,La Pampa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,La Pampa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,La Rioja,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,La Rioja,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Mendoza,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Mendoza,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Misiones,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Misiones,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Neuquen,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Neuquen,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Rio Negro,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Rio Negro,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Salta,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Salta,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,San Juan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,San Juan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,San Luis,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,San Luis,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Santa Cruz,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Santa Cruz,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Santa Fe,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Santa Fe,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Santiago del Estero,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Santiago del Estero,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Tierra del Fuego,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Tierra del Fuego,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Tucuman,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Tucuman,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010264
+Argentina,Buenos Aires,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Catamarca,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Chaco,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Chubut,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Ciudad Autonoma de Buenos Aires,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Cordoba,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Corrientes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Entre Rios,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Formosa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Jujuy,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,La Pampa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,La Rioja,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Mendoza,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Misiones,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Neuquen,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Rio Negro,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Salta,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,San Juan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,San Luis,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Santa Cruz,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Santa Fe,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Santiago del Estero,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Tierra del Fuego,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Tucuman,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Argentina,Buenos Aires,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Catamarca,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Chaco,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Chubut,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Ciudad Autonoma de Buenos Aires,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Cordoba,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Corrientes,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Entre Rios,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Formosa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Jujuy,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,La Pampa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,La Rioja,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Mendoza,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Misiones,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Neuquen,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Rio Negro,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Argentina,Salta,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854837
+Argentina,San Juan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854837
+Argentina,San Luis,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854837
+Argentina,Santa Cruz,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854837
+Argentina,Santa Fe,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854837
+Argentina,Santiago del Estero,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854837
+Argentina,Tierra del Fuego,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854837
+Argentina,Tucuman,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854837
+Argentina,Buenos Aires,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Catamarca,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Chaco,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Chubut,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Ciudad Autonoma de Buenos Aires,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Cordoba,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Corrientes,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Entre Rios,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Formosa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,Jujuy,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Argentina,La Pampa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,La Rioja,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Mendoza,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Misiones,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Neuquen,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Rio Negro,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Salta,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,San Juan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,San Luis,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Santa Cruz,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Santa Fe,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Santiago del Estero,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Tierra del Fuego,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Tucuman,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266606
+Argentina,Buenos Aires,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Catamarca,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Chaco,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Chubut,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Ciudad Autonoma de Buenos Aires,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Cordoba,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Corrientes,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Entre Rios,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Formosa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Jujuy,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,La Pampa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,La Rioja,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Mendoza,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Misiones,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Neuquen,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Rio Negro,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Salta,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,San Juan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,San Luis,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Santa Cruz,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Santa Fe,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Santiago del Estero,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Tierra del Fuego,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Tucuman,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Argentina,Buenos Aires,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Catamarca,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Chaco,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Chubut,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Ciudad Autonoma de Buenos Aires,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Cordoba,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Corrientes,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Entre Rios,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Formosa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Jujuy,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,La Pampa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,La Rioja,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Mendoza,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Misiones,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Neuquen,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Rio Negro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Salta,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,San Juan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,San Luis,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Santa Cruz,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Santa Fe,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Santiago del Estero,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Tierra del Fuego,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Tucuman,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Argentina,Buenos Aires,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Catamarca,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Chaco,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Chubut,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Ciudad Autonoma de Buenos Aires,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Cordoba,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Corrientes,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Entre Rios,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Formosa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Jujuy,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,La Pampa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,La Rioja,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Mendoza,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Misiones,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Neuquen,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Rio Negro,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,Salta,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,San Juan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Argentina,San Luis,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732002
+Argentina,Santa Cruz,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732002
+Argentina,Santa Fe,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732002
+Argentina,Santiago del Estero,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732002
+Argentina,Tierra del Fuego,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732002
+Argentina,Tucuman,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732002
+Argentina,Buenos Aires,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Buenos Aires,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Argentina,Buenos Aires,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Argentina,Buenos Aires,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Buenos Aires,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Buenos Aires,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Buenos Aires,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Catamarca,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Catamarca,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Catamarca,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Catamarca,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Catamarca,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Catamarca,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Catamarca,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Chaco,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Chaco,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Chaco,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Chaco,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Chaco,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Chaco,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Chaco,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Chubut,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Chubut,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Chubut,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Chubut,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Chubut,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Argentina,Chubut,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Argentina,Chubut,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Ciudad Autonoma de Buenos Aires,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Ciudad Autonoma de Buenos Aires,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Ciudad Autonoma de Buenos Aires,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Ciudad Autonoma de Buenos Aires,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Ciudad Autonoma de Buenos Aires,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Ciudad Autonoma de Buenos Aires,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Ciudad Autonoma de Buenos Aires,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Cordoba,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Cordoba,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Cordoba,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Cordoba,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Cordoba,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Cordoba,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Cordoba,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Corrientes,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Corrientes,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Corrientes,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Corrientes,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Corrientes,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Corrientes,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Corrientes,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Entre Rios,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Entre Rios,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Entre Rios,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Entre Rios,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Entre Rios,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Entre Rios,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Entre Rios,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Formosa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Formosa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Formosa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Formosa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Formosa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Formosa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Formosa,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Jujuy,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Jujuy,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Jujuy,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Jujuy,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Jujuy,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Jujuy,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Jujuy,December,2025,0,0,0,0,,,,,1765375966
+Argentina,La Pampa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,La Pampa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,La Pampa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,La Pampa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,La Pampa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,La Pampa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,La Pampa,December,2025,0,0,0,0,,,,,1765375966
+Argentina,La Rioja,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,La Rioja,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,La Rioja,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,La Rioja,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,La Rioja,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,La Rioja,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,La Rioja,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Mendoza,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Mendoza,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Mendoza,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Mendoza,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Mendoza,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Mendoza,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Mendoza,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Misiones,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Misiones,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Misiones,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Misiones,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Misiones,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Misiones,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Misiones,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Neuquen,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Neuquen,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Neuquen,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Neuquen,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Neuquen,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Neuquen,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Neuquen,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Rio Negro,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Rio Negro,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Rio Negro,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Rio Negro,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Rio Negro,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Rio Negro,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Rio Negro,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Salta,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Salta,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Salta,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Salta,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Salta,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Salta,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Salta,December,2025,0,0,0,0,,,,,1765375966
+Argentina,San Juan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,San Juan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,San Juan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,San Juan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,San Juan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,San Juan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,San Juan,December,2025,0,0,0,0,,,,,1765375966
+Argentina,San Luis,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,San Luis,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,San Luis,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,San Luis,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,San Luis,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,San Luis,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,San Luis,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Santa Cruz,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Santa Cruz,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Santa Cruz,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Santa Cruz,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Santa Cruz,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Santa Cruz,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Santa Cruz,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Santa Fe,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Santa Fe,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Santa Fe,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Santa Fe,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Santa Fe,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Santa Fe,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Santa Fe,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Santiago del Estero,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Santiago del Estero,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Santiago del Estero,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Santiago del Estero,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Santiago del Estero,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Santiago del Estero,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Santiago del Estero,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Tierra del Fuego,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Tierra del Fuego,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Tierra del Fuego,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Tierra del Fuego,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Tierra del Fuego,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Tierra del Fuego,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Tierra del Fuego,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Tucuman,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Tucuman,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Argentina,Tucuman,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Argentina,Tucuman,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Argentina,Tucuman,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Argentina,Tucuman,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Argentina,Tucuman,December,2025,0,0,0,0,,,,,1765375966
+Argentina,Buenos Aires,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Catamarca,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Chaco,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Chubut,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Ciudad Autonoma de Buenos Aires,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Cordoba,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Corrientes,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Entre Rios,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Formosa,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Jujuy,January,2026,0,0,0,0,,,,,1765375966
+Argentina,La Pampa,January,2026,0,0,0,0,,,,,1765375966
+Argentina,La Rioja,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Mendoza,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Misiones,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Neuquen,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Rio Negro,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Salta,January,2026,0,0,0,0,,,,,1765375966
+Argentina,San Juan,January,2026,0,0,0,0,,,,,1765375966
+Argentina,San Luis,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Cruz,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Fe,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Santiago del Estero,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Tierra del Fuego,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Tucuman,January,2026,0,0,0,0,,,,,1765375966
+Argentina,Buenos Aires,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Catamarca,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Chaco,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Chubut,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Ciudad Autonoma de Buenos Aires,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Cordoba,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Corrientes,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Entre Rios,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Formosa,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Jujuy,February,2026,0,0,0,0,,,,,1765375966
+Argentina,La Pampa,February,2026,0,0,0,0,,,,,1765375966
+Argentina,La Rioja,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Mendoza,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Misiones,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Neuquen,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Rio Negro,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Salta,February,2026,0,0,0,0,,,,,1765375966
+Argentina,San Juan,February,2026,0,0,0,0,,,,,1765375966
+Argentina,San Luis,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Cruz,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Fe,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Santiago del Estero,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Tierra del Fuego,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Tucuman,February,2026,0,0,0,0,,,,,1765375966
+Argentina,Buenos Aires,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Catamarca,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Chaco,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Chubut,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Ciudad Autonoma de Buenos Aires,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Cordoba,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Corrientes,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Entre Rios,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Formosa,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Jujuy,March,2026,0,0,0,0,,,,,1765375966
+Argentina,La Pampa,March,2026,0,0,0,0,,,,,1765375966
+Argentina,La Rioja,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Mendoza,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Misiones,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Neuquen,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Rio Negro,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Salta,March,2026,0,0,0,0,,,,,1765375966
+Argentina,San Juan,March,2026,0,0,0,0,,,,,1765375966
+Argentina,San Luis,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Cruz,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Fe,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Santiago del Estero,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Tierra del Fuego,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Tucuman,March,2026,0,0,0,0,,,,,1765375966
+Argentina,Buenos Aires,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Catamarca,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Chaco,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Chubut,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Ciudad Autonoma de Buenos Aires,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Cordoba,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Corrientes,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Entre Rios,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Formosa,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Jujuy,April,2026,0,0,0,0,,,,,1765375966
+Argentina,La Pampa,April,2026,0,0,0,0,,,,,1765375966
+Argentina,La Rioja,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Mendoza,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Misiones,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Neuquen,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Rio Negro,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Salta,April,2026,0,0,0,0,,,,,1765375966
+Argentina,San Juan,April,2026,0,0,0,0,,,,,1765375966
+Argentina,San Luis,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Cruz,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Fe,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Santiago del Estero,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Tierra del Fuego,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Tucuman,April,2026,0,0,0,0,,,,,1765375966
+Argentina,Buenos Aires,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Catamarca,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Chaco,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Chubut,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Ciudad Autonoma de Buenos Aires,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Cordoba,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Corrientes,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Entre Rios,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Formosa,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Jujuy,May,2026,0,0,0,0,,,,,1765375966
+Argentina,La Pampa,May,2026,0,0,0,0,,,,,1765375966
+Argentina,La Rioja,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Mendoza,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Misiones,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Neuquen,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Rio Negro,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Salta,May,2026,0,0,0,0,,,,,1765375966
+Argentina,San Juan,May,2026,0,0,0,0,,,,,1765375966
+Argentina,San Luis,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Cruz,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Santa Fe,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Santiago del Estero,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Tierra del Fuego,May,2026,0,0,0,0,,,,,1765375966
+Argentina,Tucuman,May,2026,0,0,0,0,,,,,1765375966

@@ -26,7 +26,7 @@ COUNTRIES = {
 TOKEN_URL = "https://acleddata.com/oauth/token"
 API_URL = "https://acleddata.com/api/acled/read?_format=json"
 PAGE_LIMIT = 5000
-FIELDS = "event_date|event_type|sub_event_type|fatalities|actor1|actor2|admin1|latitude|longitude|notes"
+FIELDS = "event_id_cnty|event_date|year|disorder_type|event_type|sub_event_type|actor1|assoc_actor_1|inter1|actor2|assoc_actor_2|inter2|interaction|civilian_targeting|iso|region|country|admin1|admin2|admin3|location|latitude|longitude|geo_precision|source|source_scale|notes|fatalities|tags"
 
 
 def get_acled_token(username: str, password: str) -> str:
@@ -114,36 +114,29 @@ def compute_acled_features(df: pd.DataFrame, window_days: int = 30) -> dict:
     When window_days >= 99999, uses the ENTIRE dataframe for the full conflict picture;
     acled_event_acceleration still uses the last 90 days of the dataset (last 30d vs prior 60d).
     """
+    empty = {
+        "acled_fatalities_30d": 0.0,
+        "acled_battle_count": 0,
+        "acled_civilian_violence": 0,
+        "acled_explosion_count": 0,
+        "acled_protest_count": 0,
+        "acled_fatality_rate": 0.0,
+        "acled_event_count_90d": 0,
+        "acled_event_acceleration": 0.0,
+        "acled_unique_actors": 0,
+        "acled_geographic_spread": 0,
+        "acled_civilian_targeting": 0,
+        "acled_riot_count": 0,
+        "acled_state_force_events": 0,
+    }
     if df is None or df.empty:
-        return {
-            "acled_fatalities_30d": 0.0,
-            "acled_battle_count": 0,
-            "acled_civilian_violence": 0,
-            "acled_explosion_count": 0,
-            "acled_protest_count": 0,
-            "acled_fatality_rate": 0.0,
-            "acled_event_count_90d": 0,
-            "acled_event_acceleration": 0.0,
-            "acled_unique_actors": 0,
-            "acled_geographic_spread": 0,
-        }
+        return empty
 
     df = df.copy()
     df["event_date"] = pd.to_datetime(df["event_date"], errors="coerce")
     df = df.dropna(subset=["event_date"])
     if df.empty:
-        return {
-            "acled_fatalities_30d": 0.0,
-            "acled_battle_count": 0,
-            "acled_civilian_violence": 0,
-            "acled_explosion_count": 0,
-            "acled_protest_count": 0,
-            "acled_fatality_rate": 0.0,
-            "acled_event_count_90d": 0,
-            "acled_event_acceleration": 0.0,
-            "acled_unique_actors": 0,
-            "acled_geographic_spread": 0,
-        }
+        return empty
 
     use_full_history = window_days >= 99999
     ref_date = df["event_date"].max()
@@ -177,6 +170,25 @@ def compute_acled_features(df: pd.DataFrame, window_days: int = 30) -> dict:
     total_fatal = float(fatalities.sum())
     older_60_90_count = max(count_60_90, 1)
 
+    # Civilian targeting count (events explicitly targeting civilians)
+    civ_target = 0
+    if "civilian_targeting" in recent.columns:
+        civ_target = int(recent["civilian_targeting"].astype(str).str.contains("Civilian", case=False, na=False).sum())
+
+    # Riot count (separated from protests for granularity)
+    riot_count = int(len(recent[recent["event_type"] == "Riots"])) if "event_type" in recent.columns else 0
+
+    # State force events (inter1 == state forces or actor1 contains government/police/military)
+    state_events = 0
+    if "inter1" in recent.columns:
+        state_events = int((recent["inter1"].astype(str).str.strip() == "State Forces").sum())
+    elif "actor1" in recent.columns:
+        state_kw = recent["actor1"].astype(str).str.contains(
+            r"Police|Military|Government|Armed Forces|Army|National Guard|ICE|Border",
+            case=False, na=False,
+        )
+        state_events = int(state_kw.sum())
+
     return {
         "acled_fatalities_30d": total_fatal,
         "acled_battle_count": int(len(recent[recent["event_type"] == "Battles"])),
@@ -198,6 +210,9 @@ def compute_acled_features(df: pd.DataFrame, window_days: int = 30) -> dict:
         "acled_event_acceleration": float(count_30 / older_60_90_count),
         "acled_unique_actors": int(recent["actor1"].nunique()) if "actor1" in recent.columns else 0,
         "acled_geographic_spread": int(recent["admin1"].nunique()) if "admin1" in recent.columns else 0,
+        "acled_civilian_targeting": civ_target,
+        "acled_riot_count": riot_count,
+        "acled_state_force_events": state_events,
     }
 
 

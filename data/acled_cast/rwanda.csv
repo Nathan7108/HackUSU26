@@ -1,0 +1,196 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Rwanda,East,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+Rwanda,Kigali City,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+Rwanda,Kigali City,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+Rwanda,Kigali City,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,North,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+Rwanda,South,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+Rwanda,South,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,South,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141087
+Rwanda,West,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+Rwanda,West,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,January,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141087
+Rwanda,West,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+Rwanda,West,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,West,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+Rwanda,East,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Rwanda,Kigali City,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Rwanda,North,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Rwanda,South,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Rwanda,West,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Rwanda,East,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Rwanda,East,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Rwanda,Kigali City,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010307
+Rwanda,Kigali City,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010307
+Rwanda,North,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Rwanda,North,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Rwanda,South,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Rwanda,South,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Rwanda,West,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010307
+Rwanda,West,November,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010307
+Rwanda,East,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+Rwanda,Kigali City,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+Rwanda,North,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+Rwanda,South,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+Rwanda,West,December,2024,2,0,0,2,0.0,0.0,0.0,0.0,1737033371
+Rwanda,East,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854869
+Rwanda,Kigali City,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854869
+Rwanda,North,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854869
+Rwanda,South,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854869
+Rwanda,West,January,2025,0,0,0,0,4.0,0.0,3.0,1.0,1738854869
+Rwanda,East,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266640
+Rwanda,Kigali City,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266640
+Rwanda,North,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266640
+Rwanda,South,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266640
+Rwanda,West,February,2025,3,0,2,1,1.0,0.0,0.0,1.0,1741266640
+Rwanda,East,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Rwanda,Kigali City,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Rwanda,North,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Rwanda,South,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Rwanda,West,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287548
+Rwanda,East,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Rwanda,Kigali City,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Rwanda,North,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Rwanda,South,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Rwanda,West,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Rwanda,East,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Rwanda,Kigali City,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Rwanda,North,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Rwanda,South,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Rwanda,West,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Rwanda,East,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,East,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,East,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Rwanda,East,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Rwanda,East,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Rwanda,East,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Rwanda,East,December,2025,0,0,0,0,,,,,1765375966
+Rwanda,Kigali City,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,Kigali City,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,Kigali City,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Rwanda,Kigali City,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Rwanda,Kigali City,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Rwanda,Kigali City,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Rwanda,Kigali City,December,2025,0,0,0,0,,,,,1765375966
+Rwanda,North,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,North,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,North,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Rwanda,North,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Rwanda,North,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Rwanda,North,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Rwanda,North,December,2025,0,0,0,0,,,,,1765375966
+Rwanda,South,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,South,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,South,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Rwanda,South,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Rwanda,South,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Rwanda,South,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Rwanda,South,December,2025,0,0,0,0,,,,,1765375966
+Rwanda,West,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,West,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Rwanda,West,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Rwanda,West,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Rwanda,West,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Rwanda,West,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Rwanda,West,December,2025,0,0,0,0,,,,,1765375966
+Rwanda,East,January,2026,0,0,0,0,,,,,1765375966
+Rwanda,Kigali City,January,2026,0,0,0,0,,,,,1765375966
+Rwanda,North,January,2026,0,0,0,0,,,,,1765375966
+Rwanda,South,January,2026,0,0,0,0,,,,,1765375966
+Rwanda,West,January,2026,1,1,0,0,,,,,1765375966
+Rwanda,East,February,2026,0,0,0,0,,,,,1765375966
+Rwanda,Kigali City,February,2026,0,0,0,0,,,,,1765375966
+Rwanda,North,February,2026,0,0,0,0,,,,,1765375966
+Rwanda,South,February,2026,0,0,0,0,,,,,1765375966
+Rwanda,West,February,2026,0,0,0,0,,,,,1765375966
+Rwanda,East,March,2026,0,0,0,0,,,,,1765375966
+Rwanda,Kigali City,March,2026,0,0,0,0,,,,,1765375966
+Rwanda,North,March,2026,0,0,0,0,,,,,1765375966
+Rwanda,South,March,2026,0,0,0,0,,,,,1765375966
+Rwanda,West,March,2026,0,0,0,0,,,,,1765375966
+Rwanda,East,April,2026,0,0,0,0,,,,,1765375966
+Rwanda,Kigali City,April,2026,0,0,0,0,,,,,1765375966
+Rwanda,North,April,2026,0,0,0,0,,,,,1765375966
+Rwanda,South,April,2026,0,0,0,0,,,,,1765375966
+Rwanda,West,April,2026,0,0,0,0,,,,,1765375966
+Rwanda,East,May,2026,0,0,0,0,,,,,1765375966
+Rwanda,Kigali City,May,2026,0,0,0,0,,,,,1765375966
+Rwanda,North,May,2026,0,0,0,0,,,,,1765375966
+Rwanda,South,May,2026,0,0,0,0,,,,,1765375966
+Rwanda,West,May,2026,0,0,0,0,,,,,1765375966

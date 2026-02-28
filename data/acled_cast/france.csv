@@ -1,0 +1,508 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+France,Auvergne-Rhone-Alpes,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141034
+France,Auvergne-Rhone-Alpes,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141034
+France,Auvergne-Rhone-Alpes,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,June,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141034
+France,Auvergne-Rhone-Alpes,July,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141034
+France,Auvergne-Rhone-Alpes,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bourgogne-Franche-Comte,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bretagne,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bretagne,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bretagne,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bretagne,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bretagne,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bretagne,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bretagne,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+France,Bretagne,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Bretagne,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Bretagne,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Bretagne,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Bretagne,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Bretagne,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Bretagne,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Bretagne,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Bretagne,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Bretagne,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Bretagne,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Centre-Val de Loire,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,March,2023,2,0,2,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Corse,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Corse,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,July,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141035
+France,Corse,August,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Corse,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Grand Est,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Hauts-de-France,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Hauts-de-France,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Hauts-de-France,July,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141035
+France,Hauts-de-France,August,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Ile-de-France,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141035
+France,Ile-de-France,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Ile-de-France,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141035
+France,Ile-de-France,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Ile-de-France,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141035
+France,Ile-de-France,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Ile-de-France,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Ile-de-France,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141035
+France,Ile-de-France,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141035
+France,Normandie,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Normandie,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Normandie,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Nouvelle-Aquitaine,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Occitanie,June,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141035
+France,Occitanie,July,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141035
+France,Occitanie,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+France,Pays de la Loire,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+France,Pays de la Loire,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Provence-Alpes-Cote d'Azur,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+France,Auvergne-Rhone-Alpes,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Bourgogne-Franche-Comte,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Bretagne,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Centre-Val de Loire,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Corse,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Grand Est,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Hauts-de-France,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Ile-de-France,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Normandie,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Nouvelle-Aquitaine,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Occitanie,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Pays de la Loire,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Provence-Alpes-Cote d'Azur,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+France,Auvergne-Rhone-Alpes,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Auvergne-Rhone-Alpes,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Bourgogne-Franche-Comte,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Bourgogne-Franche-Comte,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Bretagne,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Bretagne,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Centre-Val de Loire,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Centre-Val de Loire,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Corse,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Corse,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Grand Est,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010281
+France,Grand Est,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010281
+France,Hauts-de-France,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Hauts-de-France,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Ile-de-France,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Ile-de-France,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Normandie,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Normandie,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Nouvelle-Aquitaine,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Nouvelle-Aquitaine,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Occitanie,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Occitanie,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Pays de la Loire,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Pays de la Loire,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+France,Provence-Alpes-Cote d'Azur,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+France,Provence-Alpes-Cote d'Azur,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+France,Auvergne-Rhone-Alpes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Bourgogne-Franche-Comte,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Bretagne,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Centre-Val de Loire,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Corse,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Grand Est,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Hauts-de-France,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Ile-de-France,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Normandie,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Nouvelle-Aquitaine,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Occitanie,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Pays de la Loire,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+France,Provence-Alpes-Cote d'Azur,December,2024,0,0,0,0,1.0,1.0,0.0,0.0,1737033344
+France,Auvergne-Rhone-Alpes,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+France,Bourgogne-Franche-Comte,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+France,Bretagne,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+France,Centre-Val de Loire,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+France,Corse,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+France,Grand Est,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+France,Hauts-de-France,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+France,Ile-de-France,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+France,Normandie,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+France,Nouvelle-Aquitaine,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+France,Occitanie,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+France,Pays de la Loire,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+France,Provence-Alpes-Cote d'Azur,January,2025,1,1,0,0,0.0,0.0,0.0,0.0,1738854850
+France,Auvergne-Rhone-Alpes,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Bourgogne-Franche-Comte,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Bretagne,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Centre-Val de Loire,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Corse,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Grand Est,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266619
+France,Hauts-de-France,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Ile-de-France,February,2025,0,0,0,0,2.0,0.0,0.0,2.0,1741266619
+France,Normandie,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Nouvelle-Aquitaine,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Occitanie,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Pays de la Loire,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Provence-Alpes-Cote d'Azur,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+France,Auvergne-Rhone-Alpes,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+France,Bourgogne-Franche-Comte,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+France,Bretagne,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+France,Centre-Val de Loire,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+France,Corse,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+France,Grand Est,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287542
+France,Hauts-de-France,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+France,Ile-de-France,March,2025,2,0,0,2,0.0,0.0,0.0,0.0,1744287542
+France,Normandie,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+France,Nouvelle-Aquitaine,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+France,Occitanie,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+France,Pays de la Loire,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+France,Provence-Alpes-Cote d'Azur,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+France,Auvergne-Rhone-Alpes,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Bourgogne-Franche-Comte,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Bretagne,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Centre-Val de Loire,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Corse,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Grand Est,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Hauts-de-France,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Ile-de-France,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Normandie,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Nouvelle-Aquitaine,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Occitanie,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702912
+France,Pays de la Loire,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702912
+France,Provence-Alpes-Cote d'Azur,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+France,Auvergne-Rhone-Alpes,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Bourgogne-Franche-Comte,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Bretagne,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Centre-Val de Loire,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Corse,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Grand Est,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Hauts-de-France,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Ile-de-France,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Normandie,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Nouvelle-Aquitaine,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+France,Occitanie,May,2025,2,0,0,2,1.0,0.0,0.0,1.0,1749732012
+France,Pays de la Loire,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732012
+France,Provence-Alpes-Cote d'Azur,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732012
+France,Auvergne-Rhone-Alpes,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Auvergne-Rhone-Alpes,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Auvergne-Rhone-Alpes,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+France,Auvergne-Rhone-Alpes,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+France,Auvergne-Rhone-Alpes,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Auvergne-Rhone-Alpes,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Auvergne-Rhone-Alpes,December,2025,0,0,0,0,,,,,1765375966
+France,Bourgogne-Franche-Comte,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Bourgogne-Franche-Comte,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Bourgogne-Franche-Comte,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Bourgogne-Franche-Comte,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Bourgogne-Franche-Comte,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Bourgogne-Franche-Comte,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Bourgogne-Franche-Comte,December,2025,0,0,0,0,,,,,1765375966
+France,Bretagne,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Bretagne,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Bretagne,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Bretagne,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+France,Bretagne,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+France,Bretagne,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Bretagne,December,2025,0,0,0,0,,,,,1765375966
+France,Centre-Val de Loire,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Centre-Val de Loire,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Centre-Val de Loire,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Centre-Val de Loire,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Centre-Val de Loire,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Centre-Val de Loire,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Centre-Val de Loire,December,2025,0,0,0,0,,,,,1765375966
+France,Corse,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Corse,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Corse,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Corse,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Corse,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Corse,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Corse,December,2025,0,0,0,0,,,,,1765375966
+France,Grand Est,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Grand Est,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Grand Est,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Grand Est,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Grand Est,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Grand Est,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Grand Est,December,2025,0,0,0,0,,,,,1765375966
+France,Hauts-de-France,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Hauts-de-France,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Hauts-de-France,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Hauts-de-France,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Hauts-de-France,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Hauts-de-France,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Hauts-de-France,December,2025,0,0,0,0,,,,,1765375966
+France,Ile-de-France,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Ile-de-France,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Ile-de-France,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+France,Ile-de-France,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+France,Ile-de-France,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Ile-de-France,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Ile-de-France,December,2025,0,0,0,0,,,,,1765375966
+France,Normandie,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Normandie,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Normandie,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Normandie,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+France,Normandie,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+France,Normandie,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Normandie,December,2025,0,0,0,0,,,,,1765375966
+France,Nouvelle-Aquitaine,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+France,Nouvelle-Aquitaine,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+France,Nouvelle-Aquitaine,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Nouvelle-Aquitaine,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Nouvelle-Aquitaine,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Nouvelle-Aquitaine,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+France,Nouvelle-Aquitaine,December,2025,1,0,0,1,,,,,1765375966
+France,Occitanie,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+France,Occitanie,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Occitanie,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Occitanie,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Occitanie,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Occitanie,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Occitanie,December,2025,0,0,0,0,,,,,1765375966
+France,Pays de la Loire,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Pays de la Loire,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Pays de la Loire,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Pays de la Loire,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Pays de la Loire,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Pays de la Loire,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+France,Pays de la Loire,December,2025,0,0,0,0,,,,,1765375966
+France,Provence-Alpes-Cote d'Azur,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+France,Provence-Alpes-Cote d'Azur,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+France,Provence-Alpes-Cote d'Azur,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+France,Provence-Alpes-Cote d'Azur,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+France,Provence-Alpes-Cote d'Azur,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+France,Provence-Alpes-Cote d'Azur,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+France,Provence-Alpes-Cote d'Azur,December,2025,1,0,0,1,,,,,1765375966
+France,Auvergne-Rhone-Alpes,January,2026,0,0,0,0,,,,,1765375966
+France,Bourgogne-Franche-Comte,January,2026,0,0,0,0,,,,,1765375966
+France,Bretagne,January,2026,0,0,0,0,,,,,1765375966
+France,Centre-Val de Loire,January,2026,0,0,0,0,,,,,1765375966
+France,Corse,January,2026,0,0,0,0,,,,,1765375966
+France,Grand Est,January,2026,0,0,0,0,,,,,1765375966
+France,Hauts-de-France,January,2026,0,0,0,0,,,,,1765375966
+France,Ile-de-France,January,2026,0,0,0,0,,,,,1765375966
+France,Normandie,January,2026,0,0,0,0,,,,,1765375966
+France,Nouvelle-Aquitaine,January,2026,1,0,0,1,,,,,1765375966
+France,Occitanie,January,2026,0,0,0,0,,,,,1765375966
+France,Pays de la Loire,January,2026,0,0,0,0,,,,,1765375966
+France,Provence-Alpes-Cote d'Azur,January,2026,1,0,0,1,,,,,1765375966
+France,Auvergne-Rhone-Alpes,February,2026,0,0,0,0,,,,,1765375966
+France,Bourgogne-Franche-Comte,February,2026,0,0,0,0,,,,,1765375966
+France,Bretagne,February,2026,0,0,0,0,,,,,1765375966
+France,Centre-Val de Loire,February,2026,0,0,0,0,,,,,1765375966
+France,Corse,February,2026,0,0,0,0,,,,,1765375966
+France,Grand Est,February,2026,0,0,0,0,,,,,1765375966
+France,Hauts-de-France,February,2026,0,0,0,0,,,,,1765375966
+France,Ile-de-France,February,2026,0,0,0,0,,,,,1765375966
+France,Normandie,February,2026,0,0,0,0,,,,,1765375966
+France,Nouvelle-Aquitaine,February,2026,1,0,0,1,,,,,1765375966
+France,Occitanie,February,2026,0,0,0,0,,,,,1765375966
+France,Pays de la Loire,February,2026,0,0,0,0,,,,,1765375966
+France,Provence-Alpes-Cote d'Azur,February,2026,1,0,0,1,,,,,1765375966
+France,Auvergne-Rhone-Alpes,March,2026,0,0,0,0,,,,,1765375966
+France,Bourgogne-Franche-Comte,March,2026,0,0,0,0,,,,,1765375966
+France,Bretagne,March,2026,0,0,0,0,,,,,1765375966
+France,Centre-Val de Loire,March,2026,0,0,0,0,,,,,1765375966
+France,Corse,March,2026,0,0,0,0,,,,,1765375966
+France,Grand Est,March,2026,0,0,0,0,,,,,1765375966
+France,Hauts-de-France,March,2026,0,0,0,0,,,,,1765375966
+France,Ile-de-France,March,2026,0,0,0,0,,,,,1765375966
+France,Normandie,March,2026,0,0,0,0,,,,,1765375966
+France,Nouvelle-Aquitaine,March,2026,1,0,0,1,,,,,1765375966
+France,Occitanie,March,2026,0,0,0,0,,,,,1765375966
+France,Pays de la Loire,March,2026,0,0,0,0,,,,,1765375966
+France,Provence-Alpes-Cote d'Azur,March,2026,1,0,0,1,,,,,1765375966
+France,Auvergne-Rhone-Alpes,April,2026,0,0,0,0,,,,,1765375966
+France,Bourgogne-Franche-Comte,April,2026,0,0,0,0,,,,,1765375966
+France,Bretagne,April,2026,0,0,0,0,,,,,1765375966
+France,Centre-Val de Loire,April,2026,0,0,0,0,,,,,1765375966
+France,Corse,April,2026,0,0,0,0,,,,,1765375966
+France,Grand Est,April,2026,0,0,0,0,,,,,1765375966
+France,Hauts-de-France,April,2026,0,0,0,0,,,,,1765375966
+France,Ile-de-France,April,2026,0,0,0,0,,,,,1765375966
+France,Normandie,April,2026,0,0,0,0,,,,,1765375966
+France,Nouvelle-Aquitaine,April,2026,1,0,0,1,,,,,1765375966
+France,Occitanie,April,2026,0,0,0,0,,,,,1765375966
+France,Pays de la Loire,April,2026,0,0,0,0,,,,,1765375966
+France,Provence-Alpes-Cote d'Azur,April,2026,1,0,0,1,,,,,1765375966
+France,Auvergne-Rhone-Alpes,May,2026,0,0,0,0,,,,,1765375966
+France,Bourgogne-Franche-Comte,May,2026,0,0,0,0,,,,,1765375966
+France,Bretagne,May,2026,0,0,0,0,,,,,1765375966
+France,Centre-Val de Loire,May,2026,0,0,0,0,,,,,1765375966
+France,Corse,May,2026,0,0,0,0,,,,,1765375966
+France,Grand Est,May,2026,0,0,0,0,,,,,1765375966
+France,Hauts-de-France,May,2026,0,0,0,0,,,,,1765375966
+France,Ile-de-France,May,2026,0,0,0,0,,,,,1765375966
+France,Normandie,May,2026,0,0,0,0,,,,,1765375966
+France,Nouvelle-Aquitaine,May,2026,1,0,0,1,,,,,1765375966
+France,Occitanie,May,2026,0,0,0,0,,,,,1765375966
+France,Pays de la Loire,May,2026,0,0,0,0,,,,,1765375966
+France,Provence-Alpes-Cote d'Azur,May,2026,1,0,0,1,,,,,1765375966

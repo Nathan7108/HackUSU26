@@ -106,7 +106,7 @@ export interface Vessel {
 
 export interface Alert {
   id: string
-  type: "TIER_CHANGE" | "SCORE_SPIKE" | "ANOMALY_DETECTED" | "FORECAST_SHIFT"
+  type: "TIER_CHANGE" | "SCORE_SPIKE" | "ANOMALY_DETECTED" | "FORECAST_SHIFT" | "FATALITY_SPIKE" | "ROUTE_DISRUPTION" | "FORECAST_ESCALATION" | "GOVERNANCE_ALERT"
   severity: RiskLevel
   countryCode: string
   countryName: string

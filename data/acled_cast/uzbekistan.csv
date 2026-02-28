@@ -1,0 +1,547 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Uzbekistan,Andizhan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Andizhan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Bukhara,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Dzhizak,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Dzhizak,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Fergana,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,August,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141132
+Uzbekistan,Fergana,September,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Fergana,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Fergana,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Fergana,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Fergana,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Kashkadarya,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Kashkadarya,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Kashkadarya,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Kashkadarya,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Khorezm,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141132
+Uzbekistan,Namangan,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Namangan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141132
+Uzbekistan,Navoi,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Navoi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Republic of Karakalpakstan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141132
+Uzbekistan,Samarkand,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Samarkand,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Samarkand,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Samarkand,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Samarkand,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Sirdaryo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Surkhandarya,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Surkhandarya,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Surkhandarya,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Tashkent,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Tashkent City,April,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141133
+Uzbekistan,Tashkent City,May,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Tashkent City,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Tashkent City,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Tashkent City,September,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Tashkent City,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Tashkent City,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Uzbekistan,Tashkent City,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Tashkent City,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Uzbekistan,Andizhan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Bukhara,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Dzhizak,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Fergana,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Kashkadarya,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Khorezm,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Namangan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Navoi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Republic of Karakalpakstan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Samarkand,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730731011
+Uzbekistan,Sirdaryo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Surkhandarya,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Tashkent,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Tashkent City,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Uzbekistan,Andizhan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Andizhan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Bukhara,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Bukhara,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Dzhizak,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Dzhizak,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Fergana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Fergana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Kashkadarya,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Kashkadarya,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Khorezm,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Khorezm,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Namangan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Namangan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Navoi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Navoi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Republic of Karakalpakstan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Republic of Karakalpakstan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Samarkand,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Samarkand,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Sirdaryo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Sirdaryo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Surkhandarya,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Surkhandarya,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Tashkent,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010327
+Uzbekistan,Tashkent,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Tashkent City,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Tashkent City,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Uzbekistan,Andizhan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Bukhara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Dzhizak,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Fergana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Kashkadarya,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Khorezm,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Namangan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Navoi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Republic of Karakalpakstan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Samarkand,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Sirdaryo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Surkhandarya,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Tashkent,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Tashkent City,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Uzbekistan,Andizhan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Bukhara,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Dzhizak,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Fergana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Kashkadarya,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Khorezm,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Namangan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Navoi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Republic of Karakalpakstan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Samarkand,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Sirdaryo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Surkhandarya,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Tashkent,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Tashkent City,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Uzbekistan,Andizhan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Bukhara,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Dzhizak,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Fergana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Kashkadarya,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Khorezm,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Namangan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Navoi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Republic of Karakalpakstan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Samarkand,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Sirdaryo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Surkhandarya,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266656
+Uzbekistan,Tashkent,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Uzbekistan,Tashkent City,February,2025,0,0,0,0,2.0,0.0,0.0,2.0,1741266656
+Uzbekistan,Andizhan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Bukhara,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Dzhizak,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Fergana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Kashkadarya,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Khorezm,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Namangan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Navoi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Republic of Karakalpakstan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Samarkand,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Sirdaryo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Surkhandarya,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Tashkent,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Uzbekistan,Tashkent City,March,2025,2,0,0,2,1.0,0.0,0.0,1.0,1744287552
+Uzbekistan,Andizhan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Bukhara,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Dzhizak,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Fergana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Kashkadarya,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Khorezm,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Namangan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Navoi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Republic of Karakalpakstan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Samarkand,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Sirdaryo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Surkhandarya,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Tashkent,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Tashkent City,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702922
+Uzbekistan,Andizhan,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732039
+Uzbekistan,Bukhara,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Dzhizak,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732039
+Uzbekistan,Fergana,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Kashkadarya,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732039
+Uzbekistan,Khorezm,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Namangan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Navoi,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732039
+Uzbekistan,Republic of Karakalpakstan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Samarkand,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Sirdaryo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Surkhandarya,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Tashkent,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Tashkent City,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Uzbekistan,Andizhan,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Andizhan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Andizhan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Andizhan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Andizhan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Andizhan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Andizhan,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Bukhara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Bukhara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Bukhara,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Bukhara,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Bukhara,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Bukhara,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Bukhara,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Dzhizak,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Dzhizak,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Dzhizak,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Dzhizak,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Dzhizak,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Dzhizak,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Dzhizak,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Fergana,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Fergana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Fergana,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Uzbekistan,Fergana,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Fergana,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Fergana,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Fergana,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Kashkadarya,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Kashkadarya,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Kashkadarya,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Kashkadarya,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Kashkadarya,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Kashkadarya,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Kashkadarya,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Khorezm,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Khorezm,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Khorezm,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Khorezm,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Khorezm,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Khorezm,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Khorezm,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Namangan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Namangan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Namangan,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Uzbekistan,Namangan,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Namangan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Namangan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Namangan,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Navoi,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Navoi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Navoi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Navoi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Navoi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Navoi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Navoi,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Republic of Karakalpakstan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Republic of Karakalpakstan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Republic of Karakalpakstan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Republic of Karakalpakstan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Republic of Karakalpakstan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Republic of Karakalpakstan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Republic of Karakalpakstan,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Samarkand,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Samarkand,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Samarkand,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Samarkand,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Samarkand,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Samarkand,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Samarkand,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Sirdaryo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Sirdaryo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Sirdaryo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Sirdaryo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Sirdaryo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Sirdaryo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Sirdaryo,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Surkhandarya,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Surkhandarya,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Surkhandarya,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Surkhandarya,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Surkhandarya,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Surkhandarya,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Surkhandarya,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Tashkent,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Tashkent,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Uzbekistan,Tashkent,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Tashkent,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Tashkent,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Tashkent,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent City,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Tashkent City,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Uzbekistan,Tashkent City,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Uzbekistan,Tashkent City,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Uzbekistan,Tashkent City,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Uzbekistan,Tashkent City,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Uzbekistan,Tashkent City,December,2025,0,0,0,0,,,,,1765375966
+Uzbekistan,Andizhan,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Bukhara,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Dzhizak,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Fergana,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Kashkadarya,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Khorezm,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Namangan,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Navoi,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Republic of Karakalpakstan,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Samarkand,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Sirdaryo,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Surkhandarya,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent City,January,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Andizhan,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Bukhara,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Dzhizak,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Fergana,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Kashkadarya,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Khorezm,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Namangan,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Navoi,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Republic of Karakalpakstan,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Samarkand,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Sirdaryo,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Surkhandarya,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent City,February,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Andizhan,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Bukhara,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Dzhizak,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Fergana,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Kashkadarya,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Khorezm,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Namangan,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Navoi,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Republic of Karakalpakstan,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Samarkand,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Sirdaryo,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Surkhandarya,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent City,March,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Andizhan,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Bukhara,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Dzhizak,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Fergana,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Kashkadarya,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Khorezm,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Namangan,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Navoi,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Republic of Karakalpakstan,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Samarkand,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Sirdaryo,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Surkhandarya,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent City,April,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Andizhan,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Bukhara,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Dzhizak,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Fergana,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Kashkadarya,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Khorezm,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Namangan,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Navoi,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Republic of Karakalpakstan,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Samarkand,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Sirdaryo,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Surkhandarya,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent,May,2026,0,0,0,0,,,,,1765375966
+Uzbekistan,Tashkent City,May,2026,0,0,0,0,,,,,1765375966

@@ -1,0 +1,363 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+North Korea,Chagang-do,February,2024,0,0,0,0,,,,,1704898574
+North Korea,Chagang-do,March,2024,0,0,0,0,,,,,1704898574
+North Korea,Chagang-do,April,2024,0,0,0,0,,,,,1704898574
+North Korea,Chagang-do,May,2024,0,0,0,0,,,,,1704898574
+North Korea,Chagang-do,June,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-bukto,February,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-bukto,March,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-bukto,April,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-bukto,May,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-bukto,June,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-namdo,February,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-namdo,March,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-namdo,April,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-namdo,May,2024,0,0,0,0,,,,,1704898574
+North Korea,Hamgyŏng-namdo,June,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-bukto,February,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-bukto,March,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-bukto,April,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-bukto,May,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-bukto,June,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-namdo,February,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-namdo,March,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-namdo,April,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-namdo,May,2024,0,0,0,0,,,,,1704898574
+North Korea,Hwanghae-namdo,June,2024,0,0,0,0,,,,,1704898574
+North Korea,Kangwŏn-do,February,2024,0,0,0,0,,,,,1704898574
+North Korea,Kangwŏn-do,March,2024,0,0,0,0,,,,,1704898574
+North Korea,Kangwŏn-do,April,2024,0,0,0,0,,,,,1704898574
+North Korea,Kangwŏn-do,May,2024,0,0,0,0,,,,,1704898574
+North Korea,Kangwŏn-do,June,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-bukto,February,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-bukto,March,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-bukto,April,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-bukto,May,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-bukto,June,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-namdo,February,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-namdo,March,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-namdo,April,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-namdo,May,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngan-namdo,June,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngyang,February,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngyang,March,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngyang,April,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngyang,May,2024,0,0,0,0,,,,,1704898574
+North Korea,P'yŏngyang,June,2024,0,0,0,0,,,,,1704898574
+North Korea,Sinŭiju,February,2024,0,0,0,0,,,,,1704898574
+North Korea,Sinŭiju,March,2024,0,0,0,0,,,,,1704898574
+North Korea,Sinŭiju,April,2024,0,0,0,0,,,,,1704898574
+North Korea,Sinŭiju,May,2024,0,0,0,0,,,,,1704898574
+North Korea,Sinŭiju,June,2024,0,0,0,0,,,,,1704898574
+North Korea,Chagang,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+North Korea,Chagang,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+North Korea,Chagang,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+North Korea,Chagang,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+North Korea,Chagang,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+North Korea,Chagang,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+North Korea,Chagang,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+North Korea,Chagang-do,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang-do,January,2024,0,0,0,0,,,,,1726141073
+North Korea,Hamgyŏng-bukto,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141073
+North Korea,Hamgyŏng-bukto,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-bukto,January,2024,0,0,0,0,,,,,1726141073
+North Korea,Hamgyŏng-namdo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hamgyŏng-namdo,January,2024,0,0,0,0,,,,,1726141073
+North Korea,Hwanghae-bukto,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-bukto,January,2024,0,0,0,0,,,,,1726141073
+North Korea,Hwanghae-namdo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Hwanghae-namdo,January,2024,0,0,0,0,,,,,1726141073
+North Korea,Kangwon,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwon,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwon,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwon,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwon,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwon,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwon,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Kangwŏn-do,January,2024,0,0,0,0,,,,,1726141073
+North Korea,Nampo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Nampo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Nampo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Nampo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Nampo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Nampo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Nampo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hamgyong,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hamgyong,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hamgyong,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hamgyong,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hamgyong,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hamgyong,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hamgyong,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hwanghae,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hwanghae,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hwanghae,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hwanghae,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hwanghae,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hwanghae,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Hwanghae,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Pyongan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Pyongan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Pyongan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Pyongan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Pyongan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Pyongan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,North Pyongan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-bukto,January,2024,0,0,0,0,,,,,1726141073
+North Korea,P'yŏngan-namdo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngan-namdo,January,2024,0,0,0,0,,,,,1726141073
+North Korea,P'yŏngyang,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,P'yŏngyang,January,2024,0,0,0,0,,,,,1726141073
+North Korea,Pyongyang,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Pyongyang,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Pyongyang,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Pyongyang,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Pyongyang,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Pyongyang,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141073
+North Korea,Pyongyang,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rason,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rason,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rason,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rason,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rason,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rason,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rason,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141073
+North Korea,Rasŏn,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Rasŏn,January,2024,0,0,0,0,,,,,1726141073
+North Korea,Ryanggang,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141073
+North Korea,Ryanggang,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Ryanggang,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Sinŭiju,January,2024,0,0,0,0,,,,,1726141073
+North Korea,South Hamgyong,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hamgyong,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hamgyong,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hamgyong,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hamgyong,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hamgyong,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hamgyong,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hwanghae,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hwanghae,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hwanghae,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hwanghae,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hwanghae,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hwanghae,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Hwanghae,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Pyongan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Pyongan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Pyongan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Pyongan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Pyongan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Pyongan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,South Pyongan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141073
+North Korea,Chagang,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,Kangwon,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,Nampo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,North Hamgyong,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,North Hwanghae,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,North Pyongan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,Pyongyang,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,Rason,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,Ryanggang,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,South Hamgyong,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,South Hwanghae,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,South Pyongan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+North Korea,Chagang,December,2024,0,0,0,0,,,,,1730985695
+North Korea,Chagang,January,2025,0,0,0,0,,,,,1730985695
+North Korea,Chagang,February,2025,0,0,0,0,,,,,1730985695
+North Korea,Chagang,March,2025,0,0,0,0,,,,,1730985695
+North Korea,Chagang,April,2025,0,0,0,0,,,,,1730985695
+North Korea,Kangwon,December,2024,0,0,0,0,,,,,1730985695
+North Korea,Kangwon,January,2025,0,0,0,0,,,,,1730985695
+North Korea,Kangwon,February,2025,0,0,0,0,,,,,1730985695
+North Korea,Kangwon,March,2025,0,0,0,0,,,,,1730985695
+North Korea,Kangwon,April,2025,0,0,0,0,,,,,1730985695
+North Korea,Nampo,December,2024,0,0,0,0,,,,,1730985695
+North Korea,Nampo,January,2025,0,0,0,0,,,,,1730985695
+North Korea,Nampo,February,2025,0,0,0,0,,,,,1730985695
+North Korea,Nampo,March,2025,0,0,0,0,,,,,1730985695
+North Korea,Nampo,April,2025,0,0,0,0,,,,,1730985695
+North Korea,North Hamgyong,December,2024,0,0,0,0,,,,,1730985695
+North Korea,North Hamgyong,January,2025,0,0,0,0,,,,,1730985695
+North Korea,North Hamgyong,February,2025,0,0,0,0,,,,,1730985695
+North Korea,North Hamgyong,March,2025,0,0,0,0,,,,,1730985695
+North Korea,North Hamgyong,April,2025,0,0,0,0,,,,,1730985695
+North Korea,North Hwanghae,December,2024,0,0,0,0,,,,,1730985695
+North Korea,North Hwanghae,January,2025,0,0,0,0,,,,,1730985695
+North Korea,North Hwanghae,February,2025,0,0,0,0,,,,,1730985695
+North Korea,North Hwanghae,March,2025,0,0,0,0,,,,,1730985695
+North Korea,North Hwanghae,April,2025,0,0,0,0,,,,,1730985695
+North Korea,North Pyongan,December,2024,0,0,0,0,,,,,1730985695
+North Korea,North Pyongan,January,2025,0,0,0,0,,,,,1730985695
+North Korea,North Pyongan,February,2025,0,0,0,0,,,,,1730985695
+North Korea,North Pyongan,March,2025,0,0,0,0,,,,,1730985695
+North Korea,North Pyongan,April,2025,0,0,0,0,,,,,1730985695
+North Korea,Pyongyang,December,2024,0,0,0,0,,,,,1730985695
+North Korea,Pyongyang,January,2025,0,0,0,0,,,,,1730985695
+North Korea,Pyongyang,February,2025,0,0,0,0,,,,,1730985695
+North Korea,Pyongyang,March,2025,0,0,0,0,,,,,1730985695
+North Korea,Pyongyang,April,2025,0,0,0,0,,,,,1730985695
+North Korea,Rason,December,2024,0,0,0,0,,,,,1730985695
+North Korea,Rason,January,2025,0,0,0,0,,,,,1730985695
+North Korea,Rason,February,2025,0,0,0,0,,,,,1730985695
+North Korea,Rason,March,2025,0,0,0,0,,,,,1730985695
+North Korea,Rason,April,2025,0,0,0,0,,,,,1730985695
+North Korea,Ryanggang,December,2024,0,0,0,0,,,,,1730985695
+North Korea,Ryanggang,January,2025,0,0,0,0,,,,,1730985695
+North Korea,Ryanggang,February,2025,0,0,0,0,,,,,1730985695
+North Korea,Ryanggang,March,2025,0,0,0,0,,,,,1730985695
+North Korea,Ryanggang,April,2025,0,0,0,0,,,,,1730985695
+North Korea,South Hamgyong,December,2024,0,0,0,0,,,,,1730985695
+North Korea,South Hamgyong,January,2025,0,0,0,0,,,,,1730985695
+North Korea,South Hamgyong,February,2025,0,0,0,0,,,,,1730985695
+North Korea,South Hamgyong,March,2025,0,0,0,0,,,,,1730985695
+North Korea,South Hamgyong,April,2025,0,0,0,0,,,,,1730985695
+North Korea,South Hwanghae,December,2024,0,0,0,0,,,,,1730985695
+North Korea,South Hwanghae,January,2025,0,0,0,0,,,,,1730985695
+North Korea,South Hwanghae,February,2025,0,0,0,0,,,,,1730985695
+North Korea,South Hwanghae,March,2025,0,0,0,0,,,,,1730985695
+North Korea,South Hwanghae,April,2025,0,0,0,0,,,,,1730985695
+North Korea,South Pyongan,December,2024,0,0,0,0,,,,,1730985695
+North Korea,South Pyongan,January,2025,0,0,0,0,,,,,1730985695
+North Korea,South Pyongan,February,2025,0,0,0,0,,,,,1730985695
+North Korea,South Pyongan,March,2025,0,0,0,0,,,,,1730985695
+North Korea,South Pyongan,April,2025,0,0,0,0,,,,,1730985695
+North Korea,Chagang,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Chagang,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Kangwon,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Kangwon,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Nampo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Nampo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,North Hamgyong,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,North Hamgyong,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,North Hwanghae,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,North Hwanghae,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,North Pyongan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,North Pyongan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Pyongyang,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Pyongyang,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Rason,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Rason,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Ryanggang,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,Ryanggang,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,South Hamgyong,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,South Hamgyong,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,South Hwanghae,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,South Hwanghae,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+North Korea,South Pyongan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010302
+North Korea,South Pyongan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010302

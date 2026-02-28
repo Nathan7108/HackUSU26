@@ -1,0 +1,859 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Chad,Barh El Gazel,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Barh El Gazel,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560780
+Chad,Batha,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Batha,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Batha,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Batha,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560781
+Chad,Borkou,October,2023,2,1,0,1,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Borkou,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560781
+Chad,Chari Baguirmi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Chari Baguirmi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560781
+Chad,Chari Baguirmi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Chari Baguirmi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560782
+Chad,Ennedi Ouest,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Ennedi Ouest,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Ennedi Ouest,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Ennedi Ouest,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Ennedi Ouest,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Ennedi Ouest,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Ennedi Ouest,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Ennedi Ouest,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Ennedi Ouest,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,March,2023,2,2,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560783
+Chad,Guera,May,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,June,2023,0,0,0,0,3.0,1.0,0.0,2.0,1728560783
+Chad,Guera,July,2023,2,1,0,1,2.0,0.0,0.0,2.0,1728560783
+Chad,Guera,August,2023,2,1,0,1,1.0,1.0,0.0,0.0,1728560783
+Chad,Guera,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560783
+Chad,Guera,January,2024,2,1,0,1,1.0,1.0,0.0,0.0,1728560783
+Chad,Guera,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560783
+Chad,Guera,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Guera,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560783
+Chad,Hadjer-Lamis,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,January,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,February,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Hadjer-Lamis,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560784
+Chad,Kanem,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Kanem,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,March,2023,2,0,0,2,1.0,1.0,0.0,0.0,1728560785
+Chad,Lac,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560785
+Chad,Lac,August,2023,2,1,0,1,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560785
+Chad,Lac,February,2024,1,0,0,1,1.0,1.0,0.0,0.0,1728560785
+Chad,Lac,March,2024,2,1,0,1,1.0,0.0,1.0,0.0,1728560785
+Chad,Lac,April,2024,1,0,1,0,1.0,0.0,0.0,1.0,1728560785
+Chad,Lac,May,2024,1,0,0,1,1.0,1.0,0.0,0.0,1728560785
+Chad,Lac,June,2024,1,1,0,0,3.0,3.0,0.0,0.0,1728560785
+Chad,Lac,July,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560785
+Chad,Lac,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560785
+Chad,Logone Occidental,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,May,2023,0,0,0,0,4.0,0.0,0.0,4.0,1728560786
+Chad,Logone Occidental,June,2023,3,1,0,2,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,August,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560786
+Chad,Logone Occidental,September,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Occidental,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Oriental,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Oriental,April,2023,0,0,0,0,6.0,2.0,0.0,4.0,1728560786
+Chad,Logone Oriental,May,2023,4,2,0,2,5.0,1.0,0.0,4.0,1728560786
+Chad,Logone Oriental,June,2023,4,1,0,3,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Oriental,July,2023,1,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Oriental,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560786
+Chad,Logone Oriental,September,2023,2,0,0,2,2.0,1.0,0.0,1.0,1728560786
+Chad,Logone Oriental,October,2023,2,1,0,1,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Oriental,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560786
+Chad,Logone Oriental,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Oriental,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560786
+Chad,Logone Oriental,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Logone Oriental,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Logone Oriental,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Logone Oriental,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560787
+Chad,Logone Oriental,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560787
+Chad,Logone Oriental,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560787
+Chad,Logone Oriental,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560787
+Chad,Mandoul,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560787
+Chad,Mandoul,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mandoul,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560787
+Chad,Mayo Kebbi Est,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560788
+Chad,Mayo Kebbi Est,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Est,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560788
+Chad,Mayo Kebbi Ouest,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560789
+Chad,Mayo Kebbi Ouest,September,2023,1,0,0,1,3.0,0.0,0.0,3.0,1728560789
+Chad,Mayo Kebbi Ouest,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560789
+Chad,Mayo Kebbi Ouest,November,2023,2,1,0,1,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560789
+Chad,Mayo Kebbi Ouest,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,April,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Mayo Kebbi Ouest,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Moyen-Chari,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Moyen-Chari,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Moyen-Chari,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Moyen-Chari,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Moyen-Chari,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560789
+Chad,Moyen-Chari,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,March,2024,2,1,0,1,8.0,7.0,0.0,1.0,1728560790
+Chad,Moyen-Chari,April,2024,6,5,0,1,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Moyen-Chari,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560790
+Chad,Ndjamena,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560790
+Chad,Ndjamena,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560790
+Chad,Ndjamena,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560790
+Chad,Ndjamena,February,2024,1,0,0,1,4.0,2.0,0.0,2.0,1728560790
+Chad,Ndjamena,March,2024,3,2,0,1,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560790
+Chad,Ndjamena,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560790
+Chad,Ndjamena,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Ndjamena,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560790
+Chad,Ouaddai,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560791
+Chad,Ouaddai,June,2023,2,1,0,1,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,August,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560791
+Chad,Ouaddai,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1728560791
+Chad,Ouaddai,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,March,2024,0,0,0,0,5.0,4.0,0.0,1.0,1728560791
+Chad,Ouaddai,April,2024,3,2,0,1,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,May,2024,0,0,0,0,2.0,1.0,0.0,1.0,1728560791
+Chad,Ouaddai,June,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560791
+Chad,Ouaddai,August,2024,0,0,0,0,3.0,0.0,0.0,3.0,1728560791
+Chad,Salamat,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560792
+Chad,Salamat,May,2024,1,0,0,1,2.0,1.0,0.0,1.0,1728560792
+Chad,Salamat,June,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Salamat,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Sila,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Sila,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Sila,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Sila,June,2023,0,0,0,0,2.0,2.0,0.0,0.0,1728560792
+Chad,Sila,July,2023,2,2,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Sila,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Sila,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560792
+Chad,Sila,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560793
+Chad,Sila,November,2023,1,0,0,1,2.0,0.0,0.0,2.0,1728560793
+Chad,Sila,December,2023,3,1,0,2,0.0,0.0,0.0,0.0,1728560793
+Chad,Sila,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Sila,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560793
+Chad,Sila,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560793
+Chad,Sila,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560793
+Chad,Sila,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560793
+Chad,Sila,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Sila,July,2024,0,0,0,0,1.0,0.0,1.0,0.0,1728560793
+Chad,Sila,August,2024,1,0,1,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,January,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560793
+Chad,Tandjile,February,2024,1,1,0,0,1.0,0.0,0.0,1.0,1728560793
+Chad,Tandjile,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560793
+Chad,Tandjile,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tandjile,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tandjile,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560794
+Chad,Tandjile,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560794
+Chad,Tandjile,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,March,2023,1,1,0,0,2.0,2.0,0.0,0.0,1728560794
+Chad,Tibesti,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560794
+Chad,Tibesti,June,2023,2,1,0,0,5.0,5.0,0.0,0.0,1728560794
+Chad,Tibesti,July,2023,4,4,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560794
+Chad,Tibesti,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560794
+Chad,Tibesti,April,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Tibesti,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560794
+Chad,Wadi Fira,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560795
+Chad,Wadi Fira,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Wadi Fira,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560795
+Chad,Barh El Gazel,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Chad,Batha,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Chad,Borkou,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730983
+Chad,Chari Baguirmi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Chad,Ennedi Ouest,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Chad,Guera,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Chad,Hadjer-Lamis,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Chad,Kanem,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Chad,Lac,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730984
+Chad,Logone Occidental,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Logone Oriental,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Mandoul,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Mayo Kebbi Est,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Mayo Kebbi Ouest,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Moyen-Chari,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730984
+Chad,Ndjamena,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Ouaddai,September,2024,2,0,0,2,1.0,0.0,0.0,1.0,1730730984
+Chad,Salamat,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Sila,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Tandjile,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Tibesti,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Wadi Fira,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730984
+Chad,Barh El Gazel,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Barh El Gazel,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Batha,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Batha,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Borkou,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Borkou,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Chari Baguirmi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Chari Baguirmi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Ennedi Ouest,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Ennedi Ouest,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Guera,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Guera,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Hadjer-Lamis,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010272
+Chad,Hadjer-Lamis,November,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010272
+Chad,Kanem,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Kanem,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Lac,October,2024,2,1,0,1,1.0,1.0,0.0,0.0,1734010272
+Chad,Lac,November,2024,1,1,0,0,2.0,2.0,0.0,0.0,1734010272
+Chad,Logone Occidental,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Logone Occidental,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Logone Oriental,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Logone Oriental,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Mandoul,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Mandoul,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Mayo Kebbi Est,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Mayo Kebbi Est,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Mayo Kebbi Ouest,October,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010272
+Chad,Mayo Kebbi Ouest,November,2024,1,1,0,0,1.0,0.0,0.0,1.0,1734010272
+Chad,Moyen-Chari,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010272
+Chad,Moyen-Chari,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Ndjamena,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010272
+Chad,Ndjamena,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010272
+Chad,Ouaddai,October,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010273
+Chad,Ouaddai,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Salamat,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Salamat,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Sila,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Sila,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010273
+Chad,Tandjile,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Tandjile,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Tibesti,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Tibesti,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Wadi Fira,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Wadi Fira,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010273
+Chad,Barh El Gazel,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Batha,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Borkou,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Chari Baguirmi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Ennedi Ouest,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Guera,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Hadjer-Lamis,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Kanem,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Lac,December,2024,1,1,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Logone Occidental,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033336
+Chad,Logone Oriental,December,2024,0,0,0,0,2.0,0.0,0.0,2.0,1737033337
+Chad,Mandoul,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chad,Mayo Kebbi Est,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chad,Mayo Kebbi Ouest,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033337
+Chad,Moyen-Chari,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chad,Ndjamena,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033337
+Chad,Ouaddai,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chad,Salamat,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chad,Sila,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033337
+Chad,Tandjile,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chad,Tibesti,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chad,Wadi Fira,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033337
+Chad,Barh El Gazel,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Batha,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Borkou,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Chari Baguirmi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Ennedi Ouest,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Guera,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Hadjer-Lamis,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Kanem,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Lac,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Logone Occidental,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Logone Oriental,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854843
+Chad,Mandoul,January,2025,0,0,0,0,1.0,0.0,1.0,0.0,1738854843
+Chad,Mayo Kebbi Est,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Mayo Kebbi Ouest,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Moyen-Chari,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Ndjamena,January,2025,0,0,0,0,2.0,1.0,0.0,1.0,1738854843
+Chad,Ouaddai,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Salamat,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Sila,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854843
+Chad,Tandjile,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Tibesti,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Wadi Fira,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854843
+Chad,Barh El Gazel,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266612
+Chad,Batha,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266612
+Chad,Borkou,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266612
+Chad,Chari Baguirmi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266612
+Chad,Ennedi Ouest,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266612
+Chad,Guera,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266612
+Chad,Hadjer-Lamis,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266613
+Chad,Kanem,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Lac,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Logone Occidental,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Logone Oriental,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266613
+Chad,Mandoul,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Mayo Kebbi Est,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Mayo Kebbi Ouest,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Moyen-Chari,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266613
+Chad,Ndjamena,February,2025,2,1,0,1,1.0,0.0,0.0,1.0,1741266613
+Chad,Ouaddai,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Salamat,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Sila,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Tandjile,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Tibesti,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266613
+Chad,Wadi Fira,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266613
+Chad,Barh El Gazel,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Batha,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Borkou,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Chari Baguirmi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Ennedi Ouest,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Guera,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Hadjer-Lamis,March,2025,1,0,0,1,1.0,0.0,0.0,1.0,1744287541
+Chad,Kanem,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Lac,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287541
+Chad,Logone Occidental,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Logone Oriental,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287541
+Chad,Mandoul,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Mayo Kebbi Est,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Mayo Kebbi Ouest,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Moyen-Chari,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287541
+Chad,Ndjamena,March,2025,2,1,0,1,1.0,0.0,0.0,1.0,1744287541
+Chad,Ouaddai,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Salamat,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Sila,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Tandjile,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Tibesti,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Wadi Fira,March,2025,1,1,0,0,0.0,0.0,0.0,0.0,1744287541
+Chad,Barh El Gazel,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Batha,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Borkou,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Chari Baguirmi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Ennedi Ouest,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Guera,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Hadjer-Lamis,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702910
+Chad,Kanem,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Lac,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702910
+Chad,Logone Occidental,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Logone Oriental,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702910
+Chad,Mandoul,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Mayo Kebbi Est,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Mayo Kebbi Ouest,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Moyen-Chari,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Ndjamena,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702910
+Chad,Ouaddai,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702910
+Chad,Salamat,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Sila,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Tandjile,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702910
+Chad,Tibesti,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Wadi Fira,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702910
+Chad,Barh El Gazel,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Batha,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Borkou,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Chari Baguirmi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Ennedi Ouest,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Guera,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Hadjer-Lamis,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Kanem,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Lac,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Logone Occidental,May,2025,0,0,0,0,2.0,1.0,0.0,1.0,1749732006
+Chad,Logone Oriental,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Mandoul,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Mayo Kebbi Est,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Mayo Kebbi Ouest,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Moyen-Chari,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Ndjamena,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Ouaddai,May,2025,2,0,0,2,1.0,0.0,1.0,0.0,1749732006
+Chad,Salamat,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Sila,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Tandjile,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732006
+Chad,Tibesti,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732006
+Chad,Wadi Fira,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732006
+Chad,Barh El Gazel,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Barh El Gazel,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Barh El Gazel,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Barh El Gazel,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Barh El Gazel,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Barh El Gazel,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Barh El Gazel,December,2025,0,0,0,0,,,,,1765375966
+Chad,Batha,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Batha,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Batha,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Batha,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Batha,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Batha,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Batha,December,2025,0,0,0,0,,,,,1765375966
+Chad,Borkou,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Borkou,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Borkou,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Borkou,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Borkou,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Borkou,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Borkou,December,2025,0,0,0,0,,,,,1765375966
+Chad,Chari Baguirmi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Chari Baguirmi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Chari Baguirmi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Chari Baguirmi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Chari Baguirmi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Chari Baguirmi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Chari Baguirmi,December,2025,0,0,0,0,,,,,1765375966
+Chad,Ennedi Ouest,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Ennedi Ouest,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Ennedi Ouest,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Ennedi Ouest,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Ennedi Ouest,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Ennedi Ouest,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Ennedi Ouest,December,2025,0,0,0,0,,,,,1765375966
+Chad,Guera,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Guera,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Chad,Guera,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Guera,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Guera,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Guera,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Guera,December,2025,0,0,0,0,,,,,1765375966
+Chad,Hadjer-Lamis,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Hadjer-Lamis,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Hadjer-Lamis,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Hadjer-Lamis,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Hadjer-Lamis,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Hadjer-Lamis,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Hadjer-Lamis,December,2025,0,0,0,0,,,,,1765375966
+Chad,Kanem,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Kanem,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Kanem,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Chad,Kanem,September,2025,1,1,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Kanem,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Kanem,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Kanem,December,2025,0,0,0,0,,,,,1765375966
+Chad,Lac,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Lac,July,2025,0,0,0,0,10.0,4.0,0.0,6.0,1754429217
+Chad,Lac,August,2025,5,1,0,4,0.0,0.0,0.0,0.0,1757596698
+Chad,Lac,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Lac,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Lac,November,2025,0,0,0,0,6.0,0.0,0.0,6.0,1765375966
+Chad,Lac,December,2025,5,0,0,5,,,,,1765375966
+Chad,Logone Occidental,June,2025,2,1,0,1,1.0,0.0,0.0,1.0,1754429217
+Chad,Logone Occidental,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Chad,Logone Occidental,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Logone Occidental,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Chad,Logone Occidental,October,2025,1,1,0,0,1.0,0.0,0.0,1.0,1762435626
+Chad,Logone Occidental,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Chad,Logone Occidental,December,2025,0,0,0,0,,,,,1765375966
+Chad,Logone Oriental,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Logone Oriental,July,2025,0,0,0,0,2.0,1.0,0.0,1.0,1754429217
+Chad,Logone Oriental,August,2025,1,0,0,1,4.0,1.0,0.0,3.0,1757596698
+Chad,Logone Oriental,September,2025,4,1,0,3,0.0,0.0,0.0,0.0,1760036046
+Chad,Logone Oriental,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Logone Oriental,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Logone Oriental,December,2025,0,0,0,0,,,,,1765375966
+Chad,Mandoul,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Mandoul,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Chad,Mandoul,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Chad,Mandoul,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Mandoul,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Mandoul,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Mandoul,December,2025,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Est,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Mayo Kebbi Est,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Mayo Kebbi Est,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Mayo Kebbi Est,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Mayo Kebbi Est,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Mayo Kebbi Est,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Mayo Kebbi Est,December,2025,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Ouest,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Mayo Kebbi Ouest,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Mayo Kebbi Ouest,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Mayo Kebbi Ouest,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Mayo Kebbi Ouest,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Mayo Kebbi Ouest,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Mayo Kebbi Ouest,December,2025,0,0,0,0,,,,,1765375966
+Chad,Moyen-Chari,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Moyen-Chari,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Moyen-Chari,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Moyen-Chari,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Moyen-Chari,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Moyen-Chari,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Moyen-Chari,December,2025,0,0,0,0,,,,,1765375966
+Chad,Ndjamena,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Ndjamena,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Ndjamena,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+Chad,Ndjamena,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Chad,Ndjamena,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Chad,Ndjamena,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Chad,Ndjamena,December,2025,0,0,0,0,,,,,1765375966
+Chad,Ouaddai,June,2025,1,0,0,1,3.0,0.0,0.0,3.0,1754429217
+Chad,Ouaddai,July,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Chad,Ouaddai,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Chad,Ouaddai,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Ouaddai,October,2025,0,0,0,0,3.0,0.0,0.0,3.0,1762435626
+Chad,Ouaddai,November,2025,3,0,0,3,1.0,0.0,0.0,1.0,1765375966
+Chad,Ouaddai,December,2025,1,0,0,1,,,,,1765375966
+Chad,Salamat,June,2025,0,0,0,0,2.0,2.0,0.0,0.0,1754429217
+Chad,Salamat,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Salamat,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Salamat,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Salamat,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Salamat,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Salamat,December,2025,0,0,0,0,,,,,1765375966
+Chad,Sila,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Sila,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Sila,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Sila,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Sila,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Chad,Sila,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Chad,Sila,December,2025,0,0,0,0,,,,,1765375966
+Chad,Tandjile,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Tandjile,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Tandjile,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Tandjile,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Tandjile,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Tandjile,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Chad,Tandjile,December,2025,1,0,0,1,,,,,1765375966
+Chad,Tibesti,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Chad,Tibesti,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Tibesti,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Chad,Tibesti,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Tibesti,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Tibesti,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Tibesti,December,2025,0,0,0,0,,,,,1765375966
+Chad,Wadi Fira,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Chad,Wadi Fira,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Chad,Wadi Fira,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Chad,Wadi Fira,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Chad,Wadi Fira,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Chad,Wadi Fira,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Chad,Wadi Fira,December,2025,0,0,0,0,,,,,1765375966
+Chad,Barh El Gazel,January,2026,0,0,0,0,,,,,1765375966
+Chad,Batha,January,2026,0,0,0,0,,,,,1765375966
+Chad,Borkou,January,2026,0,0,0,0,,,,,1765375966
+Chad,Chari Baguirmi,January,2026,0,0,0,0,,,,,1765375966
+Chad,Ennedi Ouest,January,2026,0,0,0,0,,,,,1765375966
+Chad,Guera,January,2026,0,0,0,0,,,,,1765375966
+Chad,Hadjer-Lamis,January,2026,0,0,0,0,,,,,1765375966
+Chad,Kanem,January,2026,0,0,0,0,,,,,1765375966
+Chad,Lac,January,2026,5,0,0,5,,,,,1765375966
+Chad,Logone Occidental,January,2026,0,0,0,0,,,,,1765375966
+Chad,Logone Oriental,January,2026,0,0,0,0,,,,,1765375966
+Chad,Mandoul,January,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Est,January,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Ouest,January,2026,0,0,0,0,,,,,1765375966
+Chad,Moyen-Chari,January,2026,0,0,0,0,,,,,1765375966
+Chad,Ndjamena,January,2026,0,0,0,0,,,,,1765375966
+Chad,Ouaddai,January,2026,1,0,0,1,,,,,1765375966
+Chad,Salamat,January,2026,0,0,0,0,,,,,1765375966
+Chad,Sila,January,2026,0,0,0,0,,,,,1765375966
+Chad,Tandjile,January,2026,1,0,0,1,,,,,1765375966
+Chad,Tibesti,January,2026,0,0,0,0,,,,,1765375966
+Chad,Wadi Fira,January,2026,0,0,0,0,,,,,1765375966
+Chad,Barh El Gazel,February,2026,0,0,0,0,,,,,1765375966
+Chad,Batha,February,2026,0,0,0,0,,,,,1765375966
+Chad,Borkou,February,2026,0,0,0,0,,,,,1765375966
+Chad,Chari Baguirmi,February,2026,0,0,0,0,,,,,1765375966
+Chad,Ennedi Ouest,February,2026,0,0,0,0,,,,,1765375966
+Chad,Guera,February,2026,0,0,0,0,,,,,1765375966
+Chad,Hadjer-Lamis,February,2026,0,0,0,0,,,,,1765375966
+Chad,Kanem,February,2026,0,0,0,0,,,,,1765375966
+Chad,Lac,February,2026,5,0,0,5,,,,,1765375966
+Chad,Logone Occidental,February,2026,0,0,0,0,,,,,1765375966
+Chad,Logone Oriental,February,2026,0,0,0,0,,,,,1765375966
+Chad,Mandoul,February,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Est,February,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Ouest,February,2026,0,0,0,0,,,,,1765375966
+Chad,Moyen-Chari,February,2026,0,0,0,0,,,,,1765375966
+Chad,Ndjamena,February,2026,0,0,0,0,,,,,1765375966
+Chad,Ouaddai,February,2026,1,0,0,1,,,,,1765375966
+Chad,Salamat,February,2026,0,0,0,0,,,,,1765375966
+Chad,Sila,February,2026,0,0,0,0,,,,,1765375966
+Chad,Tandjile,February,2026,1,0,0,1,,,,,1765375966
+Chad,Tibesti,February,2026,0,0,0,0,,,,,1765375966
+Chad,Wadi Fira,February,2026,0,0,0,0,,,,,1765375966
+Chad,Barh El Gazel,March,2026,0,0,0,0,,,,,1765375966
+Chad,Batha,March,2026,0,0,0,0,,,,,1765375966
+Chad,Borkou,March,2026,0,0,0,0,,,,,1765375966
+Chad,Chari Baguirmi,March,2026,0,0,0,0,,,,,1765375966
+Chad,Ennedi Ouest,March,2026,0,0,0,0,,,,,1765375966
+Chad,Guera,March,2026,0,0,0,0,,,,,1765375966
+Chad,Hadjer-Lamis,March,2026,0,0,0,0,,,,,1765375966
+Chad,Kanem,March,2026,0,0,0,0,,,,,1765375966
+Chad,Lac,March,2026,5,0,0,5,,,,,1765375966
+Chad,Logone Occidental,March,2026,0,0,0,0,,,,,1765375966
+Chad,Logone Oriental,March,2026,0,0,0,0,,,,,1765375966
+Chad,Mandoul,March,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Est,March,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Ouest,March,2026,0,0,0,0,,,,,1765375966
+Chad,Moyen-Chari,March,2026,0,0,0,0,,,,,1765375966
+Chad,Ndjamena,March,2026,0,0,0,0,,,,,1765375966
+Chad,Ouaddai,March,2026,1,0,0,1,,,,,1765375966
+Chad,Salamat,March,2026,0,0,0,0,,,,,1765375966
+Chad,Sila,March,2026,0,0,0,0,,,,,1765375966
+Chad,Tandjile,March,2026,1,0,0,1,,,,,1765375966
+Chad,Tibesti,March,2026,0,0,0,0,,,,,1765375966
+Chad,Wadi Fira,March,2026,0,0,0,0,,,,,1765375966
+Chad,Barh El Gazel,April,2026,0,0,0,0,,,,,1765375966
+Chad,Batha,April,2026,0,0,0,0,,,,,1765375966
+Chad,Borkou,April,2026,0,0,0,0,,,,,1765375966
+Chad,Chari Baguirmi,April,2026,0,0,0,0,,,,,1765375966
+Chad,Ennedi Ouest,April,2026,0,0,0,0,,,,,1765375966
+Chad,Guera,April,2026,0,0,0,0,,,,,1765375966
+Chad,Hadjer-Lamis,April,2026,0,0,0,0,,,,,1765375966
+Chad,Kanem,April,2026,0,0,0,0,,,,,1765375966
+Chad,Lac,April,2026,5,0,0,5,,,,,1765375966
+Chad,Logone Occidental,April,2026,0,0,0,0,,,,,1765375966
+Chad,Logone Oriental,April,2026,0,0,0,0,,,,,1765375966
+Chad,Mandoul,April,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Est,April,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Ouest,April,2026,0,0,0,0,,,,,1765375966
+Chad,Moyen-Chari,April,2026,0,0,0,0,,,,,1765375966
+Chad,Ndjamena,April,2026,0,0,0,0,,,,,1765375966
+Chad,Ouaddai,April,2026,1,0,0,1,,,,,1765375966
+Chad,Salamat,April,2026,0,0,0,0,,,,,1765375966
+Chad,Sila,April,2026,0,0,0,0,,,,,1765375966
+Chad,Tandjile,April,2026,1,0,0,1,,,,,1765375966
+Chad,Tibesti,April,2026,0,0,0,0,,,,,1765375966
+Chad,Wadi Fira,April,2026,0,0,0,0,,,,,1765375966
+Chad,Barh El Gazel,May,2026,0,0,0,0,,,,,1765375966
+Chad,Batha,May,2026,0,0,0,0,,,,,1765375966
+Chad,Borkou,May,2026,0,0,0,0,,,,,1765375966
+Chad,Chari Baguirmi,May,2026,0,0,0,0,,,,,1765375966
+Chad,Ennedi Ouest,May,2026,0,0,0,0,,,,,1765375966
+Chad,Guera,May,2026,0,0,0,0,,,,,1765375966
+Chad,Hadjer-Lamis,May,2026,0,0,0,0,,,,,1765375966
+Chad,Kanem,May,2026,0,0,0,0,,,,,1765375966
+Chad,Lac,May,2026,5,0,0,5,,,,,1765375966
+Chad,Logone Occidental,May,2026,0,0,0,0,,,,,1765375966
+Chad,Logone Oriental,May,2026,0,0,0,0,,,,,1765375966
+Chad,Mandoul,May,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Est,May,2026,0,0,0,0,,,,,1765375966
+Chad,Mayo Kebbi Ouest,May,2026,0,0,0,0,,,,,1765375966
+Chad,Moyen-Chari,May,2026,0,0,0,0,,,,,1765375966
+Chad,Ndjamena,May,2026,0,0,0,0,,,,,1765375966
+Chad,Ouaddai,May,2026,1,0,0,1,,,,,1765375966
+Chad,Salamat,May,2026,0,0,0,0,,,,,1765375966
+Chad,Sila,May,2026,0,0,0,0,,,,,1765375966
+Chad,Tandjile,May,2026,1,0,0,1,,,,,1765375966
+Chad,Tibesti,May,2026,0,0,0,0,,,,,1765375966
+Chad,Wadi Fira,May,2026,0,0,0,0,,,,,1765375966

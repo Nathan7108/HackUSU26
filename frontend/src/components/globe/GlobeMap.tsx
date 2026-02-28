@@ -4,10 +4,9 @@ import "mapbox-gl/dist/mapbox-gl.css"
 import { useAppStore } from "@/stores/app"
 import { useThemeStore } from "@/stores/theme"
 import { facilities, tradeRoutes, VESSELS } from "@/data"
-import { countries as mockCountries } from "@/data/countries"
 import { useCountries, type MapCountry } from "@/hooks/useCountries"
 import { COUNTRY_COORDS } from "@/data/countryCoords"
-import { Factory, AlertTriangle, Ship } from "lucide-react"
+import { Factory, AlertTriangle, Ship, ChevronDown, Eye, EyeOff } from "lucide-react"
 import {
   interpolateSpline, checkChokepointProximity, formatEta,
   vesselTypeLabel, getVesselBrief, ROUTE_RISK,
@@ -24,15 +23,15 @@ const RISK_FILL: Record<string, string> = {
   CRITICAL: "rgba(239, 68, 68, 0.85)",
   HIGH:     "rgba(249, 115, 22, 0.75)",
   ELEVATED: "rgba(234, 179, 8, 0.65)",
-  MODERATE: "rgba(59, 130, 246, 0.45)",
-  LOW:      "rgba(34, 197, 94, 0.30)",
+  MODERATE: "rgba(59, 130, 246, 0.55)",
+  LOW:      "rgba(34, 197, 94, 0.45)",
 }
 const RISK_BORDER: Record<string, string> = {
   CRITICAL: "rgba(239, 68, 68, 1.0)",
   HIGH:     "rgba(249, 115, 22, 0.9)",
   ELEVATED: "rgba(234, 179, 8, 0.7)",
-  MODERATE: "rgba(59, 130, 246, 0.5)",
-  LOW:      "rgba(34, 197, 94, 0.35)",
+  MODERATE: "rgba(59, 130, 246, 0.6)",
+  LOW:      "rgba(34, 197, 94, 0.5)",
 }
 const FAC_COLOR: Record<string, string> = {
   hq: "#60a5fa", manufacturing: "#34d399", processing: "#fbbf24",
@@ -109,7 +108,6 @@ function countryGeoJSON(list: MapCountry[]): GeoJSON.FeatureCollection {
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 function buildFillColor(countries: MapCountry[], colorMap: Record<string, string>): any {
-  if (!countries.length) return "rgba(0,0,0,0)"
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const expr: any[] = ["match", ["get", "iso_3166_1"]]
   for (const c of countries) {
@@ -123,12 +121,44 @@ function buildFillColor(countries: MapCountry[], colorMap: Record<string, string
 function resolveCoords(code: string, apiCountries?: MapCountry[]): [number, number] | null {
   const api = apiCountries?.find((c) => c.code === code)
   if (api) return [api.lng, api.lat]
-  const mock = mockCountries.find((c) => c.code === code)
-  if (mock) return [mock.lng, mock.lat]
   const iso2 = ISO3_TO_2[code] || code
   const coords = COUNTRY_COORDS[iso2]
   if (coords) return [coords[1], coords[0]]
   return null
+}
+
+// Zoom level per country based on geographic size (large countries zoom out more)
+const COUNTRY_ZOOM: Record<string, number> = {
+  RUS: 2.2, RU: 2.2,   // Russia
+  CAN: 2.5, CA: 2.5,   // Canada
+  USA: 3.0, US: 3.0,   // United States
+  CHN: 3.2, CN: 3.2,   // China
+  BRA: 3.0, BR: 3.0,   // Brazil
+  AUS: 3.0, AU: 3.0,   // Australia
+  IND: 3.5, IN: 3.5,   // India
+  ARG: 3.0, AR: 3.0,   // Argentina
+  KAZ: 3.0, KZ: 3.0,   // Kazakhstan
+  DZA: 3.5, DZ: 3.5,   // Algeria
+  COD: 3.5, CD: 3.5,   // DR Congo
+  SAU: 3.5, SA: 3.5,   // Saudi Arabia
+  MEX: 3.5, MX: 3.5,   // Mexico
+  IDN: 3.5, ID: 3.5,   // Indonesia
+  SDN: 3.5, SD: 3.5,   // Sudan
+  LBY: 3.5, LY: 3.5,   // Libya
+  IRN: 3.8, IR: 3.8,   // Iran
+  MNG: 3.5, MN: 3.5,   // Mongolia
+  PER: 3.5, PE: 3.5,   // Peru
+  TCD: 3.5, TD: 3.5,   // Chad
+  NGA: 3.8, NG: 3.8,   // Nigeria
+  ETH: 3.8, ET: 3.8,   // Ethiopia
+  EGY: 4.0, EG: 4.0,   // Egypt
+  TUR: 4.0, TR: 4.0,   // Turkey
+  UKR: 4.0, UA: 4.0,   // Ukraine
+  PAK: 4.0, PK: 4.0,   // Pakistan
+  COL: 3.8, CO: 3.8,   // Colombia
+}
+function zoomForCountry(code: string): number {
+  return COUNTRY_ZOOM[code] ?? 5.0
 }
 
 /* ─── SDF icons from Lucide SVG paths (Path2D, crisp vectors) ── */
@@ -148,51 +178,39 @@ function loadMarkerIcons(m: mapboxgl.Map) {
     return ctx
   }
 
-  // Factory (Lucide "factory" icon — filled)
+  // Factory (Lucide "factory" icon — stroke only, matches key)
   {
     const ctx = make()
-    ctx.lineWidth = 0.6
-    const body = new Path2D("M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7 5V8l-7 5V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z")
-    ctx.fill(body); ctx.stroke(body)
-    // Window lines (cut out for detail)
-    ctx.globalCompositeOperation = "destination-out"
     ctx.lineWidth = 1.8
+    const body = new Path2D("M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7 5V8l-7 5V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z")
+    ctx.stroke(body)
     for (const d of ["M17 20v-4", "M13 20v-4", "M9 20v-4"]) {
       const p = new Path2D(d); ctx.stroke(p)
     }
     m.addImage("mk-factory", ctx.getImageData(0, 0, S, S), { sdf: true, pixelRatio: R })
   }
 
-  // Ship (Lucide "ship" icon — hull + cabin filled, mast + waves stroked)
+  // Ship (Lucide "ship" icon — stroke only, matches key)
   {
     const ctx = make()
-    // Fill hull
-    ctx.lineWidth = 1.2
+    ctx.lineWidth = 1.8
     const hull = new Path2D("M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76")
-    ctx.fill(hull); ctx.stroke(hull)
-    // Fill cabin
+    ctx.stroke(hull)
     const cabin = new Path2D("M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6")
-    ctx.fill(cabin); ctx.stroke(cabin)
-    // Mast + flag
-    ctx.lineWidth = 1.6
+    ctx.stroke(cabin)
     const mast = new Path2D("M12 10V4.5a.5.5 0 0 1 1 0v.2a.8.8 0 0 0 .4.7l.5.3")
     ctx.stroke(mast)
-    // Waves
-    ctx.lineWidth = 1.4
     const waves = new Path2D("M2 21c.6.5 1.2 1 2.5 1a4.7 4.7 0 0 0 3.5-1.5 4.7 4.7 0 0 0 3.5 1.5 4.7 4.7 0 0 0 3.5-1.5 4.7 4.7 0 0 0 3.5 1.5c1.3 0 1.9-.5 2.5-1")
     ctx.stroke(waves)
     m.addImage("mk-ship", ctx.getImageData(0, 0, S, S), { sdf: true, pixelRatio: R })
   }
 
-  // Warning triangle (Lucide "triangle-alert" — filled with ! cutout)
+  // Warning triangle (Lucide "triangle-alert" — stroke only, matches key)
   {
     const ctx = make()
-    ctx.lineWidth = 0.6
+    ctx.lineWidth = 1.8
     const tri = new Path2D("m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z")
-    ctx.fill(tri); ctx.stroke(tri)
-    // Exclamation mark (cut out)
-    ctx.globalCompositeOperation = "destination-out"
-    ctx.lineWidth = 2.5
+    ctx.stroke(tri)
     const stem = new Path2D("M12 9v4"); ctx.stroke(stem)
     ctx.beginPath(); ctx.arc(12, 17, 1.3, 0, Math.PI * 2); ctx.fill()
     m.addImage("mk-warning", ctx.getImageData(0, 0, S, S), { sdf: true, pixelRatio: R })
@@ -270,16 +288,24 @@ const ALL_SOURCES = [
   "facility-pts", "chokepoint-pts", "vessel-pts", "night-overlay",
 ]
 
-export function GlobeMap() {
+interface GlobeMapProps {
+  onMapReady?: (map: mapboxgl.Map) => void
+}
+
+export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
   const mapBox = useRef<HTMLDivElement>(null)
   const map = useRef<mapboxgl.Map | null>(null)
   const countriesRef = useRef<MapCountry[]>([])
   const firstStyle = useRef(true)
   const routeSplines = useRef<Map<string, [number, number][]>>(new Map())
   const iconsLoaded = useRef(false)
-  const { selectCountry, selectedCountryCode } = useAppStore()
+  const { selectCountry, selectedCountryCode, isDemoMode } = useAppStore()
   const { theme } = useThemeStore()
   const [ready, setReady] = useState(false)
+  const [keyOpen, setKeyOpen] = useState(false)
+  const [layers, setLayers] = useState({
+    routes: true, vessels: true, facilities: true, chokepoints: true, night: true, labels: true,
+  })
   const { data: apiCountries } = useCountries()
 
   useEffect(() => { if (apiCountries) countriesRef.current = apiCountries }, [apiCountries])
@@ -341,15 +367,23 @@ export function GlobeMap() {
     })
     m.on("click", "country-fill", (e) => { const code = e.features?.[0]?.properties?.iso_3166_1; if (code) selectCountry(code) })
     const cPopup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false, className: "sentinel-popup", maxWidth: "220px", offset: 14 })
-    m.on("mouseenter", "country-fill", (e) => {
+    let hoveredCountryCode = ""
+    const updateCountryPopup = (e: mapboxgl.MapMouseEvent & { features?: mapboxgl.MapGeoJSONFeature[] }) => {
       m.getCanvas().style.cursor = "pointer"
-      const code = e.features?.[0]?.properties?.iso_3166_1; if (!code) return
-      const c = countriesRef.current.find(x => x.code === code); if (!c) return
-      const color = RISK[c.riskLevel] || "#64748b"
-      cPopup.setLngLat(e.lngLat).setHTML(`<div class="sentinel-popup-inner"><div class="sentinel-popup-title">${c.name}</div><div class="sentinel-popup-row"><span class="sentinel-popup-val" style="color:${color}">${c.score}</span><span class="sentinel-popup-badge" style="color:${color}">${c.riskLevel}</span></div></div>`).addTo(m)
-    })
-    m.on("mousemove", "country-fill", (e) => cPopup.setLngLat(e.lngLat))
-    m.on("mouseleave", "country-fill", () => { m.getCanvas().style.cursor = ""; cPopup.remove() })
+      const code = e.features?.[0]?.properties?.iso_3166_1 ?? ""
+      if (code && code !== hoveredCountryCode) {
+        hoveredCountryCode = code
+        const c = countriesRef.current.find(x => x.code === code)
+        if (c) {
+          const color = RISK[c.riskLevel] || "#64748b"
+          cPopup.setHTML(`<div class="sentinel-popup-inner"><div class="sentinel-popup-title">${c.name}</div><div class="sentinel-popup-row"><span class="sentinel-popup-val" style="color:${color}">${c.score}</span><span class="sentinel-popup-badge" style="color:${color}">${c.riskLevel}</span></div></div>`)
+        }
+      }
+      cPopup.setLngLat(e.lngLat).addTo(m)
+    }
+    m.on("mouseenter", "country-fill", updateCountryPopup)
+    m.on("mousemove", "country-fill", updateCountryPopup)
+    m.on("mouseleave", "country-fill", () => { m.getCanvas().style.cursor = ""; hoveredCountryCode = ""; cPopup.remove() })
 
     // 2. Trade routes
     const routeFeatures = tradeRoutes.map((rt) => {
@@ -376,7 +410,7 @@ export function GlobeMap() {
     m.addSource("facility-pts", { type: "geojson", data: facilityGeoJSON() })
     m.addLayer({ id: "facility-icons", type: "symbol", source: "facility-pts",
       layout: { "icon-image": "mk-factory", "icon-size": ["interpolate", ["linear"], ["zoom"], 1, 0.55, 5, 0.8], "icon-allow-overlap": true, "text-field": ["get", "label"], "text-font": ["DIN Pro Bold", "Arial Unicode MS Bold"], "text-size": 10, "text-offset": [0, 1.8], "text-anchor": "top", "text-allow-overlap": false, "text-optional": true, "text-letter-spacing": 0.05 },
-      paint: { "icon-color": ["get", "color"], "icon-halo-color": "rgba(0,0,0,0.6)", "icon-halo-width": 3, "text-color": ["get", "color"], "text-halo-color": "rgba(0,0,0,0.9)", "text-halo-width": 1.4 },
+      paint: { "icon-color": "#34d399", "icon-halo-color": "rgba(0,0,0,0.6)", "icon-halo-width": 3, "text-color": "#34d399", "text-halo-color": "rgba(0,0,0,0.9)", "text-halo-width": 1.4 },
     })
     const fPopup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false, className: "sentinel-popup", maxWidth: "260px", offset: 18 })
     m.on("mouseenter", "facility-icons", (e) => {
@@ -391,14 +425,14 @@ export function GlobeMap() {
     m.addSource("chokepoint-pts", { type: "geojson", data: chokepointGeoJSON() })
     m.addLayer({ id: "chokepoint-icons", type: "symbol", source: "chokepoint-pts",
       layout: { "icon-image": "mk-warning", "icon-size": ["interpolate", ["linear"], ["zoom"], 1, 0.45, 5, 0.7], "icon-allow-overlap": true, "text-field": ["get", "label"], "text-font": ["DIN Pro Bold", "Arial Unicode MS Bold"], "text-size": 9, "text-offset": [0, 1.6], "text-anchor": "top", "text-allow-overlap": false, "text-optional": true, "text-letter-spacing": 0.06 },
-      paint: { "icon-color": ["get", "color"], "icon-halo-color": "rgba(0,0,0,0.6)", "icon-halo-width": 3, "text-color": ["get", "color"], "text-halo-color": "rgba(0,0,0,0.9)", "text-halo-width": 1.4 },
+      paint: { "icon-color": "#fb923c", "icon-halo-color": "rgba(0,0,0,0.6)", "icon-halo-width": 3, "text-color": "#fb923c", "text-halo-color": "rgba(0,0,0,0.9)", "text-halo-width": 1.4 },
     })
 
     // 5. Vessel symbol layer (WebGL-native — zero lag)
     m.addSource("vessel-pts", { type: "geojson", data: vesselGeoJSON(routeSplines.current) })
     m.addLayer({ id: "vessel-icons", type: "symbol", source: "vessel-pts",
       layout: { "icon-image": "mk-ship", "icon-size": ["interpolate", ["linear"], ["zoom"], 1, 0.5, 5, 0.75], "icon-allow-overlap": true, "text-field": ["get", "label"], "text-font": ["DIN Pro Bold", "Arial Unicode MS Bold"], "text-size": 9, "text-offset": [0, 1.7], "text-anchor": "top", "text-allow-overlap": false, "text-optional": true, "text-letter-spacing": 0.04 },
-      paint: { "icon-color": ["get", "color"], "icon-halo-color": "rgba(0,0,0,0.6)", "icon-halo-width": 3, "text-color": ["get", "color"], "text-halo-color": "rgba(0,0,0,0.9)", "text-halo-width": 1.4 },
+      paint: { "icon-color": "#60a5fa", "icon-halo-color": "rgba(0,0,0,0.6)", "icon-halo-width": 3, "text-color": "#60a5fa", "text-halo-color": "rgba(0,0,0,0.9)", "text-halo-width": 1.4 },
     })
     const vPopup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false, className: "sentinel-popup", maxWidth: "300px", offset: 18 })
     m.on("mouseenter", "vessel-icons", (e) => {
@@ -431,7 +465,7 @@ export function GlobeMap() {
     try {
       m = new mapboxgl.Map({
         container: mapBox.current, style: "mapbox://styles/mapbox/dark-v11",
-        center: [55, 20], zoom: 1.5, projection: "globe",
+        center: [55, 20], zoom: 1.2, projection: "globe",
         attributionControl: false, logoPosition: "bottom-left", maxZoom: 8, minZoom: 0.8,
         renderWorldCopies: false,
       })
@@ -446,9 +480,34 @@ export function GlobeMap() {
       if (cancelled) return
       m.setFog(fogFor())
       setReady(true)
+      onMapReady?.(m)
+    })
+    // Continuous auto-rotate: drifts forever, user interaction cancels it.
+    // Call (m as any)._startSpin() to restart after a reset.
+    let spinning = false
+    const spin = () => {
+      if (!spinning) return
+      const c = m.getCenter()
+      m.easeTo({ center: [c.lng + 60, c.lat], bearing: m.getBearing(), duration: 30000, easing: (t: number) => t })
+    }
+    const startSpin = () => { spinning = true; spin() }
+    const stopSpin = () => { spinning = false }
+    m.on("moveend", () => { if (spinning) spin() })        // chain next segment
+    m.on("mousedown", stopSpin)                             // user interaction stops
+    m.on("touchstart", stopSpin)
+    m.on("wheel", stopSpin)
+    ;(m as any)._startSpin = startSpin
+    ;(m as any)._stopSpin = stopSpin
+    m.once("idle", () => { if (!cancelled) startSpin() })
+    // Reset pitch/bearing when user zooms out to overview level
+    m.on("zoomend", () => {
+      if (m.getZoom() < 2.5 && (Math.abs(m.getPitch()) > 5 || Math.abs(m.getBearing()) > 10)) {
+        m.easeTo({ pitch: 0, bearing: 0, duration: 800 })
+      }
     })
     map.current = m
-    return () => { cancelled = true; m.remove(); map.current = null }
+    useAppStore.getState().setMapInstance(m)
+    return () => { cancelled = true; m.stop(); m.remove(); map.current = null; useAppStore.getState().setMapInstance(null) }
   }, [])
 
   useEffect(() => {
@@ -472,19 +531,23 @@ export function GlobeMap() {
     return () => clearInterval(interval)
   }, [ready])
 
-  // The map container extends 13rem past the visible area (right: -13rem)
-  // so the sidebar collapse/expand reveals already-rendered pixels — zero gap.
-  // resize() still needed for window resizes.
+  // Resize map only when container dimensions actually change (window resize).
+  // Tracks previous size to skip no-op resizes that cause flashes.
   useEffect(() => {
     const el = mapBox.current
     if (!el) return
-    let timer: number
+    let prevW = el.clientWidth
+    let prevH = el.clientHeight
     const ro = new ResizeObserver(() => {
-      clearTimeout(timer)
-      timer = window.setTimeout(() => map.current?.resize(), 300)
+      const w = el.clientWidth
+      const h = el.clientHeight
+      if (w === prevW && h === prevH) return
+      prevW = w
+      prevH = h
+      map.current?.resize()
     })
     ro.observe(el)
-    return () => { ro.disconnect(); clearTimeout(timer) }
+    return () => ro.disconnect()
   }, [])
 
   useEffect(() => {
@@ -498,35 +561,154 @@ export function GlobeMap() {
 
   useEffect(() => {
     const m = map.current; if (!m || !selectedCountryCode) return
+    ;(m as any)._stopSpin?.()
     const coords = resolveCoords(selectedCountryCode, apiCountries)
-    if (coords) m.flyTo({ center: coords, zoom: 4.5, duration: 1500, essential: true })
-  }, [selectedCountryCode, apiCountries])
+    if (!coords) return
+    const zoom = zoomForCountry(selectedCountryCode)
+    if (isDemoMode) {
+      m.flyTo({ center: coords, zoom, pitch: 45, bearing: -20, duration: 2000, essential: true })
+    } else {
+      m.flyTo({ center: coords, zoom, duration: 1500, essential: true })
+    }
+  }, [selectedCountryCode, apiCountries, isDemoMode])
+
+  // Layer visibility toggle
+  useEffect(() => {
+    const m = map.current; if (!m || !ready) return
+    const vis = (on: boolean) => on ? "visible" as const : "none" as const
+    const layerMap: Record<string, string[]> = {
+      routes: ["routes-glow", "routes-line", "routes-dash"],
+      vessels: ["vessel-icons"],
+      facilities: ["facility-icons"],
+      chokepoints: ["chokepoint-icons"],
+      night: ["night-fill", "night-edge"],
+      labels: ["countries-labels"],
+    }
+    for (const [key, ids] of Object.entries(layerMap)) {
+      const v = vis(layers[key as keyof typeof layers])
+      for (const id of ids) { if (m.getLayer(id)) m.setLayoutProperty(id, "visibility", v) }
+    }
+  }, [layers, ready])
+
 
   return (
     <div style={{ position: "relative", width: "100%", height: "100%", overflow: "hidden", backgroundColor: "#020206" }}>
       <div ref={mapBox} style={{ position: "absolute", top: 0, left: 0, right: 0, bottom: 0 }} />
-      <div className="pointer-events-none absolute top-3 left-3 flex items-center gap-2 rounded-md bg-black/70 px-2.5 py-1.5 backdrop-blur-sm border border-white/[0.06]">
-        <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
-        <span className="font-data text-[9px] font-semibold tracking-widest text-white/60">
-          LIVE — {apiCountries?.length ?? 0} NATIONS · {facilities.length} FACILITIES · {tradeRoutes.length} ROUTES · {VESSELS.length} VESSELS · {CHOKEPOINTS.length} CHOKEPOINTS
-        </span>
-      </div>
-      <div className="pointer-events-none absolute bottom-3 left-3 flex flex-col gap-1.5 rounded-md bg-black/70 px-3 py-2 backdrop-blur-sm border border-white/[0.06]">
-        <div className="flex items-center gap-3">
-          {(["CRITICAL", "HIGH", "ELEVATED", "MODERATE", "LOW"] as const).map((level) => (
-            <div key={level} className="flex items-center gap-1">
-              <span className="h-2 w-2 rounded-sm" style={{ backgroundColor: RISK[level], opacity: 0.7 }} />
-              <span className="font-data text-[8px] font-medium tracking-wider text-white/50">{level}</span>
+      {/* LIVE bar + expandable key/filter panel */}
+      <div className="absolute top-3 left-3 flex flex-col" style={{ zIndex: 10 }}>
+        {/* LIVE pill */}
+        <div className="pointer-events-none flex h-8 items-center gap-2.5 rounded-full backdrop-blur-md px-4"
+          style={{
+            backgroundColor: "var(--sentinel-bg-elevated)",
+            border: "1px solid var(--sentinel-border)",
+          }}
+        >
+          <span className="relative flex h-2 w-2">
+            <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400 opacity-60" />
+            <span className="relative inline-flex h-2 w-2 rounded-full bg-emerald-500" />
+          </span>
+          <span className="font-data text-[11px] font-bold tracking-widest"
+            style={{ color: "var(--sentinel-text-primary)" }}
+          >
+            LIVE
+          </span>
+          <span className="h-3 w-px" style={{ backgroundColor: "var(--sentinel-border)" }} />
+          <span className="font-data text-[11px] tracking-wide"
+            style={{ color: "var(--sentinel-text-tertiary)" }}
+          >
+            {apiCountries?.length ?? 0} Nations · {facilities.length} Facilities · {tradeRoutes.length} Routes · {VESSELS.length} Vessels · {CHOKEPOINTS.length} Chokepoints
+          </span>
+        </div>
+
+        {/* Key + Filter toggle */}
+        <button
+          onClick={() => setKeyOpen((p) => !p)}
+          className="pointer-events-auto mt-1.5 flex h-7 items-center gap-2 self-start rounded-full backdrop-blur-md px-3 cursor-pointer transition-colors"
+          style={{
+            backgroundColor: "var(--sentinel-bg-elevated)",
+            border: "1px solid var(--sentinel-border)",
+          }}
+          onMouseEnter={(e) => { e.currentTarget.style.borderColor = "var(--sentinel-accent)" }}
+          onMouseLeave={(e) => { e.currentTarget.style.borderColor = "var(--sentinel-border)" }}
+        >
+          <span className="font-data text-[10px] font-semibold tracking-widest"
+            style={{ color: "var(--sentinel-text-secondary)" }}
+          >
+            KEY & LAYERS
+          </span>
+          <ChevronDown size={12}
+            className={`transition-transform duration-200`}
+            style={{ color: "var(--sentinel-text-tertiary)", transform: keyOpen ? "rotate(180deg)" : "rotate(0deg)" }}
+          />
+        </button>
+
+        {/* Expandable panel */}
+        {keyOpen && (
+          <div
+            className="pointer-events-auto mt-1 flex flex-col gap-2 rounded-xl backdrop-blur-md px-3 py-2.5 w-48"
+            style={{
+              backgroundColor: "var(--sentinel-bg-elevated)",
+              border: "1px solid var(--sentinel-border)",
+            }}
+          >
+            {/* Risk levels — vertical list */}
+            <div>
+              <span className="font-data text-[10px] font-bold tracking-widest"
+                style={{ color: "var(--sentinel-text-tertiary)" }}
+              >
+                RISK LEVELS
+              </span>
+              <div className="mt-1 flex flex-wrap gap-x-3 gap-y-1">
+                {(["CRITICAL", "HIGH", "ELEVATED", "MODERATE", "LOW"] as const).map((level) => (
+                  <div key={level} className="flex items-center gap-1.5">
+                    <span className="h-2.5 w-2.5 rounded-sm" style={{ backgroundColor: RISK[level], opacity: 0.85 }} />
+                    <span className="font-data text-[10px] font-medium tracking-wider"
+                      style={{ color: "var(--sentinel-text-tertiary)" }}
+                    >{level}</span>
+                  </div>
+                ))}
+              </div>
             </div>
-          ))}
-        </div>
-        <div className="flex items-center gap-3">
-          <Leg icon={<span className="h-2.5 w-2.5 rounded-sm border border-blue-400/40" style={{ background: "rgba(59,130,246,0.15)" }} />} label="REGION" />
-          <Leg icon={<Factory size={10} className="text-emerald-400" />} label="FACILITY" />
-          <Leg icon={<AlertTriangle size={10} className="text-orange-400" />} label="CHOKEPOINT" />
-          <Leg icon={<span className="inline-block h-[2px] w-3 rounded-full bg-amber-400" />} label="ROUTE" />
-          <Leg icon={<Ship size={10} className="text-sky-400" />} label="VESSEL" />
-        </div>
+
+            <div className="h-px" style={{ backgroundColor: "var(--sentinel-border-subtle)" }} />
+
+            {/* Layers — toggleable, doubles as entity key */}
+            <div>
+              <span className="font-data text-[10px] font-bold tracking-widest"
+                style={{ color: "var(--sentinel-text-tertiary)" }}
+              >
+                LAYERS
+              </span>
+              <div className="mt-1 flex flex-col gap-0">
+                {([
+                  { key: "routes" as const, label: "Routes", icon: <span className="inline-block h-[2px] w-3.5 rounded-full bg-amber-400" /> },
+                  { key: "vessels" as const, label: "Vessels", icon: <Ship size={13} className="text-sky-400" /> },
+                  { key: "facilities" as const, label: "Facilities", icon: <Factory size={13} className="text-emerald-400" /> },
+                  { key: "chokepoints" as const, label: "Chokepoints", icon: <AlertTriangle size={13} className="text-orange-400" /> },
+                  { key: "night" as const, label: "Night", icon: <span className="inline-block h-3 w-3 rounded-full bg-indigo-500/50" /> },
+                  { key: "labels" as const, label: "Labels", icon: <span className="font-data text-[11px]" style={{ color: "var(--sentinel-text-tertiary)" }}>A</span> },
+                ]).map(({ key, label, icon }) => (
+                  <button
+                    key={key}
+                    onClick={() => setLayers((prev) => ({ ...prev, [key]: !prev[key] }))}
+                    className="flex items-center gap-2 rounded-md px-1.5 py-1 transition-colors cursor-pointer"
+                    style={{ backgroundColor: "transparent" }}
+                    onMouseEnter={(e) => { e.currentTarget.style.backgroundColor = "var(--sentinel-bg-overlay)" }}
+                    onMouseLeave={(e) => { e.currentTarget.style.backgroundColor = "transparent" }}
+                  >
+                    <span className="w-4 flex justify-center shrink-0">{icon}</span>
+                    <span className="flex-1 text-left font-data text-[11px] tracking-wide"
+                      style={{ color: "var(--sentinel-text-secondary)" }}
+                    >{label}</span>
+                    {layers[key]
+                      ? <Eye size={12} style={{ color: "var(--risk-low)", opacity: 0.7 }} />
+                      : <EyeOff size={12} style={{ color: "var(--sentinel-text-tertiary)", opacity: 0.4 }} />}
+                  </button>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   )
@@ -534,9 +716,9 @@ export function GlobeMap() {
 
 function Leg({ icon, label }: { icon: React.ReactNode; label: string }) {
   return (
-    <div className="flex items-center gap-1">
+    <div className="flex items-center gap-1.5">
       {icon}
-      <span className="font-data text-[8px] tracking-wider text-white/50">{label}</span>
+      <span className="font-data text-[11px] tracking-wider text-white/55">{label}</span>
     </div>
   )
 }

@@ -1,0 +1,1366 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+India,Andaman and Nicobar Islands,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andaman and Nicobar Islands,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Andhra Pradesh,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Andhra Pradesh,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141043
+India,Andhra Pradesh,May,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Andhra Pradesh,June,2023,0,0,0,0,4.0,0.0,0.0,4.0,1726141043
+India,Andhra Pradesh,July,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141043
+India,Andhra Pradesh,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141043
+India,Andhra Pradesh,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Andhra Pradesh,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141043
+India,Andhra Pradesh,November,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141043
+India,Andhra Pradesh,December,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141043
+India,Andhra Pradesh,January,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141043
+India,Andhra Pradesh,February,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141043
+India,Andhra Pradesh,March,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141043
+India,Andhra Pradesh,April,2024,3,0,0,3,5.0,0.0,0.0,5.0,1726141043
+India,Andhra Pradesh,May,2024,4,0,0,4,4.0,0.0,0.0,4.0,1726141043
+India,Andhra Pradesh,June,2024,4,0,0,4,13.0,0.0,0.0,13.0,1726141043
+India,Andhra Pradesh,July,2024,12,0,0,12,5.0,0.0,0.0,5.0,1726141043
+India,Andhra Pradesh,August,2024,6,0,0,6,6.0,0.0,0.0,6.0,1726141043
+India,Arunachal Pradesh,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,April,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141043
+India,Arunachal Pradesh,July,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,October,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141043
+India,Arunachal Pradesh,November,2023,2,1,0,1,5.0,1.0,0.0,4.0,1726141043
+India,Arunachal Pradesh,December,2023,4,1,0,3,3.0,0.0,0.0,3.0,1726141043
+India,Arunachal Pradesh,January,2024,3,1,0,2,1.0,0.0,1.0,0.0,1726141043
+India,Arunachal Pradesh,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141043
+India,Arunachal Pradesh,March,2024,4,3,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141043
+India,Arunachal Pradesh,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Arunachal Pradesh,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141043
+India,Arunachal Pradesh,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Assam,March,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141043
+India,Assam,April,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141043
+India,Assam,May,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141043
+India,Assam,June,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141043
+India,Assam,July,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141043
+India,Assam,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141043
+India,Assam,September,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141043
+India,Assam,October,2023,3,1,0,2,4.0,0.0,0.0,4.0,1726141043
+India,Assam,November,2023,4,0,0,4,4.0,1.0,1.0,2.0,1726141043
+India,Assam,December,2023,4,1,1,2,12.0,4.0,3.0,5.0,1726141043
+India,Assam,January,2024,7,2,2,3,4.0,0.0,2.0,2.0,1726141043
+India,Assam,February,2024,3,0,1,2,4.0,0.0,2.0,2.0,1726141043
+India,Assam,March,2024,3,0,1,2,1.0,0.0,0.0,1.0,1726141043
+India,Assam,April,2024,1,0,0,1,3.0,1.0,0.0,2.0,1726141043
+India,Assam,May,2024,4,2,0,2,1.0,0.0,0.0,1.0,1726141043
+India,Assam,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141043
+India,Assam,July,2024,1,0,0,1,3.0,1.0,0.0,2.0,1726141043
+India,Assam,August,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141043
+India,Bihar,March,2023,3,0,0,3,4.0,1.0,0.0,3.0,1726141043
+India,Bihar,April,2023,3,1,0,2,3.0,0.0,0.0,3.0,1726141043
+India,Bihar,May,2023,3,0,0,3,4.0,0.0,0.0,4.0,1726141043
+India,Bihar,June,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141043
+India,Bihar,July,2023,2,0,0,1,2.0,0.0,0.0,2.0,1726141043
+India,Bihar,August,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141043
+India,Bihar,September,2023,1,0,0,1,6.0,0.0,0.0,6.0,1726141043
+India,Bihar,October,2023,5,0,0,5,1.0,0.0,0.0,1.0,1726141043
+India,Bihar,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141043
+India,Bihar,December,2023,1,0,0,1,10.0,0.0,1.0,9.0,1726141043
+India,Bihar,January,2024,4,0,0,4,4.0,0.0,0.0,4.0,1726141043
+India,Bihar,February,2024,5,0,0,5,4.0,0.0,0.0,4.0,1726141043
+India,Bihar,March,2024,4,0,0,4,2.0,0.0,0.0,2.0,1726141043
+India,Bihar,April,2024,2,0,0,2,3.0,0.0,1.0,2.0,1726141043
+India,Bihar,May,2024,3,0,0,3,4.0,0.0,1.0,3.0,1726141043
+India,Bihar,June,2024,4,0,1,3,7.0,0.0,0.0,7.0,1726141043
+India,Bihar,July,2024,6,0,0,6,2.0,0.0,0.0,2.0,1726141043
+India,Bihar,August,2024,3,0,0,3,4.0,0.0,0.0,4.0,1726141043
+India,Chandigarh,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141043
+India,Chandigarh,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chandigarh,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Chhattisgarh,March,2023,8,1,2,5,14.0,6.0,3.0,5.0,1726141043
+India,Chhattisgarh,April,2023,10,5,2,3,10.0,4.0,3.0,3.0,1726141043
+India,Chhattisgarh,May,2023,9,3,3,3,8.0,5.0,0.0,3.0,1726141043
+India,Chhattisgarh,June,2023,8,4,0,4,19.0,9.0,2.0,8.0,1726141043
+India,Chhattisgarh,July,2023,16,7,2,7,5.0,2.0,1.0,2.0,1726141043
+India,Chhattisgarh,August,2023,8,5,1,2,9.0,5.0,0.0,4.0,1726141043
+India,Chhattisgarh,September,2023,6,2,0,4,5.0,2.0,1.0,2.0,1726141043
+India,Chhattisgarh,October,2023,7,3,1,3,3.0,2.0,0.0,1.0,1726141043
+India,Chhattisgarh,November,2023,3,2,0,1,19.0,7.0,6.0,6.0,1726141043
+India,Chhattisgarh,December,2023,16,6,4,6,16.0,8.0,5.0,3.0,1726141043
+India,Chhattisgarh,January,2024,11,4,4,3,12.0,9.0,1.0,2.0,1726141043
+India,Chhattisgarh,February,2024,13,8,2,3,19.0,11.0,3.0,5.0,1726141043
+India,Chhattisgarh,March,2024,18,11,2,5,22.0,11.0,3.0,8.0,1726141043
+India,Chhattisgarh,April,2024,19,10,2,7,24.0,11.0,7.0,6.0,1726141043
+India,Chhattisgarh,May,2024,20,11,3,6,18.0,10.0,5.0,3.0,1726141043
+India,Chhattisgarh,June,2024,16,10,3,3,17.0,5.0,6.0,6.0,1726141043
+India,Chhattisgarh,July,2024,15,6,3,6,11.0,5.0,2.0,4.0,1726141043
+India,Chhattisgarh,August,2024,12,4,3,5,11.0,3.0,1.0,7.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Dadra and Nagar Haveli and Daman and Diu,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Delhi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Delhi,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141043
+India,Delhi,May,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141043
+India,Delhi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Delhi,July,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Delhi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+India,Delhi,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141043
+India,Delhi,October,2023,2,0,0,2,1.0,1.0,0.0,0.0,1726141043
+India,Delhi,November,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141043
+India,Delhi,December,2023,1,0,0,1,1.0,0.0,1.0,0.0,1726141044
+India,Delhi,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Delhi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Delhi,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Delhi,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Delhi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Delhi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Delhi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Delhi,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Goa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Goa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Gujarat,May,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Gujarat,June,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141044
+India,Gujarat,July,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Gujarat,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Gujarat,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,December,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141044
+India,Gujarat,January,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141044
+India,Gujarat,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,April,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141044
+India,Gujarat,May,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141044
+India,Gujarat,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Gujarat,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Haryana,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Haryana,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Haryana,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Haryana,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Haryana,July,2023,1,0,0,1,4.0,0.0,0.0,4.0,1726141044
+India,Haryana,August,2023,4,0,0,4,1.0,0.0,0.0,1.0,1726141044
+India,Haryana,September,2023,1,0,0,1,5.0,0.0,0.0,5.0,1726141044
+India,Haryana,October,2023,5,0,0,5,2.0,0.0,0.0,2.0,1726141044
+India,Haryana,November,2023,2,0,0,2,3.0,1.0,0.0,2.0,1726141044
+India,Haryana,December,2023,3,1,0,2,3.0,0.0,0.0,3.0,1726141044
+India,Haryana,January,2024,4,1,0,3,2.0,0.0,0.0,2.0,1726141044
+India,Haryana,February,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141044
+India,Haryana,March,2024,3,0,0,3,1.0,0.0,0.0,1.0,1726141044
+India,Haryana,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Haryana,May,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141044
+India,Haryana,June,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141044
+India,Haryana,July,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141044
+India,Haryana,August,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141044
+India,Himachal Pradesh,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141044
+India,Himachal Pradesh,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Himachal Pradesh,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Himachal Pradesh,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Himachal Pradesh,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Himachal Pradesh,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Jammu and Kashmir,March,2023,8,1,3,4,3.0,2.0,1.0,0.0,1726141044
+India,Jammu and Kashmir,April,2023,9,6,1,2,8.0,5.0,2.0,1.0,1726141044
+India,Jammu and Kashmir,May,2023,8,4,2,2,15.0,10.0,1.0,4.0,1726141044
+India,Jammu and Kashmir,June,2023,12,7,1,5,11.0,8.0,0.0,3.0,1726141044
+India,Jammu and Kashmir,July,2023,11,7,1,3,13.0,8.0,1.0,4.0,1726141044
+India,Jammu and Kashmir,August,2023,13,8,1,4,13.0,11.0,2.0,0.0,1726141044
+India,Jammu and Kashmir,September,2023,9,8,1,0,19.0,15.0,2.0,2.0,1726141044
+India,Jammu and Kashmir,October,2023,17,14,1,2,25.0,17.0,1.0,7.0,1726141044
+India,Jammu and Kashmir,November,2023,23,15,1,7,16.0,11.0,1.0,4.0,1726141044
+India,Jammu and Kashmir,December,2023,16,11,1,4,7.0,3.0,1.0,3.0,1726141044
+India,Jammu and Kashmir,January,2024,11,7,1,3,5.0,4.0,1.0,0.0,1726141044
+India,Jammu and Kashmir,February,2024,6,4,2,0,5.0,3.0,0.0,2.0,1726141044
+India,Jammu and Kashmir,March,2024,5,3,0,2,6.0,3.0,3.0,0.0,1726141044
+India,Jammu and Kashmir,April,2024,6,3,3,0,12.0,7.0,0.0,5.0,1726141044
+India,Jammu and Kashmir,May,2024,13,7,1,5,13.0,8.0,1.0,4.0,1726141044
+India,Jammu and Kashmir,June,2024,13,8,1,4,13.0,11.0,0.0,2.0,1726141044
+India,Jammu and Kashmir,July,2024,13,10,1,2,26.0,21.0,2.0,3.0,1726141044
+India,Jammu and Kashmir,August,2024,19,15,1,3,22.0,18.0,2.0,2.0,1726141044
+India,Jharkhand,March,2023,7,0,4,3,5.0,0.0,2.0,3.0,1726141044
+India,Jharkhand,April,2023,5,1,2,2,4.0,2.0,2.0,0.0,1726141044
+India,Jharkhand,May,2023,6,2,2,3,7.0,0.0,3.0,4.0,1726141044
+India,Jharkhand,June,2023,7,0,3,4,1.0,1.0,0.0,0.0,1726141044
+India,Jharkhand,July,2023,3,2,1,0,8.0,1.0,1.0,6.0,1726141044
+India,Jharkhand,August,2023,8,1,1,6,10.0,4.0,1.0,5.0,1726141044
+India,Jharkhand,September,2023,8,2,1,5,4.0,1.0,1.0,2.0,1726141044
+India,Jharkhand,October,2023,5,2,1,2,2.0,1.0,1.0,0.0,1726141044
+India,Jharkhand,November,2023,2,1,1,0,3.0,0.0,2.0,1.0,1726141044
+India,Jharkhand,December,2023,4,1,2,1,5.0,1.0,1.0,3.0,1726141044
+India,Jharkhand,January,2024,4,1,1,2,3.0,1.0,0.0,2.0,1726141044
+India,Jharkhand,February,2024,4,1,1,2,9.0,3.0,1.0,5.0,1726141044
+India,Jharkhand,March,2024,9,3,1,5,2.0,1.0,0.0,1.0,1726141044
+India,Jharkhand,April,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Jharkhand,May,2024,0,0,0,0,3.0,2.0,0.0,1.0,1726141044
+India,Jharkhand,June,2024,3,2,0,1,1.0,1.0,0.0,0.0,1726141044
+India,Jharkhand,July,2024,2,1,0,1,4.0,2.0,0.0,2.0,1726141044
+India,Jharkhand,August,2024,4,1,1,2,2.0,0.0,1.0,1.0,1726141044
+India,Karnataka,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141044
+India,Karnataka,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Karnataka,May,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141044
+India,Karnataka,June,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141044
+India,Karnataka,July,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141044
+India,Karnataka,August,2023,3,0,0,3,5.0,0.0,0.0,5.0,1726141044
+India,Karnataka,September,2023,5,0,0,5,1.0,0.0,0.0,1.0,1726141044
+India,Karnataka,October,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141044
+India,Karnataka,November,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141044
+India,Karnataka,December,2023,2,0,0,2,3.0,0.0,0.0,3.0,1726141044
+India,Karnataka,January,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141044
+India,Karnataka,February,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141044
+India,Karnataka,March,2024,3,0,0,3,5.0,0.0,1.0,4.0,1726141044
+India,Karnataka,April,2024,4,0,0,4,4.0,0.0,0.0,4.0,1726141044
+India,Karnataka,May,2024,4,0,0,4,1.0,0.0,0.0,1.0,1726141044
+India,Karnataka,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Karnataka,July,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141044
+India,Karnataka,August,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141044
+India,Kerala,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Kerala,April,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141044
+India,Kerala,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Kerala,June,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141044
+India,Kerala,July,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141044
+India,Kerala,August,2023,2,2,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Kerala,September,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Kerala,October,2023,1,0,0,1,3.0,0.0,1.0,2.0,1726141044
+India,Kerala,November,2023,3,0,1,2,4.0,2.0,0.0,2.0,1726141044
+India,Kerala,December,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141044
+India,Kerala,January,2024,3,1,0,2,2.0,0.0,0.0,2.0,1726141044
+India,Kerala,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141044
+India,Kerala,March,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141044
+India,Kerala,April,2024,3,0,0,3,1.0,1.0,0.0,0.0,1726141044
+India,Kerala,May,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Kerala,June,2024,1,0,0,1,1.0,0.0,1.0,0.0,1726141044
+India,Kerala,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Kerala,August,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141044
+India,Ladakh,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Ladakh,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Madhya Pradesh,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141044
+India,Madhya Pradesh,April,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141044
+India,Madhya Pradesh,May,2023,2,1,0,2,1.0,0.0,0.0,1.0,1726141044
+India,Madhya Pradesh,June,2023,2,0,0,2,3.0,1.0,0.0,2.0,1726141044
+India,Madhya Pradesh,July,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141044
+India,Madhya Pradesh,August,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141044
+India,Madhya Pradesh,September,2023,2,0,0,2,5.0,2.0,0.0,3.0,1726141044
+India,Madhya Pradesh,October,2023,5,2,0,3,2.0,0.0,0.0,2.0,1726141044
+India,Madhya Pradesh,November,2023,2,0,0,2,8.0,1.0,0.0,7.0,1726141044
+India,Madhya Pradesh,December,2023,7,1,0,6,4.0,1.0,0.0,3.0,1726141044
+India,Madhya Pradesh,January,2024,4,1,0,3,4.0,0.0,1.0,3.0,1726141044
+India,Madhya Pradesh,February,2024,3,0,0,3,3.0,1.0,1.0,1.0,1726141044
+India,Madhya Pradesh,March,2024,3,1,1,1,3.0,0.0,0.0,3.0,1726141044
+India,Madhya Pradesh,April,2024,3,0,0,3,2.0,1.0,0.0,1.0,1726141044
+India,Madhya Pradesh,May,2024,3,1,0,2,3.0,0.0,0.0,3.0,1726141044
+India,Madhya Pradesh,June,2024,3,0,0,3,3.0,0.0,0.0,3.0,1726141044
+India,Madhya Pradesh,July,2024,3,0,0,3,3.0,1.0,0.0,2.0,1726141044
+India,Madhya Pradesh,August,2024,2,0,0,2,2.0,1.0,0.0,1.0,1726141044
+India,Maharashtra,March,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141044
+India,Maharashtra,April,2023,2,0,0,2,3.0,3.0,0.0,0.0,1726141044
+India,Maharashtra,May,2023,4,2,0,2,2.0,0.0,0.0,2.0,1726141044
+India,Maharashtra,June,2023,2,0,0,2,1.0,1.0,0.0,0.0,1726141044
+India,Maharashtra,July,2023,1,1,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Maharashtra,August,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Maharashtra,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Maharashtra,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Maharashtra,November,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141044
+India,Maharashtra,December,2023,3,0,0,3,3.0,1.0,0.0,2.0,1726141044
+India,Maharashtra,January,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141044
+India,Maharashtra,February,2024,2,0,0,2,4.0,1.0,0.0,3.0,1726141044
+India,Maharashtra,March,2024,4,1,0,3,5.0,3.0,0.0,2.0,1726141044
+India,Maharashtra,April,2024,5,3,0,2,1.0,0.0,0.0,1.0,1726141044
+India,Maharashtra,May,2024,4,2,0,2,4.0,1.0,0.0,3.0,1726141044
+India,Maharashtra,June,2024,4,1,0,3,1.0,0.0,0.0,1.0,1726141044
+India,Maharashtra,July,2024,2,0,0,2,5.0,1.0,1.0,3.0,1726141044
+India,Maharashtra,August,2024,4,0,1,3,0.0,0.0,0.0,0.0,1726141044
+India,Manipur,March,2023,6,0,3,3,3.0,0.0,1.0,2.0,1726141044
+India,Manipur,April,2023,4,0,2,2,3.0,1.0,1.0,1.0,1726141044
+India,Manipur,May,2023,4,1,1,2,61.0,36.0,2.0,23.0,1726141044
+India,Manipur,June,2023,32,20,2,10,74.0,48.0,4.0,22.0,1726141044
+India,Manipur,July,2023,66,40,4,21,89.0,61.0,1.0,27.0,1726141044
+India,Manipur,August,2023,86,57,2,27,43.0,25.0,0.0,18.0,1726141044
+India,Manipur,September,2023,54,36,0,18,40.0,25.0,2.0,13.0,1726141044
+India,Manipur,October,2023,40,26,1,13,20.0,9.0,1.0,10.0,1726141044
+India,Manipur,November,2023,23,12,1,10,28.0,11.0,1.0,16.0,1726141044
+India,Manipur,December,2023,33,16,1,16,42.0,16.0,3.0,23.0,1726141044
+India,Manipur,January,2024,34,10,2,22,50.0,32.0,1.0,17.0,1726141044
+India,Manipur,February,2024,48,29,2,17,66.0,49.0,1.0,16.0,1726141044
+India,Manipur,March,2024,66,49,1,16,26.0,7.0,3.0,16.0,1726141044
+India,Manipur,April,2024,26,8,2,16,39.0,20.0,4.0,15.0,1726141044
+India,Manipur,May,2024,38,20,2,16,27.0,6.0,0.0,21.0,1726141044
+India,Manipur,June,2024,30,7,2,21,35.0,10.0,7.0,18.0,1726141044
+India,Manipur,July,2024,38,15,3,20,24.0,9.0,5.0,10.0,1726141044
+India,Manipur,August,2024,24,8,3,13,22.0,7.0,5.0,10.0,1726141044
+India,Meghalaya,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Meghalaya,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,March,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141044
+India,Meghalaya,April,2024,1,0,1,0,2.0,0.0,0.0,2.0,1726141044
+India,Meghalaya,May,2024,3,1,0,2,0.0,0.0,0.0,0.0,1726141044
+India,Meghalaya,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Meghalaya,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Meghalaya,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141044
+India,Mizoram,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Mizoram,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,August,2023,2,2,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Mizoram,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Mizoram,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Nagaland,March,2023,5,0,0,5,2.0,2.0,0.0,0.0,1726141044
+India,Nagaland,April,2023,5,2,0,4,1.0,0.0,0.0,1.0,1726141044
+India,Nagaland,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141044
+India,Nagaland,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Nagaland,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141044
+India,Nagaland,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Nagaland,September,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141044
+India,Nagaland,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141044
+India,Nagaland,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141044
+India,Nagaland,December,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141045
+India,Nagaland,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Nagaland,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141045
+India,Nagaland,March,2024,1,1,0,0,2.0,1.0,0.0,1.0,1726141045
+India,Nagaland,April,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Nagaland,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Nagaland,June,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141045
+India,Nagaland,July,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Nagaland,August,2024,2,1,0,1,4.0,1.0,0.0,3.0,1726141045
+India,Odisha,March,2023,2,0,0,2,4.0,1.0,0.0,3.0,1726141045
+India,Odisha,April,2023,3,1,0,2,5.0,0.0,0.0,5.0,1726141045
+India,Odisha,May,2023,3,0,0,2,3.0,2.0,0.0,1.0,1726141045
+India,Odisha,June,2023,3,2,0,1,2.0,0.0,0.0,2.0,1726141045
+India,Odisha,July,2023,3,0,0,2,3.0,0.0,1.0,2.0,1726141045
+India,Odisha,August,2023,3,0,1,2,1.0,0.0,1.0,0.0,1726141045
+India,Odisha,September,2023,2,1,1,0,6.0,0.0,1.0,5.0,1726141045
+India,Odisha,October,2023,6,0,1,5,1.0,0.0,0.0,1.0,1726141045
+India,Odisha,November,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141045
+India,Odisha,December,2023,1,1,0,0,4.0,1.0,1.0,2.0,1726141045
+India,Odisha,January,2024,3,1,0,2,6.0,2.0,1.0,3.0,1726141045
+India,Odisha,February,2024,6,2,1,3,5.0,3.0,1.0,1.0,1726141045
+India,Odisha,March,2024,4,2,1,1,4.0,2.0,0.0,2.0,1726141045
+India,Odisha,April,2024,4,2,0,2,4.0,2.0,0.0,2.0,1726141045
+India,Odisha,May,2024,4,2,0,2,6.0,2.0,1.0,3.0,1726141045
+India,Odisha,June,2024,5,2,0,3,2.0,0.0,0.0,2.0,1726141045
+India,Odisha,July,2024,4,1,0,3,1.0,0.0,0.0,1.0,1726141045
+India,Odisha,August,2024,1,0,0,1,2.0,2.0,0.0,0.0,1726141045
+India,Puducherry,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Puducherry,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Puducherry,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Puducherry,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Punjab,March,2023,1,1,0,0,3.0,0.0,0.0,3.0,1726141045
+India,Punjab,April,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Punjab,May,2023,2,0,0,2,4.0,0.0,3.0,1.0,1726141045
+India,Punjab,June,2023,5,0,3,2,1.0,0.0,0.0,1.0,1726141045
+India,Punjab,July,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Punjab,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Punjab,September,2023,1,0,0,1,7.0,0.0,0.0,7.0,1726141045
+India,Punjab,October,2023,6,0,0,6,3.0,1.0,0.0,2.0,1726141045
+India,Punjab,November,2023,3,1,0,2,5.0,0.0,0.0,5.0,1726141045
+India,Punjab,December,2023,5,0,0,5,3.0,0.0,0.0,3.0,1726141045
+India,Punjab,January,2024,2,0,0,2,7.0,0.0,0.0,7.0,1726141045
+India,Punjab,February,2024,6,0,0,6,1.0,0.0,0.0,1.0,1726141045
+India,Punjab,March,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141045
+India,Punjab,April,2024,3,0,0,3,4.0,0.0,0.0,4.0,1726141045
+India,Punjab,May,2024,4,0,0,4,1.0,0.0,0.0,1.0,1726141045
+India,Punjab,June,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141045
+India,Punjab,July,2024,3,0,0,3,6.0,0.0,0.0,6.0,1726141045
+India,Punjab,August,2024,4,0,0,4,4.0,0.0,0.0,4.0,1726141045
+India,Rajasthan,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Rajasthan,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Rajasthan,May,2023,2,0,0,1,2.0,0.0,0.0,2.0,1726141045
+India,Rajasthan,June,2023,2,0,0,2,3.0,0.0,0.0,3.0,1726141045
+India,Rajasthan,July,2023,3,0,0,3,5.0,0.0,0.0,5.0,1726141045
+India,Rajasthan,August,2023,5,0,0,5,3.0,0.0,0.0,3.0,1726141045
+India,Rajasthan,September,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141045
+India,Rajasthan,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141045
+India,Rajasthan,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Rajasthan,December,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141045
+India,Rajasthan,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Rajasthan,February,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141045
+India,Rajasthan,March,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141045
+India,Rajasthan,April,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141045
+India,Rajasthan,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Rajasthan,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Rajasthan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Rajasthan,August,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141045
+India,Sikkim,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Sikkim,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Sikkim,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Sikkim,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Tamil Nadu,March,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141045
+India,Tamil Nadu,April,2023,2,0,0,2,5.0,0.0,0.0,5.0,1726141045
+India,Tamil Nadu,May,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141045
+India,Tamil Nadu,June,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141045
+India,Tamil Nadu,July,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141045
+India,Tamil Nadu,August,2023,1,0,0,1,8.0,0.0,0.0,8.0,1726141045
+India,Tamil Nadu,September,2023,7,0,0,7,2.0,0.0,0.0,2.0,1726141045
+India,Tamil Nadu,October,2023,2,0,0,2,9.0,0.0,0.0,9.0,1726141045
+India,Tamil Nadu,November,2023,9,0,0,9,3.0,0.0,0.0,3.0,1726141045
+India,Tamil Nadu,December,2023,3,0,0,3,3.0,0.0,0.0,3.0,1726141045
+India,Tamil Nadu,January,2024,4,0,0,4,3.0,0.0,0.0,3.0,1726141045
+India,Tamil Nadu,February,2024,4,0,0,4,8.0,0.0,0.0,8.0,1726141045
+India,Tamil Nadu,March,2024,8,0,0,8,7.0,0.0,0.0,7.0,1726141045
+India,Tamil Nadu,April,2024,7,0,0,7,6.0,0.0,0.0,6.0,1726141045
+India,Tamil Nadu,May,2024,6,0,0,6,8.0,0.0,0.0,8.0,1726141045
+India,Tamil Nadu,June,2024,8,0,0,8,2.0,0.0,0.0,2.0,1726141045
+India,Tamil Nadu,July,2024,3,0,0,3,6.0,0.0,0.0,6.0,1726141045
+India,Tamil Nadu,August,2024,6,0,0,6,10.0,0.0,0.0,10.0,1726141045
+India,Telangana,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Telangana,April,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141045
+India,Telangana,May,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Telangana,June,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Telangana,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Telangana,August,2023,1,0,0,1,4.0,0.0,0.0,4.0,1726141045
+India,Telangana,September,2023,3,0,0,3,2.0,1.0,0.0,1.0,1726141045
+India,Telangana,October,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Telangana,November,2023,1,0,0,1,5.0,1.0,0.0,4.0,1726141045
+India,Telangana,December,2023,5,1,0,4,3.0,0.0,0.0,3.0,1726141045
+India,Telangana,January,2024,4,1,0,3,0.0,0.0,0.0,0.0,1726141045
+India,Telangana,February,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141045
+India,Telangana,March,2024,3,0,0,3,1.0,0.0,0.0,1.0,1726141045
+India,Telangana,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Telangana,May,2024,0,0,0,0,4.0,0.0,0.0,4.0,1726141045
+India,Telangana,June,2024,4,0,0,4,4.0,0.0,2.0,2.0,1726141045
+India,Telangana,July,2024,2,0,0,2,3.0,1.0,0.0,2.0,1726141045
+India,Telangana,August,2024,3,0,1,2,4.0,0.0,0.0,4.0,1726141045
+India,Tripura,March,2023,12,0,2,10,2.0,0.0,2.0,0.0,1726141045
+India,Tripura,April,2023,6,1,2,4,4.0,0.0,0.0,4.0,1726141045
+India,Tripura,May,2023,4,0,0,3,4.0,0.0,2.0,2.0,1726141045
+India,Tripura,June,2023,4,0,1,3,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Tripura,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Tripura,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Tripura,March,2024,1,0,0,1,4.0,0.0,0.0,4.0,1726141045
+India,Tripura,April,2024,3,0,0,3,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Tripura,July,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141045
+India,Tripura,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Uttar Pradesh,March,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141045
+India,Uttar Pradesh,April,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141045
+India,Uttar Pradesh,May,2023,2,0,0,2,3.0,0.0,0.0,3.0,1726141045
+India,Uttar Pradesh,June,2023,3,0,0,3,6.0,0.0,0.0,6.0,1726141045
+India,Uttar Pradesh,July,2023,6,0,0,6,12.0,0.0,0.0,12.0,1726141045
+India,Uttar Pradesh,August,2023,11,0,0,11,9.0,0.0,0.0,9.0,1726141045
+India,Uttar Pradesh,September,2023,9,0,0,9,17.0,1.0,0.0,16.0,1726141045
+India,Uttar Pradesh,October,2023,16,1,0,15,3.0,0.0,0.0,3.0,1726141045
+India,Uttar Pradesh,November,2023,3,0,0,3,10.0,0.0,0.0,10.0,1726141045
+India,Uttar Pradesh,December,2023,10,0,0,10,8.0,0.0,0.0,8.0,1726141045
+India,Uttar Pradesh,January,2024,9,0,0,9,5.0,0.0,0.0,5.0,1726141045
+India,Uttar Pradesh,February,2024,6,0,0,6,5.0,0.0,0.0,5.0,1726141045
+India,Uttar Pradesh,March,2024,5,0,0,5,8.0,0.0,0.0,8.0,1726141045
+India,Uttar Pradesh,April,2024,8,0,0,8,8.0,0.0,0.0,8.0,1726141045
+India,Uttar Pradesh,May,2024,8,0,0,8,13.0,0.0,0.0,13.0,1726141045
+India,Uttar Pradesh,June,2024,13,0,0,13,8.0,0.0,0.0,8.0,1726141045
+India,Uttar Pradesh,July,2024,8,0,0,8,9.0,0.0,0.0,9.0,1726141045
+India,Uttar Pradesh,August,2024,9,0,0,9,3.0,0.0,0.0,3.0,1726141045
+India,Uttarakhand,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Uttarakhand,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,Uttarakhand,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141045
+India,Uttarakhand,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,June,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141045
+India,Uttarakhand,July,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141045
+India,Uttarakhand,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+India,West Bengal,March,2023,9,2,1,6,1.0,0.0,0.0,1.0,1726141045
+India,West Bengal,April,2023,5,0,1,4,7.0,0.0,0.0,7.0,1726141045
+India,West Bengal,May,2023,4,0,0,3,8.0,0.0,5.0,3.0,1726141045
+India,West Bengal,June,2023,8,0,4,4,30.0,8.0,3.0,19.0,1726141045
+India,West Bengal,July,2023,25,5,3,17,82.0,13.0,6.0,63.0,1726141045
+India,West Bengal,August,2023,73,5,5,63,19.0,3.0,1.0,15.0,1726141045
+India,West Bengal,September,2023,25,7,1,17,8.0,0.0,0.0,8.0,1726141045
+India,West Bengal,October,2023,8,0,0,8,6.0,0.0,1.0,5.0,1726141045
+India,West Bengal,November,2023,7,1,1,5,8.0,0.0,3.0,5.0,1726141045
+India,West Bengal,December,2023,7,0,2,5,7.0,3.0,0.0,4.0,1726141045
+India,West Bengal,January,2024,6,1,0,5,5.0,1.0,2.0,2.0,1726141045
+India,West Bengal,February,2024,6,1,1,4,5.0,0.0,0.0,5.0,1726141045
+India,West Bengal,March,2024,5,0,0,5,7.0,0.0,1.0,6.0,1726141045
+India,West Bengal,April,2024,7,0,1,6,12.0,1.0,3.0,8.0,1726141045
+India,West Bengal,May,2024,9,1,1,7,26.0,2.0,3.0,21.0,1726141045
+India,West Bengal,June,2024,24,2,1,21,27.0,5.0,1.0,21.0,1726141045
+India,West Bengal,July,2024,32,6,1,25,8.0,2.0,0.0,6.0,1726141045
+India,West Bengal,August,2024,14,2,0,12,8.0,3.0,1.0,4.0,1726141045
+India,Andaman and Nicobar Islands,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Andhra Pradesh,September,2024,6,0,0,6,2.0,0.0,0.0,2.0,1730730990
+India,Arunachal Pradesh,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Assam,September,2024,3,0,0,3,0.0,0.0,0.0,0.0,1730730990
+India,Bihar,September,2024,4,0,0,4,5.0,0.0,0.0,5.0,1730730990
+India,Chandigarh,September,2024,0,0,0,0,2.0,0.0,1.0,1.0,1730730990
+India,Chhattisgarh,September,2024,9,2,1,6,12.0,5.0,1.0,6.0,1730730990
+India,Dadra and Nagar Haveli and Daman and Diu,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Delhi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Goa,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730990
+India,Gujarat,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730990
+India,Haryana,September,2024,3,0,0,3,1.0,0.0,0.0,1.0,1730730990
+India,Himachal Pradesh,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Jammu and Kashmir,September,2024,18,14,2,2,28.0,27.0,0.0,1.0,1730730990
+India,Jharkhand,September,2024,2,0,1,1,2.0,0.0,1.0,1.0,1730730990
+India,Karnataka,September,2024,2,0,0,2,2.0,0.0,0.0,2.0,1730730990
+India,Kerala,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730730990
+India,Ladakh,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Madhya Pradesh,September,2024,2,1,0,1,2.0,1.0,0.0,1.0,1730730990
+India,Maharashtra,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Manipur,September,2024,20,6,5,9,40.0,26.0,5.0,9.0,1730730990
+India,Meghalaya,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730990
+India,Mizoram,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Nagaland,September,2024,3,1,0,2,0.0,0.0,0.0,0.0,1730730990
+India,Odisha,September,2024,2,2,0,0,2.0,0.0,0.0,2.0,1730730990
+India,Puducherry,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Punjab,September,2024,4,0,0,4,2.0,0.0,0.0,2.0,1730730990
+India,Rajasthan,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730730990
+India,Sikkim,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+India,Tamil Nadu,September,2024,9,0,0,9,5.0,0.0,0.0,5.0,1730730991
+India,Telangana,September,2024,4,0,0,4,3.0,2.0,0.0,1.0,1730730991
+India,Tripura,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730991
+India,Uttar Pradesh,September,2024,3,0,0,3,3.0,0.0,0.0,3.0,1730730991
+India,Uttarakhand,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730991
+India,West Bengal,September,2024,6,2,1,3,2.0,1.0,0.0,1.0,1730730991
+India,Andaman and Nicobar Islands,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+India,Andaman and Nicobar Islands,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+India,Andhra Pradesh,October,2024,3,0,0,3,4.0,0.0,0.0,4.0,1734010285
+India,Andhra Pradesh,November,2024,4,0,0,4,1.0,0.0,0.0,1.0,1734010285
+India,Arunachal Pradesh,October,2024,0,0,0,0,2.0,2.0,0.0,0.0,1734010285
+India,Arunachal Pradesh,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010285
+India,Assam,October,2024,0,0,0,0,3.0,0.0,0.0,3.0,1734010285
+India,Assam,November,2024,3,0,0,3,5.0,0.0,0.0,5.0,1734010285
+India,Bihar,October,2024,4,0,0,4,4.0,0.0,1.0,3.0,1734010285
+India,Bihar,November,2024,4,0,1,3,2.0,0.0,0.0,2.0,1734010285
+India,Chandigarh,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010285
+India,Chandigarh,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+India,Chhattisgarh,October,2024,10,4,1,5,14.0,5.0,1.0,8.0,1734010286
+India,Chhattisgarh,November,2024,12,4,1,7,8.0,5.0,1.0,2.0,1734010286
+India,Dadra and Nagar Haveli and Daman and Diu,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Dadra and Nagar Haveli and Daman and Diu,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Delhi,October,2024,0,0,0,0,1.0,0.0,1.0,0.0,1734010286
+India,Delhi,November,2024,1,0,1,0,1.0,0.0,1.0,0.0,1734010286
+India,Goa,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010286
+India,Goa,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010286
+India,Gujarat,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010286
+India,Gujarat,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Haryana,October,2024,2,0,0,2,4.0,0.0,0.0,4.0,1734010286
+India,Haryana,November,2024,4,0,0,4,0.0,0.0,0.0,0.0,1734010286
+India,Himachal Pradesh,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Himachal Pradesh,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Jammu and Kashmir,October,2024,24,21,1,2,15.0,9.0,2.0,4.0,1734010286
+India,Jammu and Kashmir,November,2024,15,9,2,4,19.0,14.0,2.0,3.0,1734010286
+India,Jharkhand,October,2024,2,0,1,1,5.0,3.0,2.0,0.0,1734010286
+India,Jharkhand,November,2024,3,1,2,0,4.0,2.0,0.0,2.0,1734010286
+India,Karnataka,October,2024,2,0,0,2,2.0,0.0,0.0,2.0,1734010286
+India,Karnataka,November,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010286
+India,Kerala,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010286
+India,Kerala,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010286
+India,Ladakh,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Ladakh,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Madhya Pradesh,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010286
+India,Madhya Pradesh,November,2024,0,0,0,0,5.0,1.0,0.0,4.0,1734010286
+India,Maharashtra,October,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010286
+India,Maharashtra,November,2024,1,0,0,1,4.0,0.0,1.0,3.0,1734010286
+India,Manipur,October,2024,32,16,5,11,16.0,6.0,1.0,9.0,1734010286
+India,Manipur,November,2024,16,5,1,10,52.0,27.0,4.0,21.0,1734010286
+India,Meghalaya,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Meghalaya,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Mizoram,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Mizoram,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Nagaland,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010286
+India,Nagaland,November,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010286
+India,Odisha,October,2024,3,1,0,2,3.0,1.0,0.0,2.0,1734010286
+India,Odisha,November,2024,3,1,0,2,3.0,1.0,0.0,2.0,1734010286
+India,Puducherry,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Puducherry,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Punjab,October,2024,2,0,0,2,11.0,0.0,0.0,11.0,1734010286
+India,Punjab,November,2024,8,0,0,8,9.0,0.0,0.0,9.0,1734010286
+India,Rajasthan,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010286
+India,Rajasthan,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010286
+India,Sikkim,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Sikkim,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010286
+India,Tamil Nadu,October,2024,5,0,0,5,1.0,0.0,0.0,1.0,1734010286
+India,Tamil Nadu,November,2024,2,0,0,2,3.0,0.0,0.0,3.0,1734010286
+India,Telangana,October,2024,2,0,0,2,2.0,0.0,0.0,2.0,1734010286
+India,Telangana,November,2024,3,1,0,2,1.0,0.0,0.0,1.0,1734010286
+India,Tripura,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010286
+India,Tripura,November,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010286
+India,Uttar Pradesh,October,2024,4,0,0,4,12.0,0.0,0.0,12.0,1734010286
+India,Uttar Pradesh,November,2024,11,0,0,11,6.0,1.0,0.0,5.0,1734010286
+India,Uttarakhand,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+India,Uttarakhand,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+India,West Bengal,October,2024,4,2,0,2,9.0,0.0,0.0,9.0,1734010287
+India,West Bengal,November,2024,8,0,0,8,8.0,0.0,2.0,6.0,1734010287
+India,Andaman and Nicobar Islands,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+India,Andhra Pradesh,December,2024,2,0,0,2,1.0,0.0,0.0,1.0,1737033348
+India,Arunachal Pradesh,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033348
+India,Assam,December,2024,4,0,0,4,3.0,1.0,0.0,2.0,1737033348
+India,Bihar,December,2024,2,0,0,2,0.0,0.0,0.0,0.0,1737033348
+India,Chandigarh,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+India,Chhattisgarh,December,2024,9,5,1,3,20.0,6.0,4.0,10.0,1737033348
+India,Dadra and Nagar Haveli and Daman and Diu,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+India,Delhi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+India,Goa,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033348
+India,Gujarat,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+India,Haryana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+India,Himachal Pradesh,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+India,Jammu and Kashmir,December,2024,18,13,2,3,12.0,6.0,2.0,4.0,1737033348
+India,Jharkhand,December,2024,4,2,0,2,2.0,0.0,0.0,2.0,1737033348
+India,Karnataka,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+India,Kerala,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+India,Ladakh,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+India,Madhya Pradesh,December,2024,4,1,0,3,4.0,1.0,0.0,3.0,1737033349
+India,Maharashtra,December,2024,3,0,0,3,4.0,0.0,0.0,4.0,1737033349
+India,Manipur,December,2024,48,25,3,20,23.0,14.0,3.0,6.0,1737033349
+India,Meghalaya,December,2024,0,0,0,0,2.0,0.0,0.0,2.0,1737033349
+India,Mizoram,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033349
+India,Nagaland,December,2024,0,0,0,0,2.0,0.0,0.0,2.0,1737033349
+India,Odisha,December,2024,3,1,0,2,0.0,0.0,0.0,0.0,1737033349
+India,Puducherry,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+India,Punjab,December,2024,9,0,0,9,15.0,2.0,6.0,7.0,1737033349
+India,Rajasthan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+India,Sikkim,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+India,Tamil Nadu,December,2024,3,0,0,3,2.0,0.0,0.0,2.0,1737033349
+India,Telangana,December,2024,1,0,0,1,1.0,1.0,0.0,0.0,1737033349
+India,Tripura,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033349
+India,Uttar Pradesh,December,2024,7,1,0,6,2.0,1.0,0.0,1.0,1737033349
+India,Uttarakhand,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+India,West Bengal,December,2024,7,0,1,6,4.0,1.0,0.0,3.0,1737033349
+India,Andaman and Nicobar Islands,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Andhra Pradesh,January,2025,1,0,0,1,1.0,0.0,0.0,1.0,1738854853
+India,Arunachal Pradesh,January,2025,0,0,0,0,2.0,1.0,0.0,1.0,1738854853
+India,Assam,January,2025,3,1,0,2,2.0,1.0,1.0,0.0,1738854853
+India,Bihar,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Chandigarh,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Chhattisgarh,January,2025,16,5,3,8,23.0,8.0,10.0,5.0,1738854853
+India,Dadra and Nagar Haveli and Daman and Diu,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Delhi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Goa,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854853
+India,Gujarat,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Haryana,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854853
+India,Himachal Pradesh,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Jammu and Kashmir,January,2025,12,6,2,4,4.0,4.0,0.0,0.0,1738854853
+India,Jharkhand,January,2025,3,1,0,2,6.0,4.0,1.0,1.0,1738854853
+India,Karnataka,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Kerala,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854853
+India,Ladakh,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+India,Madhya Pradesh,January,2025,4,1,0,3,2.0,1.0,0.0,1.0,1738854853
+India,Maharashtra,January,2025,4,0,0,4,0.0,0.0,0.0,0.0,1738854853
+India,Manipur,January,2025,28,16,3,9,23.0,11.0,1.0,11.0,1738854853
+India,Meghalaya,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854853
+India,Mizoram,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854853
+India,Nagaland,January,2025,2,0,0,2,0.0,0.0,0.0,0.0,1738854854
+India,Odisha,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+India,Puducherry,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+India,Punjab,January,2025,13,1,5,7,5.0,0.0,2.0,3.0,1738854854
+India,Rajasthan,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854854
+India,Sikkim,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+India,Tamil Nadu,January,2025,3,0,0,3,3.0,0.0,0.0,3.0,1738854854
+India,Telangana,January,2025,1,0,0,1,1.0,0.0,0.0,1.0,1738854854
+India,Tripura,January,2025,1,0,0,1,6.0,2.0,0.0,4.0,1738854854
+India,Uttar Pradesh,January,2025,2,0,0,2,6.0,0.0,0.0,6.0,1738854854
+India,Uttarakhand,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+India,West Bengal,January,2025,5,1,0,4,16.0,10.0,0.0,6.0,1738854854
+India,Andaman and Nicobar Islands,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+India,Andhra Pradesh,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266623
+India,Arunachal Pradesh,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266623
+India,Assam,February,2025,3,1,1,1,0.0,0.0,0.0,0.0,1741266623
+India,Bihar,February,2025,0,0,0,0,3.0,1.0,0.0,2.0,1741266623
+India,Chandigarh,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+India,Chhattisgarh,February,2025,20,7,8,5,12.0,3.0,5.0,4.0,1741266623
+India,Dadra and Nagar Haveli and Daman and Diu,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+India,Delhi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+India,Goa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+India,Gujarat,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+India,Haryana,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266623
+India,Himachal Pradesh,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+India,Jammu and Kashmir,February,2025,10,9,0,1,18.0,11.0,3.0,4.0,1741266623
+India,Jharkhand,February,2025,2,0,1,1,3.0,0.0,0.0,3.0,1741266623
+India,Karnataka,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266623
+India,Kerala,February,2025,1,0,0,1,2.0,0.0,0.0,2.0,1741266623
+India,Ladakh,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+India,Madhya Pradesh,February,2025,2,1,0,1,2.0,2.0,0.0,0.0,1741266623
+India,Maharashtra,February,2025,0,0,0,0,3.0,1.0,0.0,2.0,1741266624
+India,Manipur,February,2025,23,10,1,12,6.0,1.0,0.0,5.0,1741266624
+India,Meghalaya,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266624
+India,Mizoram,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+India,Nagaland,February,2025,0,0,0,0,1.0,0.0,1.0,0.0,1741266624
+India,Odisha,February,2025,0,0,0,0,2.0,1.0,0.0,1.0,1741266624
+India,Puducherry,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+India,Punjab,February,2025,6,1,2,3,6.0,0.0,3.0,3.0,1741266624
+India,Rajasthan,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266624
+India,Sikkim,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+India,Tamil Nadu,February,2025,3,0,0,3,2.0,0.0,0.0,2.0,1741266624
+India,Telangana,February,2025,2,1,0,1,2.0,0.0,0.0,2.0,1741266624
+India,Tripura,February,2025,4,0,0,4,0.0,0.0,0.0,0.0,1741266624
+India,Uttar Pradesh,February,2025,7,1,0,6,6.0,0.0,0.0,6.0,1741266624
+India,Uttarakhand,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+India,West Bengal,February,2025,7,1,0,6,8.0,2.0,0.0,6.0,1741266624
+India,Andaman and Nicobar Islands,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+India,Andhra Pradesh,March,2025,0,0,0,0,5.0,0.0,0.0,5.0,1744287543
+India,Arunachal Pradesh,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+India,Assam,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+India,Bihar,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+India,Chandigarh,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+India,Chhattisgarh,March,2025,10,3,4,3,16.0,7.0,7.0,2.0,1744287543
+India,Dadra and Nagar Haveli and Daman and Diu,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+India,Delhi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+India,Goa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+India,Gujarat,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287544
+India,Haryana,March,2025,0,0,0,0,4.0,1.0,0.0,3.0,1744287544
+India,Himachal Pradesh,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287544
+India,Jammu and Kashmir,March,2025,11,6,1,4,19.0,11.0,3.0,5.0,1744287544
+India,Jharkhand,March,2025,3,0,1,2,8.0,2.0,3.0,3.0,1744287544
+India,Karnataka,March,2025,2,0,0,2,0.0,0.0,0.0,0.0,1744287544
+India,Kerala,March,2025,2,0,0,2,0.0,0.0,0.0,0.0,1744287544
+India,Ladakh,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+India,Madhya Pradesh,March,2025,3,1,0,2,3.0,2.0,0.0,1.0,1744287544
+India,Maharashtra,March,2025,2,1,0,1,4.0,0.0,1.0,3.0,1744287544
+India,Manipur,March,2025,8,1,1,6,5.0,4.0,0.0,1.0,1744287544
+India,Meghalaya,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287544
+India,Mizoram,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+India,Nagaland,March,2025,1,0,0,1,3.0,0.0,0.0,3.0,1744287544
+India,Odisha,March,2025,2,1,0,1,4.0,1.0,0.0,3.0,1744287544
+India,Puducherry,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287544
+India,Punjab,March,2025,4,0,1,3,8.0,1.0,2.0,5.0,1744287544
+India,Rajasthan,March,2025,0,0,0,0,3.0,1.0,0.0,2.0,1744287544
+India,Sikkim,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+India,Tamil Nadu,March,2025,3,0,0,3,2.0,0.0,0.0,2.0,1744287544
+India,Telangana,March,2025,2,0,0,2,2.0,0.0,0.0,2.0,1744287544
+India,Tripura,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287544
+India,Uttar Pradesh,March,2025,6,0,0,6,7.0,0.0,0.0,7.0,1744287544
+India,Uttarakhand,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+India,West Bengal,March,2025,9,2,2,5,8.0,3.0,1.0,4.0,1744287544
+India,Andaman and Nicobar Islands,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+India,Andhra Pradesh,April,2025,4,0,0,4,3.0,2.0,0.0,1.0,1746702913
+India,Arunachal Pradesh,April,2025,1,0,0,1,2.0,1.0,0.0,1.0,1746702913
+India,Assam,April,2025,0,0,0,0,4.0,1.0,0.0,3.0,1746702913
+India,Bihar,April,2025,0,0,0,0,2.0,1.0,0.0,1.0,1746702913
+India,Chandigarh,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+India,Chhattisgarh,April,2025,11,4,4,3,14.0,8.0,6.0,0.0,1746702913
+India,Dadra and Nagar Haveli and Daman and Diu,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+India,Delhi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+India,Goa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+India,Gujarat,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+India,Haryana,April,2025,2,0,0,2,2.0,0.0,1.0,1.0,1746702913
+India,Himachal Pradesh,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+India,Jammu and Kashmir,April,2025,18,10,3,5,60.0,48.0,7.0,5.0,1746702913
+India,Jharkhand,April,2025,5,1,1,3,5.0,1.0,1.0,3.0,1746702913
+India,Karnataka,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702913
+India,Kerala,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+India,Ladakh,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+India,Madhya Pradesh,April,2025,1,0,0,1,4.0,1.0,0.0,3.0,1746702913
+India,Maharashtra,April,2025,5,1,1,3,0.0,0.0,0.0,0.0,1746702913
+India,Manipur,April,2025,8,4,1,3,13.0,4.0,2.0,7.0,1746702913
+India,Meghalaya,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+India,Mizoram,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702913
+India,Nagaland,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702913
+India,Odisha,April,2025,3,0,0,3,3.0,0.0,0.0,3.0,1746702913
+India,Puducherry,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+India,Punjab,April,2025,8,1,2,5,9.0,1.0,3.0,5.0,1746702913
+India,Rajasthan,April,2025,2,0,0,2,2.0,0.0,0.0,2.0,1746702913
+India,Sikkim,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702913
+India,Tamil Nadu,April,2025,2,0,0,2,1.0,0.0,0.0,1.0,1746702913
+India,Telangana,April,2025,2,0,0,2,1.0,0.0,0.0,1.0,1746702913
+India,Tripura,April,2025,2,0,0,2,2.0,0.0,0.0,2.0,1746702913
+India,Uttar Pradesh,April,2025,7,0,0,7,11.0,0.0,0.0,11.0,1746702913
+India,Uttarakhand,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+India,West Bengal,April,2025,6,1,1,4,7.0,3.0,2.0,2.0,1746702913
+India,Andaman and Nicobar Islands,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732014
+India,Andhra Pradesh,May,2025,3,1,0,2,1.0,0.0,0.0,1.0,1749732014
+India,Arunachal Pradesh,May,2025,2,1,0,1,0.0,0.0,0.0,0.0,1749732014
+India,Assam,May,2025,3,1,0,2,3.0,0.0,1.0,2.0,1749732014
+India,Bihar,May,2025,3,1,0,2,3.0,0.0,1.0,2.0,1749732014
+India,Chandigarh,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+India,Chhattisgarh,May,2025,14,7,6,1,16.0,8.0,3.0,5.0,1749732014
+India,Dadra and Nagar Haveli and Daman and Diu,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+India,Delhi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+India,Goa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+India,Gujarat,May,2025,0,0,0,0,3.0,0.0,2.0,1.0,1749732014
+India,Haryana,May,2025,3,0,1,2,0.0,0.0,0.0,0.0,1749732014
+India,Himachal Pradesh,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+India,Jammu and Kashmir,May,2025,39,29,6,4,195.0,189.0,5.0,1.0,1749732014
+India,Jharkhand,May,2025,5,1,1,3,15.0,7.0,3.0,5.0,1749732015
+India,Karnataka,May,2025,1,0,0,1,2.0,0.0,0.0,2.0,1749732015
+India,Kerala,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+India,Ladakh,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+India,Madhya Pradesh,May,2025,3,1,0,2,3.0,0.0,0.0,3.0,1749732015
+India,Maharashtra,May,2025,0,0,0,0,2.0,2.0,0.0,0.0,1749732015
+India,Manipur,May,2025,12,3,2,7,5.0,1.0,0.0,4.0,1749732015
+India,Meghalaya,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732015
+India,Mizoram,May,2025,1,0,0,1,1.0,0.0,1.0,0.0,1749732015
+India,Nagaland,May,2025,0,0,0,0,2.0,0.0,0.0,2.0,1749732015
+India,Odisha,May,2025,2,0,0,2,2.0,1.0,1.0,0.0,1749732015
+India,Puducherry,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+India,Punjab,May,2025,9,1,3,5,10.0,4.0,4.0,2.0,1749732015
+India,Rajasthan,May,2025,2,0,0,2,2.0,1.0,1.0,0.0,1749732015
+India,Sikkim,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732015
+India,Tamil Nadu,May,2025,2,0,0,2,2.0,0.0,0.0,2.0,1749732015
+India,Telangana,May,2025,2,0,0,2,1.0,1.0,0.0,0.0,1749732015
+India,Tripura,May,2025,2,0,0,2,5.0,1.0,0.0,4.0,1749732015
+India,Uttar Pradesh,May,2025,11,0,0,11,5.0,0.0,0.0,5.0,1749732015
+India,Uttarakhand,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+India,West Bengal,May,2025,5,2,1,2,6.0,0.0,0.0,6.0,1749732015
+India,Andaman and Nicobar Islands,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+India,Andaman and Nicobar Islands,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Andaman and Nicobar Islands,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Andaman and Nicobar Islands,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Andaman and Nicobar Islands,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Andaman and Nicobar Islands,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Andaman and Nicobar Islands,December,2025,0,0,0,0,,,,,1765375966
+India,Andhra Pradesh,June,2025,2,0,0,2,1.0,1.0,0.0,0.0,1754429217
+India,Andhra Pradesh,July,2025,2,1,0,1,1.0,0.0,0.0,1.0,1754429217
+India,Andhra Pradesh,August,2025,1,0,0,1,2.0,0.0,0.0,2.0,1757596698
+India,Andhra Pradesh,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+India,Andhra Pradesh,October,2025,2,0,0,2,0.0,0.0,0.0,0.0,1762435626
+India,Andhra Pradesh,November,2025,0,0,0,0,2.0,1.0,0.0,1.0,1765375966
+India,Andhra Pradesh,December,2025,2,1,0,1,,,,,1765375966
+India,Arunachal Pradesh,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Arunachal Pradesh,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+India,Arunachal Pradesh,August,2025,2,1,0,1,1.0,1.0,0.0,0.0,1757596698
+India,Arunachal Pradesh,September,2025,1,1,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Arunachal Pradesh,October,2025,0,0,0,0,4.0,3.0,0.0,1.0,1762435626
+India,Arunachal Pradesh,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+India,Arunachal Pradesh,December,2025,0,0,0,0,,,,,1765375966
+India,Assam,June,2025,3,0,1,2,4.0,1.0,1.0,2.0,1754429217
+India,Assam,July,2025,4,1,1,2,2.0,0.0,0.0,2.0,1754429217
+India,Assam,August,2025,1,0,0,1,5.0,0.0,0.0,5.0,1757596698
+India,Assam,September,2025,4,0,0,4,1.0,0.0,0.0,1.0,1760036046
+India,Assam,October,2025,2,1,0,1,8.0,2.0,1.0,5.0,1762435626
+India,Assam,November,2025,6,1,1,4,0.0,0.0,0.0,0.0,1765375966
+India,Assam,December,2025,0,0,0,0,,,,,1765375966
+India,Bihar,June,2025,3,0,1,2,2.0,1.0,0.0,1.0,1754429217
+India,Bihar,July,2025,2,1,0,1,5.0,1.0,0.0,4.0,1754429217
+India,Bihar,August,2025,2,1,0,1,1.0,0.0,0.0,1.0,1757596698
+India,Bihar,September,2025,1,0,0,1,2.0,0.0,0.0,2.0,1760036046
+India,Bihar,October,2025,2,0,0,2,1.0,0.0,0.0,1.0,1762435626
+India,Bihar,November,2025,1,0,0,1,3.0,0.0,0.0,3.0,1765375966
+India,Bihar,December,2025,2,0,0,2,,,,,1765375966
+India,Chandigarh,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Chandigarh,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Chandigarh,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Chandigarh,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Chandigarh,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Chandigarh,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Chandigarh,December,2025,0,0,0,0,,,,,1765375966
+India,Chhattisgarh,June,2025,15,8,4,3,11.0,6.0,1.0,4.0,1754429217
+India,Chhattisgarh,July,2025,11,6,2,3,14.0,5.0,4.0,5.0,1754429217
+India,Chhattisgarh,August,2025,11,5,3,3,15.0,7.0,3.0,5.0,1757596698
+India,Chhattisgarh,September,2025,14,7,3,4,14.0,10.0,1.0,3.0,1760036046
+India,Chhattisgarh,October,2025,15,9,2,4,8.0,1.0,3.0,4.0,1762435626
+India,Chhattisgarh,November,2025,8,2,3,3,9.0,7.0,2.0,0.0,1765375966
+India,Chhattisgarh,December,2025,4,1,2,1,,,,,1765375966
+India,Dadra and Nagar Haveli and Daman and Diu,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Dadra and Nagar Haveli and Daman and Diu,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Dadra and Nagar Haveli and Daman and Diu,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Dadra and Nagar Haveli and Daman and Diu,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Dadra and Nagar Haveli and Daman and Diu,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Dadra and Nagar Haveli and Daman and Diu,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Dadra and Nagar Haveli and Daman and Diu,December,2025,0,0,0,0,,,,,1765375966
+India,Delhi,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+India,Delhi,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+India,Delhi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Delhi,September,2025,0,0,0,0,3.0,0.0,0.0,3.0,1760036046
+India,Delhi,October,2025,2,0,0,2,0.0,0.0,0.0,0.0,1762435626
+India,Delhi,November,2025,0,0,0,0,2.0,0.0,1.0,1.0,1765375966
+India,Delhi,December,2025,1,0,0,1,,,,,1765375966
+India,Goa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Goa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Goa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Goa,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+India,Goa,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+India,Goa,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+India,Goa,December,2025,0,0,0,0,,,,,1765375966
+India,Gujarat,June,2025,2,0,1,1,0.0,0.0,0.0,0.0,1754429217
+India,Gujarat,July,2025,0,0,0,0,3.0,0.0,0.0,3.0,1754429217
+India,Gujarat,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+India,Gujarat,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+India,Gujarat,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Gujarat,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Gujarat,December,2025,0,0,0,0,,,,,1765375966
+India,Haryana,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Haryana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Haryana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Haryana,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Haryana,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Haryana,November,2025,0,0,0,0,2.0,0.0,1.0,1.0,1765375966
+India,Haryana,December,2025,1,0,0,1,,,,,1765375966
+India,Himachal Pradesh,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Himachal Pradesh,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Himachal Pradesh,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Himachal Pradesh,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Himachal Pradesh,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Himachal Pradesh,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Himachal Pradesh,December,2025,0,0,0,0,,,,,1765375966
+India,Jammu and Kashmir,June,2025,160,152,5,3,8.0,5.0,1.0,2.0,1754429217
+India,Jammu and Kashmir,July,2025,12,8,2,2,6.0,4.0,0.0,2.0,1754429217
+India,Jammu and Kashmir,August,2025,6,3,1,2,19.0,15.0,0.0,4.0,1757596698
+India,Jammu and Kashmir,September,2025,18,15,0,3,10.0,6.0,3.0,1.0,1760036046
+India,Jammu and Kashmir,October,2025,11,8,2,1,5.0,3.0,1.0,1.0,1762435626
+India,Jammu and Kashmir,November,2025,5,3,1,1,6.0,3.0,1.0,2.0,1765375966
+India,Jammu and Kashmir,December,2025,4,1,1,2,,,,,1765375966
+India,Jharkhand,June,2025,11,6,2,3,4.0,1.0,1.0,2.0,1754429217
+India,Jharkhand,July,2025,5,1,1,3,3.0,3.0,0.0,0.0,1754429217
+India,Jharkhand,August,2025,5,3,0,2,4.0,2.0,2.0,0.0,1757596698
+India,Jharkhand,September,2025,4,2,2,0,6.0,5.0,0.0,1.0,1760036046
+India,Jharkhand,October,2025,6,4,1,1,5.0,1.0,3.0,1.0,1762435626
+India,Jharkhand,November,2025,4,1,2,1,4.0,2.0,2.0,0.0,1765375966
+India,Jharkhand,December,2025,3,1,1,1,,,,,1765375966
+India,Karnataka,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+India,Karnataka,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+India,Karnataka,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+India,Karnataka,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Karnataka,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Karnataka,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Karnataka,December,2025,0,0,0,0,,,,,1765375966
+India,Kerala,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+India,Kerala,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+India,Kerala,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Kerala,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+India,Kerala,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+India,Kerala,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Kerala,December,2025,0,0,0,0,,,,,1765375966
+India,Ladakh,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Ladakh,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Ladakh,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Ladakh,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Ladakh,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Ladakh,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Ladakh,December,2025,0,0,0,0,,,,,1765375966
+India,Madhya Pradesh,June,2025,2,0,0,2,2.0,1.0,0.0,1.0,1754429217
+India,Madhya Pradesh,July,2025,3,1,0,2,3.0,1.0,0.0,2.0,1754429217
+India,Madhya Pradesh,August,2025,2,1,0,1,2.0,0.0,0.0,2.0,1757596698
+India,Madhya Pradesh,September,2025,2,0,0,2,2.0,0.0,0.0,2.0,1760036046
+India,Madhya Pradesh,October,2025,2,0,0,2,2.0,1.0,0.0,1.0,1762435626
+India,Madhya Pradesh,November,2025,1,0,0,1,3.0,1.0,0.0,2.0,1765375966
+India,Madhya Pradesh,December,2025,3,1,0,2,,,,,1765375966
+India,Maharashtra,June,2025,3,2,0,1,1.0,0.0,0.0,1.0,1754429217
+India,Maharashtra,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+India,Maharashtra,August,2025,1,0,0,1,1.0,1.0,0.0,0.0,1757596698
+India,Maharashtra,September,2025,2,1,0,1,1.0,1.0,0.0,0.0,1760036046
+India,Maharashtra,October,2025,2,1,0,1,0.0,0.0,0.0,0.0,1762435626
+India,Maharashtra,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+India,Maharashtra,December,2025,1,0,0,1,,,,,1765375966
+India,Manipur,June,2025,6,1,0,5,7.0,2.0,1.0,4.0,1754429217
+India,Manipur,July,2025,6,2,1,3,6.0,2.0,0.0,4.0,1754429217
+India,Manipur,August,2025,5,2,0,3,5.0,2.0,0.0,3.0,1757596698
+India,Manipur,September,2025,4,2,0,2,7.0,2.0,0.0,5.0,1760036046
+India,Manipur,October,2025,7,2,1,4,5.0,0.0,0.0,5.0,1762435626
+India,Manipur,November,2025,5,1,0,4,3.0,2.0,0.0,1.0,1765375966
+India,Manipur,December,2025,2,1,0,1,,,,,1765375966
+India,Meghalaya,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+India,Meghalaya,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+India,Meghalaya,August,2025,1,0,0,1,3.0,0.0,1.0,2.0,1757596698
+India,Meghalaya,September,2025,3,0,1,2,0.0,0.0,0.0,0.0,1760036046
+India,Meghalaya,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Meghalaya,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+India,Meghalaya,December,2025,1,0,0,1,,,,,1765375966
+India,Mizoram,June,2025,2,0,1,1,0.0,0.0,0.0,0.0,1754429217
+India,Mizoram,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Mizoram,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Mizoram,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Mizoram,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Mizoram,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Mizoram,December,2025,0,0,0,0,,,,,1765375966
+India,Nagaland,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+India,Nagaland,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+India,Nagaland,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+India,Nagaland,September,2025,1,0,0,1,1.0,1.0,0.0,0.0,1760036046
+India,Nagaland,October,2025,2,1,0,1,3.0,0.0,0.0,3.0,1762435626
+India,Nagaland,November,2025,2,0,0,2,0.0,0.0,0.0,0.0,1765375966
+India,Nagaland,December,2025,0,0,0,0,,,,,1765375966
+India,Odisha,June,2025,3,1,0,2,6.0,3.0,1.0,2.0,1754429217
+India,Odisha,July,2025,5,3,1,1,1.0,0.0,0.0,1.0,1754429217
+India,Odisha,August,2025,2,0,0,2,5.0,0.0,2.0,3.0,1757596698
+India,Odisha,September,2025,3,0,1,2,2.0,1.0,0.0,1.0,1760036046
+India,Odisha,October,2025,2,1,0,1,1.0,0.0,0.0,1.0,1762435626
+India,Odisha,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+India,Odisha,December,2025,0,0,0,0,,,,,1765375966
+India,Puducherry,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Puducherry,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Puducherry,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Puducherry,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Puducherry,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Puducherry,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Puducherry,December,2025,0,0,0,0,,,,,1765375966
+India,Punjab,June,2025,11,4,4,3,6.0,1.0,0.0,5.0,1754429217
+India,Punjab,July,2025,7,3,1,3,3.0,1.0,0.0,2.0,1754429217
+India,Punjab,August,2025,3,1,0,2,4.0,0.0,0.0,4.0,1757596698
+India,Punjab,September,2025,3,0,0,3,7.0,2.0,0.0,5.0,1760036046
+India,Punjab,October,2025,7,2,1,4,3.0,0.0,0.0,3.0,1762435626
+India,Punjab,November,2025,4,1,0,3,7.0,1.0,1.0,5.0,1765375966
+India,Punjab,December,2025,4,1,0,3,,,,,1765375966
+India,Rajasthan,June,2025,3,1,1,1,3.0,1.0,0.0,2.0,1754429217
+India,Rajasthan,July,2025,2,1,0,1,2.0,0.0,0.0,2.0,1754429217
+India,Rajasthan,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+India,Rajasthan,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+India,Rajasthan,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+India,Rajasthan,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+India,Rajasthan,December,2025,1,0,0,1,,,,,1765375966
+India,Sikkim,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Sikkim,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+India,Sikkim,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+India,Sikkim,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+India,Sikkim,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+India,Sikkim,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+India,Sikkim,December,2025,0,0,0,0,,,,,1765375966
+India,Tamil Nadu,June,2025,2,0,0,2,3.0,0.0,0.0,3.0,1754429217
+India,Tamil Nadu,July,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+India,Tamil Nadu,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+India,Tamil Nadu,September,2025,1,0,0,1,3.0,0.0,0.0,3.0,1760036046
+India,Tamil Nadu,October,2025,2,0,0,2,4.0,0.0,0.0,4.0,1762435626
+India,Tamil Nadu,November,2025,3,0,0,3,0.0,0.0,0.0,0.0,1765375966
+India,Tamil Nadu,December,2025,0,0,0,0,,,,,1765375966
+India,Telangana,June,2025,2,1,0,1,2.0,0.0,0.0,2.0,1754429217
+India,Telangana,July,2025,1,0,0,1,4.0,0.0,0.0,4.0,1754429217
+India,Telangana,August,2025,2,0,0,2,0.0,0.0,0.0,0.0,1757596698
+India,Telangana,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+India,Telangana,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+India,Telangana,November,2025,5,4,0,1,1.0,0.0,0.0,1.0,1765375966
+India,Telangana,December,2025,2,0,0,2,,,,,1765375966
+India,Tripura,June,2025,3,1,0,2,3.0,0.0,0.0,3.0,1754429217
+India,Tripura,July,2025,2,0,0,2,2.0,0.0,0.0,2.0,1754429217
+India,Tripura,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+India,Tripura,September,2025,1,0,0,1,2.0,0.0,0.0,2.0,1760036046
+India,Tripura,October,2025,2,0,0,2,0.0,0.0,0.0,0.0,1762435626
+India,Tripura,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+India,Tripura,December,2025,1,0,0,1,,,,,1765375966
+India,Uttar Pradesh,June,2025,6,0,0,6,4.0,0.0,1.0,3.0,1754429217
+India,Uttar Pradesh,July,2025,4,0,1,3,9.0,0.0,0.0,9.0,1754429217
+India,Uttar Pradesh,August,2025,5,0,0,5,6.0,0.0,0.0,6.0,1757596698
+India,Uttar Pradesh,September,2025,5,0,0,5,10.0,1.0,0.0,9.0,1760036046
+India,Uttar Pradesh,October,2025,9,1,0,8,2.0,0.0,0.0,2.0,1762435626
+India,Uttar Pradesh,November,2025,1,0,0,1,5.0,0.0,0.0,5.0,1765375966
+India,Uttar Pradesh,December,2025,5,0,0,5,,,,,1765375966
+India,Uttarakhand,June,2025,0,0,0,0,2.0,1.0,0.0,1.0,1754429217
+India,Uttarakhand,July,2025,2,1,0,1,1.0,0.0,0.0,1.0,1754429217
+India,Uttarakhand,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+India,Uttarakhand,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+India,Uttarakhand,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+India,Uttarakhand,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+India,Uttarakhand,December,2025,0,0,0,0,,,,,1765375966
+India,West Bengal,June,2025,6,0,0,6,6.0,0.0,2.0,4.0,1754429217
+India,West Bengal,July,2025,5,0,1,4,9.0,2.0,0.0,7.0,1754429217
+India,West Bengal,August,2025,6,2,0,4,4.0,0.0,0.0,4.0,1757596698
+India,West Bengal,September,2025,3,0,0,3,1.0,0.0,0.0,1.0,1760036046
+India,West Bengal,October,2025,2,0,0,2,4.0,0.0,0.0,4.0,1762435626
+India,West Bengal,November,2025,4,1,0,3,8.0,2.0,0.0,6.0,1765375966
+India,West Bengal,December,2025,5,1,0,4,,,,,1765375966
+India,Andaman and Nicobar Islands,January,2026,0,0,0,0,,,,,1765375966
+India,Andhra Pradesh,January,2026,2,1,0,1,,,,,1765375966
+India,Arunachal Pradesh,January,2026,0,0,0,0,,,,,1765375966
+India,Assam,January,2026,0,0,0,0,,,,,1765375966
+India,Bihar,January,2026,2,0,0,2,,,,,1765375966
+India,Chandigarh,January,2026,0,0,0,0,,,,,1765375966
+India,Chhattisgarh,January,2026,4,1,2,1,,,,,1765375966
+India,Dadra and Nagar Haveli and Daman and Diu,January,2026,0,0,0,0,,,,,1765375966
+India,Delhi,January,2026,1,0,0,1,,,,,1765375966
+India,Goa,January,2026,0,0,0,0,,,,,1765375966
+India,Gujarat,January,2026,0,0,0,0,,,,,1765375966
+India,Haryana,January,2026,1,0,0,1,,,,,1765375966
+India,Himachal Pradesh,January,2026,0,0,0,0,,,,,1765375966
+India,Jammu and Kashmir,January,2026,4,1,1,2,,,,,1765375966
+India,Jharkhand,January,2026,3,1,1,1,,,,,1765375966
+India,Karnataka,January,2026,0,0,0,0,,,,,1765375966
+India,Kerala,January,2026,0,0,0,0,,,,,1765375966
+India,Ladakh,January,2026,0,0,0,0,,,,,1765375966
+India,Madhya Pradesh,January,2026,3,1,0,2,,,,,1765375966
+India,Maharashtra,January,2026,1,0,0,1,,,,,1765375966
+India,Manipur,January,2026,2,1,0,1,,,,,1765375966
+India,Meghalaya,January,2026,1,0,0,1,,,,,1765375966
+India,Mizoram,January,2026,0,0,0,0,,,,,1765375966
+India,Nagaland,January,2026,0,0,0,0,,,,,1765375966
+India,Odisha,January,2026,0,0,0,0,,,,,1765375966
+India,Puducherry,January,2026,0,0,0,0,,,,,1765375966
+India,Punjab,January,2026,4,1,0,3,,,,,1765375966
+India,Rajasthan,January,2026,1,0,0,1,,,,,1765375966
+India,Sikkim,January,2026,0,0,0,0,,,,,1765375966
+India,Tamil Nadu,January,2026,0,0,0,0,,,,,1765375966
+India,Telangana,January,2026,2,0,0,2,,,,,1765375966
+India,Tripura,January,2026,1,0,0,1,,,,,1765375966
+India,Uttar Pradesh,January,2026,5,0,0,5,,,,,1765375966
+India,Uttarakhand,January,2026,0,0,0,0,,,,,1765375966
+India,West Bengal,January,2026,5,1,0,4,,,,,1765375966
+India,Andaman and Nicobar Islands,February,2026,0,0,0,0,,,,,1765375966
+India,Andhra Pradesh,February,2026,2,1,0,1,,,,,1765375966
+India,Arunachal Pradesh,February,2026,0,0,0,0,,,,,1765375966
+India,Assam,February,2026,0,0,0,0,,,,,1765375966
+India,Bihar,February,2026,2,0,0,2,,,,,1765375966
+India,Chandigarh,February,2026,0,0,0,0,,,,,1765375966
+India,Chhattisgarh,February,2026,4,1,2,1,,,,,1765375966
+India,Dadra and Nagar Haveli and Daman and Diu,February,2026,0,0,0,0,,,,,1765375966
+India,Delhi,February,2026,1,0,0,1,,,,,1765375966
+India,Goa,February,2026,0,0,0,0,,,,,1765375966
+India,Gujarat,February,2026,0,0,0,0,,,,,1765375966
+India,Haryana,February,2026,1,0,0,1,,,,,1765375966
+India,Himachal Pradesh,February,2026,0,0,0,0,,,,,1765375966
+India,Jammu and Kashmir,February,2026,4,1,1,2,,,,,1765375966
+India,Jharkhand,February,2026,3,1,1,1,,,,,1765375966
+India,Karnataka,February,2026,0,0,0,0,,,,,1765375966
+India,Kerala,February,2026,0,0,0,0,,,,,1765375966
+India,Ladakh,February,2026,0,0,0,0,,,,,1765375966
+India,Madhya Pradesh,February,2026,3,1,0,2,,,,,1765375966
+India,Maharashtra,February,2026,1,0,0,1,,,,,1765375966
+India,Manipur,February,2026,2,1,0,1,,,,,1765375966
+India,Meghalaya,February,2026,1,0,0,1,,,,,1765375966
+India,Mizoram,February,2026,0,0,0,0,,,,,1765375966
+India,Nagaland,February,2026,0,0,0,0,,,,,1765375966
+India,Odisha,February,2026,0,0,0,0,,,,,1765375966
+India,Puducherry,February,2026,0,0,0,0,,,,,1765375966
+India,Punjab,February,2026,4,1,0,3,,,,,1765375966
+India,Rajasthan,February,2026,1,0,0,1,,,,,1765375966
+India,Sikkim,February,2026,0,0,0,0,,,,,1765375966
+India,Tamil Nadu,February,2026,0,0,0,0,,,,,1765375966
+India,Telangana,February,2026,2,0,0,2,,,,,1765375966
+India,Tripura,February,2026,1,0,0,1,,,,,1765375966
+India,Uttar Pradesh,February,2026,5,0,0,5,,,,,1765375966
+India,Uttarakhand,February,2026,0,0,0,0,,,,,1765375966
+India,West Bengal,February,2026,5,1,0,4,,,,,1765375966
+India,Andaman and Nicobar Islands,March,2026,0,0,0,0,,,,,1765375966
+India,Andhra Pradesh,March,2026,2,1,0,1,,,,,1765375966
+India,Arunachal Pradesh,March,2026,0,0,0,0,,,,,1765375966
+India,Assam,March,2026,0,0,0,0,,,,,1765375966
+India,Bihar,March,2026,3,1,0,2,,,,,1765375966
+India,Chandigarh,March,2026,0,0,0,0,,,,,1765375966
+India,Chhattisgarh,March,2026,4,1,2,1,,,,,1765375966
+India,Dadra and Nagar Haveli and Daman and Diu,March,2026,0,0,0,0,,,,,1765375966
+India,Delhi,March,2026,1,0,0,1,,,,,1765375966
+India,Goa,March,2026,0,0,0,0,,,,,1765375966
+India,Gujarat,March,2026,0,0,0,0,,,,,1765375966
+India,Haryana,March,2026,1,0,0,1,,,,,1765375966
+India,Himachal Pradesh,March,2026,0,0,0,0,,,,,1765375966
+India,Jammu and Kashmir,March,2026,4,1,1,2,,,,,1765375966
+India,Jharkhand,March,2026,3,1,1,1,,,,,1765375966
+India,Karnataka,March,2026,0,0,0,0,,,,,1765375966
+India,Kerala,March,2026,0,0,0,0,,,,,1765375966
+India,Ladakh,March,2026,0,0,0,0,,,,,1765375966
+India,Madhya Pradesh,March,2026,3,1,0,2,,,,,1765375966
+India,Maharashtra,March,2026,1,0,0,1,,,,,1765375966
+India,Manipur,March,2026,2,1,0,1,,,,,1765375966
+India,Meghalaya,March,2026,1,0,0,1,,,,,1765375966
+India,Mizoram,March,2026,0,0,0,0,,,,,1765375966
+India,Nagaland,March,2026,0,0,0,0,,,,,1765375966
+India,Odisha,March,2026,0,0,0,0,,,,,1765375966
+India,Puducherry,March,2026,0,0,0,0,,,,,1765375966
+India,Punjab,March,2026,4,1,0,3,,,,,1765375966
+India,Rajasthan,March,2026,1,0,0,1,,,,,1765375966
+India,Sikkim,March,2026,0,0,0,0,,,,,1765375966
+India,Tamil Nadu,March,2026,0,0,0,0,,,,,1765375966
+India,Telangana,March,2026,2,0,0,2,,,,,1765375966
+India,Tripura,March,2026,1,0,0,1,,,,,1765375966
+India,Uttar Pradesh,March,2026,5,0,0,5,,,,,1765375966
+India,Uttarakhand,March,2026,0,0,0,0,,,,,1765375966
+India,West Bengal,March,2026,5,1,0,4,,,,,1765375966
+India,Andaman and Nicobar Islands,April,2026,0,0,0,0,,,,,1765375966
+India,Andhra Pradesh,April,2026,2,1,0,1,,,,,1765375966
+India,Arunachal Pradesh,April,2026,0,0,0,0,,,,,1765375966
+India,Assam,April,2026,0,0,0,0,,,,,1765375966
+India,Bihar,April,2026,2,0,0,2,,,,,1765375966
+India,Chandigarh,April,2026,0,0,0,0,,,,,1765375966
+India,Chhattisgarh,April,2026,4,1,2,1,,,,,1765375966
+India,Dadra and Nagar Haveli and Daman and Diu,April,2026,0,0,0,0,,,,,1765375966
+India,Delhi,April,2026,1,0,0,1,,,,,1765375966
+India,Goa,April,2026,0,0,0,0,,,,,1765375966
+India,Gujarat,April,2026,0,0,0,0,,,,,1765375966
+India,Haryana,April,2026,1,0,0,1,,,,,1765375966
+India,Himachal Pradesh,April,2026,0,0,0,0,,,,,1765375966
+India,Jammu and Kashmir,April,2026,4,1,1,2,,,,,1765375966
+India,Jharkhand,April,2026,3,1,1,1,,,,,1765375966
+India,Karnataka,April,2026,0,0,0,0,,,,,1765375966
+India,Kerala,April,2026,0,0,0,0,,,,,1765375966
+India,Ladakh,April,2026,0,0,0,0,,,,,1765375966
+India,Madhya Pradesh,April,2026,2,0,0,2,,,,,1765375966
+India,Maharashtra,April,2026,1,0,0,1,,,,,1765375966
+India,Manipur,April,2026,2,1,0,1,,,,,1765375966
+India,Meghalaya,April,2026,1,0,0,1,,,,,1765375966
+India,Mizoram,April,2026,0,0,0,0,,,,,1765375966
+India,Nagaland,April,2026,0,0,0,0,,,,,1765375966
+India,Odisha,April,2026,0,0,0,0,,,,,1765375966
+India,Puducherry,April,2026,0,0,0,0,,,,,1765375966
+India,Punjab,April,2026,4,1,0,3,,,,,1765375966
+India,Rajasthan,April,2026,1,0,0,1,,,,,1765375966
+India,Sikkim,April,2026,0,0,0,0,,,,,1765375966
+India,Tamil Nadu,April,2026,0,0,0,0,,,,,1765375966
+India,Telangana,April,2026,2,0,0,2,,,,,1765375966
+India,Tripura,April,2026,1,0,0,1,,,,,1765375966
+India,Uttar Pradesh,April,2026,5,0,0,5,,,,,1765375966
+India,Uttarakhand,April,2026,0,0,0,0,,,,,1765375966
+India,West Bengal,April,2026,5,1,0,4,,,,,1765375966
+India,Andaman and Nicobar Islands,May,2026,0,0,0,0,,,,,1765375966
+India,Andhra Pradesh,May,2026,2,1,0,1,,,,,1765375966
+India,Arunachal Pradesh,May,2026,0,0,0,0,,,,,1765375966
+India,Assam,May,2026,0,0,0,0,,,,,1765375966
+India,Bihar,May,2026,2,0,0,2,,,,,1765375966
+India,Chandigarh,May,2026,0,0,0,0,,,,,1765375966
+India,Chhattisgarh,May,2026,4,1,2,1,,,,,1765375966
+India,Dadra and Nagar Haveli and Daman and Diu,May,2026,0,0,0,0,,,,,1765375966
+India,Delhi,May,2026,1,0,0,1,,,,,1765375966
+India,Goa,May,2026,0,0,0,0,,,,,1765375966
+India,Gujarat,May,2026,0,0,0,0,,,,,1765375966
+India,Haryana,May,2026,1,0,0,1,,,,,1765375966
+India,Himachal Pradesh,May,2026,0,0,0,0,,,,,1765375966
+India,Jammu and Kashmir,May,2026,4,1,1,2,,,,,1765375966
+India,Jharkhand,May,2026,3,1,1,1,,,,,1765375966
+India,Karnataka,May,2026,0,0,0,0,,,,,1765375966
+India,Kerala,May,2026,0,0,0,0,,,,,1765375966
+India,Ladakh,May,2026,0,0,0,0,,,,,1765375966
+India,Madhya Pradesh,May,2026,2,0,0,2,,,,,1765375966
+India,Maharashtra,May,2026,1,0,0,1,,,,,1765375966
+India,Manipur,May,2026,2,1,0,1,,,,,1765375966
+India,Meghalaya,May,2026,1,0,0,1,,,,,1765375966
+India,Mizoram,May,2026,0,0,0,0,,,,,1765375966
+India,Nagaland,May,2026,0,0,0,0,,,,,1765375966
+India,Odisha,May,2026,0,0,0,0,,,,,1765375966
+India,Puducherry,May,2026,0,0,0,0,,,,,1765375966
+India,Punjab,May,2026,4,1,0,3,,,,,1765375966
+India,Rajasthan,May,2026,1,0,0,1,,,,,1765375966
+India,Sikkim,May,2026,0,0,0,0,,,,,1765375966
+India,Tamil Nadu,May,2026,0,0,0,0,,,,,1765375966
+India,Telangana,May,2026,2,0,0,2,,,,,1765375966
+India,Tripura,May,2026,1,0,0,1,,,,,1765375966
+India,Uttar Pradesh,May,2026,5,0,0,5,,,,,1765375966
+India,Uttarakhand,May,2026,0,0,0,0,,,,,1765375966
+India,West Bengal,May,2026,5,1,0,4,,,,,1765375966

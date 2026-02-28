@@ -5,13 +5,15 @@ import {
   fetchKpiHistory,
   fetchAnalysis,
   fetchForecast,
+  fetchExposure,
+  fetchRecommendations,
+  fetchHeadlines,
   type BackendDashboardSummary,
   type BackendAlert,
   type BackendAnalysis,
 } from "@/lib/api"
-import { toAlpha3, toAlpha2 } from "@/lib/country-codes"
-import { getDashboardSummary } from "@/lib/dashboard"
-import { getCountryByCode } from "@/data"
+import { toAlpha3, toAlpha2, flagFromAlpha2 } from "@/lib/country-codes"
+import { COUNTRY_COORDS } from "@/data/countryCoords"
 import type {
   DashboardSummary,
   Country,
@@ -39,39 +41,27 @@ function toTrend(delta: number): Trend {
   return "STABLE"
 }
 
-function mergeMockCountry(
+function backendToCountry(
   backend: { code: string; name: string; riskScore: number; riskLevel: string; isAnomaly: boolean; anomalyScore: number; scoreDelta: number },
 ): Country {
-  const code3 = toAlpha3(backend.code)
-  const mock = getCountryByCode(code3)
+  const code2 = backend.code
+  const code3 = toAlpha3(code2)
   const delta = backend.scoreDelta ?? 0
   const trend = toTrend(delta)
+  const coords = COUNTRY_COORDS[code2] ?? [0, 0]
 
-  if (mock) {
-    // Merge: real ML scores + real trend from backend, display details from mock
-    return {
-      ...mock,
-      score: backend.riskScore,
-      riskLevel: toRiskLevel(backend.riskLevel),
-      trend,
-      trendDelta: delta,
-      isAnomaly: backend.isAnomaly,
-    }
-  }
-
-  // Country not in mock data — create minimal entry from backend
   return {
     code: code3,
     name: backend.name,
-    flag: "",
+    flag: flagFromAlpha2(code2),
     score: backend.riskScore,
     riskLevel: toRiskLevel(backend.riskLevel),
     trend,
     trendDelta: delta,
-    confidence: 0.8,
+    confidence: 0.85,
     isAnomaly: backend.isAnomaly,
-    lat: 0,
-    lng: 0,
+    lat: coords[0],
+    lng: coords[1],
     brief: `${backend.name} is assessed at ${backend.riskLevel} risk (${backend.riskScore}/100).`,
     causalChain: [],
     riskDrivers: [],
@@ -100,14 +90,13 @@ interface KpiHistoryMap {
   escalationAlerts24h?: KpiDataPoint[]
 }
 
-/** Derive trend + delta from the last few points of real history */
-function trendFromHistory(points: KpiDataPoint[] | undefined): { trend: Trend; delta: number } {
-  if (!points || points.length < 2) return { trend: "STABLE", delta: 0 }
-  const last = points[points.length - 1].value
-  // Compare to the value ~7 days back (or earliest available)
-  const compareIdx = Math.max(0, points.length - 8)
-  const prev = points[compareIdx].value
-  const delta = Math.round((last - prev) * 10) / 10
+/** Derive trend + delta from current live value vs previous history point */
+function trendFromHistory(currentValue: number, points: KpiDataPoint[] | undefined): { trend: Trend; delta: number } {
+  if (!points || points.length < 1) return { trend: "STABLE", delta: 0 }
+  // Compare current live value against the second-to-last point (the previous snapshot)
+  const prevIdx = Math.max(0, points.length - 2)
+  const prev = points[prevIdx].value
+  const delta = Math.round((currentValue - prev) * 10) / 10
   return { trend: toTrend(delta), delta }
 }
 
@@ -120,12 +109,12 @@ function buildKpis(
   const highHist = history?.highPlusCountries ?? []
   const escHist = history?.escalationAlerts24h ?? []
 
-  const gtiTrend = trendFromHistory(gtiHist)
-  const anomTrend = trendFromHistory(anomHist)
-  const highTrend = trendFromHistory(highHist)
-  const escTrend = trendFromHistory(escHist)
-
   const gti = summary.globalThreatIndex
+
+  const gtiTrend = trendFromHistory(gti, gtiHist)
+  const anomTrend = trendFromHistory(summary.activeAnomalies, anomHist)
+  const highTrend = trendFromHistory(summary.highPlusCountries, highHist)
+  const escTrend = trendFromHistory(summary.escalationAlerts24h, escHist)
 
   return [
     {
@@ -166,8 +155,6 @@ function buildKpis(
 
 // ── Hooks ───────────────────────────────────────────────────────
 
-const mockSummary = getDashboardSummary()
-
 export function useDashboard() {
   const summaryQuery = useQuery({
     queryKey: ["dashboard", "summary"],
@@ -206,17 +193,21 @@ export function useDashboard() {
     retry: 1,
   })
 
-  // Build the DashboardSummary, merging backend data with mock fallback
-  const isLive = summaryQuery.isSuccess && !!summaryQuery.data
   const backendSummary = summaryQuery.data
+  const isLive = summaryQuery.isSuccess && !!backendSummary
 
-  let dashboard: DashboardSummary
+  let dashboard: DashboardSummary | null = null
 
   if (isLive && backendSummary) {
-    const countries: Country[] = backendSummary.countries.map(mergeMockCountry)
-    const alerts: Alert[] = alertsQuery.data
-      ? transformAlerts(alertsQuery.data as unknown as BackendAlert[])
-      : []
+    const countries: Country[] = backendSummary.countries.map(backendToCountry)
+    let alerts: Alert[] = []
+    try {
+      if (alertsQuery.data) {
+        alerts = transformAlerts(alertsQuery.data as unknown as BackendAlert[])
+      }
+    } catch {
+      console.warn("[Sentinel] Failed to transform alerts:", alertsQuery.data)
+    }
     const kpis = buildKpis(backendSummary, historyQuery.data ?? null)
 
     dashboard = {
@@ -230,8 +221,6 @@ export function useDashboard() {
       alerts,
       kpis,
     }
-  } else {
-    dashboard = mockSummary
   }
 
   return {
@@ -242,18 +231,45 @@ export function useDashboard() {
   }
 }
 
+export function useExposure() {
+  return useQuery({
+    queryKey: ["exposure"],
+    queryFn: fetchExposure,
+    staleTime: 1000 * 60 * 10,
+    retry: 1,
+  })
+}
+
+export function useRecommendations() {
+  return useQuery({
+    queryKey: ["recommendations"],
+    queryFn: fetchRecommendations,
+    staleTime: 1000 * 60 * 10,
+    retry: 1,
+  })
+}
+
+export function useHeadlines() {
+  return useQuery({
+    queryKey: ["headlines"],
+    queryFn: fetchHeadlines,
+    staleTime: 1000 * 60 * 10,
+    refetchInterval: 1000 * 60 * 10,
+    retry: 1,
+  })
+}
+
 export function useAnalysis(countryCode3: string | null) {
   const code2 = countryCode3 ? toAlpha2(countryCode3) : ""
-  const mock = countryCode3 ? getCountryByCode(countryCode3) : null
+  const name = countryCode3 ?? ""
 
   return useQuery({
     queryKey: ["analysis", code2],
-    queryFn: () => fetchAnalysis(mock?.name ?? countryCode3!, code2),
+    queryFn: () => fetchAnalysis(name, code2),
     enabled: !!countryCode3 && !!code2,
     staleTime: 1000 * 60 * 15,
     retry: 1,
     select: (data: BackendAnalysis): Partial<Country> => {
-      // Transform backend analysis into fields that overlay on top of mock Country
       return {
         score: data.mlMetadata.riskScore,
         riskLevel: toRiskLevel(data.mlMetadata.riskLevel),
@@ -277,16 +293,16 @@ export function useAnalysis(countryCode3: string | null) {
 
 export function useForecast(countryCode3: string | null) {
   const code2 = countryCode3 ? toAlpha2(countryCode3) : ""
-  const mock = countryCode3 ? getCountryByCode(countryCode3) : null
+  const name = countryCode3 ?? ""
 
   return useQuery({
     queryKey: ["forecast", code2],
-    queryFn: () => fetchForecast(mock?.name ?? countryCode3!, code2),
+    queryFn: () => fetchForecast(name, code2),
     enabled: !!countryCode3 && !!code2,
     staleTime: 1000 * 60 * 15,
     retry: 1,
     select: (data): { forecast: ForecastPoint[]; trend: Trend } => {
-      const current = mock?.score ?? 50
+      const current = data.forecast_30d
       return {
         forecast: [
           { day: 0, score: current },

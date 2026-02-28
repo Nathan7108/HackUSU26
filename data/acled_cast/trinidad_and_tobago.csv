@@ -1,0 +1,586 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Trinidad and Tobago,Arima,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141107
+Trinidad and Tobago,Arima,April,2023,2,0,0,2,8.0,0.0,0.0,8.0,1726141107
+Trinidad and Tobago,Arima,May,2023,5,0,0,4,3.0,0.0,0.0,3.0,1726141107
+Trinidad and Tobago,Arima,June,2023,4,0,0,3,3.0,0.0,0.0,3.0,1726141107
+Trinidad and Tobago,Arima,July,2023,3,0,0,3,3.0,1.0,0.0,2.0,1726141107
+Trinidad and Tobago,Arima,August,2023,4,1,0,3,4.0,0.0,0.0,4.0,1726141107
+Trinidad and Tobago,Arima,September,2023,4,0,0,4,3.0,0.0,0.0,3.0,1726141107
+Trinidad and Tobago,Arima,October,2023,3,0,0,3,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Arima,November,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Arima,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Arima,January,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Arima,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Arima,March,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Arima,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Arima,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Arima,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Arima,July,2024,0,0,0,0,3.0,1.0,0.0,2.0,1726141108
+Trinidad and Tobago,Arima,August,2024,3,1,0,2,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Chaguanas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Chaguanas,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Chaguanas,May,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Chaguanas,June,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141108
+Trinidad and Tobago,Chaguanas,July,2023,4,0,0,4,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Chaguanas,August,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Chaguanas,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Chaguanas,October,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Chaguanas,November,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Chaguanas,December,2023,2,0,0,2,4.0,1.0,0.0,3.0,1726141108
+Trinidad and Tobago,Chaguanas,January,2024,4,1,0,3,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Chaguanas,February,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Chaguanas,March,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Chaguanas,April,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Chaguanas,May,2024,1,0,0,1,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Chaguanas,June,2024,2,1,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Chaguanas,July,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Chaguanas,August,2024,2,0,0,2,3.0,1.0,0.0,2.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,March,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,April,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,May,2023,2,0,0,2,5.0,1.0,0.0,4.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,June,2023,4,1,0,3,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,July,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,August,2023,2,0,0,2,6.0,3.0,0.0,3.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,September,2023,4,1,0,3,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,October,2023,2,0,0,2,4.0,2.0,0.0,2.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,November,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,December,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,January,2024,1,1,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,February,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,March,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,April,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,May,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,June,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,July,2024,3,0,0,3,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Couva-Tabaquite-Talparo,August,2024,3,0,0,3,5.0,1.0,0.0,4.0,1726141108
+Trinidad and Tobago,Diego Martin,March,2023,3,0,0,3,1.0,1.0,0.0,0.0,1726141108
+Trinidad and Tobago,Diego Martin,April,2023,1,1,0,0,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Diego Martin,May,2023,2,0,0,1,4.0,2.0,0.0,2.0,1726141108
+Trinidad and Tobago,Diego Martin,June,2023,3,1,0,2,3.0,1.0,0.0,2.0,1726141108
+Trinidad and Tobago,Diego Martin,July,2023,3,1,0,2,7.0,0.0,0.0,7.0,1726141108
+Trinidad and Tobago,Diego Martin,August,2023,4,0,0,4,5.0,0.0,0.0,5.0,1726141108
+Trinidad and Tobago,Diego Martin,September,2023,6,1,0,5,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Diego Martin,October,2023,3,1,0,2,3.0,2.0,0.0,1.0,1726141108
+Trinidad and Tobago,Diego Martin,November,2023,2,1,0,1,3.0,1.0,0.0,2.0,1726141108
+Trinidad and Tobago,Diego Martin,December,2023,2,1,0,1,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Diego Martin,January,2024,3,0,0,3,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Diego Martin,February,2024,3,0,0,3,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Diego Martin,March,2024,3,1,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Diego Martin,April,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Diego Martin,May,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Diego Martin,June,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Diego Martin,July,2024,2,0,0,2,5.0,1.0,0.0,4.0,1726141108
+Trinidad and Tobago,Diego Martin,August,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,June,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,July,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Mayaro Rio Claro,August,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Penal-Debe,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Penal-Debe,April,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Penal-Debe,May,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Penal-Debe,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Penal-Debe,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Penal-Debe,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Penal-Debe,September,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Penal-Debe,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Penal-Debe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Penal-Debe,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Penal-Debe,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Penal-Debe,February,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Penal-Debe,March,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Penal-Debe,April,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Penal-Debe,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Penal-Debe,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Penal-Debe,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Penal-Debe,August,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Point Fortin,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Point Fortin,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Point Fortin,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Point Fortin,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Point Fortin,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141108
+Trinidad and Tobago,Port of Spain,March,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Port of Spain,April,2023,2,0,0,2,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Port of Spain,May,2023,2,0,0,2,4.0,1.0,0.0,3.0,1726141108
+Trinidad and Tobago,Port of Spain,June,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Port of Spain,July,2023,2,0,0,2,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Port of Spain,August,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Port of Spain,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Port of Spain,October,2023,2,0,0,2,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Port of Spain,November,2023,3,0,0,3,8.0,3.0,0.0,5.0,1726141108
+Trinidad and Tobago,Port of Spain,December,2023,5,2,0,3,4.0,0.0,0.0,4.0,1726141108
+Trinidad and Tobago,Port of Spain,January,2024,4,0,0,4,9.0,0.0,0.0,9.0,1726141108
+Trinidad and Tobago,Port of Spain,February,2024,6,0,0,6,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Port of Spain,March,2024,4,0,0,4,4.0,0.0,0.0,4.0,1726141108
+Trinidad and Tobago,Port of Spain,April,2024,4,0,0,4,7.0,1.0,0.0,6.0,1726141108
+Trinidad and Tobago,Port of Spain,May,2024,7,1,0,6,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Port of Spain,June,2024,3,0,0,3,3.0,2.0,0.0,1.0,1726141108
+Trinidad and Tobago,Port of Spain,July,2024,2,1,0,1,9.0,2.0,0.0,7.0,1726141108
+Trinidad and Tobago,Port of Spain,August,2024,8,1,0,7,4.0,1.0,0.0,3.0,1726141108
+Trinidad and Tobago,Princes Town,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Princes Town,April,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Princes Town,May,2023,2,0,0,1,1.0,1.0,0.0,0.0,1726141108
+Trinidad and Tobago,Princes Town,June,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Princes Town,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Princes Town,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Princes Town,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Princes Town,October,2023,2,0,0,2,1.0,1.0,0.0,0.0,1726141108
+Trinidad and Tobago,Princes Town,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Princes Town,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Princes Town,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Princes Town,February,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Princes Town,March,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Princes Town,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Princes Town,May,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Princes Town,June,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Princes Town,July,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Princes Town,August,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,San Fernando,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,San Fernando,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,San Fernando,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,July,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,San Fernando,August,2023,2,0,0,2,4.0,1.0,0.0,3.0,1726141108
+Trinidad and Tobago,San Fernando,September,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,October,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,San Fernando,January,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,San Fernando,February,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,March,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,April,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,San Fernando,May,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,San Fernando,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Fernando,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,March,2023,8,1,0,7,7.0,1.0,0.0,6.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,April,2023,7,1,0,6,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,May,2023,1,0,0,0,7.0,1.0,0.0,6.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,June,2023,7,1,0,5,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,July,2023,4,0,0,4,9.0,1.0,0.0,8.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,August,2023,7,1,0,6,4.0,0.0,0.0,4.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,September,2023,4,0,0,4,4.0,0.0,0.0,4.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,October,2023,5,1,0,4,4.0,3.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,November,2023,2,1,0,1,3.0,1.0,0.0,2.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,December,2023,4,1,0,3,4.0,0.0,0.0,4.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,January,2024,5,1,0,4,8.0,1.0,0.0,7.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,February,2024,7,1,0,6,5.0,0.0,0.0,5.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,March,2024,5,0,0,5,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,April,2024,3,1,0,2,5.0,0.0,0.0,5.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,May,2024,5,0,0,5,9.0,1.0,0.0,8.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,June,2024,7,1,0,6,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,July,2024,2,0,0,2,5.0,0.0,0.0,5.0,1726141108
+Trinidad and Tobago,San Juan-Laventille,August,2024,5,0,0,5,9.0,0.0,0.0,9.0,1726141108
+Trinidad and Tobago,Sangre Grande,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Sangre Grande,April,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Sangre Grande,May,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Sangre Grande,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Sangre Grande,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Sangre Grande,August,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Sangre Grande,September,2023,2,0,0,2,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Sangre Grande,October,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Sangre Grande,November,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Sangre Grande,December,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Sangre Grande,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Sangre Grande,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Sangre Grande,March,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Sangre Grande,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Sangre Grande,May,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Sangre Grande,June,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Sangre Grande,July,2024,3,0,0,3,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Sangre Grande,August,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Siparia,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Siparia,April,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Siparia,May,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Siparia,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Siparia,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Siparia,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Siparia,September,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141108
+Trinidad and Tobago,Siparia,October,2023,2,0,0,2,1.0,1.0,0.0,0.0,1726141108
+Trinidad and Tobago,Siparia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Siparia,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Siparia,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Siparia,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Siparia,March,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Siparia,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Siparia,May,2024,1,0,0,1,2.0,2.0,0.0,0.0,1726141108
+Trinidad and Tobago,Siparia,June,2024,2,1,0,1,5.0,0.0,0.0,5.0,1726141108
+Trinidad and Tobago,Siparia,July,2024,4,0,0,4,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Siparia,August,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Tobago,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Tobago,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Tobago,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Tobago,August,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,September,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141108
+Trinidad and Tobago,Tobago,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,December,2023,1,0,0,1,3.0,1.0,0.0,2.0,1726141108
+Trinidad and Tobago,Tobago,January,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,March,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Tobago,April,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,May,2024,1,0,0,1,5.0,1.0,0.0,4.0,1726141108
+Trinidad and Tobago,Tobago,June,2024,4,1,0,3,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tobago,July,2024,1,0,0,1,4.0,0.0,0.0,4.0,1726141108
+Trinidad and Tobago,Tobago,August,2024,4,0,0,4,5.0,0.0,0.0,5.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,March,2023,5,0,0,5,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,April,2023,2,0,0,2,9.0,1.0,0.0,8.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,May,2023,8,1,0,7,10.0,3.0,0.0,7.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,June,2023,9,2,0,7,7.0,0.0,0.0,7.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,July,2023,7,0,0,7,10.0,1.0,0.0,9.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,August,2023,9,1,0,8,13.0,0.0,0.0,13.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,September,2023,13,1,0,12,6.0,1.0,0.0,5.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,October,2023,7,1,0,6,4.0,2.0,0.0,2.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,November,2023,3,1,0,2,5.0,0.0,0.0,5.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,December,2023,4,0,0,4,7.0,0.0,0.0,7.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,January,2024,7,0,0,7,7.0,1.0,0.0,6.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,February,2024,6,0,0,6,5.0,0.0,0.0,5.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,March,2024,5,0,0,5,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,April,2024,3,0,0,3,3.0,0.0,0.0,3.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,May,2024,3,0,0,3,6.0,2.0,0.0,4.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,June,2024,5,1,0,4,1.0,0.0,0.0,1.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,July,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141108
+Trinidad and Tobago,Tunapuna Piarco,August,2024,3,0,0,3,3.0,1.0,0.0,2.0,1726141108
+Trinidad and Tobago,Arima,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730731006
+Trinidad and Tobago,Chaguanas,September,2024,3,1,0,2,1.0,0.0,0.0,1.0,1730731006
+Trinidad and Tobago,Couva-Tabaquite-Talparo,September,2024,3,1,0,2,4.0,0.0,0.0,4.0,1730731006
+Trinidad and Tobago,Diego Martin,September,2024,2,0,0,2,2.0,0.0,0.0,2.0,1730731006
+Trinidad and Tobago,Mayaro Rio Claro,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730731006
+Trinidad and Tobago,Penal-Debe,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730731006
+Trinidad and Tobago,Point Fortin,September,2024,3,1,0,2,1.0,0.0,0.0,1.0,1730731006
+Trinidad and Tobago,Port of Spain,September,2024,5,1,0,4,4.0,1.0,0.0,3.0,1730731006
+Trinidad and Tobago,Princes Town,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731006
+Trinidad and Tobago,San Fernando,September,2024,2,0,0,2,1.0,0.0,0.0,1.0,1730731006
+Trinidad and Tobago,San Juan-Laventille,September,2024,4,0,0,4,9.0,1.0,0.0,8.0,1730731006
+Trinidad and Tobago,Sangre Grande,September,2024,2,0,0,2,1.0,0.0,0.0,1.0,1730731006
+Trinidad and Tobago,Siparia,September,2024,2,0,0,2,2.0,0.0,0.0,2.0,1730731006
+Trinidad and Tobago,Tobago,September,2024,3,0,0,3,2.0,1.0,0.0,1.0,1730731006
+Trinidad and Tobago,Tunapuna Piarco,September,2024,3,1,0,2,3.0,0.0,0.0,3.0,1730731006
+Trinidad and Tobago,Arima,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010315
+Trinidad and Tobago,Arima,November,2024,2,0,0,2,1.0,0.0,0.0,1.0,1734010315
+Trinidad and Tobago,Chaguanas,October,2024,2,0,0,2,2.0,0.0,0.0,2.0,1734010315
+Trinidad and Tobago,Chaguanas,November,2024,2,0,0,2,1.0,0.0,0.0,1.0,1734010315
+Trinidad and Tobago,Couva-Tabaquite-Talparo,October,2024,3,1,0,2,3.0,0.0,0.0,3.0,1734010315
+Trinidad and Tobago,Couva-Tabaquite-Talparo,November,2024,3,0,0,3,2.0,0.0,0.0,2.0,1734010315
+Trinidad and Tobago,Diego Martin,October,2024,3,1,0,2,3.0,1.0,0.0,2.0,1734010315
+Trinidad and Tobago,Diego Martin,November,2024,2,0,0,2,2.0,0.0,0.0,2.0,1734010315
+Trinidad and Tobago,Mayaro Rio Claro,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010315
+Trinidad and Tobago,Mayaro Rio Claro,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010315
+Trinidad and Tobago,Penal-Debe,October,2024,0,0,0,0,3.0,0.0,0.0,3.0,1734010315
+Trinidad and Tobago,Penal-Debe,November,2024,3,0,0,3,4.0,0.0,0.0,4.0,1734010315
+Trinidad and Tobago,Point Fortin,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010315
+Trinidad and Tobago,Point Fortin,November,2024,1,0,0,1,1.0,1.0,0.0,0.0,1734010315
+Trinidad and Tobago,Port of Spain,October,2024,3,1,0,2,7.0,1.0,0.0,6.0,1734010315
+Trinidad and Tobago,Port of Spain,November,2024,6,1,0,5,7.0,0.0,0.0,7.0,1734010315
+Trinidad and Tobago,Princes Town,October,2024,0,0,0,0,3.0,1.0,0.0,2.0,1734010315
+Trinidad and Tobago,Princes Town,November,2024,2,0,0,2,1.0,0.0,0.0,1.0,1734010315
+Trinidad and Tobago,San Fernando,October,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010315
+Trinidad and Tobago,San Fernando,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010315
+Trinidad and Tobago,San Juan-Laventille,October,2024,6,1,0,5,7.0,1.0,0.0,6.0,1734010315
+Trinidad and Tobago,San Juan-Laventille,November,2024,7,1,0,6,6.0,0.0,0.0,6.0,1734010315
+Trinidad and Tobago,Sangre Grande,October,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010315
+Trinidad and Tobago,Sangre Grande,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010315
+Trinidad and Tobago,Siparia,October,2024,3,1,0,2,2.0,0.0,0.0,2.0,1734010315
+Trinidad and Tobago,Siparia,November,2024,2,0,0,2,1.0,0.0,0.0,1.0,1734010315
+Trinidad and Tobago,Tobago,October,2024,3,1,0,2,0.0,0.0,0.0,0.0,1734010315
+Trinidad and Tobago,Tobago,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010315
+Trinidad and Tobago,Tunapuna Piarco,October,2024,2,0,0,2,4.0,1.0,0.0,3.0,1734010315
+Trinidad and Tobago,Tunapuna Piarco,November,2024,4,1,0,3,1.0,0.0,0.0,1.0,1734010315
+Trinidad and Tobago,Arima,December,2024,1,0,0,1,3.0,2.0,0.0,1.0,1737033379
+Trinidad and Tobago,Chaguanas,December,2024,1,0,0,1,2.0,0.0,0.0,2.0,1737033379
+Trinidad and Tobago,Couva-Tabaquite-Talparo,December,2024,2,0,0,2,2.0,1.0,0.0,1.0,1737033379
+Trinidad and Tobago,Diego Martin,December,2024,2,0,0,2,1.0,0.0,0.0,1.0,1737033379
+Trinidad and Tobago,Mayaro Rio Claro,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033379
+Trinidad and Tobago,Penal-Debe,December,2024,3,0,0,3,1.0,0.0,0.0,1.0,1737033380
+Trinidad and Tobago,Point Fortin,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033380
+Trinidad and Tobago,Port of Spain,December,2024,7,1,0,6,5.0,1.0,0.0,4.0,1737033380
+Trinidad and Tobago,Princes Town,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033380
+Trinidad and Tobago,San Fernando,December,2024,0,0,0,0,2.0,0.0,0.0,2.0,1737033380
+Trinidad and Tobago,San Juan-Laventille,December,2024,6,0,0,6,7.0,2.0,0.0,5.0,1737033380
+Trinidad and Tobago,Sangre Grande,December,2024,0,0,0,0,4.0,3.0,0.0,1.0,1737033380
+Trinidad and Tobago,Siparia,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033380
+Trinidad and Tobago,Tobago,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033380
+Trinidad and Tobago,Tunapuna Piarco,December,2024,2,0,0,2,5.0,0.0,0.0,5.0,1737033380
+Trinidad and Tobago,Arima,January,2025,2,1,0,1,1.0,0.0,0.0,1.0,1738854875
+Trinidad and Tobago,Chaguanas,January,2025,2,0,0,2,3.0,1.0,0.0,2.0,1738854875
+Trinidad and Tobago,Couva-Tabaquite-Talparo,January,2025,3,1,0,2,3.0,2.0,0.0,1.0,1738854876
+Trinidad and Tobago,Diego Martin,January,2025,2,0,0,2,2.0,0.0,0.0,2.0,1738854876
+Trinidad and Tobago,Mayaro Rio Claro,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854876
+Trinidad and Tobago,Penal-Debe,January,2025,3,0,0,3,1.0,0.0,0.0,1.0,1738854876
+Trinidad and Tobago,Point Fortin,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854876
+Trinidad and Tobago,Port of Spain,January,2025,6,1,0,5,2.0,0.0,0.0,2.0,1738854876
+Trinidad and Tobago,Princes Town,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854876
+Trinidad and Tobago,San Fernando,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854876
+Trinidad and Tobago,San Juan-Laventille,January,2025,6,1,0,5,1.0,0.0,0.0,1.0,1738854876
+Trinidad and Tobago,Sangre Grande,January,2025,2,1,0,1,2.0,0.0,0.0,2.0,1738854876
+Trinidad and Tobago,Siparia,January,2025,2,0,0,2,0.0,0.0,0.0,0.0,1738854876
+Trinidad and Tobago,Tobago,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854876
+Trinidad and Tobago,Tunapuna Piarco,January,2025,4,0,0,4,1.0,0.0,0.0,1.0,1738854876
+Trinidad and Tobago,Arima,February,2025,1,0,0,1,1.0,0.0,0.0,1.0,1741266647
+Trinidad and Tobago,Chaguanas,February,2025,3,1,0,2,1.0,1.0,0.0,0.0,1741266647
+Trinidad and Tobago,Couva-Tabaquite-Talparo,February,2025,2,1,0,1,2.0,0.0,0.0,2.0,1741266647
+Trinidad and Tobago,Diego Martin,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266647
+Trinidad and Tobago,Mayaro Rio Claro,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266647
+Trinidad and Tobago,Penal-Debe,February,2025,1,0,0,1,1.0,0.0,0.0,1.0,1741266647
+Trinidad and Tobago,Point Fortin,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266647
+Trinidad and Tobago,Port of Spain,February,2025,3,0,0,3,1.0,0.0,0.0,1.0,1741266647
+Trinidad and Tobago,Princes Town,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266647
+Trinidad and Tobago,San Fernando,February,2025,1,0,0,1,2.0,0.0,0.0,2.0,1741266647
+Trinidad and Tobago,San Juan-Laventille,February,2025,2,0,0,2,4.0,1.0,0.0,3.0,1741266647
+Trinidad and Tobago,Sangre Grande,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266647
+Trinidad and Tobago,Siparia,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266647
+Trinidad and Tobago,Tobago,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266647
+Trinidad and Tobago,Tunapuna Piarco,February,2025,2,0,0,2,2.0,0.0,0.0,2.0,1741266647
+Trinidad and Tobago,Arima,March,2025,1,0,0,1,2.0,0.0,0.0,2.0,1744287550
+Trinidad and Tobago,Chaguanas,March,2025,3,1,0,2,0.0,0.0,0.0,0.0,1744287550
+Trinidad and Tobago,Couva-Tabaquite-Talparo,March,2025,2,0,0,2,2.0,0.0,0.0,2.0,1744287550
+Trinidad and Tobago,Diego Martin,March,2025,0,0,0,0,4.0,2.0,0.0,2.0,1744287550
+Trinidad and Tobago,Mayaro Rio Claro,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287550
+Trinidad and Tobago,Penal-Debe,March,2025,1,0,0,1,2.0,1.0,0.0,1.0,1744287550
+Trinidad and Tobago,Point Fortin,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287550
+Trinidad and Tobago,Port of Spain,March,2025,2,0,0,2,1.0,0.0,0.0,1.0,1744287550
+Trinidad and Tobago,Princes Town,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287550
+Trinidad and Tobago,San Fernando,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287550
+Trinidad and Tobago,San Juan-Laventille,March,2025,3,1,0,2,10.0,2.0,0.0,8.0,1744287550
+Trinidad and Tobago,Sangre Grande,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287550
+Trinidad and Tobago,Siparia,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287550
+Trinidad and Tobago,Tobago,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287550
+Trinidad and Tobago,Tunapuna Piarco,March,2025,2,0,0,2,3.0,1.0,0.0,2.0,1744287550
+Trinidad and Tobago,Arima,April,2025,2,0,0,2,1.0,0.0,0.0,1.0,1746702920
+Trinidad and Tobago,Chaguanas,April,2025,0,0,0,0,5.0,2.0,0.0,3.0,1746702920
+Trinidad and Tobago,Couva-Tabaquite-Talparo,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702920
+Trinidad and Tobago,Diego Martin,April,2025,2,0,0,2,2.0,1.0,0.0,1.0,1746702920
+Trinidad and Tobago,Mayaro Rio Claro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702920
+Trinidad and Tobago,Penal-Debe,April,2025,2,0,0,2,1.0,0.0,0.0,1.0,1746702920
+Trinidad and Tobago,Point Fortin,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702920
+Trinidad and Tobago,Port of Spain,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702920
+Trinidad and Tobago,Princes Town,April,2025,2,0,0,2,2.0,2.0,0.0,0.0,1746702920
+Trinidad and Tobago,San Fernando,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702920
+Trinidad and Tobago,San Juan-Laventille,April,2025,6,1,0,5,4.0,0.0,0.0,4.0,1746702920
+Trinidad and Tobago,Sangre Grande,April,2025,2,0,0,2,1.0,0.0,0.0,1.0,1746702920
+Trinidad and Tobago,Siparia,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702920
+Trinidad and Tobago,Tobago,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702920
+Trinidad and Tobago,Tunapuna Piarco,April,2025,2,0,0,2,4.0,1.0,0.0,3.0,1746702920
+Trinidad and Tobago,Arima,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732033
+Trinidad and Tobago,Chaguanas,May,2025,3,2,0,1,2.0,1.0,0.0,1.0,1749732033
+Trinidad and Tobago,Couva-Tabaquite-Talparo,May,2025,1,0,0,1,3.0,0.0,0.0,3.0,1749732033
+Trinidad and Tobago,Diego Martin,May,2025,3,1,0,2,3.0,0.0,0.0,3.0,1749732033
+Trinidad and Tobago,Mayaro Rio Claro,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732033
+Trinidad and Tobago,Penal-Debe,May,2025,1,0,0,1,1.0,0.0,0.0,1.0,1749732033
+Trinidad and Tobago,Point Fortin,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732033
+Trinidad and Tobago,Port of Spain,May,2025,0,0,0,0,4.0,0.0,0.0,4.0,1749732033
+Trinidad and Tobago,Princes Town,May,2025,2,1,0,1,0.0,0.0,0.0,0.0,1749732033
+Trinidad and Tobago,San Fernando,May,2025,1,0,0,1,3.0,1.0,0.0,2.0,1749732033
+Trinidad and Tobago,San Juan-Laventille,May,2025,5,0,0,5,3.0,1.0,0.0,2.0,1749732034
+Trinidad and Tobago,Sangre Grande,May,2025,1,0,0,1,2.0,0.0,0.0,2.0,1749732034
+Trinidad and Tobago,Siparia,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732034
+Trinidad and Tobago,Tobago,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732034
+Trinidad and Tobago,Tunapuna Piarco,May,2025,3,1,0,2,2.0,0.0,0.0,2.0,1749732034
+Trinidad and Tobago,Arima,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Trinidad and Tobago,Arima,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Trinidad and Tobago,Arima,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Trinidad and Tobago,Arima,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Trinidad and Tobago,Arima,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Trinidad and Tobago,Arima,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Trinidad and Tobago,Arima,December,2025,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Chaguanas,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Trinidad and Tobago,Chaguanas,July,2025,1,0,0,1,2.0,0.0,0.0,2.0,1754429217
+Trinidad and Tobago,Chaguanas,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+Trinidad and Tobago,Chaguanas,September,2025,1,0,0,1,2.0,0.0,0.0,2.0,1760036046
+Trinidad and Tobago,Chaguanas,October,2025,2,0,0,2,3.0,1.0,0.0,2.0,1762435626
+Trinidad and Tobago,Chaguanas,November,2025,1,0,0,1,3.0,1.0,0.0,2.0,1765375966
+Trinidad and Tobago,Chaguanas,December,2025,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Couva-Tabaquite-Talparo,June,2025,3,0,0,3,3.0,0.0,0.0,3.0,1754429217
+Trinidad and Tobago,Couva-Tabaquite-Talparo,July,2025,3,0,0,3,1.0,1.0,0.0,0.0,1754429217
+Trinidad and Tobago,Couva-Tabaquite-Talparo,August,2025,1,1,0,0,2.0,1.0,0.0,1.0,1757596698
+Trinidad and Tobago,Couva-Tabaquite-Talparo,September,2025,3,1,0,2,0.0,0.0,0.0,0.0,1760036046
+Trinidad and Tobago,Couva-Tabaquite-Talparo,October,2025,0,0,0,0,2.0,1.0,0.0,1.0,1762435626
+Trinidad and Tobago,Couva-Tabaquite-Talparo,November,2025,1,0,0,1,3.0,0.0,0.0,3.0,1765375966
+Trinidad and Tobago,Couva-Tabaquite-Talparo,December,2025,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Diego Martin,June,2025,2,0,0,2,2.0,0.0,0.0,2.0,1754429217
+Trinidad and Tobago,Diego Martin,July,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Trinidad and Tobago,Diego Martin,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Trinidad and Tobago,Diego Martin,September,2025,0,0,0,0,2.0,1.0,0.0,1.0,1760036046
+Trinidad and Tobago,Diego Martin,October,2025,2,1,0,1,1.0,0.0,0.0,1.0,1762435626
+Trinidad and Tobago,Diego Martin,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Trinidad and Tobago,Diego Martin,December,2025,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Mayaro Rio Claro,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Mayaro Rio Claro,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Mayaro Rio Claro,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Trinidad and Tobago,Mayaro Rio Claro,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Trinidad and Tobago,Mayaro Rio Claro,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Trinidad and Tobago,Mayaro Rio Claro,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Trinidad and Tobago,Mayaro Rio Claro,December,2025,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Penal-Debe,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Trinidad and Tobago,Penal-Debe,July,2025,1,0,0,1,2.0,0.0,0.0,2.0,1754429217
+Trinidad and Tobago,Penal-Debe,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+Trinidad and Tobago,Penal-Debe,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Trinidad and Tobago,Penal-Debe,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Trinidad and Tobago,Penal-Debe,November,2025,1,0,0,1,2.0,0.0,0.0,2.0,1765375966
+Trinidad and Tobago,Penal-Debe,December,2025,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Point Fortin,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Point Fortin,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Point Fortin,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Trinidad and Tobago,Point Fortin,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Trinidad and Tobago,Point Fortin,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Trinidad and Tobago,Point Fortin,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Trinidad and Tobago,Point Fortin,December,2025,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Port of Spain,June,2025,3,0,0,3,1.0,0.0,0.0,1.0,1754429217
+Trinidad and Tobago,Port of Spain,July,2025,1,0,0,1,5.0,0.0,0.0,5.0,1754429217
+Trinidad and Tobago,Port of Spain,August,2025,4,0,0,4,2.0,1.0,0.0,1.0,1757596698
+Trinidad and Tobago,Port of Spain,September,2025,2,1,0,1,4.0,3.0,0.0,1.0,1760036046
+Trinidad and Tobago,Port of Spain,October,2025,3,2,0,1,2.0,0.0,0.0,2.0,1762435626
+Trinidad and Tobago,Port of Spain,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Trinidad and Tobago,Port of Spain,December,2025,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Princes Town,June,2025,0,0,0,0,3.0,0.0,0.0,3.0,1754429217
+Trinidad and Tobago,Princes Town,July,2025,3,0,0,3,2.0,1.0,0.0,1.0,1754429217
+Trinidad and Tobago,Princes Town,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Trinidad and Tobago,Princes Town,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Trinidad and Tobago,Princes Town,October,2025,0,0,0,0,2.0,1.0,0.0,1.0,1762435626
+Trinidad and Tobago,Princes Town,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Trinidad and Tobago,Princes Town,December,2025,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,San Fernando,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,San Fernando,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,San Fernando,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Trinidad and Tobago,San Fernando,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Trinidad and Tobago,San Fernando,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Trinidad and Tobago,San Fernando,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Trinidad and Tobago,San Fernando,December,2025,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,San Juan-Laventille,June,2025,4,1,0,3,3.0,1.0,0.0,2.0,1754429217
+Trinidad and Tobago,San Juan-Laventille,July,2025,3,1,0,2,2.0,1.0,0.0,1.0,1754429217
+Trinidad and Tobago,San Juan-Laventille,August,2025,2,1,0,1,2.0,0.0,0.0,2.0,1757596698
+Trinidad and Tobago,San Juan-Laventille,September,2025,2,0,0,2,2.0,1.0,0.0,1.0,1760036046
+Trinidad and Tobago,San Juan-Laventille,October,2025,2,1,0,1,4.0,0.0,0.0,4.0,1762435626
+Trinidad and Tobago,San Juan-Laventille,November,2025,3,1,0,2,2.0,0.0,0.0,2.0,1765375966
+Trinidad and Tobago,San Juan-Laventille,December,2025,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Sangre Grande,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Sangre Grande,July,2025,0,0,0,0,4.0,1.0,0.0,3.0,1754429217
+Trinidad and Tobago,Sangre Grande,August,2025,4,1,0,3,1.0,1.0,0.0,0.0,1757596698
+Trinidad and Tobago,Sangre Grande,September,2025,2,1,0,1,3.0,2.0,0.0,1.0,1760036046
+Trinidad and Tobago,Sangre Grande,October,2025,2,1,0,1,2.0,1.0,0.0,1.0,1762435626
+Trinidad and Tobago,Sangre Grande,November,2025,2,1,0,1,2.0,0.0,0.0,2.0,1765375966
+Trinidad and Tobago,Sangre Grande,December,2025,3,1,0,2,,,,,1765375966
+Trinidad and Tobago,Siparia,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Siparia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Siparia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Trinidad and Tobago,Siparia,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Trinidad and Tobago,Siparia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Trinidad and Tobago,Siparia,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Trinidad and Tobago,Siparia,December,2025,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Tobago,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Tobago,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Trinidad and Tobago,Tobago,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Trinidad and Tobago,Tobago,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Trinidad and Tobago,Tobago,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Trinidad and Tobago,Tobago,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Trinidad and Tobago,Tobago,December,2025,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Tunapuna Piarco,June,2025,2,0,0,2,4.0,1.0,0.0,3.0,1754429217
+Trinidad and Tobago,Tunapuna Piarco,July,2025,4,1,0,3,3.0,1.0,0.0,2.0,1754429217
+Trinidad and Tobago,Tunapuna Piarco,August,2025,3,1,0,2,5.0,2.0,0.0,3.0,1757596698
+Trinidad and Tobago,Tunapuna Piarco,September,2025,3,1,0,2,1.0,0.0,0.0,1.0,1760036046
+Trinidad and Tobago,Tunapuna Piarco,October,2025,1,0,0,1,6.0,0.0,0.0,6.0,1762435626
+Trinidad and Tobago,Tunapuna Piarco,November,2025,3,0,0,3,3.0,1.0,0.0,2.0,1765375966
+Trinidad and Tobago,Tunapuna Piarco,December,2025,3,1,0,2,,,,,1765375966
+Trinidad and Tobago,Arima,January,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Chaguanas,January,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Couva-Tabaquite-Talparo,January,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Diego Martin,January,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Mayaro Rio Claro,January,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Penal-Debe,January,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Point Fortin,January,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Port of Spain,January,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Princes Town,January,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,San Fernando,January,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,San Juan-Laventille,January,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Sangre Grande,January,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Siparia,January,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Tobago,January,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Tunapuna Piarco,January,2026,3,1,0,2,,,,,1765375966
+Trinidad and Tobago,Arima,February,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Chaguanas,February,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Couva-Tabaquite-Talparo,February,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Diego Martin,February,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Mayaro Rio Claro,February,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Penal-Debe,February,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Point Fortin,February,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Port of Spain,February,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Princes Town,February,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,San Fernando,February,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,San Juan-Laventille,February,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Sangre Grande,February,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Siparia,February,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Tobago,February,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Tunapuna Piarco,February,2026,3,1,0,2,,,,,1765375966
+Trinidad and Tobago,Arima,March,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Chaguanas,March,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Couva-Tabaquite-Talparo,March,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Diego Martin,March,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Mayaro Rio Claro,March,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Penal-Debe,March,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Point Fortin,March,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Port of Spain,March,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Princes Town,March,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,San Fernando,March,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,San Juan-Laventille,March,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Sangre Grande,March,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Siparia,March,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Tobago,March,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Tunapuna Piarco,March,2026,3,1,0,2,,,,,1765375966
+Trinidad and Tobago,Arima,April,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Chaguanas,April,2026,3,1,0,2,,,,,1765375966
+Trinidad and Tobago,Couva-Tabaquite-Talparo,April,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Diego Martin,April,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Mayaro Rio Claro,April,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Penal-Debe,April,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Point Fortin,April,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Port of Spain,April,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Princes Town,April,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,San Fernando,April,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,San Juan-Laventille,April,2026,3,1,0,2,,,,,1765375966
+Trinidad and Tobago,Sangre Grande,April,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Siparia,April,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Tobago,April,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Tunapuna Piarco,April,2026,3,1,0,2,,,,,1765375966
+Trinidad and Tobago,Arima,May,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Chaguanas,May,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Couva-Tabaquite-Talparo,May,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Diego Martin,May,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Mayaro Rio Claro,May,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,Penal-Debe,May,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Point Fortin,May,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Port of Spain,May,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,Princes Town,May,2026,0,0,0,0,,,,,1765375966
+Trinidad and Tobago,San Fernando,May,2026,1,0,0,1,,,,,1765375966
+Trinidad and Tobago,San Juan-Laventille,May,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Sangre Grande,May,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Siparia,May,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Tobago,May,2026,2,0,0,2,,,,,1765375966
+Trinidad and Tobago,Tunapuna Piarco,May,2026,3,1,0,2,,,,,1765375966

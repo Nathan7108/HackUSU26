@@ -1,0 +1,664 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,March,2023,8,6,1,1,20.0,15.0,1.0,4.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,April,2023,16,11,1,4,19.0,13.0,0.0,6.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,May,2023,20,12,1,8,5.0,3.0,1.0,1.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,June,2023,5,4,1,1,10.0,8.0,0.0,2.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,July,2023,10,7,1,2,3.0,1.0,1.0,1.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,August,2023,6,4,1,1,10.0,5.0,2.0,3.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,September,2023,9,5,1,3,11.0,6.0,1.0,4.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,October,2023,12,7,1,4,10.0,2.0,0.0,8.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,November,2023,11,4,0,7,9.0,1.0,2.0,6.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,December,2023,8,2,1,5,12.0,9.0,2.0,1.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,January,2024,10,6,1,3,7.0,4.0,0.0,3.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,February,2024,8,5,0,3,3.0,0.0,1.0,2.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,March,2024,4,1,1,2,11.0,5.0,1.0,5.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,April,2024,10,4,1,5,13.0,8.0,0.0,5.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,May,2024,11,6,1,4,10.0,3.0,1.0,6.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,June,2024,11,4,1,6,5.0,2.0,1.0,2.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,July,2024,5,2,1,2,7.0,6.0,0.0,1.0,1726141070
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,August,2024,8,6,1,1,4.0,1.0,0.0,3.0,1726141070
+Philippines,Bicol Region,March,2023,6,5,0,1,9.0,5.0,1.0,3.0,1726141070
+Philippines,Bicol Region,April,2023,8,5,1,3,5.0,3.0,0.0,2.0,1726141070
+Philippines,Bicol Region,May,2023,6,3,0,3,5.0,2.0,0.0,3.0,1726141070
+Philippines,Bicol Region,June,2023,5,2,0,3,4.0,2.0,0.0,2.0,1726141070
+Philippines,Bicol Region,July,2023,5,2,0,2,2.0,2.0,0.0,0.0,1726141070
+Philippines,Bicol Region,August,2023,4,3,0,1,6.0,3.0,0.0,3.0,1726141070
+Philippines,Bicol Region,September,2023,6,3,0,3,2.0,0.0,0.0,2.0,1726141070
+Philippines,Bicol Region,October,2023,2,0,0,2,4.0,1.0,0.0,3.0,1726141070
+Philippines,Bicol Region,November,2023,4,1,0,3,1.0,1.0,0.0,0.0,1726141070
+Philippines,Bicol Region,December,2023,1,1,0,0,2.0,1.0,0.0,1.0,1726141070
+Philippines,Bicol Region,January,2024,3,2,0,1,3.0,3.0,0.0,0.0,1726141070
+Philippines,Bicol Region,February,2024,4,3,0,1,5.0,4.0,0.0,1.0,1726141070
+Philippines,Bicol Region,March,2024,5,4,0,1,5.0,2.0,0.0,3.0,1726141070
+Philippines,Bicol Region,April,2024,5,2,0,3,5.0,2.0,0.0,3.0,1726141070
+Philippines,Bicol Region,May,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141070
+Philippines,Bicol Region,June,2024,2,2,0,0,2.0,1.0,0.0,1.0,1726141070
+Philippines,Bicol Region,July,2024,2,1,0,1,5.0,4.0,0.0,1.0,1726141070
+Philippines,Bicol Region,August,2024,4,3,0,1,8.0,4.0,0.0,4.0,1726141070
+Philippines,Cagayan Valley,March,2023,2,1,0,1,2.0,2.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,April,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,May,2023,1,0,1,0,1.0,1.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141070
+Philippines,Cagayan Valley,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141070
+Philippines,Cagayan Valley,December,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,March,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,June,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141070
+Philippines,Cagayan Valley,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141070
+Philippines,Cagayan Valley,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141070
+Philippines,Calabarzon,March,2023,7,1,0,6,4.0,2.0,0.0,2.0,1726141070
+Philippines,Calabarzon,April,2023,5,2,0,2,7.0,0.0,0.0,7.0,1726141070
+Philippines,Calabarzon,May,2023,8,1,1,6,3.0,0.0,0.0,3.0,1726141070
+Philippines,Calabarzon,June,2023,4,0,0,3,4.0,1.0,0.0,3.0,1726141070
+Philippines,Calabarzon,July,2023,4,1,0,3,3.0,1.0,0.0,2.0,1726141070
+Philippines,Calabarzon,August,2023,3,1,0,2,6.0,0.0,0.0,6.0,1726141070
+Philippines,Calabarzon,September,2023,6,1,0,5,7.0,2.0,0.0,5.0,1726141070
+Philippines,Calabarzon,October,2023,5,1,0,4,6.0,2.0,0.0,4.0,1726141070
+Philippines,Calabarzon,November,2023,5,1,0,4,6.0,1.0,0.0,5.0,1726141070
+Philippines,Calabarzon,December,2023,6,1,0,5,5.0,4.0,0.0,1.0,1726141070
+Philippines,Calabarzon,January,2024,4,2,0,2,6.0,0.0,0.0,6.0,1726141070
+Philippines,Calabarzon,February,2024,6,1,0,5,5.0,4.0,0.0,1.0,1726141070
+Philippines,Calabarzon,March,2024,5,4,0,1,8.0,3.0,0.0,5.0,1726141070
+Philippines,Calabarzon,April,2024,7,2,0,5,5.0,1.0,0.0,4.0,1726141070
+Philippines,Calabarzon,May,2024,4,1,0,3,7.0,0.0,0.0,7.0,1726141070
+Philippines,Calabarzon,June,2024,8,1,0,7,3.0,2.0,0.0,1.0,1726141070
+Philippines,Calabarzon,July,2024,4,2,0,2,5.0,2.0,0.0,3.0,1726141071
+Philippines,Calabarzon,August,2024,5,2,0,3,4.0,0.0,0.0,4.0,1726141071
+Philippines,Caraga,March,2023,0,0,0,0,5.0,4.0,0.0,1.0,1726141071
+Philippines,Caraga,April,2023,4,3,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Caraga,May,2023,3,2,0,1,4.0,4.0,0.0,0.0,1726141071
+Philippines,Caraga,June,2023,4,3,0,0,1.0,1.0,0.0,0.0,1726141071
+Philippines,Caraga,July,2023,2,2,0,0,2.0,2.0,0.0,0.0,1726141071
+Philippines,Caraga,August,2023,2,2,0,0,2.0,1.0,0.0,1.0,1726141071
+Philippines,Caraga,September,2023,2,1,0,1,4.0,4.0,0.0,0.0,1726141071
+Philippines,Caraga,October,2023,4,3,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Caraga,November,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141071
+Philippines,Caraga,December,2023,2,2,0,0,2.0,2.0,0.0,0.0,1726141071
+Philippines,Caraga,January,2024,2,2,0,0,3.0,3.0,0.0,0.0,1726141071
+Philippines,Caraga,February,2024,2,2,0,0,3.0,2.0,0.0,1.0,1726141071
+Philippines,Caraga,March,2024,3,2,0,1,3.0,1.0,0.0,2.0,1726141071
+Philippines,Caraga,April,2024,3,1,0,2,0.0,0.0,0.0,0.0,1726141071
+Philippines,Caraga,May,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141071
+Philippines,Caraga,June,2024,2,2,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Caraga,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141071
+Philippines,Caraga,August,2024,1,1,0,0,3.0,3.0,0.0,0.0,1726141071
+Philippines,Central Luzon,March,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141071
+Philippines,Central Luzon,April,2023,3,0,0,2,2.0,1.0,0.0,1.0,1726141071
+Philippines,Central Luzon,May,2023,3,1,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Central Luzon,June,2023,2,1,0,1,5.0,3.0,0.0,2.0,1726141071
+Philippines,Central Luzon,July,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141071
+Philippines,Central Luzon,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Central Luzon,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Central Luzon,October,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Central Luzon,November,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Central Luzon,December,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Central Luzon,January,2024,3,1,0,2,2.0,1.0,0.0,1.0,1726141071
+Philippines,Central Luzon,February,2024,2,1,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Central Luzon,March,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Central Luzon,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141071
+Philippines,Central Luzon,May,2024,1,1,0,0,12.0,3.0,8.0,1.0,1726141071
+Philippines,Central Luzon,June,2024,3,2,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Central Luzon,July,2024,2,1,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Central Luzon,August,2024,2,1,0,1,4.0,0.0,0.0,4.0,1726141071
+Philippines,Central Visayas,March,2023,5,1,0,4,7.0,2.0,0.0,5.0,1726141071
+Philippines,Central Visayas,April,2023,8,2,0,5,8.0,1.0,0.0,7.0,1726141071
+Philippines,Central Visayas,May,2023,9,1,0,8,7.0,2.0,0.0,5.0,1726141071
+Philippines,Central Visayas,June,2023,7,2,0,5,4.0,0.0,0.0,4.0,1726141071
+Philippines,Central Visayas,July,2023,6,1,0,4,6.0,1.0,0.0,5.0,1726141071
+Philippines,Central Visayas,August,2023,6,1,0,5,10.0,3.0,1.0,6.0,1726141071
+Philippines,Central Visayas,September,2023,8,2,0,6,4.0,1.0,0.0,3.0,1726141071
+Philippines,Central Visayas,October,2023,5,1,0,4,7.0,0.0,0.0,7.0,1726141071
+Philippines,Central Visayas,November,2023,6,0,0,6,4.0,1.0,0.0,3.0,1726141071
+Philippines,Central Visayas,December,2023,4,1,0,3,2.0,1.0,0.0,1.0,1726141071
+Philippines,Central Visayas,January,2024,3,1,0,2,5.0,3.0,0.0,2.0,1726141071
+Philippines,Central Visayas,February,2024,4,2,0,2,6.0,1.0,0.0,5.0,1726141071
+Philippines,Central Visayas,March,2024,7,2,0,5,4.0,0.0,0.0,4.0,1726141071
+Philippines,Central Visayas,April,2024,4,0,0,4,1.0,0.0,0.0,1.0,1726141071
+Philippines,Central Visayas,May,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141071
+Philippines,Central Visayas,June,2024,3,1,0,2,7.0,0.0,0.0,7.0,1726141071
+Philippines,Central Visayas,July,2024,6,0,0,6,7.0,1.0,0.0,6.0,1726141071
+Philippines,Central Visayas,August,2024,7,1,0,6,12.0,0.0,0.0,12.0,1726141071
+Philippines,Cordillera Administrative Region,March,2023,0,0,0,0,4.0,3.0,1.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,April,2023,3,2,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Cordillera Administrative Region,May,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Cordillera Administrative Region,October,2023,1,0,0,1,5.0,3.0,0.0,2.0,1726141071
+Philippines,Cordillera Administrative Region,November,2023,4,2,0,2,0.0,0.0,0.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Cordillera Administrative Region,February,2024,1,0,0,1,1.0,1.0,0.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,March,2024,1,1,0,0,2.0,1.0,0.0,1.0,1726141071
+Philippines,Cordillera Administrative Region,April,2024,2,1,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Cordillera Administrative Region,May,2024,2,1,0,1,3.0,2.0,0.0,1.0,1726141071
+Philippines,Cordillera Administrative Region,June,2024,3,2,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Cordillera Administrative Region,July,2024,2,1,0,1,1.0,0.0,1.0,0.0,1726141071
+Philippines,Cordillera Administrative Region,August,2024,1,1,0,0,2.0,0.0,0.0,2.0,1726141071
+Philippines,Davao Region,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Davao Region,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Davao Region,May,2023,2,1,0,1,3.0,0.0,0.0,3.0,1726141071
+Philippines,Davao Region,June,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141071
+Philippines,Davao Region,July,2023,3,1,0,2,6.0,0.0,0.0,6.0,1726141071
+Philippines,Davao Region,August,2023,5,0,0,5,4.0,0.0,0.0,4.0,1726141071
+Philippines,Davao Region,September,2023,5,1,0,4,3.0,0.0,0.0,3.0,1726141071
+Philippines,Davao Region,October,2023,3,0,0,3,3.0,1.0,0.0,2.0,1726141071
+Philippines,Davao Region,November,2023,3,1,0,2,7.0,0.0,0.0,7.0,1726141071
+Philippines,Davao Region,December,2023,5,0,0,5,1.0,0.0,0.0,1.0,1726141071
+Philippines,Davao Region,January,2024,3,1,0,2,4.0,0.0,0.0,4.0,1726141071
+Philippines,Davao Region,February,2024,3,0,0,3,0.0,0.0,0.0,0.0,1726141071
+Philippines,Davao Region,March,2024,0,0,0,0,4.0,0.0,0.0,4.0,1726141071
+Philippines,Davao Region,April,2024,3,0,0,3,0.0,0.0,0.0,0.0,1726141071
+Philippines,Davao Region,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Davao Region,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Davao Region,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Davao Region,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Eastern Visayas,March,2023,4,3,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Eastern Visayas,April,2023,2,1,0,1,5.0,3.0,1.0,1.0,1726141071
+Philippines,Eastern Visayas,May,2023,4,3,0,1,6.0,2.0,0.0,4.0,1726141071
+Philippines,Eastern Visayas,June,2023,6,2,0,3,1.0,0.0,0.0,1.0,1726141071
+Philippines,Eastern Visayas,July,2023,3,1,0,1,3.0,2.0,0.0,1.0,1726141071
+Philippines,Eastern Visayas,August,2023,3,2,0,1,4.0,0.0,0.0,4.0,1726141071
+Philippines,Eastern Visayas,September,2023,4,1,0,3,6.0,2.0,0.0,4.0,1726141071
+Philippines,Eastern Visayas,October,2023,5,2,0,3,5.0,1.0,0.0,4.0,1726141071
+Philippines,Eastern Visayas,November,2023,4,1,0,3,1.0,1.0,0.0,0.0,1726141071
+Philippines,Eastern Visayas,December,2023,1,1,0,0,2.0,0.0,0.0,2.0,1726141071
+Philippines,Eastern Visayas,January,2024,2,1,0,1,3.0,1.0,0.0,2.0,1726141071
+Philippines,Eastern Visayas,February,2024,3,1,0,2,5.0,1.0,0.0,4.0,1726141071
+Philippines,Eastern Visayas,March,2024,5,1,0,4,3.0,1.0,0.0,2.0,1726141071
+Philippines,Eastern Visayas,April,2024,3,1,0,2,1.0,1.0,0.0,0.0,1726141071
+Philippines,Eastern Visayas,May,2024,3,1,0,2,4.0,4.0,0.0,0.0,1726141071
+Philippines,Eastern Visayas,June,2024,2,2,0,0,6.0,4.0,0.0,2.0,1726141071
+Philippines,Eastern Visayas,July,2024,5,3,0,2,3.0,2.0,0.0,1.0,1726141071
+Philippines,Eastern Visayas,August,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Ilocos Region,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Ilocos Region,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141071
+Philippines,Ilocos Region,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141071
+Philippines,Ilocos Region,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Ilocos Region,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Ilocos Region,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Ilocos Region,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Ilocos Region,October,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141071
+Philippines,Ilocos Region,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141071
+Philippines,Ilocos Region,December,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141071
+Philippines,Ilocos Region,January,2024,3,1,0,2,2.0,0.0,0.0,2.0,1726141071
+Philippines,Ilocos Region,February,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141071
+Philippines,Ilocos Region,March,2024,1,0,0,1,4.0,0.0,0.0,4.0,1726141071
+Philippines,Ilocos Region,April,2024,3,0,0,3,1.0,0.0,0.0,1.0,1726141071
+Philippines,Ilocos Region,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Ilocos Region,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Ilocos Region,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Ilocos Region,August,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141071
+Philippines,Mimaropa Region,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,April,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141071
+Philippines,Mimaropa Region,May,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141071
+Philippines,Mimaropa Region,June,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,July,2023,2,1,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Mimaropa Region,August,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Mimaropa Region,November,2023,2,1,0,1,2.0,2.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Mimaropa Region,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141071
+Philippines,Mimaropa Region,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,National Capital Region,March,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141071
+Philippines,National Capital Region,April,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141071
+Philippines,National Capital Region,May,2023,2,1,0,1,5.0,0.0,1.0,4.0,1726141071
+Philippines,National Capital Region,June,2023,4,0,0,4,2.0,0.0,0.0,2.0,1726141071
+Philippines,National Capital Region,July,2023,3,0,0,2,3.0,1.0,0.0,2.0,1726141071
+Philippines,National Capital Region,August,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141071
+Philippines,National Capital Region,September,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141071
+Philippines,National Capital Region,October,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141071
+Philippines,National Capital Region,November,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141071
+Philippines,National Capital Region,December,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141071
+Philippines,National Capital Region,January,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141071
+Philippines,National Capital Region,February,2024,1,0,0,1,3.0,1.0,0.0,2.0,1726141071
+Philippines,National Capital Region,March,2024,3,1,0,2,4.0,0.0,0.0,4.0,1726141071
+Philippines,National Capital Region,April,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141071
+Philippines,National Capital Region,May,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141071
+Philippines,National Capital Region,June,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141071
+Philippines,National Capital Region,July,2024,2,0,0,2,2.0,1.0,0.0,1.0,1726141071
+Philippines,National Capital Region,August,2024,2,1,0,1,2.0,0.0,0.0,2.0,1726141071
+Philippines,Northern Mindanao,March,2023,3,1,0,2,4.0,3.0,0.0,1.0,1726141071
+Philippines,Northern Mindanao,April,2023,4,2,0,1,3.0,3.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,May,2023,3,3,1,0,0.0,0.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,June,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,July,2023,2,2,0,0,2.0,2.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,August,2023,2,2,0,0,1.0,1.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,September,2023,1,1,0,0,5.0,3.0,1.0,1.0,1726141071
+Philippines,Northern Mindanao,October,2023,3,2,0,1,6.0,3.0,1.0,2.0,1726141071
+Philippines,Northern Mindanao,November,2023,4,2,0,2,4.0,2.0,0.0,2.0,1726141071
+Philippines,Northern Mindanao,December,2023,4,2,0,2,3.0,2.0,0.0,1.0,1726141071
+Philippines,Northern Mindanao,January,2024,3,2,0,1,2.0,2.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,February,2024,2,2,0,0,3.0,3.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,March,2024,4,3,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Northern Mindanao,April,2024,1,0,0,1,5.0,4.0,0.0,1.0,1726141071
+Philippines,Northern Mindanao,May,2024,4,3,0,1,1.0,1.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,June,2024,2,2,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Northern Mindanao,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Northern Mindanao,August,2024,0,0,0,0,4.0,4.0,0.0,0.0,1726141071
+Philippines,Soccsksargen,March,2023,5,2,0,3,5.0,4.0,0.0,1.0,1726141071
+Philippines,Soccsksargen,April,2023,5,3,0,1,6.0,1.0,1.0,4.0,1726141071
+Philippines,Soccsksargen,May,2023,6,1,1,4,4.0,1.0,0.0,3.0,1726141071
+Philippines,Soccsksargen,June,2023,4,1,0,3,3.0,1.0,1.0,1.0,1726141071
+Philippines,Soccsksargen,July,2023,3,1,0,1,5.0,2.0,0.0,3.0,1726141071
+Philippines,Soccsksargen,August,2023,5,2,0,3,2.0,1.0,0.0,1.0,1726141071
+Philippines,Soccsksargen,September,2023,2,1,0,1,5.0,1.0,0.0,4.0,1726141071
+Philippines,Soccsksargen,October,2023,4,1,0,3,3.0,2.0,0.0,1.0,1726141071
+Philippines,Soccsksargen,November,2023,2,1,0,1,5.0,0.0,1.0,4.0,1726141071
+Philippines,Soccsksargen,December,2023,5,1,1,3,2.0,0.0,1.0,1.0,1726141071
+Philippines,Soccsksargen,January,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Soccsksargen,February,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141071
+Philippines,Soccsksargen,March,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141071
+Philippines,Soccsksargen,April,2024,2,0,0,2,1.0,1.0,0.0,0.0,1726141071
+Philippines,Soccsksargen,May,2024,3,1,0,2,2.0,2.0,0.0,0.0,1726141071
+Philippines,Soccsksargen,June,2024,2,2,0,0,5.0,0.0,0.0,5.0,1726141071
+Philippines,Soccsksargen,July,2024,4,0,0,4,4.0,3.0,0.0,1.0,1726141071
+Philippines,Soccsksargen,August,2024,3,2,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Western Visayas,March,2023,7,3,0,4,4.0,1.0,0.0,3.0,1726141071
+Philippines,Western Visayas,April,2023,5,2,0,3,10.0,5.0,0.0,5.0,1726141071
+Philippines,Western Visayas,May,2023,10,4,0,5,10.0,5.0,0.0,5.0,1726141071
+Philippines,Western Visayas,June,2023,10,5,0,5,11.0,3.0,0.0,8.0,1726141071
+Philippines,Western Visayas,July,2023,10,3,0,7,5.0,4.0,0.0,1.0,1726141071
+Philippines,Western Visayas,August,2023,6,4,0,2,6.0,3.0,0.0,3.0,1726141071
+Philippines,Western Visayas,September,2023,6,3,0,3,10.0,7.0,0.0,3.0,1726141071
+Philippines,Western Visayas,October,2023,9,5,0,4,6.0,3.0,0.0,3.0,1726141071
+Philippines,Western Visayas,November,2023,6,3,0,3,5.0,4.0,0.0,1.0,1726141071
+Philippines,Western Visayas,December,2023,4,3,0,1,9.0,5.0,0.0,4.0,1726141071
+Philippines,Western Visayas,January,2024,8,4,0,4,5.0,2.0,0.0,3.0,1726141071
+Philippines,Western Visayas,February,2024,6,3,0,3,6.0,3.0,1.0,2.0,1726141071
+Philippines,Western Visayas,March,2024,6,3,1,2,7.0,3.0,0.0,4.0,1726141071
+Philippines,Western Visayas,April,2024,7,3,0,4,7.0,3.0,0.0,4.0,1726141071
+Philippines,Western Visayas,May,2024,5,2,0,3,8.0,4.0,0.0,4.0,1726141071
+Philippines,Western Visayas,June,2024,8,4,0,4,3.0,2.0,0.0,1.0,1726141071
+Philippines,Western Visayas,July,2024,4,2,0,2,6.0,3.0,0.0,3.0,1726141071
+Philippines,Western Visayas,August,2024,6,3,0,3,11.0,8.0,0.0,3.0,1726141071
+Philippines,Zamboanga Peninsula,March,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141071
+Philippines,Zamboanga Peninsula,April,2023,0,0,0,0,5.0,1.0,1.0,3.0,1726141071
+Philippines,Zamboanga Peninsula,May,2023,4,1,0,3,2.0,0.0,0.0,2.0,1726141071
+Philippines,Zamboanga Peninsula,June,2023,3,0,0,2,5.0,2.0,0.0,3.0,1726141071
+Philippines,Zamboanga Peninsula,July,2023,4,1,0,3,5.0,2.0,0.0,3.0,1726141071
+Philippines,Zamboanga Peninsula,August,2023,5,2,0,3,2.0,1.0,0.0,1.0,1726141071
+Philippines,Zamboanga Peninsula,September,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Zamboanga Peninsula,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Zamboanga Peninsula,November,2023,2,1,0,1,3.0,0.0,0.0,3.0,1726141071
+Philippines,Zamboanga Peninsula,December,2023,3,0,0,3,5.0,3.0,0.0,2.0,1726141071
+Philippines,Zamboanga Peninsula,January,2024,4,2,0,2,1.0,0.0,0.0,1.0,1726141071
+Philippines,Zamboanga Peninsula,February,2024,2,1,0,1,3.0,2.0,0.0,1.0,1726141071
+Philippines,Zamboanga Peninsula,March,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141071
+Philippines,Zamboanga Peninsula,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Zamboanga Peninsula,May,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141071
+Philippines,Zamboanga Peninsula,June,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141071
+Philippines,Zamboanga Peninsula,July,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141071
+Philippines,Zamboanga Peninsula,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,September,2024,6,2,1,3,8.0,2.0,0.0,6.0,1730730999
+Philippines,Bicol Region,September,2024,6,3,0,3,4.0,1.0,0.0,3.0,1730730999
+Philippines,Cagayan Valley,September,2024,0,0,0,0,1.0,1.0,0.0,0.0,1730730999
+Philippines,Calabarzon,September,2024,5,1,0,4,3.0,1.0,0.0,2.0,1730730999
+Philippines,Caraga,September,2024,2,2,0,0,5.0,4.0,0.0,1.0,1730730999
+Philippines,Central Luzon,September,2024,4,1,0,3,0.0,0.0,0.0,0.0,1730730999
+Philippines,Central Visayas,September,2024,9,0,0,9,5.0,2.0,0.0,3.0,1730730999
+Philippines,Cordillera Administrative Region,September,2024,3,1,0,2,2.0,0.0,0.0,2.0,1730730999
+Philippines,Davao Region,September,2024,0,0,0,0,2.0,0.0,0.0,2.0,1730730999
+Philippines,Eastern Visayas,September,2024,0,0,0,0,2.0,2.0,0.0,0.0,1730730999
+Philippines,Ilocos Region,September,2024,2,0,0,2,3.0,0.0,0.0,3.0,1730730999
+Philippines,Mimaropa Region,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Philippines,National Capital Region,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730730999
+Philippines,Northern Mindanao,September,2024,3,3,0,0,0.0,0.0,0.0,0.0,1730730999
+Philippines,Soccsksargen,September,2024,2,1,0,1,1.0,1.0,0.0,0.0,1730730999
+Philippines,Western Visayas,September,2024,9,6,0,3,3.0,1.0,0.0,2.0,1730730999
+Philippines,Zamboanga Peninsula,September,2024,1,0,0,1,2.0,0.0,1.0,1.0,1730730999
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,October,2024,7,2,0,5,9.0,4.0,2.0,3.0,1734010300
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,November,2024,9,4,1,4,6.0,3.0,0.0,3.0,1734010300
+Philippines,Bicol Region,October,2024,5,2,0,3,1.0,1.0,0.0,0.0,1734010300
+Philippines,Bicol Region,November,2024,2,1,0,1,3.0,2.0,0.0,1.0,1734010300
+Philippines,Cagayan Valley,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010300
+Philippines,Cagayan Valley,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010300
+Philippines,Calabarzon,October,2024,4,1,0,3,3.0,0.0,0.0,3.0,1734010300
+Philippines,Calabarzon,November,2024,3,0,0,3,1.0,1.0,0.0,0.0,1734010300
+Philippines,Caraga,October,2024,4,3,0,1,1.0,1.0,0.0,0.0,1734010300
+Philippines,Caraga,November,2024,2,1,0,1,1.0,1.0,0.0,0.0,1734010300
+Philippines,Central Luzon,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010300
+Philippines,Central Luzon,November,2024,1,0,0,1,3.0,1.0,0.0,2.0,1734010300
+Philippines,Central Visayas,October,2024,6,2,0,4,7.0,0.0,0.0,7.0,1734010300
+Philippines,Central Visayas,November,2024,6,0,0,6,3.0,0.0,0.0,3.0,1734010300
+Philippines,Cordillera Administrative Region,October,2024,3,1,0,2,1.0,0.0,0.0,1.0,1734010300
+Philippines,Cordillera Administrative Region,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010300
+Philippines,Davao Region,October,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010300
+Philippines,Davao Region,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010300
+Philippines,Eastern Visayas,October,2024,3,2,0,1,2.0,0.0,0.0,2.0,1734010300
+Philippines,Eastern Visayas,November,2024,3,1,0,2,6.0,4.0,0.0,2.0,1734010300
+Philippines,Ilocos Region,October,2024,2,0,0,2,1.0,0.0,0.0,1.0,1734010301
+Philippines,Ilocos Region,November,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010301
+Philippines,Mimaropa Region,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Philippines,Mimaropa Region,November,2024,0,0,0,0,3.0,3.0,0.0,0.0,1734010301
+Philippines,National Capital Region,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Philippines,National Capital Region,November,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010301
+Philippines,Northern Mindanao,October,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010301
+Philippines,Northern Mindanao,November,2024,2,1,0,1,1.0,0.0,0.0,1.0,1734010301
+Philippines,Soccsksargen,October,2024,1,1,0,0,2.0,1.0,0.0,1.0,1734010301
+Philippines,Soccsksargen,November,2024,2,1,0,1,5.0,0.0,0.0,5.0,1734010301
+Philippines,Western Visayas,October,2024,5,2,0,3,4.0,2.0,0.0,2.0,1734010301
+Philippines,Western Visayas,November,2024,4,2,0,2,5.0,3.0,0.0,2.0,1734010301
+Philippines,Zamboanga Peninsula,October,2024,1,0,0,1,2.0,1.0,0.0,1.0,1734010301
+Philippines,Zamboanga Peninsula,November,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010301
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,December,2024,6,3,0,3,12.0,2.0,0.0,10.0,1737033364
+Philippines,Bicol Region,December,2024,3,2,0,1,1.0,0.0,0.0,1.0,1737033364
+Philippines,Cagayan Valley,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033364
+Philippines,Calabarzon,December,2024,2,1,0,1,5.0,3.0,0.0,2.0,1737033364
+Philippines,Caraga,December,2024,1,1,0,0,0.0,0.0,0.0,0.0,1737033364
+Philippines,Central Luzon,December,2024,4,1,1,2,0.0,0.0,0.0,0.0,1737033364
+Philippines,Central Visayas,December,2024,3,0,0,3,1.0,0.0,0.0,1.0,1737033364
+Philippines,Cordillera Administrative Region,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033364
+Philippines,Davao Region,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033364
+Philippines,Eastern Visayas,December,2024,6,4,0,2,5.0,5.0,0.0,0.0,1737033364
+Philippines,Ilocos Region,December,2024,2,0,0,2,1.0,0.0,0.0,1.0,1737033364
+Philippines,Mimaropa Region,December,2024,3,3,0,0,1.0,1.0,0.0,0.0,1737033364
+Philippines,National Capital Region,December,2024,2,0,0,2,0.0,0.0,0.0,0.0,1737033364
+Philippines,Northern Mindanao,December,2024,2,1,0,1,0.0,0.0,0.0,0.0,1737033364
+Philippines,Soccsksargen,December,2024,3,0,0,3,3.0,1.0,0.0,2.0,1737033364
+Philippines,Western Visayas,December,2024,5,3,0,2,8.0,4.0,0.0,4.0,1737033364
+Philippines,Zamboanga Peninsula,December,2024,0,0,0,0,4.0,1.0,0.0,3.0,1737033364
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,January,2025,10,3,0,7,11.0,7.0,1.0,3.0,1738854864
+Philippines,Bicol Region,January,2025,4,2,0,2,0.0,0.0,0.0,0.0,1738854864
+Philippines,Cagayan Valley,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Philippines,Calabarzon,January,2025,5,2,0,3,1.0,0.0,0.0,1.0,1738854864
+Philippines,Caraga,January,2025,0,0,0,0,3.0,3.0,0.0,0.0,1738854864
+Philippines,Central Luzon,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Philippines,Central Visayas,January,2025,4,1,0,3,7.0,0.0,0.0,7.0,1738854864
+Philippines,Cordillera Administrative Region,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Philippines,Davao Region,January,2025,2,0,0,2,0.0,0.0,0.0,0.0,1738854864
+Philippines,Eastern Visayas,January,2025,4,3,0,1,0.0,0.0,0.0,0.0,1738854864
+Philippines,Ilocos Region,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854864
+Philippines,Mimaropa Region,January,2025,1,1,0,0,0.0,0.0,0.0,0.0,1738854864
+Philippines,National Capital Region,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Philippines,Northern Mindanao,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854864
+Philippines,Soccsksargen,January,2025,3,1,0,2,3.0,0.0,0.0,3.0,1738854864
+Philippines,Western Visayas,January,2025,7,3,0,4,4.0,2.0,0.0,2.0,1738854864
+Philippines,Zamboanga Peninsula,January,2025,3,1,0,2,5.0,0.0,0.0,5.0,1738854864
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,February,2025,10,6,1,3,9.0,2.0,0.0,7.0,1741266634
+Philippines,Bicol Region,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266634
+Philippines,Cagayan Valley,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266634
+Philippines,Calabarzon,February,2025,2,1,0,1,3.0,1.0,0.0,2.0,1741266634
+Philippines,Caraga,February,2025,2,2,0,0,2.0,2.0,0.0,0.0,1741266634
+Philippines,Central Luzon,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266634
+Philippines,Central Visayas,February,2025,6,0,0,6,5.0,1.0,0.0,4.0,1741266634
+Philippines,Cordillera Administrative Region,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266634
+Philippines,Davao Region,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266634
+Philippines,Eastern Visayas,February,2025,0,0,0,0,5.0,3.0,0.0,2.0,1741266634
+Philippines,Ilocos Region,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266634
+Philippines,Mimaropa Region,February,2025,0,0,0,0,2.0,2.0,0.0,0.0,1741266634
+Philippines,National Capital Region,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266634
+Philippines,Northern Mindanao,February,2025,3,1,0,2,0.0,0.0,0.0,0.0,1741266634
+Philippines,Soccsksargen,February,2025,3,0,0,3,6.0,1.0,1.0,4.0,1741266634
+Philippines,Western Visayas,February,2025,4,2,0,2,3.0,1.0,0.0,2.0,1741266635
+Philippines,Zamboanga Peninsula,February,2025,4,0,0,4,3.0,0.0,0.0,3.0,1741266635
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,March,2025,10,4,0,6,9.0,4.0,1.0,4.0,1744287547
+Philippines,Bicol Region,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Philippines,Cagayan Valley,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287547
+Philippines,Calabarzon,March,2025,3,1,0,2,5.0,1.0,0.0,4.0,1744287547
+Philippines,Caraga,March,2025,2,2,0,0,2.0,2.0,0.0,0.0,1744287547
+Philippines,Central Luzon,March,2025,0,0,0,0,2.0,1.0,0.0,1.0,1744287547
+Philippines,Central Visayas,March,2025,5,1,0,4,6.0,0.0,0.0,6.0,1744287547
+Philippines,Cordillera Administrative Region,March,2025,2,1,0,1,5.0,0.0,0.0,5.0,1744287547
+Philippines,Davao Region,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Philippines,Eastern Visayas,March,2025,5,3,0,2,2.0,2.0,0.0,0.0,1744287547
+Philippines,Ilocos Region,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Philippines,Mimaropa Region,March,2025,2,2,0,0,4.0,2.0,2.0,0.0,1744287547
+Philippines,National Capital Region,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287547
+Philippines,Northern Mindanao,March,2025,0,0,0,0,2.0,2.0,0.0,0.0,1744287547
+Philippines,Soccsksargen,March,2025,4,1,0,3,2.0,1.0,0.0,1.0,1744287547
+Philippines,Western Visayas,March,2025,4,1,0,3,3.0,2.0,0.0,1.0,1744287547
+Philippines,Zamboanga Peninsula,March,2025,4,1,0,3,3.0,0.0,1.0,2.0,1744287547
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,April,2025,10,5,1,4,10.0,2.0,1.0,7.0,1746702916
+Philippines,Bicol Region,April,2025,0,0,0,0,4.0,2.0,0.0,2.0,1746702916
+Philippines,Cagayan Valley,April,2025,1,0,0,1,4.0,1.0,0.0,3.0,1746702916
+Philippines,Calabarzon,April,2025,4,1,0,3,4.0,1.0,0.0,3.0,1746702916
+Philippines,Caraga,April,2025,2,2,0,0,1.0,1.0,0.0,0.0,1746702916
+Philippines,Central Luzon,April,2025,2,1,0,1,2.0,0.0,0.0,2.0,1746702916
+Philippines,Central Visayas,April,2025,5,0,0,5,2.0,0.0,0.0,2.0,1746702916
+Philippines,Cordillera Administrative Region,April,2025,3,0,0,3,5.0,3.0,0.0,2.0,1746702916
+Philippines,Davao Region,April,2025,0,0,0,0,2.0,1.0,0.0,1.0,1746702916
+Philippines,Eastern Visayas,April,2025,3,2,0,1,1.0,0.0,0.0,1.0,1746702916
+Philippines,Ilocos Region,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702916
+Philippines,Mimaropa Region,April,2025,3,2,1,0,0.0,0.0,0.0,0.0,1746702916
+Philippines,National Capital Region,April,2025,2,0,0,2,2.0,1.0,0.0,1.0,1746702916
+Philippines,Northern Mindanao,April,2025,2,2,0,0,2.0,2.0,0.0,0.0,1746702916
+Philippines,Soccsksargen,April,2025,3,1,0,2,3.0,2.0,0.0,1.0,1746702916
+Philippines,Western Visayas,April,2025,4,2,0,2,4.0,1.0,0.0,3.0,1746702916
+Philippines,Zamboanga Peninsula,April,2025,2,0,0,2,5.0,0.0,0.0,5.0,1746702916
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,May,2025,10,3,1,6,30.0,16.0,6.0,8.0,1749732023
+Philippines,Bicol Region,May,2025,3,1,0,2,3.0,3.0,0.0,0.0,1749732023
+Philippines,Cagayan Valley,May,2025,3,1,0,2,1.0,0.0,0.0,1.0,1749732023
+Philippines,Calabarzon,May,2025,4,1,0,3,3.0,0.0,0.0,3.0,1749732023
+Philippines,Caraga,May,2025,1,1,0,0,1.0,1.0,0.0,0.0,1749732023
+Philippines,Central Luzon,May,2025,4,1,1,2,2.0,0.0,1.0,1.0,1749732023
+Philippines,Central Visayas,May,2025,4,1,0,3,3.0,1.0,0.0,2.0,1749732023
+Philippines,Cordillera Administrative Region,May,2025,4,2,0,2,3.0,0.0,0.0,3.0,1749732023
+Philippines,Davao Region,May,2025,2,1,0,1,1.0,1.0,0.0,0.0,1749732023
+Philippines,Eastern Visayas,May,2025,2,1,0,1,1.0,1.0,0.0,0.0,1749732023
+Philippines,Ilocos Region,May,2025,1,0,0,1,3.0,1.0,0.0,2.0,1749732023
+Philippines,Mimaropa Region,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Philippines,National Capital Region,May,2025,3,1,0,2,0.0,0.0,0.0,0.0,1749732023
+Philippines,Northern Mindanao,May,2025,3,2,0,1,1.0,1.0,0.0,0.0,1749732023
+Philippines,Soccsksargen,May,2025,3,1,0,2,1.0,1.0,0.0,0.0,1749732023
+Philippines,Western Visayas,May,2025,5,2,0,3,3.0,1.0,0.0,2.0,1749732023
+Philippines,Zamboanga Peninsula,May,2025,4,0,0,4,4.0,2.0,0.0,2.0,1749732023
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,June,2025,25,15,4,6,10.0,8.0,0.0,2.0,1754429217
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,July,2025,11,8,0,3,6.0,1.0,0.0,5.0,1754429217
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,August,2025,6,1,0,5,16.0,8.0,2.0,6.0,1757596698
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,September,2025,13,7,1,5,8.0,1.0,0.0,7.0,1760036046
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,October,2025,8,2,0,6,8.0,4.0,0.0,4.0,1762435626
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,November,2025,11,5,1,5,5.0,3.0,0.0,2.0,1765375966
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,December,2025,7,3,0,4,,,,,1765375966
+Philippines,Bicol Region,June,2025,4,3,0,1,2.0,1.0,0.0,1.0,1754429217
+Philippines,Bicol Region,July,2025,3,2,0,1,4.0,4.0,0.0,0.0,1754429217
+Philippines,Bicol Region,August,2025,4,3,0,1,2.0,2.0,0.0,0.0,1757596698
+Philippines,Bicol Region,September,2025,2,2,0,0,2.0,1.0,0.0,1.0,1760036046
+Philippines,Bicol Region,October,2025,2,1,0,1,3.0,1.0,0.0,2.0,1762435626
+Philippines,Bicol Region,November,2025,3,1,0,2,1.0,0.0,0.0,1.0,1765375966
+Philippines,Bicol Region,December,2025,2,0,0,2,,,,,1765375966
+Philippines,Cagayan Valley,June,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Philippines,Cagayan Valley,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Philippines,Cagayan Valley,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Philippines,Cagayan Valley,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Philippines,Cagayan Valley,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Philippines,Cagayan Valley,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Philippines,Cagayan Valley,December,2025,1,0,0,1,,,,,1765375966
+Philippines,Calabarzon,June,2025,4,1,0,3,4.0,0.0,0.0,4.0,1754429217
+Philippines,Calabarzon,July,2025,4,1,0,3,3.0,1.0,0.0,2.0,1754429217
+Philippines,Calabarzon,August,2025,3,1,0,2,4.0,1.0,1.0,2.0,1757596698
+Philippines,Calabarzon,September,2025,3,1,0,2,1.0,0.0,0.0,1.0,1760036046
+Philippines,Calabarzon,October,2025,1,0,0,1,3.0,0.0,0.0,3.0,1762435626
+Philippines,Calabarzon,November,2025,3,0,0,3,1.0,0.0,0.0,1.0,1765375966
+Philippines,Calabarzon,December,2025,2,0,0,2,,,,,1765375966
+Philippines,Caraga,June,2025,1,1,0,0,2.0,1.0,0.0,1.0,1754429217
+Philippines,Caraga,July,2025,1,1,0,0,2.0,1.0,0.0,1.0,1754429217
+Philippines,Caraga,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Philippines,Caraga,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Philippines,Caraga,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Philippines,Caraga,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Philippines,Caraga,December,2025,0,0,0,0,,,,,1765375966
+Philippines,Central Luzon,June,2025,3,1,0,2,2.0,0.0,0.0,2.0,1754429217
+Philippines,Central Luzon,July,2025,2,0,0,2,2.0,0.0,0.0,2.0,1754429217
+Philippines,Central Luzon,August,2025,2,0,0,2,2.0,1.0,0.0,1.0,1757596698
+Philippines,Central Luzon,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Philippines,Central Luzon,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Philippines,Central Luzon,November,2025,2,1,0,1,2.0,1.0,0.0,1.0,1765375966
+Philippines,Central Luzon,December,2025,2,1,0,1,,,,,1765375966
+Philippines,Central Visayas,June,2025,4,1,0,3,3.0,0.0,0.0,3.0,1754429217
+Philippines,Central Visayas,July,2025,4,0,0,4,4.0,0.0,0.0,4.0,1754429217
+Philippines,Central Visayas,August,2025,4,0,0,4,3.0,0.0,0.0,3.0,1757596698
+Philippines,Central Visayas,September,2025,3,0,0,3,5.0,0.0,0.0,5.0,1760036046
+Philippines,Central Visayas,October,2025,4,0,0,4,3.0,0.0,0.0,3.0,1762435626
+Philippines,Central Visayas,November,2025,3,0,0,3,1.0,0.0,0.0,1.0,1765375966
+Philippines,Central Visayas,December,2025,2,0,0,2,,,,,1765375966
+Philippines,Cordillera Administrative Region,June,2025,3,0,0,3,2.0,0.0,0.0,2.0,1754429217
+Philippines,Cordillera Administrative Region,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Philippines,Cordillera Administrative Region,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Philippines,Cordillera Administrative Region,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Philippines,Cordillera Administrative Region,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Philippines,Cordillera Administrative Region,November,2025,0,0,0,0,3.0,3.0,0.0,0.0,1765375966
+Philippines,Cordillera Administrative Region,December,2025,4,3,0,1,,,,,1765375966
+Philippines,Davao Region,June,2025,2,1,0,1,1.0,0.0,0.0,1.0,1754429217
+Philippines,Davao Region,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Philippines,Davao Region,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Philippines,Davao Region,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Philippines,Davao Region,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Philippines,Davao Region,November,2025,0,0,0,0,3.0,1.0,0.0,2.0,1765375966
+Philippines,Davao Region,December,2025,2,1,0,1,,,,,1765375966
+Philippines,Eastern Visayas,June,2025,2,1,0,1,5.0,4.0,0.0,1.0,1754429217
+Philippines,Eastern Visayas,July,2025,4,3,0,1,2.0,1.0,0.0,1.0,1754429217
+Philippines,Eastern Visayas,August,2025,2,1,0,1,2.0,1.0,0.0,1.0,1757596698
+Philippines,Eastern Visayas,September,2025,2,1,0,1,2.0,2.0,0.0,0.0,1760036046
+Philippines,Eastern Visayas,October,2025,2,2,0,0,1.0,1.0,0.0,0.0,1762435626
+Philippines,Eastern Visayas,November,2025,2,1,0,1,4.0,3.0,0.0,1.0,1765375966
+Philippines,Eastern Visayas,December,2025,4,3,0,1,,,,,1765375966
+Philippines,Ilocos Region,June,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Philippines,Ilocos Region,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Philippines,Ilocos Region,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Philippines,Ilocos Region,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Philippines,Ilocos Region,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Philippines,Ilocos Region,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Philippines,Ilocos Region,December,2025,0,0,0,0,,,,,1765375966
+Philippines,Mimaropa Region,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Philippines,Mimaropa Region,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Philippines,Mimaropa Region,August,2025,0,0,0,0,5.0,4.0,0.0,1.0,1757596698
+Philippines,Mimaropa Region,September,2025,4,3,0,1,3.0,2.0,0.0,1.0,1760036046
+Philippines,Mimaropa Region,October,2025,3,2,0,1,1.0,0.0,0.0,1.0,1762435626
+Philippines,Mimaropa Region,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Philippines,Mimaropa Region,December,2025,0,0,0,0,,,,,1765375966
+Philippines,National Capital Region,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Philippines,National Capital Region,July,2025,1,0,0,1,4.0,0.0,0.0,4.0,1754429217
+Philippines,National Capital Region,August,2025,3,0,0,3,2.0,0.0,0.0,2.0,1757596698
+Philippines,National Capital Region,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Philippines,National Capital Region,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Philippines,National Capital Region,November,2025,0,0,0,0,2.0,1.0,0.0,1.0,1765375966
+Philippines,National Capital Region,December,2025,2,1,0,1,,,,,1765375966
+Philippines,Northern Mindanao,June,2025,1,1,0,0,1.0,1.0,0.0,0.0,1754429217
+Philippines,Northern Mindanao,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Philippines,Northern Mindanao,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Philippines,Northern Mindanao,September,2025,1,1,0,0,0.0,0.0,0.0,0.0,1760036046
+Philippines,Northern Mindanao,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Philippines,Northern Mindanao,November,2025,2,0,0,2,1.0,1.0,0.0,0.0,1765375966
+Philippines,Northern Mindanao,December,2025,3,1,0,2,,,,,1765375966
+Philippines,Soccsksargen,June,2025,2,1,0,1,2.0,1.0,0.0,1.0,1754429217
+Philippines,Soccsksargen,July,2025,2,1,0,1,2.0,1.0,0.0,1.0,1754429217
+Philippines,Soccsksargen,August,2025,2,1,0,1,1.0,1.0,0.0,0.0,1757596698
+Philippines,Soccsksargen,September,2025,1,1,0,0,3.0,1.0,0.0,2.0,1760036046
+Philippines,Soccsksargen,October,2025,3,1,0,2,5.0,1.0,0.0,4.0,1762435626
+Philippines,Soccsksargen,November,2025,4,1,0,3,2.0,2.0,0.0,0.0,1765375966
+Philippines,Soccsksargen,December,2025,3,2,0,1,,,,,1765375966
+Philippines,Western Visayas,June,2025,3,1,0,2,3.0,1.0,0.0,2.0,1754429217
+Philippines,Western Visayas,July,2025,4,2,0,2,2.0,1.0,0.0,1.0,1754429217
+Philippines,Western Visayas,August,2025,3,1,0,2,4.0,2.0,0.0,2.0,1757596698
+Philippines,Western Visayas,September,2025,4,2,0,2,6.0,2.0,0.0,4.0,1760036046
+Philippines,Western Visayas,October,2025,5,2,0,3,4.0,1.0,0.0,3.0,1762435626
+Philippines,Western Visayas,November,2025,4,1,0,3,4.0,0.0,0.0,4.0,1765375966
+Philippines,Western Visayas,December,2025,3,0,0,3,,,,,1765375966
+Philippines,Zamboanga Peninsula,June,2025,3,1,0,2,6.0,1.0,0.0,5.0,1754429217
+Philippines,Zamboanga Peninsula,July,2025,5,1,0,4,1.0,1.0,0.0,0.0,1754429217
+Philippines,Zamboanga Peninsula,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Philippines,Zamboanga Peninsula,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Philippines,Zamboanga Peninsula,October,2025,2,1,0,1,0.0,0.0,0.0,0.0,1762435626
+Philippines,Zamboanga Peninsula,November,2025,0,0,0,0,5.0,1.0,0.0,4.0,1765375966
+Philippines,Zamboanga Peninsula,December,2025,3,1,0,2,,,,,1765375966
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,January,2026,8,4,0,4,,,,,1765375966
+Philippines,Bicol Region,January,2026,2,0,0,2,,,,,1765375966
+Philippines,Cagayan Valley,January,2026,1,0,0,1,,,,,1765375966
+Philippines,Calabarzon,January,2026,2,0,0,2,,,,,1765375966
+Philippines,Caraga,January,2026,0,0,0,0,,,,,1765375966
+Philippines,Central Luzon,January,2026,2,1,0,1,,,,,1765375966
+Philippines,Central Visayas,January,2026,2,0,0,2,,,,,1765375966
+Philippines,Cordillera Administrative Region,January,2026,3,2,0,1,,,,,1765375966
+Philippines,Davao Region,January,2026,2,1,0,1,,,,,1765375966
+Philippines,Eastern Visayas,January,2026,4,3,0,1,,,,,1765375966
+Philippines,Ilocos Region,January,2026,0,0,0,0,,,,,1765375966
+Philippines,Mimaropa Region,January,2026,0,0,0,0,,,,,1765375966
+Philippines,National Capital Region,January,2026,2,1,0,1,,,,,1765375966
+Philippines,Northern Mindanao,January,2026,3,1,0,2,,,,,1765375966
+Philippines,Soccsksargen,January,2026,3,2,0,1,,,,,1765375966
+Philippines,Western Visayas,January,2026,3,0,0,3,,,,,1765375966
+Philippines,Zamboanga Peninsula,January,2026,3,1,0,2,,,,,1765375966
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,February,2026,8,4,0,4,,,,,1765375966
+Philippines,Bicol Region,February,2026,2,0,0,2,,,,,1765375966
+Philippines,Cagayan Valley,February,2026,1,0,0,1,,,,,1765375966
+Philippines,Calabarzon,February,2026,2,0,0,2,,,,,1765375966
+Philippines,Caraga,February,2026,0,0,0,0,,,,,1765375966
+Philippines,Central Luzon,February,2026,2,1,0,1,,,,,1765375966
+Philippines,Central Visayas,February,2026,2,0,0,2,,,,,1765375966
+Philippines,Cordillera Administrative Region,February,2026,3,2,0,1,,,,,1765375966
+Philippines,Davao Region,February,2026,2,1,0,1,,,,,1765375966
+Philippines,Eastern Visayas,February,2026,4,3,0,1,,,,,1765375966
+Philippines,Ilocos Region,February,2026,0,0,0,0,,,,,1765375966
+Philippines,Mimaropa Region,February,2026,0,0,0,0,,,,,1765375966
+Philippines,National Capital Region,February,2026,2,1,0,1,,,,,1765375966
+Philippines,Northern Mindanao,February,2026,3,1,0,2,,,,,1765375966
+Philippines,Soccsksargen,February,2026,3,2,0,1,,,,,1765375966
+Philippines,Western Visayas,February,2026,3,0,0,3,,,,,1765375966
+Philippines,Zamboanga Peninsula,February,2026,3,1,0,2,,,,,1765375966
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,March,2026,8,4,0,4,,,,,1765375966
+Philippines,Bicol Region,March,2026,2,0,0,2,,,,,1765375966
+Philippines,Cagayan Valley,March,2026,1,0,0,1,,,,,1765375966
+Philippines,Calabarzon,March,2026,2,0,0,2,,,,,1765375966
+Philippines,Caraga,March,2026,0,0,0,0,,,,,1765375966
+Philippines,Central Luzon,March,2026,2,1,0,1,,,,,1765375966
+Philippines,Central Visayas,March,2026,2,0,0,2,,,,,1765375966
+Philippines,Cordillera Administrative Region,March,2026,3,2,0,1,,,,,1765375966
+Philippines,Davao Region,March,2026,2,1,0,1,,,,,1765375966
+Philippines,Eastern Visayas,March,2026,3,2,0,1,,,,,1765375966
+Philippines,Ilocos Region,March,2026,0,0,0,0,,,,,1765375966
+Philippines,Mimaropa Region,March,2026,0,0,0,0,,,,,1765375966
+Philippines,National Capital Region,March,2026,2,1,0,1,,,,,1765375966
+Philippines,Northern Mindanao,March,2026,3,1,0,2,,,,,1765375966
+Philippines,Soccsksargen,March,2026,3,2,0,1,,,,,1765375966
+Philippines,Western Visayas,March,2026,3,0,0,3,,,,,1765375966
+Philippines,Zamboanga Peninsula,March,2026,3,1,0,2,,,,,1765375966
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,April,2026,9,5,0,4,,,,,1765375966
+Philippines,Bicol Region,April,2026,2,0,0,2,,,,,1765375966
+Philippines,Cagayan Valley,April,2026,1,0,0,1,,,,,1765375966
+Philippines,Calabarzon,April,2026,2,0,0,2,,,,,1765375966
+Philippines,Caraga,April,2026,0,0,0,0,,,,,1765375966
+Philippines,Central Luzon,April,2026,2,1,0,1,,,,,1765375966
+Philippines,Central Visayas,April,2026,2,0,0,2,,,,,1765375966
+Philippines,Cordillera Administrative Region,April,2026,3,2,0,1,,,,,1765375966
+Philippines,Davao Region,April,2026,2,1,0,1,,,,,1765375966
+Philippines,Eastern Visayas,April,2026,4,3,0,1,,,,,1765375966
+Philippines,Ilocos Region,April,2026,0,0,0,0,,,,,1765375966
+Philippines,Mimaropa Region,April,2026,0,0,0,0,,,,,1765375966
+Philippines,National Capital Region,April,2026,2,1,0,1,,,,,1765375966
+Philippines,Northern Mindanao,April,2026,3,1,0,2,,,,,1765375966
+Philippines,Soccsksargen,April,2026,3,2,0,1,,,,,1765375966
+Philippines,Western Visayas,April,2026,3,0,0,3,,,,,1765375966
+Philippines,Zamboanga Peninsula,April,2026,4,2,0,2,,,,,1765375966
+Philippines,Bangsamoro Autonomous Region in Muslim Mindanao,May,2026,9,5,0,4,,,,,1765375966
+Philippines,Bicol Region,May,2026,2,0,0,2,,,,,1765375966
+Philippines,Cagayan Valley,May,2026,1,0,0,1,,,,,1765375966
+Philippines,Calabarzon,May,2026,2,0,0,2,,,,,1765375966
+Philippines,Caraga,May,2026,0,0,0,0,,,,,1765375966
+Philippines,Central Luzon,May,2026,2,1,0,1,,,,,1765375966
+Philippines,Central Visayas,May,2026,2,0,0,2,,,,,1765375966
+Philippines,Cordillera Administrative Region,May,2026,3,2,0,1,,,,,1765375966
+Philippines,Davao Region,May,2026,2,1,0,1,,,,,1765375966
+Philippines,Eastern Visayas,May,2026,4,3,0,1,,,,,1765375966
+Philippines,Ilocos Region,May,2026,0,0,0,0,,,,,1765375966
+Philippines,Mimaropa Region,May,2026,0,0,0,0,,,,,1765375966
+Philippines,National Capital Region,May,2026,2,1,0,1,,,,,1765375966
+Philippines,Northern Mindanao,May,2026,3,1,0,2,,,,,1765375966
+Philippines,Soccsksargen,May,2026,3,2,0,1,,,,,1765375966
+Philippines,Western Visayas,May,2026,3,0,0,3,,,,,1765375966
+Philippines,Zamboanga Peninsula,May,2026,3,1,0,2,,,,,1765375966

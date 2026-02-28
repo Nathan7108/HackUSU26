@@ -1,0 +1,742 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Sudan,Abyei PCA,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141095
+Sudan,Abyei PCA,April,2023,3,1,0,2,2.0,1.0,0.0,1.0,1726141095
+Sudan,Abyei PCA,May,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141095
+Sudan,Abyei PCA,June,2023,3,1,0,2,1.0,1.0,0.0,0.0,1726141095
+Sudan,Abyei PCA,July,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Abyei PCA,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Abyei PCA,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Abyei PCA,October,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141095
+Sudan,Abyei PCA,November,2023,7,2,3,2,6.0,0.0,0.0,6.0,1726141095
+Sudan,Abyei PCA,December,2023,4,0,0,4,11.0,8.0,0.0,3.0,1726141095
+Sudan,Abyei PCA,January,2024,8,5,0,3,11.0,4.0,0.0,7.0,1726141095
+Sudan,Abyei PCA,February,2024,10,4,0,6,11.0,2.0,0.0,9.0,1726141095
+Sudan,Abyei PCA,March,2024,7,3,1,3,0.0,0.0,0.0,0.0,1726141095
+Sudan,Abyei PCA,April,2024,2,2,0,0,4.0,1.0,0.0,3.0,1726141095
+Sudan,Abyei PCA,May,2024,3,1,1,1,1.0,1.0,0.0,0.0,1726141095
+Sudan,Abyei PCA,June,2024,2,2,0,0,2.0,0.0,0.0,2.0,1726141095
+Sudan,Abyei PCA,July,2024,3,1,0,2,0.0,0.0,0.0,0.0,1726141095
+Sudan,Abyei PCA,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141095
+Sudan,Aj Jazirah,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141095
+Sudan,Aj Jazirah,April,2023,1,0,0,1,3.0,3.0,0.0,0.0,1726141095
+Sudan,Aj Jazirah,May,2023,3,3,0,0,1.0,1.0,0.0,0.0,1726141095
+Sudan,Aj Jazirah,June,2023,2,2,0,0,1.0,0.0,0.0,1.0,1726141095
+Sudan,Aj Jazirah,July,2023,2,1,0,1,8.0,3.0,4.0,1.0,1726141095
+Sudan,Aj Jazirah,August,2023,6,3,2,1,11.0,2.0,5.0,4.0,1726141095
+Sudan,Aj Jazirah,September,2023,10,2,4,4,4.0,0.0,2.0,2.0,1726141095
+Sudan,Aj Jazirah,October,2023,6,1,2,3,3.0,0.0,0.0,3.0,1726141095
+Sudan,Aj Jazirah,November,2023,3,0,1,2,1.0,1.0,0.0,0.0,1726141095
+Sudan,Aj Jazirah,December,2023,4,1,1,2,67.0,28.0,5.0,34.0,1726141095
+Sudan,Aj Jazirah,January,2024,34,15,3,16,46.0,9.0,22.0,15.0,1726141095
+Sudan,Aj Jazirah,February,2024,53,16,22,15,81.0,6.0,25.0,50.0,1726141095
+Sudan,Aj Jazirah,March,2024,46,13,11,22,77.0,11.0,17.0,49.0,1726141095
+Sudan,Aj Jazirah,April,2024,61,5,17,39,93.0,20.0,14.0,59.0,1726141095
+Sudan,Aj Jazirah,May,2024,88,19,11,58,76.0,9.0,10.0,57.0,1726141095
+Sudan,Aj Jazirah,June,2024,84,15,13,56,60.0,9.0,20.0,31.0,1726141095
+Sudan,Aj Jazirah,July,2024,67,15,20,32,29.0,4.0,7.0,18.0,1726141095
+Sudan,Aj Jazirah,August,2024,37,16,3,18,39.0,8.0,14.0,17.0,1726141095
+Sudan,Blue Nile,March,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,April,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141095
+Sudan,Blue Nile,May,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,June,2023,1,0,0,0,2.0,2.0,0.0,0.0,1726141095
+Sudan,Blue Nile,July,2023,3,2,0,1,1.0,1.0,0.0,0.0,1726141095
+Sudan,Blue Nile,August,2023,3,1,1,1,4.0,3.0,0.0,1.0,1726141095
+Sudan,Blue Nile,September,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141095
+Sudan,Blue Nile,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141095
+Sudan,Blue Nile,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,March,2024,3,0,1,2,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,May,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Blue Nile,July,2024,1,0,0,1,2.0,2.0,0.0,0.0,1726141095
+Sudan,Blue Nile,August,2024,3,2,0,1,3.0,2.0,0.0,1.0,1726141095
+Sudan,Central Darfur,March,2023,12,3,0,9,6.0,2.0,0.0,4.0,1726141095
+Sudan,Central Darfur,April,2023,7,2,0,5,14.0,9.0,0.0,5.0,1726141095
+Sudan,Central Darfur,May,2023,26,20,0,5,6.0,5.0,0.0,1.0,1726141095
+Sudan,Central Darfur,June,2023,9,7,0,2,4.0,4.0,0.0,0.0,1726141095
+Sudan,Central Darfur,July,2023,4,4,0,0,17.0,11.0,0.0,6.0,1726141095
+Sudan,Central Darfur,August,2023,14,10,0,4,19.0,15.0,0.0,4.0,1726141095
+Sudan,Central Darfur,September,2023,18,14,0,4,19.0,12.0,1.0,6.0,1726141095
+Sudan,Central Darfur,October,2023,19,13,1,5,35.0,17.0,12.0,6.0,1726141095
+Sudan,Central Darfur,November,2023,29,17,6,6,4.0,0.0,0.0,4.0,1726141095
+Sudan,Central Darfur,December,2023,9,2,2,5,5.0,3.0,0.0,2.0,1726141095
+Sudan,Central Darfur,January,2024,7,4,0,3,1.0,0.0,0.0,1.0,1726141095
+Sudan,Central Darfur,February,2024,3,1,0,2,5.0,0.0,0.0,5.0,1726141095
+Sudan,Central Darfur,March,2024,4,1,1,2,0.0,0.0,0.0,0.0,1726141095
+Sudan,Central Darfur,April,2024,2,2,0,0,2.0,1.0,0.0,1.0,1726141095
+Sudan,Central Darfur,May,2024,3,1,1,1,3.0,1.0,0.0,2.0,1726141095
+Sudan,Central Darfur,June,2024,3,1,0,2,2.0,0.0,1.0,1.0,1726141095
+Sudan,Central Darfur,July,2024,4,2,1,1,6.0,0.0,0.0,6.0,1726141095
+Sudan,Central Darfur,August,2024,5,1,0,4,2.0,0.0,1.0,1.0,1726141095
+Sudan,East Darfur,March,2023,1,0,0,1,1.0,0.0,1.0,0.0,1726141095
+Sudan,East Darfur,April,2023,1,0,1,0,3.0,3.0,0.0,0.0,1726141095
+Sudan,East Darfur,May,2023,4,3,0,0,1.0,1.0,0.0,0.0,1726141095
+Sudan,East Darfur,June,2023,2,2,0,0,1.0,1.0,0.0,0.0,1726141095
+Sudan,East Darfur,July,2023,2,1,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,East Darfur,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,East Darfur,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141095
+Sudan,East Darfur,October,2023,1,0,0,1,4.0,4.0,0.0,0.0,1726141095
+Sudan,East Darfur,November,2023,5,4,0,1,8.0,6.0,0.0,2.0,1726141095
+Sudan,East Darfur,December,2023,9,5,1,3,0.0,0.0,0.0,0.0,1726141095
+Sudan,East Darfur,January,2024,1,0,0,1,3.0,0.0,3.0,0.0,1726141095
+Sudan,East Darfur,February,2024,4,1,3,0,3.0,0.0,2.0,1.0,1726141095
+Sudan,East Darfur,March,2024,4,1,1,2,3.0,0.0,0.0,3.0,1726141095
+Sudan,East Darfur,April,2024,3,1,0,2,4.0,2.0,0.0,2.0,1726141095
+Sudan,East Darfur,May,2024,5,2,1,2,1.0,0.0,1.0,0.0,1726141095
+Sudan,East Darfur,June,2024,3,1,1,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,East Darfur,July,2024,2,1,0,1,3.0,2.0,0.0,1.0,1726141095
+Sudan,East Darfur,August,2024,2,2,0,0,11.0,0.0,8.0,3.0,1726141095
+Sudan,Gedaref,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Gedaref,April,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141095
+Sudan,Gedaref,May,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Gedaref,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Gedaref,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141095
+Sudan,Gedaref,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Gedaref,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Gedaref,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+Sudan,Gedaref,November,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141095
+Sudan,Gedaref,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Gedaref,January,2024,1,0,0,1,4.0,3.0,0.0,1.0,1726141095
+Sudan,Gedaref,February,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141095
+Sudan,Gedaref,March,2024,4,1,1,2,3.0,2.0,0.0,1.0,1726141095
+Sudan,Gedaref,April,2024,2,1,0,1,7.0,2.0,2.0,3.0,1726141095
+Sudan,Gedaref,May,2024,5,2,1,2,5.0,3.0,2.0,0.0,1726141095
+Sudan,Gedaref,June,2024,6,3,2,1,1.0,0.0,0.0,1.0,1726141095
+Sudan,Gedaref,July,2024,3,2,0,1,3.0,0.0,1.0,2.0,1726141095
+Sudan,Gedaref,August,2024,4,1,1,2,1.0,1.0,0.0,0.0,1726141095
+Sudan,Kassala,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,April,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141096
+Sudan,Kassala,May,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,August,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141096
+Sudan,Kassala,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141096
+Sudan,Kassala,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,Kassala,January,2024,1,1,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,Kassala,February,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,March,2024,3,0,1,2,1.0,1.0,0.0,0.0,1726141096
+Sudan,Kassala,April,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,May,2024,2,0,1,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Kassala,July,2024,1,0,0,1,1.0,1.0,0.0,0.0,1726141096
+Sudan,Kassala,August,2024,1,1,0,0,1.0,0.0,0.0,1.0,1726141096
+Sudan,Khartoum,March,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141096
+Sudan,Khartoum,April,2023,2,0,0,2,87.0,67.0,8.0,12.0,1726141096
+Sudan,Khartoum,May,2023,63,47,6,9,208.0,151.0,10.0,47.0,1726141096
+Sudan,Khartoum,June,2023,185,135,9,41,195.0,138.0,36.0,21.0,1726141096
+Sudan,Khartoum,July,2023,194,140,31,23,320.0,248.0,21.0,51.0,1726141096
+Sudan,Khartoum,August,2023,263,195,25,43,412.0,312.0,58.0,42.0,1726141096
+Sudan,Khartoum,September,2023,306,225,39,42,402.0,181.0,184.0,37.0,1726141096
+Sudan,Khartoum,October,2023,373,204,132,37,373.0,150.0,193.0,30.0,1726141096
+Sudan,Khartoum,November,2023,327,147,148,32,284.0,121.0,140.0,23.0,1726141096
+Sudan,Khartoum,December,2023,317,133,153,31,314.0,102.0,201.0,11.0,1726141096
+Sudan,Khartoum,January,2024,336,126,194,16,425.0,156.0,249.0,20.0,1726141096
+Sudan,Khartoum,February,2024,394,144,230,20,213.0,132.0,68.0,13.0,1726141096
+Sudan,Khartoum,March,2024,238,134,82,22,152.0,81.0,62.0,9.0,1726141096
+Sudan,Khartoum,April,2024,100,32,61,7,87.0,33.0,45.0,9.0,1726141096
+Sudan,Khartoum,May,2024,100,40,50,10,126.0,37.0,69.0,20.0,1726141096
+Sudan,Khartoum,June,2024,124,39,65,20,142.0,44.0,85.0,13.0,1726141096
+Sudan,Khartoum,July,2024,161,65,83,13,87.0,49.0,29.0,9.0,1726141096
+Sudan,Khartoum,August,2024,82,58,13,11,181.0,35.0,132.0,14.0,1726141096
+Sudan,North Darfur,March,2023,12,1,0,11,10.0,3.0,0.0,7.0,1726141096
+Sudan,North Darfur,April,2023,10,3,0,7,24.0,19.0,0.0,5.0,1726141096
+Sudan,North Darfur,May,2023,27,21,0,6,13.0,12.0,0.0,1.0,1726141096
+Sudan,North Darfur,June,2023,14,11,0,2,17.0,13.0,0.0,4.0,1726141096
+Sudan,North Darfur,July,2023,17,11,0,6,12.0,6.0,1.0,5.0,1726141096
+Sudan,North Darfur,August,2023,15,8,1,6,11.0,7.0,0.0,4.0,1726141096
+Sudan,North Darfur,September,2023,9,5,0,4,17.0,6.0,0.0,11.0,1726141096
+Sudan,North Darfur,October,2023,16,7,0,9,3.0,3.0,0.0,0.0,1726141096
+Sudan,North Darfur,November,2023,9,3,1,5,16.0,7.0,5.0,4.0,1726141096
+Sudan,North Darfur,December,2023,14,7,3,4,6.0,4.0,0.0,2.0,1726141096
+Sudan,North Darfur,January,2024,9,5,0,4,10.0,7.0,3.0,0.0,1726141096
+Sudan,North Darfur,February,2024,10,6,3,1,20.0,16.0,2.0,2.0,1726141096
+Sudan,North Darfur,March,2024,14,11,1,2,29.0,17.0,8.0,4.0,1726141096
+Sudan,North Darfur,April,2024,18,7,8,3,110.0,50.0,18.0,42.0,1726141096
+Sudan,North Darfur,May,2024,77,38,1,38,74.0,37.0,22.0,15.0,1726141096
+Sudan,North Darfur,June,2024,74,36,23,15,84.0,48.0,17.0,19.0,1726141096
+Sudan,North Darfur,July,2024,82,47,17,18,54.0,41.0,4.0,9.0,1726141096
+Sudan,North Darfur,August,2024,57,46,2,9,78.0,30.0,33.0,15.0,1726141096
+Sudan,North Kordofan,March,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141096
+Sudan,North Kordofan,April,2023,2,1,0,0,9.0,9.0,0.0,0.0,1726141096
+Sudan,North Kordofan,May,2023,8,8,0,1,14.0,13.0,0.0,1.0,1726141096
+Sudan,North Kordofan,June,2023,12,11,0,1,14.0,13.0,0.0,1.0,1726141096
+Sudan,North Kordofan,July,2023,13,11,0,1,23.0,16.0,0.0,7.0,1726141096
+Sudan,North Kordofan,August,2023,21,15,1,5,20.0,10.0,3.0,7.0,1726141096
+Sudan,North Kordofan,September,2023,16,9,1,6,15.0,6.0,1.0,8.0,1726141096
+Sudan,North Kordofan,October,2023,15,7,1,7,14.0,7.0,3.0,4.0,1726141096
+Sudan,North Kordofan,November,2023,13,7,2,4,17.0,4.0,9.0,4.0,1726141096
+Sudan,North Kordofan,December,2023,15,4,7,4,30.0,14.0,7.0,9.0,1726141096
+Sudan,North Kordofan,January,2024,24,11,6,7,8.0,5.0,1.0,2.0,1726141096
+Sudan,North Kordofan,February,2024,9,5,1,3,10.0,6.0,3.0,1.0,1726141096
+Sudan,North Kordofan,March,2024,8,5,1,2,15.0,8.0,1.0,6.0,1726141096
+Sudan,North Kordofan,April,2024,10,4,1,5,27.0,13.0,2.0,12.0,1726141096
+Sudan,North Kordofan,May,2024,22,11,1,10,37.0,13.0,8.0,16.0,1726141096
+Sudan,North Kordofan,June,2024,36,13,7,16,8.0,3.0,1.0,4.0,1726141096
+Sudan,North Kordofan,July,2024,14,9,1,4,9.0,4.0,2.0,3.0,1726141096
+Sudan,North Kordofan,August,2024,8,4,1,3,8.0,3.0,3.0,2.0,1726141096
+Sudan,Northern,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Northern,April,2023,0,0,0,0,6.0,6.0,0.0,0.0,1726141096
+Sudan,Northern,May,2023,5,5,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Northern,June,2023,1,1,0,0,2.0,0.0,2.0,0.0,1726141096
+Sudan,Northern,July,2023,2,1,1,0,1.0,0.0,0.0,1.0,1726141096
+Sudan,Northern,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Northern,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Northern,October,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,Northern,November,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,Northern,December,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,Northern,January,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Northern,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Northern,March,2024,3,0,1,2,0.0,0.0,0.0,0.0,1726141096
+Sudan,Northern,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,Northern,May,2024,3,1,1,1,2.0,1.0,1.0,0.0,1726141096
+Sudan,Northern,June,2024,2,1,1,0,1.0,0.0,0.0,1.0,1726141096
+Sudan,Northern,July,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Northern,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141096
+Sudan,Red Sea,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,April,2023,0,0,0,0,5.0,3.0,0.0,2.0,1726141096
+Sudan,Red Sea,May,2023,4,2,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,Red Sea,October,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141096
+Sudan,Red Sea,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141096
+Sudan,Red Sea,January,2024,7,5,0,2,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,March,2024,3,0,1,2,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141096
+Sudan,Red Sea,May,2024,2,0,1,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Red Sea,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,Red Sea,August,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,River Nile,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,River Nile,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141096
+Sudan,River Nile,May,2023,2,2,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,River Nile,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,River Nile,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141096
+Sudan,River Nile,August,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141096
+Sudan,River Nile,September,2023,3,0,1,2,1.0,0.0,0.0,1.0,1726141096
+Sudan,River Nile,October,2023,1,0,0,1,1.0,0.0,1.0,0.0,1726141096
+Sudan,River Nile,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,River Nile,December,2023,0,0,0,0,5.0,4.0,1.0,0.0,1726141096
+Sudan,River Nile,January,2024,4,3,1,0,4.0,1.0,3.0,0.0,1726141096
+Sudan,River Nile,February,2024,4,1,3,0,2.0,0.0,0.0,2.0,1726141096
+Sudan,River Nile,March,2024,4,1,1,2,0.0,0.0,0.0,0.0,1726141096
+Sudan,River Nile,April,2024,0,0,0,0,2.0,1.0,1.0,0.0,1726141096
+Sudan,River Nile,May,2024,3,1,1,1,2.0,1.0,0.0,1.0,1726141096
+Sudan,River Nile,June,2024,3,2,0,1,5.0,4.0,1.0,0.0,1726141096
+Sudan,River Nile,July,2024,5,3,1,1,4.0,2.0,1.0,1.0,1726141096
+Sudan,River Nile,August,2024,4,2,1,1,9.0,0.0,6.0,3.0,1726141096
+Sudan,Sennar,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141096
+Sudan,Sennar,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,Sennar,May,2023,2,2,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Sennar,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Sennar,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Sennar,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Sennar,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Sennar,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Sennar,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,Sennar,December,2023,0,0,0,0,10.0,3.0,4.0,3.0,1726141096
+Sudan,Sennar,January,2024,6,2,2,2,8.0,5.0,1.0,2.0,1726141096
+Sudan,Sennar,February,2024,8,5,1,2,2.0,1.0,0.0,1.0,1726141096
+Sudan,Sennar,March,2024,5,2,1,2,8.0,2.0,0.0,6.0,1726141096
+Sudan,Sennar,April,2024,6,2,0,4,16.0,9.0,6.0,1.0,1726141096
+Sudan,Sennar,May,2024,12,7,1,4,3.0,1.0,0.0,2.0,1726141096
+Sudan,Sennar,June,2024,5,3,0,2,17.0,12.0,4.0,1.0,1726141096
+Sudan,Sennar,July,2024,10,6,3,1,68.0,31.0,17.0,20.0,1726141096
+Sudan,Sennar,August,2024,47,25,6,16,19.0,4.0,12.0,3.0,1726141096
+Sudan,South Darfur,March,2023,10,1,0,9,7.0,3.0,0.0,4.0,1726141096
+Sudan,South Darfur,April,2023,7,3,0,4,21.0,15.0,0.0,6.0,1726141096
+Sudan,South Darfur,May,2023,23,17,0,6,15.0,13.0,0.0,2.0,1726141096
+Sudan,South Darfur,June,2023,14,12,0,3,26.0,21.0,0.0,5.0,1726141096
+Sudan,South Darfur,July,2023,21,15,0,6,26.0,21.0,2.0,3.0,1726141096
+Sudan,South Darfur,August,2023,25,20,1,4,46.0,39.0,0.0,7.0,1726141096
+Sudan,South Darfur,September,2023,35,28,1,6,18.0,16.0,0.0,2.0,1726141096
+Sudan,South Darfur,October,2023,23,19,0,4,39.0,22.0,7.0,10.0,1726141096
+Sudan,South Darfur,November,2023,31,22,4,5,12.0,9.0,1.0,2.0,1726141096
+Sudan,South Darfur,December,2023,18,12,2,4,7.0,2.0,3.0,2.0,1726141096
+Sudan,South Darfur,January,2024,12,5,3,4,5.0,2.0,3.0,0.0,1726141096
+Sudan,South Darfur,February,2024,6,2,3,1,1.0,0.0,0.0,1.0,1726141096
+Sudan,South Darfur,March,2024,4,1,1,2,6.0,1.0,2.0,3.0,1726141096
+Sudan,South Darfur,April,2024,7,3,2,2,11.0,3.0,5.0,3.0,1726141096
+Sudan,South Darfur,May,2024,7,3,1,3,12.0,1.0,5.0,6.0,1726141096
+Sudan,South Darfur,June,2024,14,3,5,6,6.0,2.0,0.0,4.0,1726141096
+Sudan,South Darfur,July,2024,8,4,0,4,3.0,1.0,0.0,2.0,1726141096
+Sudan,South Darfur,August,2024,6,3,0,3,8.0,1.0,1.0,6.0,1726141096
+Sudan,South Kordofan,March,2023,4,1,0,3,0.0,0.0,0.0,0.0,1726141096
+Sudan,South Kordofan,April,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141096
+Sudan,South Kordofan,May,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,South Kordofan,June,2023,1,1,0,0,15.0,12.0,0.0,3.0,1726141096
+Sudan,South Kordofan,July,2023,9,6,0,3,32.0,19.0,5.0,8.0,1726141096
+Sudan,South Kordofan,August,2023,28,18,3,7,21.0,17.0,3.0,1.0,1726141096
+Sudan,South Kordofan,September,2023,23,19,2,2,9.0,5.0,0.0,4.0,1726141096
+Sudan,South Kordofan,October,2023,11,7,0,4,16.0,13.0,1.0,2.0,1726141096
+Sudan,South Kordofan,November,2023,16,13,0,3,10.0,8.0,1.0,1.0,1726141096
+Sudan,South Kordofan,December,2023,13,8,2,3,12.0,10.0,1.0,1.0,1726141096
+Sudan,South Kordofan,January,2024,11,8,1,2,18.0,10.0,7.0,1.0,1726141096
+Sudan,South Kordofan,February,2024,17,9,7,1,26.0,10.0,1.0,15.0,1726141096
+Sudan,South Kordofan,March,2024,12,9,1,2,22.0,6.0,10.0,6.0,1726141096
+Sudan,South Kordofan,April,2024,18,3,10,5,15.0,10.0,0.0,5.0,1726141096
+Sudan,South Kordofan,May,2024,15,9,1,5,8.0,0.0,2.0,6.0,1726141096
+Sudan,South Kordofan,June,2024,12,4,2,6,3.0,1.0,0.0,2.0,1726141096
+Sudan,South Kordofan,July,2024,5,3,0,2,7.0,2.0,0.0,5.0,1726141096
+Sudan,South Kordofan,August,2024,6,3,0,3,4.0,3.0,0.0,1.0,1726141096
+Sudan,West Darfur,March,2023,8,2,0,6,8.0,2.0,0.0,6.0,1726141096
+Sudan,West Darfur,April,2023,8,2,0,6,26.0,20.0,0.0,6.0,1726141096
+Sudan,West Darfur,May,2023,24,18,0,6,15.0,7.0,0.0,8.0,1726141096
+Sudan,West Darfur,June,2023,17,10,0,7,19.0,13.0,0.0,6.0,1726141096
+Sudan,West Darfur,July,2023,19,13,0,6,15.0,6.0,0.0,9.0,1726141096
+Sudan,West Darfur,August,2023,17,8,1,8,2.0,1.0,0.0,1.0,1726141096
+Sudan,West Darfur,September,2023,14,11,0,3,7.0,3.0,0.0,4.0,1726141096
+Sudan,West Darfur,October,2023,8,4,0,4,4.0,2.0,0.0,2.0,1726141096
+Sudan,West Darfur,November,2023,6,2,0,4,16.0,5.0,1.0,10.0,1726141096
+Sudan,West Darfur,December,2023,13,5,1,7,1.0,0.0,0.0,1.0,1726141096
+Sudan,West Darfur,January,2024,8,3,1,4,1.0,0.0,1.0,0.0,1726141096
+Sudan,West Darfur,February,2024,3,1,1,1,2.0,0.0,0.0,2.0,1726141096
+Sudan,West Darfur,March,2024,4,1,1,2,4.0,1.0,0.0,3.0,1726141096
+Sudan,West Darfur,April,2024,6,3,0,3,3.0,0.0,0.0,3.0,1726141096
+Sudan,West Darfur,May,2024,5,1,1,3,0.0,0.0,0.0,0.0,1726141096
+Sudan,West Darfur,June,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,West Darfur,July,2024,1,0,0,1,4.0,3.0,1.0,0.0,1726141096
+Sudan,West Darfur,August,2024,4,2,1,1,4.0,0.0,3.0,1.0,1726141096
+Sudan,West Kordofan,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141096
+Sudan,West Kordofan,April,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141096
+Sudan,West Kordofan,May,2023,3,2,0,0,2.0,2.0,0.0,0.0,1726141096
+Sudan,West Kordofan,June,2023,2,2,0,0,0.0,0.0,0.0,0.0,1726141096
+Sudan,West Kordofan,July,2023,0,0,0,0,4.0,1.0,0.0,3.0,1726141096
+Sudan,West Kordofan,August,2023,3,1,0,2,9.0,6.0,0.0,3.0,1726141096
+Sudan,West Kordofan,September,2023,6,3,0,3,10.0,6.0,0.0,4.0,1726141096
+Sudan,West Kordofan,October,2023,9,5,0,4,9.0,7.0,0.0,2.0,1726141096
+Sudan,West Kordofan,November,2023,9,7,0,2,19.0,10.0,6.0,3.0,1726141096
+Sudan,West Kordofan,December,2023,16,9,4,3,2.0,2.0,0.0,0.0,1726141096
+Sudan,West Kordofan,January,2024,6,4,0,2,17.0,11.0,6.0,0.0,1726141096
+Sudan,West Kordofan,February,2024,14,8,6,0,15.0,11.0,2.0,2.0,1726141096
+Sudan,West Kordofan,March,2024,12,9,1,2,20.0,13.0,4.0,3.0,1726141096
+Sudan,West Kordofan,April,2024,13,7,4,2,11.0,6.0,3.0,2.0,1726141096
+Sudan,West Kordofan,May,2024,10,7,1,2,12.0,5.0,3.0,4.0,1726141096
+Sudan,West Kordofan,June,2024,12,5,3,4,11.0,6.0,3.0,2.0,1726141096
+Sudan,West Kordofan,July,2024,11,6,3,2,13.0,7.0,3.0,3.0,1726141096
+Sudan,West Kordofan,August,2024,13,7,2,4,4.0,3.0,1.0,0.0,1726141097
+Sudan,White Nile,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141097
+Sudan,White Nile,April,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141097
+Sudan,White Nile,May,2023,2,1,0,1,4.0,4.0,0.0,0.0,1726141097
+Sudan,White Nile,June,2023,3,3,0,0,0.0,0.0,0.0,0.0,1726141097
+Sudan,White Nile,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141097
+Sudan,White Nile,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141097
+Sudan,White Nile,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141097
+Sudan,White Nile,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141097
+Sudan,White Nile,November,2023,0,0,0,0,6.0,3.0,2.0,1.0,1726141097
+Sudan,White Nile,December,2023,5,2,2,1,5.0,5.0,0.0,0.0,1726141097
+Sudan,White Nile,January,2024,5,4,0,1,5.0,1.0,2.0,2.0,1726141097
+Sudan,White Nile,February,2024,5,1,2,2,1.0,0.0,0.0,1.0,1726141097
+Sudan,White Nile,March,2024,4,1,1,2,11.0,2.0,6.0,3.0,1726141097
+Sudan,White Nile,April,2024,8,1,5,2,3.0,0.0,1.0,2.0,1726141097
+Sudan,White Nile,May,2024,4,1,1,2,11.0,10.0,0.0,1.0,1726141097
+Sudan,White Nile,June,2024,8,6,0,2,14.0,5.0,8.0,1.0,1726141097
+Sudan,White Nile,July,2024,13,5,7,1,12.0,5.0,1.0,6.0,1726141097
+Sudan,White Nile,August,2024,13,5,1,7,16.0,2.0,2.0,12.0,1726141097
+Sudan,Abyei PCA,September,2024,3,1,0,2,0.0,0.0,0.0,0.0,1730731003
+Sudan,Aj Jazirah,September,2024,29,4,15,10,55.0,11.0,16.0,28.0,1730731003
+Sudan,Blue Nile,September,2024,3,1,0,2,2.0,2.0,0.0,0.0,1730731003
+Sudan,Central Darfur,September,2024,5,1,1,3,7.0,0.0,1.0,6.0,1730731003
+Sudan,East Darfur,September,2024,7,1,4,2,6.0,1.0,4.0,1.0,1730731003
+Sudan,Gedaref,September,2024,4,1,1,2,2.0,1.0,1.0,0.0,1730731003
+Sudan,Kassala,September,2024,3,1,0,2,0.0,0.0,0.0,0.0,1730731003
+Sudan,Khartoum,September,2024,151,28,112,11,276.0,110.0,155.0,11.0,1730731003
+Sudan,North Darfur,September,2024,56,21,28,7,68.0,30.0,26.0,12.0,1730731003
+Sudan,North Kordofan,September,2024,8,3,3,2,16.0,8.0,5.0,3.0,1730731003
+Sudan,Northern,September,2024,3,1,0,2,0.0,0.0,0.0,0.0,1730731003
+Sudan,Red Sea,September,2024,3,1,0,2,0.0,0.0,0.0,0.0,1730731003
+Sudan,River Nile,September,2024,7,1,4,2,7.0,5.0,1.0,1.0,1730731003
+Sudan,Sennar,September,2024,30,3,14,13,25.0,3.0,18.0,4.0,1730731003
+Sudan,South Darfur,September,2024,5,1,1,3,20.0,5.0,4.0,11.0,1730731003
+Sudan,South Kordofan,September,2024,5,2,0,3,1.0,1.0,0.0,0.0,1730731003
+Sudan,West Darfur,September,2024,5,1,2,2,1.0,1.0,0.0,0.0,1730731004
+Sudan,West Kordofan,September,2024,8,4,2,2,5.0,1.0,1.0,3.0,1730731004
+Sudan,White Nile,September,2024,9,3,2,4,1.0,0.0,0.0,1.0,1730731004
+Sudan,Abyei PCA,October,2024,3,1,1,1,1.0,0.0,0.0,1.0,1734010310
+Sudan,Abyei PCA,November,2024,2,0,0,2,3.0,1.0,0.0,2.0,1734010310
+Sudan,Aj Jazirah,October,2024,48,4,16,28,129.0,13.0,26.0,90.0,1734010310
+Sudan,Aj Jazirah,November,2024,104,12,23,69,92.0,8.0,30.0,54.0,1734010310
+Sudan,Blue Nile,October,2024,4,1,1,2,2.0,1.0,0.0,1.0,1734010310
+Sudan,Blue Nile,November,2024,4,2,0,2,5.0,1.0,0.0,4.0,1734010310
+Sudan,Central Darfur,October,2024,6,1,1,4,10.0,0.0,0.0,10.0,1734010310
+Sudan,Central Darfur,November,2024,8,1,0,7,4.0,0.0,0.0,4.0,1734010310
+Sudan,East Darfur,October,2024,9,1,4,4,11.0,1.0,1.0,9.0,1734010310
+Sudan,East Darfur,November,2024,9,2,1,6,5.0,1.0,0.0,4.0,1734010310
+Sudan,Gedaref,October,2024,3,1,1,1,0.0,0.0,0.0,0.0,1734010310
+Sudan,Gedaref,November,2024,2,1,0,1,4.0,2.0,2.0,0.0,1734010310
+Sudan,Kassala,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010310
+Sudan,Kassala,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010310
+Sudan,Khartoum,October,2024,212,52,148,12,212.0,80.0,121.0,11.0,1734010310
+Sudan,Khartoum,November,2024,226,92,119,15,113.0,24.0,72.0,17.0,1734010310
+Sudan,North Darfur,October,2024,60,17,30,13,118.0,49.0,22.0,47.0,1734010310
+Sudan,North Darfur,November,2024,100,44,23,33,101.0,36.0,41.0,24.0,1734010310
+Sudan,North Kordofan,October,2024,10,3,4,3,10.0,2.0,4.0,4.0,1734010310
+Sudan,North Kordofan,November,2024,12,3,4,5,3.0,1.0,1.0,1.0,1734010310
+Sudan,Northern,October,2024,1,1,0,0,2.0,1.0,0.0,1.0,1734010310
+Sudan,Northern,November,2024,2,1,0,1,1.0,0.0,0.0,1.0,1734010310
+Sudan,Red Sea,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010310
+Sudan,Red Sea,November,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010310
+Sudan,River Nile,October,2024,3,1,1,1,4.0,0.0,1.0,3.0,1734010310
+Sudan,River Nile,November,2024,5,1,1,3,3.0,2.0,1.0,0.0,1734010310
+Sudan,Sennar,October,2024,23,3,14,6,26.0,18.0,4.0,4.0,1734010310
+Sudan,Sennar,November,2024,29,16,7,6,21.0,12.0,2.0,7.0,1734010310
+Sudan,South Darfur,October,2024,14,2,4,8,10.0,2.0,2.0,6.0,1734010310
+Sudan,South Darfur,November,2024,11,3,2,6,21.0,3.0,4.0,14.0,1734010310
+Sudan,South Kordofan,October,2024,4,2,0,2,5.0,0.0,1.0,4.0,1734010310
+Sudan,South Kordofan,November,2024,6,1,1,4,2.0,0.0,0.0,2.0,1734010310
+Sudan,West Darfur,October,2024,3,1,1,1,30.0,18.0,5.0,7.0,1734010311
+Sudan,West Darfur,November,2024,20,11,4,5,7.0,1.0,0.0,6.0,1734010311
+Sudan,West Kordofan,October,2024,5,2,1,2,8.0,3.0,1.0,4.0,1734010311
+Sudan,West Kordofan,November,2024,9,4,1,4,5.0,5.0,0.0,0.0,1734010311
+Sudan,White Nile,October,2024,6,2,1,3,5.0,2.0,0.0,3.0,1734010311
+Sudan,White Nile,November,2024,6,2,1,3,8.0,1.0,1.0,6.0,1734010311
+Sudan,Abyei PCA,December,2024,4,2,0,2,2.0,1.0,0.0,1.0,1737033374
+Sudan,Aj Jazirah,December,2024,90,9,29,52,79.0,27.0,11.0,41.0,1737033374
+Sudan,Blue Nile,December,2024,9,2,0,7,12.0,2.0,9.0,1.0,1737033374
+Sudan,Central Darfur,December,2024,5,1,0,4,1.0,1.0,0.0,0.0,1737033374
+Sudan,East Darfur,December,2024,6,2,1,3,3.0,3.0,0.0,0.0,1737033374
+Sudan,Gedaref,December,2024,3,2,1,0,0.0,0.0,0.0,0.0,1737033374
+Sudan,Kassala,December,2024,1,1,0,0,1.0,1.0,0.0,0.0,1737033374
+Sudan,Khartoum,December,2024,120,30,74,16,114.0,35.0,71.0,8.0,1737033374
+Sudan,North Darfur,December,2024,94,37,36,21,126.0,55.0,47.0,24.0,1737033374
+Sudan,North Kordofan,December,2024,5,2,2,1,20.0,7.0,10.0,3.0,1737033374
+Sudan,Northern,December,2024,5,1,0,4,2.0,1.0,0.0,1.0,1737033374
+Sudan,Red Sea,December,2024,0,0,0,0,3.0,1.0,0.0,2.0,1737033374
+Sudan,River Nile,December,2024,4,3,1,0,3.0,2.0,1.0,0.0,1737033374
+Sudan,Sennar,December,2024,22,12,4,6,12.0,5.0,5.0,2.0,1737033374
+Sudan,South Darfur,December,2024,21,4,4,13,30.0,2.0,14.0,14.0,1737033374
+Sudan,South Kordofan,December,2024,3,1,0,2,2.0,1.0,0.0,1.0,1737033374
+Sudan,West Darfur,December,2024,10,4,1,5,6.0,1.0,0.0,5.0,1737033374
+Sudan,West Kordofan,December,2024,8,5,1,2,4.0,2.0,1.0,1.0,1737033374
+Sudan,White Nile,December,2024,7,2,1,4,24.0,7.0,7.0,10.0,1737033374
+Sudan,Abyei PCA,January,2025,4,2,0,2,2.0,1.0,0.0,1.0,1738854872
+Sudan,Aj Jazirah,January,2025,94,35,14,45,113.0,19.0,23.0,71.0,1738854872
+Sudan,Blue Nile,January,2025,11,2,6,3,4.0,2.0,1.0,1.0,1738854872
+Sudan,Central Darfur,January,2025,4,2,0,2,7.0,0.0,1.0,6.0,1738854872
+Sudan,East Darfur,January,2025,5,2,1,2,5.0,1.0,1.0,3.0,1738854872
+Sudan,Gedaref,January,2025,2,1,0,1,1.0,0.0,1.0,0.0,1738854872
+Sudan,Kassala,January,2025,2,1,0,1,1.0,0.0,0.0,1.0,1738854872
+Sudan,Khartoum,January,2025,144,50,79,15,125.0,40.0,70.0,15.0,1738854872
+Sudan,North Darfur,January,2025,131,58,41,32,121.0,55.0,49.0,17.0,1738854872
+Sudan,North Kordofan,January,2025,12,4,6,2,14.0,11.0,1.0,2.0,1738854872
+Sudan,Northern,January,2025,4,1,0,3,7.0,6.0,0.0,1.0,1738854872
+Sudan,Red Sea,January,2025,4,1,1,2,0.0,0.0,0.0,0.0,1738854872
+Sudan,River Nile,January,2025,6,3,1,2,8.0,5.0,3.0,0.0,1738854872
+Sudan,Sennar,January,2025,26,10,7,9,4.0,0.0,2.0,2.0,1738854872
+Sudan,South Darfur,January,2025,26,7,11,8,32.0,5.0,12.0,15.0,1738854872
+Sudan,South Kordofan,January,2025,4,2,0,2,3.0,3.0,0.0,0.0,1738854872
+Sudan,West Darfur,January,2025,6,2,0,4,5.0,0.0,1.0,4.0,1738854872
+Sudan,West Kordofan,January,2025,7,4,2,1,1.0,1.0,0.0,0.0,1738854872
+Sudan,White Nile,January,2025,13,4,5,4,10.0,3.0,2.0,5.0,1738854872
+Sudan,Abyei PCA,February,2025,3,1,0,2,1.0,0.0,0.0,1.0,1741266643
+Sudan,Aj Jazirah,February,2025,97,19,23,55,25.0,7.0,3.0,15.0,1741266643
+Sudan,Blue Nile,February,2025,6,2,1,3,2.0,1.0,1.0,0.0,1741266643
+Sudan,Central Darfur,February,2025,2,0,1,1,5.0,1.0,1.0,3.0,1741266643
+Sudan,East Darfur,February,2025,3,1,1,1,12.0,3.0,1.0,8.0,1741266643
+Sudan,Gedaref,February,2025,2,0,1,1,0.0,0.0,0.0,0.0,1741266643
+Sudan,Kassala,February,2025,1,0,0,1,5.0,1.0,0.0,4.0,1741266643
+Sudan,Khartoum,February,2025,130,43,74,13,122.0,52.0,30.0,40.0,1741266643
+Sudan,North Darfur,February,2025,125,56,46,23,76.0,33.0,25.0,18.0,1741266643
+Sudan,North Kordofan,February,2025,15,10,2,3,49.0,18.0,17.0,14.0,1741266643
+Sudan,Northern,February,2025,6,4,0,2,2.0,2.0,0.0,0.0,1741266643
+Sudan,Red Sea,February,2025,2,0,0,2,1.0,0.0,1.0,0.0,1741266643
+Sudan,River Nile,February,2025,8,4,3,1,2.0,2.0,0.0,0.0,1741266643
+Sudan,Sennar,February,2025,5,1,2,2,0.0,0.0,0.0,0.0,1741266643
+Sudan,South Darfur,February,2025,29,5,11,13,21.0,4.0,6.0,11.0,1741266643
+Sudan,South Kordofan,February,2025,5,3,0,2,29.0,19.0,9.0,1.0,1741266643
+Sudan,West Darfur,February,2025,4,1,1,2,3.0,2.0,1.0,0.0,1741266643
+Sudan,West Kordofan,February,2025,3,1,0,2,10.0,7.0,1.0,2.0,1741266643
+Sudan,White Nile,February,2025,12,4,3,5,54.0,14.0,5.0,35.0,1741266643
+Sudan,Abyei PCA,March,2025,4,2,1,1,1.0,1.0,0.0,0.0,1744287549
+Sudan,Aj Jazirah,March,2025,49,12,17,20,22.0,3.0,8.0,11.0,1744287549
+Sudan,Blue Nile,March,2025,4,2,1,1,12.0,7.0,5.0,0.0,1744287549
+Sudan,Central Darfur,March,2025,7,2,1,4,2.0,0.0,0.0,2.0,1744287549
+Sudan,East Darfur,March,2025,10,2,1,7,7.0,0.0,3.0,4.0,1744287549
+Sudan,Gedaref,March,2025,3,2,1,0,1.0,1.0,0.0,0.0,1744287549
+Sudan,Kassala,March,2025,6,2,1,3,0.0,0.0,0.0,0.0,1744287549
+Sudan,Khartoum,March,2025,108,38,35,35,108.0,44.0,41.0,23.0,1744287549
+Sudan,North Darfur,March,2025,89,38,33,18,102.0,40.0,36.0,26.0,1744287549
+Sudan,North Kordofan,March,2025,24,9,3,12,53.0,6.0,27.0,20.0,1744287549
+Sudan,Northern,March,2025,4,3,1,0,1.0,1.0,0.0,0.0,1744287549
+Sudan,Red Sea,March,2025,3,2,1,0,0.0,0.0,0.0,0.0,1744287549
+Sudan,River Nile,March,2025,4,3,1,0,5.0,3.0,2.0,0.0,1744287549
+Sudan,Sennar,March,2025,4,2,1,1,2.0,2.0,0.0,0.0,1744287549
+Sudan,South Darfur,March,2025,18,3,2,13,28.0,5.0,6.0,17.0,1744287549
+Sudan,South Kordofan,March,2025,5,3,1,1,1.0,1.0,0.0,0.0,1744287549
+Sudan,West Darfur,March,2025,4,2,1,1,9.0,1.0,0.0,8.0,1744287549
+Sudan,West Kordofan,March,2025,5,2,1,2,3.0,2.0,0.0,1.0,1744287549
+Sudan,White Nile,March,2025,28,3,2,23,10.0,5.0,1.0,4.0,1744287549
+Sudan,Abyei PCA,April,2025,3,2,0,1,3.0,1.0,0.0,2.0,1746702918
+Sudan,Aj Jazirah,April,2025,30,7,9,14,2.0,1.0,0.0,1.0,1746702918
+Sudan,Blue Nile,April,2025,11,6,4,1,3.0,2.0,0.0,1.0,1746702918
+Sudan,Central Darfur,April,2025,3,1,0,2,6.0,0.0,0.0,6.0,1746702918
+Sudan,East Darfur,April,2025,11,3,3,5,4.0,0.0,1.0,3.0,1746702918
+Sudan,Gedaref,April,2025,1,1,0,0,0.0,0.0,0.0,0.0,1746702918
+Sudan,Kassala,April,2025,1,1,0,0,3.0,0.0,0.0,3.0,1746702918
+Sudan,Khartoum,April,2025,113,45,44,24,56.0,26.0,16.0,14.0,1746702918
+Sudan,North Darfur,April,2025,104,42,36,26,82.0,42.0,33.0,7.0,1746702919
+Sudan,North Kordofan,April,2025,53,11,23,19,35.0,12.0,17.0,6.0,1746702919
+Sudan,Northern,April,2025,2,2,0,0,11.0,4.0,5.0,2.0,1746702919
+Sudan,Red Sea,April,2025,1,1,0,0,1.0,0.0,0.0,1.0,1746702919
+Sudan,River Nile,April,2025,5,3,2,0,7.0,1.0,6.0,0.0,1746702919
+Sudan,Sennar,April,2025,3,2,0,1,1.0,0.0,0.0,1.0,1746702919
+Sudan,South Darfur,April,2025,28,6,6,16,13.0,4.0,2.0,7.0,1746702919
+Sudan,South Kordofan,April,2025,9,5,1,3,13.0,9.0,2.0,2.0,1746702919
+Sudan,West Darfur,April,2025,10,2,1,7,2.0,0.0,0.0,2.0,1746702919
+Sudan,West Kordofan,April,2025,6,4,1,1,15.0,8.0,2.0,5.0,1746702919
+Sudan,White Nile,April,2025,20,9,3,8,7.0,3.0,3.0,1.0,1746702919
+Sudan,Abyei PCA,May,2025,4,1,1,2,5.0,1.0,0.0,4.0,1749732030
+Sudan,Aj Jazirah,May,2025,13,1,6,6,7.0,0.0,3.0,4.0,1749732030
+Sudan,Blue Nile,May,2025,6,2,2,2,1.0,1.0,0.0,0.0,1749732030
+Sudan,Central Darfur,May,2025,6,1,1,4,5.0,2.0,0.0,3.0,1749732030
+Sudan,East Darfur,May,2025,6,1,2,3,8.0,2.0,1.0,5.0,1749732030
+Sudan,Gedaref,May,2025,1,0,1,0,0.0,0.0,0.0,0.0,1749732030
+Sudan,Kassala,May,2025,4,1,1,2,8.0,7.0,1.0,0.0,1749732030
+Sudan,Khartoum,May,2025,71,25,25,21,33.0,8.0,17.0,8.0,1749732030
+Sudan,North Darfur,May,2025,99,41,43,15,60.0,24.0,27.0,9.0,1749732030
+Sudan,North Kordofan,May,2025,38,12,15,11,40.0,13.0,16.0,11.0,1749732030
+Sudan,Northern,May,2025,6,3,2,1,7.0,7.0,0.0,0.0,1749732030
+Sudan,Red Sea,May,2025,4,1,1,2,17.0,16.0,1.0,0.0,1749732030
+Sudan,River Nile,May,2025,4,1,2,1,2.0,2.0,0.0,0.0,1749732030
+Sudan,Sennar,May,2025,3,0,2,1,2.0,0.0,1.0,1.0,1749732030
+Sudan,South Darfur,May,2025,16,4,3,9,24.0,5.0,8.0,11.0,1749732030
+Sudan,South Kordofan,May,2025,10,7,1,2,38.0,17.0,9.0,12.0,1749732030
+Sudan,West Darfur,May,2025,4,0,1,3,2.0,0.0,1.0,1.0,1749732030
+Sudan,West Kordofan,May,2025,11,6,2,3,47.0,16.0,14.0,17.0,1749732030
+Sudan,White Nile,May,2025,8,3,2,3,22.0,12.0,8.0,2.0,1749732030
+Sudan,Abyei PCA,June,2025,5,2,1,2,4.0,2.0,1.0,1.0,1754429217
+Sudan,Abyei PCA,July,2025,8,2,1,5,5.0,2.0,0.0,3.0,1754429217
+Sudan,Abyei PCA,August,2025,6,3,1,2,1.0,0.0,0.0,1.0,1757596698
+Sudan,Abyei PCA,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Sudan,Abyei PCA,October,2025,2,2,0,0,2.0,1.0,0.0,1.0,1762435626
+Sudan,Abyei PCA,November,2025,2,1,0,1,1.0,0.0,0.0,1.0,1765375966
+Sudan,Abyei PCA,December,2025,3,2,0,1,,,,,1765375966
+Sudan,Aj Jazirah,June,2025,12,1,2,9,1.0,0.0,0.0,1.0,1754429217
+Sudan,Aj Jazirah,July,2025,10,1,1,8,2.0,0.0,1.0,1.0,1754429217
+Sudan,Aj Jazirah,August,2025,10,3,1,6,1.0,1.0,0.0,0.0,1757596698
+Sudan,Aj Jazirah,September,2025,5,1,0,4,1.0,0.0,0.0,1.0,1760036046
+Sudan,Aj Jazirah,October,2025,3,2,0,1,3.0,1.0,0.0,2.0,1762435626
+Sudan,Aj Jazirah,November,2025,4,2,0,2,2.0,1.0,0.0,1.0,1765375966
+Sudan,Aj Jazirah,December,2025,3,2,0,1,,,,,1765375966
+Sudan,Blue Nile,June,2025,5,2,1,2,7.0,7.0,0.0,0.0,1754429217
+Sudan,Blue Nile,July,2025,5,2,1,2,0.0,0.0,0.0,0.0,1754429217
+Sudan,Blue Nile,August,2025,6,3,1,2,1.0,0.0,0.0,1.0,1757596698
+Sudan,Blue Nile,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Sudan,Blue Nile,October,2025,2,2,0,0,6.0,5.0,1.0,0.0,1762435626
+Sudan,Blue Nile,November,2025,3,2,1,0,5.0,4.0,1.0,0.0,1765375966
+Sudan,Blue Nile,December,2025,5,4,1,0,,,,,1765375966
+Sudan,Central Darfur,June,2025,7,2,1,4,7.0,1.0,0.0,6.0,1754429217
+Sudan,Central Darfur,July,2025,4,1,1,2,4.0,0.0,0.0,4.0,1754429217
+Sudan,Central Darfur,August,2025,9,3,1,5,5.0,0.0,1.0,4.0,1757596698
+Sudan,Central Darfur,September,2025,3,0,1,2,8.0,2.0,0.0,6.0,1760036046
+Sudan,Central Darfur,October,2025,8,2,0,6,1.0,0.0,0.0,1.0,1762435626
+Sudan,Central Darfur,November,2025,3,2,0,1,6.0,1.0,2.0,3.0,1765375966
+Sudan,Central Darfur,December,2025,5,2,1,2,,,,,1765375966
+Sudan,East Darfur,June,2025,5,2,1,2,10.0,2.0,1.0,7.0,1754429217
+Sudan,East Darfur,July,2025,8,2,1,5,8.0,0.0,0.0,8.0,1754429217
+Sudan,East Darfur,August,2025,9,3,1,5,8.0,0.0,3.0,5.0,1757596698
+Sudan,East Darfur,September,2025,7,0,2,5,1.0,0.0,0.0,1.0,1760036046
+Sudan,East Darfur,October,2025,6,2,0,4,1.0,0.0,0.0,1.0,1762435626
+Sudan,East Darfur,November,2025,2,1,0,1,7.0,0.0,1.0,6.0,1765375966
+Sudan,East Darfur,December,2025,7,2,1,4,,,,,1765375966
+Sudan,Gedaref,June,2025,3,0,1,2,0.0,0.0,0.0,0.0,1754429217
+Sudan,Gedaref,July,2025,2,0,0,2,4.0,0.0,0.0,4.0,1754429217
+Sudan,Gedaref,August,2025,5,3,0,2,2.0,0.0,0.0,2.0,1757596698
+Sudan,Gedaref,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Sudan,Gedaref,October,2025,2,2,0,0,1.0,0.0,1.0,0.0,1762435626
+Sudan,Gedaref,November,2025,2,1,1,0,0.0,0.0,0.0,0.0,1765375966
+Sudan,Gedaref,December,2025,2,2,0,0,,,,,1765375966
+Sudan,Kassala,June,2025,8,5,1,2,0.0,0.0,0.0,0.0,1754429217
+Sudan,Kassala,July,2025,4,0,2,2,0.0,0.0,0.0,0.0,1754429217
+Sudan,Kassala,August,2025,5,3,0,2,0.0,0.0,0.0,0.0,1757596698
+Sudan,Kassala,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Sudan,Kassala,October,2025,2,2,0,0,0.0,0.0,0.0,0.0,1762435626
+Sudan,Kassala,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sudan,Kassala,December,2025,2,2,0,0,,,,,1765375966
+Sudan,Khartoum,June,2025,45,12,18,15,3.0,0.0,0.0,3.0,1754429217
+Sudan,Khartoum,July,2025,15,1,3,11,1.0,0.0,0.0,1.0,1754429217
+Sudan,Khartoum,August,2025,10,3,5,2,4.0,0.0,1.0,3.0,1757596698
+Sudan,Khartoum,September,2025,3,0,1,2,7.0,1.0,5.0,1.0,1760036046
+Sudan,Khartoum,October,2025,8,2,5,1,15.0,8.0,7.0,0.0,1762435626
+Sudan,Khartoum,November,2025,10,4,6,0,3.0,3.0,0.0,0.0,1765375966
+Sudan,Khartoum,December,2025,4,4,0,0,,,,,1765375966
+Sudan,North Darfur,June,2025,68,28,27,13,55.0,13.0,34.0,8.0,1754429217
+Sudan,North Darfur,July,2025,46,10,25,11,46.0,20.0,15.0,11.0,1754429217
+Sudan,North Darfur,August,2025,39,13,17,9,70.0,26.0,28.0,16.0,1757596698
+Sudan,North Darfur,September,2025,62,22,28,12,66.0,28.0,27.0,11.0,1760036046
+Sudan,North Darfur,October,2025,59,21,27,11,77.0,26.0,22.0,29.0,1762435626
+Sudan,North Darfur,November,2025,66,25,20,21,21.0,4.0,9.0,8.0,1765375966
+Sudan,North Darfur,December,2025,26,12,7,7,,,,,1765375966
+Sudan,North Kordofan,June,2025,42,12,17,13,40.0,5.0,16.0,19.0,1754429217
+Sudan,North Kordofan,July,2025,37,7,16,14,45.0,19.0,23.0,3.0,1754429217
+Sudan,North Kordofan,August,2025,39,9,20,10,50.0,9.0,30.0,11.0,1757596698
+Sudan,North Kordofan,September,2025,45,9,30,6,76.0,48.0,25.0,3.0,1760036046
+Sudan,North Kordofan,October,2025,51,23,24,4,37.0,16.0,19.0,2.0,1762435626
+Sudan,North Kordofan,November,2025,31,12,17,2,48.0,25.0,18.0,5.0,1765375966
+Sudan,North Kordofan,December,2025,34,12,17,5,,,,,1765375966
+Sudan,Northern,June,2025,10,6,2,2,9.0,5.0,2.0,2.0,1754429217
+Sudan,Northern,July,2025,6,3,1,2,10.0,5.0,3.0,2.0,1754429217
+Sudan,Northern,August,2025,9,3,4,2,1.0,1.0,0.0,0.0,1757596698
+Sudan,Northern,September,2025,4,2,0,2,1.0,0.0,1.0,0.0,1760036046
+Sudan,Northern,October,2025,3,2,1,0,1.0,0.0,1.0,0.0,1762435626
+Sudan,Northern,November,2025,3,1,1,1,11.0,3.0,8.0,0.0,1765375966
+Sudan,Northern,December,2025,8,2,6,0,,,,,1765375966
+Sudan,Red Sea,June,2025,14,11,1,2,0.0,0.0,0.0,0.0,1754429217
+Sudan,Red Sea,July,2025,6,0,2,4,3.0,1.0,0.0,2.0,1754429217
+Sudan,Red Sea,August,2025,5,3,0,2,1.0,1.0,0.0,0.0,1757596698
+Sudan,Red Sea,September,2025,3,1,0,2,0.0,0.0,0.0,0.0,1760036046
+Sudan,Red Sea,October,2025,2,2,0,0,0.0,0.0,0.0,0.0,1762435626
+Sudan,Red Sea,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sudan,Red Sea,December,2025,2,2,0,0,,,,,1765375966
+Sudan,River Nile,June,2025,6,3,1,2,1.0,1.0,0.0,0.0,1754429217
+Sudan,River Nile,July,2025,6,3,1,2,1.0,1.0,0.0,0.0,1754429217
+Sudan,River Nile,August,2025,6,3,1,2,1.0,0.0,0.0,1.0,1757596698
+Sudan,River Nile,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Sudan,River Nile,October,2025,2,2,0,0,1.0,0.0,0.0,1.0,1762435626
+Sudan,River Nile,November,2025,2,1,0,1,2.0,2.0,0.0,0.0,1765375966
+Sudan,River Nile,December,2025,2,2,0,0,,,,,1765375966
+Sudan,Sennar,June,2025,4,1,1,2,0.0,0.0,0.0,0.0,1754429217
+Sudan,Sennar,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Sudan,Sennar,August,2025,5,3,0,2,0.0,0.0,0.0,0.0,1757596698
+Sudan,Sennar,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Sudan,Sennar,October,2025,2,2,0,0,3.0,2.0,1.0,0.0,1762435626
+Sudan,Sennar,November,2025,3,1,1,1,0.0,0.0,0.0,0.0,1765375966
+Sudan,Sennar,December,2025,2,2,0,0,,,,,1765375966
+Sudan,South Darfur,June,2025,14,5,5,4,41.0,9.0,16.0,16.0,1754429217
+Sudan,South Darfur,July,2025,23,7,8,8,16.0,1.0,5.0,10.0,1754429217
+Sudan,South Darfur,August,2025,29,6,11,12,19.0,4.0,5.0,10.0,1757596698
+Sudan,South Darfur,September,2025,18,5,5,8,14.0,2.0,5.0,7.0,1760036046
+Sudan,South Darfur,October,2025,16,4,5,7,27.0,3.0,11.0,13.0,1762435626
+Sudan,South Darfur,November,2025,23,3,9,11,24.0,2.0,7.0,15.0,1765375966
+Sudan,South Darfur,December,2025,24,4,6,14,,,,,1765375966
+Sudan,South Kordofan,June,2025,26,14,6,6,26.0,12.0,11.0,3.0,1754429217
+Sudan,South Kordofan,July,2025,29,9,10,10,4.0,1.0,3.0,0.0,1754429217
+Sudan,South Kordofan,August,2025,17,6,5,6,13.0,3.0,3.0,7.0,1757596698
+Sudan,South Kordofan,September,2025,7,2,3,2,4.0,1.0,3.0,0.0,1760036046
+Sudan,South Kordofan,October,2025,8,3,3,2,17.0,4.0,10.0,3.0,1762435626
+Sudan,South Kordofan,November,2025,12,3,7,2,30.0,16.0,9.0,5.0,1765375966
+Sudan,South Kordofan,December,2025,17,5,8,4,,,,,1765375966
+Sudan,West Darfur,June,2025,4,1,1,2,3.0,0.0,1.0,2.0,1754429217
+Sudan,West Darfur,July,2025,5,2,1,2,5.0,1.0,0.0,4.0,1754429217
+Sudan,West Darfur,August,2025,6,3,1,2,1.0,0.0,0.0,1.0,1757596698
+Sudan,West Darfur,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Sudan,West Darfur,October,2025,2,2,0,0,6.0,0.0,4.0,2.0,1762435626
+Sudan,West Darfur,November,2025,6,1,3,2,5.0,0.0,2.0,3.0,1765375966
+Sudan,West Darfur,December,2025,7,2,2,3,,,,,1765375966
+Sudan,West Kordofan,June,2025,28,13,7,8,55.0,13.0,23.0,19.0,1754429217
+Sudan,West Kordofan,July,2025,43,11,18,14,37.0,8.0,23.0,6.0,1754429217
+Sudan,West Kordofan,August,2025,44,9,23,12,28.0,4.0,15.0,9.0,1757596698
+Sudan,West Kordofan,September,2025,29,6,15,8,14.0,5.0,6.0,3.0,1760036046
+Sudan,West Kordofan,October,2025,17,4,6,7,35.0,3.0,25.0,7.0,1762435626
+Sudan,West Kordofan,November,2025,26,4,16,6,54.0,21.0,22.0,11.0,1765375966
+Sudan,West Kordofan,December,2025,47,17,20,10,,,,,1765375966
+Sudan,White Nile,June,2025,14,9,3,2,0.0,0.0,0.0,0.0,1754429217
+Sudan,White Nile,July,2025,6,0,2,4,1.0,1.0,0.0,0.0,1754429217
+Sudan,White Nile,August,2025,6,3,1,2,0.0,0.0,0.0,0.0,1757596698
+Sudan,White Nile,September,2025,2,0,0,2,4.0,3.0,1.0,0.0,1760036046
+Sudan,White Nile,October,2025,3,2,1,0,5.0,3.0,2.0,0.0,1762435626
+Sudan,White Nile,November,2025,4,2,2,0,2.0,0.0,2.0,0.0,1765375966
+Sudan,White Nile,December,2025,4,2,2,0,,,,,1765375966
+Sudan,Abyei PCA,January,2026,3,2,0,1,,,,,1765375966
+Sudan,Aj Jazirah,January,2026,3,2,0,1,,,,,1765375966
+Sudan,Blue Nile,January,2026,5,4,1,0,,,,,1765375966
+Sudan,Central Darfur,January,2026,6,2,1,3,,,,,1765375966
+Sudan,East Darfur,January,2026,7,2,1,4,,,,,1765375966
+Sudan,Gedaref,January,2026,2,2,0,0,,,,,1765375966
+Sudan,Kassala,January,2026,2,2,0,0,,,,,1765375966
+Sudan,Khartoum,January,2026,4,4,0,0,,,,,1765375966
+Sudan,North Darfur,January,2026,27,12,8,7,,,,,1765375966
+Sudan,North Kordofan,January,2026,38,12,17,9,,,,,1765375966
+Sudan,Northern,January,2026,8,2,6,0,,,,,1765375966
+Sudan,Red Sea,January,2026,2,2,0,0,,,,,1765375966
+Sudan,River Nile,January,2026,2,2,0,0,,,,,1765375966
+Sudan,Sennar,January,2026,2,2,0,0,,,,,1765375966
+Sudan,South Darfur,January,2026,24,4,6,14,,,,,1765375966
+Sudan,South Kordofan,January,2026,17,5,8,4,,,,,1765375966
+Sudan,West Darfur,January,2026,7,2,2,3,,,,,1765375966
+Sudan,West Kordofan,January,2026,47,17,20,10,,,,,1765375966
+Sudan,White Nile,January,2026,4,2,2,0,,,,,1765375966
+Sudan,Abyei PCA,February,2026,3,2,0,1,,,,,1765375966
+Sudan,Aj Jazirah,February,2026,3,2,0,1,,,,,1765375966
+Sudan,Blue Nile,February,2026,5,4,1,0,,,,,1765375966
+Sudan,Central Darfur,February,2026,6,2,1,3,,,,,1765375966
+Sudan,East Darfur,February,2026,7,2,1,4,,,,,1765375966
+Sudan,Gedaref,February,2026,2,2,0,0,,,,,1765375966
+Sudan,Kassala,February,2026,2,2,0,0,,,,,1765375966
+Sudan,Khartoum,February,2026,4,4,0,0,,,,,1765375966
+Sudan,North Darfur,February,2026,28,12,8,8,,,,,1765375966
+Sudan,North Kordofan,February,2026,38,12,17,9,,,,,1765375966
+Sudan,Northern,February,2026,8,2,6,0,,,,,1765375966
+Sudan,Red Sea,February,2026,2,2,0,0,,,,,1765375966
+Sudan,River Nile,February,2026,2,2,0,0,,,,,1765375966
+Sudan,Sennar,February,2026,2,2,0,0,,,,,1765375966
+Sudan,South Darfur,February,2026,24,4,6,14,,,,,1765375966
+Sudan,South Kordofan,February,2026,17,5,8,4,,,,,1765375966
+Sudan,West Darfur,February,2026,7,2,2,3,,,,,1765375966
+Sudan,West Kordofan,February,2026,48,17,20,11,,,,,1765375966
+Sudan,White Nile,February,2026,4,2,2,0,,,,,1765375966
+Sudan,Abyei PCA,March,2026,3,2,0,1,,,,,1765375966
+Sudan,Aj Jazirah,March,2026,3,2,0,1,,,,,1765375966
+Sudan,Blue Nile,March,2026,5,4,1,0,,,,,1765375966
+Sudan,Central Darfur,March,2026,6,2,1,3,,,,,1765375966
+Sudan,East Darfur,March,2026,7,2,1,4,,,,,1765375966
+Sudan,Gedaref,March,2026,2,2,0,0,,,,,1765375966
+Sudan,Kassala,March,2026,2,2,0,0,,,,,1765375966
+Sudan,Khartoum,March,2026,4,4,0,0,,,,,1765375966
+Sudan,North Darfur,March,2026,27,12,8,7,,,,,1765375966
+Sudan,North Kordofan,March,2026,38,12,17,9,,,,,1765375966
+Sudan,Northern,March,2026,8,2,6,0,,,,,1765375966
+Sudan,Red Sea,March,2026,2,2,0,0,,,,,1765375966
+Sudan,River Nile,March,2026,2,2,0,0,,,,,1765375966
+Sudan,Sennar,March,2026,2,2,0,0,,,,,1765375966
+Sudan,South Darfur,March,2026,24,4,6,14,,,,,1765375966
+Sudan,South Kordofan,March,2026,17,5,8,4,,,,,1765375966
+Sudan,West Darfur,March,2026,7,2,2,3,,,,,1765375966
+Sudan,West Kordofan,March,2026,47,17,20,10,,,,,1765375966
+Sudan,White Nile,March,2026,4,2,2,0,,,,,1765375966
+Sudan,Abyei PCA,April,2026,3,2,0,1,,,,,1765375966
+Sudan,Aj Jazirah,April,2026,3,2,0,1,,,,,1765375966
+Sudan,Blue Nile,April,2026,5,4,1,0,,,,,1765375966
+Sudan,Central Darfur,April,2026,6,2,1,3,,,,,1765375966
+Sudan,East Darfur,April,2026,8,2,1,5,,,,,1765375966
+Sudan,Gedaref,April,2026,2,2,0,0,,,,,1765375966
+Sudan,Kassala,April,2026,2,2,0,0,,,,,1765375966
+Sudan,Khartoum,April,2026,4,4,0,0,,,,,1765375966
+Sudan,North Darfur,April,2026,26,12,8,6,,,,,1765375966
+Sudan,North Kordofan,April,2026,39,12,17,10,,,,,1765375966
+Sudan,Northern,April,2026,8,2,6,0,,,,,1765375966
+Sudan,Red Sea,April,2026,2,2,0,0,,,,,1765375966
+Sudan,River Nile,April,2026,2,2,0,0,,,,,1765375966
+Sudan,Sennar,April,2026,2,2,0,0,,,,,1765375966
+Sudan,South Darfur,April,2026,20,4,5,11,,,,,1765375966
+Sudan,South Kordofan,April,2026,17,5,7,5,,,,,1765375966
+Sudan,West Darfur,April,2026,7,2,2,3,,,,,1765375966
+Sudan,West Kordofan,April,2026,45,17,20,8,,,,,1765375966
+Sudan,White Nile,April,2026,4,2,2,0,,,,,1765375966
+Sudan,Abyei PCA,May,2026,3,2,0,1,,,,,1765375966
+Sudan,Aj Jazirah,May,2026,3,2,0,1,,,,,1765375966
+Sudan,Blue Nile,May,2026,5,4,1,0,,,,,1765375966
+Sudan,Central Darfur,May,2026,6,2,1,3,,,,,1765375966
+Sudan,East Darfur,May,2026,7,2,1,4,,,,,1765375966
+Sudan,Gedaref,May,2026,2,2,0,0,,,,,1765375966
+Sudan,Kassala,May,2026,2,2,0,0,,,,,1765375966
+Sudan,Khartoum,May,2026,4,4,0,0,,,,,1765375966
+Sudan,North Darfur,May,2026,27,12,8,7,,,,,1765375966
+Sudan,North Kordofan,May,2026,39,12,17,10,,,,,1765375966
+Sudan,Northern,May,2026,8,2,6,0,,,,,1765375966
+Sudan,Red Sea,May,2026,2,2,0,0,,,,,1765375966
+Sudan,River Nile,May,2026,2,2,0,0,,,,,1765375966
+Sudan,Sennar,May,2026,2,2,0,0,,,,,1765375966
+Sudan,South Darfur,May,2026,24,4,6,14,,,,,1765375966
+Sudan,South Kordofan,May,2026,17,5,8,4,,,,,1765375966
+Sudan,West Darfur,May,2026,6,2,2,2,,,,,1765375966
+Sudan,West Kordofan,May,2026,47,17,20,10,,,,,1765375966
+Sudan,White Nile,May,2026,4,2,2,0,,,,,1765375966

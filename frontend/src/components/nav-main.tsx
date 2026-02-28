@@ -1,5 +1,6 @@
 import { ChevronRight, type LucideIcon } from "lucide-react"
 import { useRouter, useMatches } from "@tanstack/react-router"
+import { useAppStore } from "@/stores/app"
 
 import {
   Collapsible,
@@ -34,6 +35,7 @@ export function NavMain({
   const router = useRouter()
   const matches = useMatches()
   const currentPath = matches[matches.length - 1]?.fullPath ?? ""
+  const { setCommandOpen } = useAppStore()
 
   return (
     <SidebarGroup>
@@ -72,7 +74,11 @@ export function NavMain({
                             href={subItem.url}
                             onClick={(e) => {
                               e.preventDefault()
-                              router.navigate({ to: subItem.url })
+                              if (subItem.url === "#ask-sentinel") {
+                                setCommandOpen(true)
+                              } else {
+                                router.navigate({ to: subItem.url })
+                              }
                             }}
                           >
                             <span>{subItem.title}</span>

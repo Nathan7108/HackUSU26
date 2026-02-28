@@ -1,5 +1,5 @@
 import { create } from "zustand"
-import type { Country } from "@/types"
+import type { Map as MapboxMap } from "mapbox-gl"
 
 export interface ChatMessage {
   role: "user" | "assistant"
@@ -31,6 +31,10 @@ interface AppStore {
   chatMessages: ChatMessage[]
   setChatMessages: (msgs: ChatMessage[] | ((prev: ChatMessage[]) => ChatMessage[])) => void
   clearChat: () => void
+
+  // Global map reference (set by GlobeMap, read by demo shortcuts)
+  mapInstance: MapboxMap | null
+  setMapInstance: (map: MapboxMap | null) => void
 }
 
 export const useAppStore = create<AppStore>()((set, get) => ({
@@ -51,7 +55,7 @@ export const useAppStore = create<AppStore>()((set, get) => ({
   searchQuery: "",
   setSearchQuery: (query) => set({ searchQuery: query }),
 
-  isDemoMode: false,
+  isDemoMode: true,
   setDemoMode: (active) => set({ isDemoMode: active }),
 
   isCommandOpen: false,
@@ -63,4 +67,7 @@ export const useAppStore = create<AppStore>()((set, get) => ({
       chatMessages: typeof msgs === "function" ? msgs(state.chatMessages) : msgs,
     })),
   clearChat: () => set({ chatMessages: [] }),
+
+  mapInstance: null,
+  setMapInstance: (map) => set({ mapInstance: map }),
 }))

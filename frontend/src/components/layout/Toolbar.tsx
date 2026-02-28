@@ -65,7 +65,7 @@ export function Toolbar() {
         <Command size={12} />
         <span>Ask Sentinel</span>
         <kbd
-          className="ml-1 rounded px-1 font-data text-[10px]"
+          className="ml-1 rounded px-1 font-data text-[11px]"
           style={{
             backgroundColor: "var(--sentinel-bg-overlay)",
             color: "var(--sentinel-text-tertiary)",
@@ -77,7 +77,7 @@ export function Toolbar() {
 
       {/* Version */}
       <span
-        className="font-data text-[10px]"
+        className="font-data text-[11px]"
         style={{ color: "var(--sentinel-text-tertiary)" }}
       >
         v2.4.1

@@ -39,3 +39,13 @@ export function toAlpha3(code2: string): string {
 export function toAlpha2(code3: string): string {
   return alpha3to2[code3.toUpperCase()] ?? code3
 }
+
+/** Generate emoji flag from ISO alpha-2 code (e.g., "US" → "🇺🇸") */
+export function flagFromAlpha2(code2: string): string {
+  const upper = code2.toUpperCase()
+  if (upper.length !== 2) return ""
+  return String.fromCodePoint(
+    upper.charCodeAt(0) + 0x1F1A5,
+    upper.charCodeAt(1) + 0x1F1A5,
+  )
+}

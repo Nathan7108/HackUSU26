@@ -1,25 +1,42 @@
 import { useMemo } from "react"
-import type { Country } from "@/types"
+import { useHeadlines, useDashboard } from "@/hooks/use-dashboard"
+import { flagFromAlpha2, toAlpha2 } from "@/lib/country-codes"
 import { riskColor } from "@/lib/risk"
+import type { RiskLevel } from "@/types"
 
-interface NewsTickerProps {
-  countries: Country[]
-}
+export function NewsTicker() {
+  const { data: headlinesData } = useHeadlines()
+  const { dashboard } = useDashboard()
 
-export function NewsTicker({ countries }: NewsTickerProps) {
-  // Collect all headlines with country context, memoized to avoid re-computation
   const doubled = useMemo(() => {
-    const items = countries.flatMap((country) =>
-      country.headlines.map((h) => ({
-        flag: country.flag,
-        code: country.code,
-        riskLevel: country.riskLevel,
-        ...h,
-      })),
-    )
-    // Double for seamless loop
+    if (!headlinesData?.headlines) return []
+
+    // Build a risk level lookup from dashboard countries
+    const riskLookup: Record<string, RiskLevel> = {}
+    if (dashboard?.countries) {
+      for (const c of dashboard.countries) {
+        const code2 = toAlpha2(c.code)
+        riskLookup[code2] = c.riskLevel
+      }
+    }
+
+    const items: Array<{ flag: string; code: string; riskLevel: RiskLevel; text: string; source: string }> = []
+
+    for (const [code2, headlines] of Object.entries(headlinesData.headlines)) {
+      const flag = flagFromAlpha2(code2)
+      const risk = riskLookup[code2] ?? "MODERATE"
+      for (const h of headlines) {
+        if (h.text) {
+          items.push({ flag, code: code2, riskLevel: risk, text: h.text, source: h.source })
+        }
+      }
+    }
+
+    if (items.length === 0) return []
     return [...items, ...items]
-  }, [countries])
+  }, [headlinesData, dashboard])
+
+  if (doubled.length === 0) return null
 
   return (
     <div
@@ -39,7 +56,7 @@ export function NewsTicker({ countries }: NewsTickerProps) {
           style={{ backgroundColor: "var(--risk-critical)" }}
         />
         <span
-          className="font-data text-[9px] font-bold tracking-wider"
+          className="font-data text-[10px] font-bold tracking-wider"
           style={{ color: "var(--sentinel-text-tertiary)" }}
         >
           SIGACT
@@ -50,26 +67,28 @@ export function NewsTicker({ countries }: NewsTickerProps) {
       <div className="flex-1 overflow-hidden">
         <div className="animate-ticker flex items-center whitespace-nowrap">
           {doubled.map((item, i) => (
-            <span key={`${i < doubled.length / 2 ? "a" : "b"}-${item.code}-${item.text}`} className="mr-8 flex items-center gap-2">
+            <span key={`${i < doubled.length / 2 ? "a" : "b"}-${item.code}-${i}`} className="mr-8 flex items-center gap-2">
               <span className="text-xs">{item.flag}</span>
               <span
-                className="font-data text-[9px] font-semibold"
+                className="font-data text-[10px] font-semibold"
                 style={{ color: riskColor[item.riskLevel] }}
               >
                 {item.code}
               </span>
               <span
-                className="text-[11px]"
+                className="text-[12px]"
                 style={{ color: "var(--sentinel-text-secondary)" }}
               >
                 {item.text}
               </span>
-              <span
-                className="font-data text-[9px]"
-                style={{ color: "var(--sentinel-text-tertiary)" }}
-              >
-                — {item.source}
-              </span>
+              {item.source && (
+                <span
+                  className="font-data text-[10px]"
+                  style={{ color: "var(--sentinel-text-tertiary)" }}
+                >
+                  {item.source}
+                </span>
+              )}
             </span>
           ))}
         </div>

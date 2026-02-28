@@ -1,0 +1,427 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Saudi Arabia,Al Bahah,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Bahah,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Madinah,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Al Qassim,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Ar Riyadh,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,March,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,September,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141088
+Saudi Arabia,Asir,October,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Asir,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Eastern,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Eastern,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Eastern,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+Saudi Arabia,Eastern,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Eastern,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Hail,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,March,2023,1,0,1,0,1.0,0.0,1.0,0.0,1726141089
+Saudi Arabia,Jizan,April,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,September,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141089
+Saudi Arabia,Jizan,October,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Jizan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,July,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Mecca,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Najran,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Tabuk,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141089
+Saudi Arabia,Al Bahah,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Al Madinah,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Al Qassim,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Ar Riyadh,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Asir,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Eastern,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Hail,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Jizan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Mecca,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Najran,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Tabuk,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+Saudi Arabia,Al Bahah,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Al Bahah,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Al Madinah,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Al Madinah,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Al Qassim,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Al Qassim,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Ar Riyadh,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Ar Riyadh,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Asir,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Asir,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Eastern,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Eastern,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Hail,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Hail,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Jizan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Jizan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+Saudi Arabia,Mecca,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+Saudi Arabia,Mecca,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+Saudi Arabia,Najran,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+Saudi Arabia,Najran,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+Saudi Arabia,Tabuk,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+Saudi Arabia,Tabuk,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+Saudi Arabia,Al Bahah,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+Saudi Arabia,Al Madinah,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+Saudi Arabia,Al Qassim,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Ar Riyadh,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Asir,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Eastern,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Hail,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Jizan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Mecca,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Najran,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Tabuk,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+Saudi Arabia,Al Bahah,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Al Madinah,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Al Qassim,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Ar Riyadh,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Asir,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Eastern,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Hail,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Jizan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Mecca,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Najran,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Tabuk,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+Saudi Arabia,Al Bahah,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Al Madinah,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Al Qassim,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Ar Riyadh,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Asir,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Eastern,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Hail,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Jizan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Mecca,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Najran,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Tabuk,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+Saudi Arabia,Al Bahah,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Al Madinah,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Al Qassim,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Ar Riyadh,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Asir,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Eastern,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Hail,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Jizan,March,2025,0,0,0,0,1.0,0.0,1.0,0.0,1744287548
+Saudi Arabia,Mecca,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Najran,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Tabuk,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+Saudi Arabia,Al Bahah,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Al Madinah,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Al Qassim,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Ar Riyadh,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Asir,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Eastern,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Hail,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Jizan,April,2025,1,0,1,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Mecca,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Najran,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Tabuk,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Saudi Arabia,Al Bahah,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Al Madinah,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Al Qassim,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Ar Riyadh,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Asir,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Eastern,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Hail,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Jizan,May,2025,0,0,0,0,2.0,0.0,2.0,0.0,1749732028
+Saudi Arabia,Mecca,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Najran,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Tabuk,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+Saudi Arabia,Al Bahah,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Al Bahah,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Al Bahah,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Al Bahah,September,2025,0,0,0,0,,,,,1760036046
+Saudi Arabia,Al Bahah,October,2025,0,0,0,0,,,,,1757596698
+Saudi Arabia,Al Bahah,November,2025,0,0,0,0,,,,,1757596698
+Saudi Arabia,Al Bahah,December,2025,0,0,0,0,,,,,1757596698
+Saudi Arabia,Al Madinah,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Al Madinah,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Al Madinah,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Al Madinah,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Al Madinah,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Al Madinah,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Al Madinah,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Qassim,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Al Qassim,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Al Qassim,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Al Qassim,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Al Qassim,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Al Qassim,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Al Qassim,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Ar Riyadh,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Ar Riyadh,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Ar Riyadh,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Ar Riyadh,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Ar Riyadh,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Ar Riyadh,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Ar Riyadh,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Asir,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Asir,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Asir,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Asir,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Asir,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Asir,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Asir,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Eastern,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Eastern,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Eastern,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Eastern,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Eastern,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Eastern,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Eastern,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Hail,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Hail,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Hail,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Hail,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Hail,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Hail,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Hail,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Jizan,June,2025,2,0,2,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Jizan,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Saudi Arabia,Jizan,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Jizan,September,2025,0,0,0,0,1.0,0.0,1.0,0.0,1760036046
+Saudi Arabia,Jizan,October,2025,1,0,1,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Jizan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Jizan,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Mecca,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Mecca,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Mecca,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Mecca,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Mecca,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Mecca,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Mecca,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Najran,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Najran,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Najran,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Najran,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Najran,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Najran,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Najran,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Tabuk,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Tabuk,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Saudi Arabia,Tabuk,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Saudi Arabia,Tabuk,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Saudi Arabia,Tabuk,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Saudi Arabia,Tabuk,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Saudi Arabia,Tabuk,December,2025,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Bahah,January,2026,0,0,0,0,,,,,1757596698
+Saudi Arabia,Al Madinah,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Qassim,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Ar Riyadh,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Asir,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Eastern,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Hail,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Jizan,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Mecca,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Najran,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Tabuk,January,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Bahah,February,2026,0,0,0,0,,,,,1757596698
+Saudi Arabia,Al Madinah,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Qassim,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Ar Riyadh,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Asir,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Eastern,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Hail,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Jizan,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Mecca,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Najran,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Tabuk,February,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Madinah,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Qassim,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Ar Riyadh,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Asir,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Eastern,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Hail,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Jizan,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Mecca,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Najran,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Tabuk,March,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Madinah,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Qassim,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Ar Riyadh,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Asir,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Eastern,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Hail,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Jizan,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Mecca,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Najran,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Tabuk,April,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Madinah,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Al Qassim,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Ar Riyadh,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Asir,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Eastern,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Hail,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Jizan,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Mecca,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Najran,May,2026,0,0,0,0,,,,,1765375966
+Saudi Arabia,Tabuk,May,2026,0,0,0,0,,,,,1765375966

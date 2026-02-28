@@ -1,0 +1,457 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Morocco,Fez-Meknes,February,2024,0,0,0,0,,,,,1704898567
+Morocco,Fez-Meknes,March,2024,0,0,0,0,,,,,1704898567
+Morocco,Fez-Meknes,April,2024,0,0,0,0,,,,,1704898567
+Morocco,Fez-Meknes,May,2024,0,0,0,0,,,,,1704898567
+Morocco,Fez-Meknes,June,2024,0,0,0,0,,,,,1704898567
+Morocco,Tangier-Tetouan-Al Hoceima,February,2024,0,0,0,0,,,,,1704898568
+Morocco,Tangier-Tetouan-Al Hoceima,March,2024,0,0,0,0,,,,,1704898568
+Morocco,Tangier-Tetouan-Al Hoceima,April,2024,0,0,0,0,,,,,1704898568
+Morocco,Tangier-Tetouan-Al Hoceima,May,2024,0,0,0,0,,,,,1704898568
+Morocco,Tangier-Tetouan-Al Hoceima,June,2024,0,0,0,0,,,,,1704898568
+Morocco,Beni Mellal-Khenifra,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Beni Mellal-Khenifra,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Beni Mellal-Khenifra,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Beni Mellal-Khenifra,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Beni Mellal-Khenifra,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Beni Mellal-Khenifra,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Beni Mellal-Khenifra,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141062
+Morocco,Béni Mellal-Khénifra,January,2024,0,0,0,0,,,,,1726141062
+Morocco,Casablanca-Settat,March,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141062
+Morocco,Casablanca-Settat,April,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141062
+Morocco,Casablanca-Settat,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Casablanca-Settat,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Draa-Tafilalet,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Draa-Tafilalet,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Draa-Tafilalet,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Draa-Tafilalet,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Draa-Tafilalet,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Draa-Tafilalet,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Draa-Tafilalet,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Drâa-Tafilalet,January,2024,0,0,0,0,,,,,1726141063
+Morocco,Eddakhla-Oued Eddahab,February,2024,2,0,2,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Eddakhla-Oued Eddahab,March,2024,1,0,1,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Eddakhla-Oued Eddahab,April,2024,1,0,1,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Eddakhla-Oued Eddahab,May,2024,1,0,1,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Eddakhla-Oued Eddahab,June,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Eddakhla-Oued Eddahab,July,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Eddakhla-Oued Eddahab,August,2024,1,0,1,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Fes-Meknes,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fes-Meknes,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fes-Meknes,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fes-Meknes,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fes-Meknes,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fes-Meknes,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fes-Meknes,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Morocco,Fez-Meknes,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Fez-Meknes,January,2024,0,0,0,0,,,,,1726141063
+Morocco,Guelmim-Oued Noun,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,November,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,December,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Guelmim-Oued Noun,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Laayoune-Sakia El Hamra,February,2024,1,0,1,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Laayoune-Sakia El Hamra,March,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Laayoune-Sakia El Hamra,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Laayoune-Sakia El Hamra,May,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141063
+Morocco,Laayoune-Sakia El Hamra,June,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Laayoune-Sakia El Hamra,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Laayoune-Sakia El Hamra,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Morocco,Marrakech-Safi,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Marrakech-Safi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Morocco,Oriental,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Oriental,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Sale-Kenitra,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Sale-Kenitra,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Sale-Kenitra,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Sale-Kenitra,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Sale-Kenitra,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Sale-Kenitra,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Sale-Kenitra,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Morocco,Rabat-Salé-Kenitra,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Morocco,Rabat-Salé-Kenitra,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Rabat-Salé-Kenitra,January,2024,0,0,0,0,,,,,1726141063
+Morocco,Souss-Massa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Morocco,Souss-Massa,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Souss-Massa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tanger-Tetouan-Al Hoceima,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tanger-Tetouan-Al Hoceima,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tanger-Tetouan-Al Hoceima,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tanger-Tetouan-Al Hoceima,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tanger-Tetouan-Al Hoceima,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tanger-Tetouan-Al Hoceima,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tanger-Tetouan-Al Hoceima,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Morocco,Tangier-Tetouan-Al Hoceima,January,2024,0,0,0,0,,,,,1726141063
+Morocco,Beni Mellal-Khenifra,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Casablanca-Settat,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Draa-Tafilalet,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Eddakhla-Oued Eddahab,September,2024,1,0,1,0,1.0,0.0,1.0,0.0,1730730996
+Morocco,Fes-Meknes,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Guelmim-Oued Noun,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Laayoune-Sakia El Hamra,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Marrakech-Safi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Oriental,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Rabat-Sale-Kenitra,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Souss-Massa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Tanger-Tetouan-Al Hoceima,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Morocco,Beni Mellal-Khenifra,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Beni Mellal-Khenifra,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Casablanca-Settat,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Casablanca-Settat,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Draa-Tafilalet,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Draa-Tafilalet,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010295
+Morocco,Eddakhla-Oued Eddahab,October,2024,1,0,1,0,1.0,0.0,1.0,0.0,1734010295
+Morocco,Eddakhla-Oued Eddahab,November,2024,1,0,1,0,2.0,0.0,2.0,0.0,1734010295
+Morocco,Fes-Meknes,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Fes-Meknes,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Guelmim-Oued Noun,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Guelmim-Oued Noun,November,2024,0,0,0,0,2.0,0.0,2.0,0.0,1734010295
+Morocco,Laayoune-Sakia El Hamra,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Laayoune-Sakia El Hamra,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Marrakech-Safi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Marrakech-Safi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Oriental,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Oriental,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Rabat-Sale-Kenitra,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Rabat-Sale-Kenitra,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Souss-Massa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Souss-Massa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Tanger-Tetouan-Al Hoceima,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Tanger-Tetouan-Al Hoceima,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Morocco,Beni Mellal-Khenifra,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033357
+Morocco,Casablanca-Settat,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033357
+Morocco,Draa-Tafilalet,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033357
+Morocco,Eddakhla-Oued Eddahab,December,2024,2,0,2,0,0.0,0.0,0.0,0.0,1737033357
+Morocco,Fes-Meknes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033357
+Morocco,Guelmim-Oued Noun,December,2024,2,0,2,0,2.0,0.0,2.0,0.0,1737033357
+Morocco,Laayoune-Sakia El Hamra,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033357
+Morocco,Marrakech-Safi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Morocco,Oriental,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Morocco,Rabat-Sale-Kenitra,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Morocco,Souss-Massa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Morocco,Tanger-Tetouan-Al Hoceima,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Morocco,Beni Mellal-Khenifra,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Casablanca-Settat,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Draa-Tafilalet,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Eddakhla-Oued Eddahab,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Fes-Meknes,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Guelmim-Oued Noun,January,2025,1,0,1,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Laayoune-Sakia El Hamra,January,2025,0,0,0,0,4.0,0.0,3.0,1.0,1738854860
+Morocco,Marrakech-Safi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Oriental,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Rabat-Sale-Kenitra,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Souss-Massa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Tanger-Tetouan-Al Hoceima,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Morocco,Beni Mellal-Khenifra,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266630
+Morocco,Casablanca-Settat,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266630
+Morocco,Draa-Tafilalet,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266630
+Morocco,Eddakhla-Oued Eddahab,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266630
+Morocco,Fes-Meknes,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266630
+Morocco,Guelmim-Oued Noun,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266630
+Morocco,Laayoune-Sakia El Hamra,February,2025,3,0,2,1,0.0,0.0,0.0,0.0,1741266630
+Morocco,Marrakech-Safi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266630
+Morocco,Oriental,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Morocco,Rabat-Sale-Kenitra,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Morocco,Souss-Massa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Morocco,Tanger-Tetouan-Al Hoceima,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Morocco,Beni Mellal-Khenifra,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Morocco,Casablanca-Settat,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Morocco,Draa-Tafilalet,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Morocco,Eddakhla-Oued Eddahab,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Morocco,Fes-Meknes,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Morocco,Guelmim-Oued Noun,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Morocco,Laayoune-Sakia El Hamra,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287545
+Morocco,Marrakech-Safi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Morocco,Oriental,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Morocco,Rabat-Sale-Kenitra,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Morocco,Souss-Massa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Morocco,Tanger-Tetouan-Al Hoceima,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Morocco,Beni Mellal-Khenifra,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Casablanca-Settat,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Draa-Tafilalet,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Eddakhla-Oued Eddahab,April,2025,0,0,0,0,1.0,0.0,1.0,0.0,1746702915
+Morocco,Fes-Meknes,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Guelmim-Oued Noun,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Laayoune-Sakia El Hamra,April,2025,2,0,1,1,1.0,0.0,1.0,0.0,1746702915
+Morocco,Marrakech-Safi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Oriental,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Rabat-Sale-Kenitra,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Souss-Massa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Tanger-Tetouan-Al Hoceima,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Morocco,Beni Mellal-Khenifra,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Casablanca-Settat,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Draa-Tafilalet,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732020
+Morocco,Eddakhla-Oued Eddahab,May,2025,1,0,1,0,2.0,0.0,2.0,0.0,1749732020
+Morocco,Fes-Meknes,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Guelmim-Oued Noun,May,2025,0,0,0,0,1.0,0.0,1.0,0.0,1749732020
+Morocco,Laayoune-Sakia El Hamra,May,2025,1,0,1,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Marrakech-Safi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Oriental,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Rabat-Sale-Kenitra,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Souss-Massa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Tanger-Tetouan-Al Hoceima,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Morocco,Beni Mellal-Khenifra,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Beni Mellal-Khenifra,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Beni Mellal-Khenifra,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Beni Mellal-Khenifra,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Beni Mellal-Khenifra,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Beni Mellal-Khenifra,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Beni Mellal-Khenifra,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Casablanca-Settat,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Casablanca-Settat,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Casablanca-Settat,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Casablanca-Settat,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Casablanca-Settat,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Casablanca-Settat,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Casablanca-Settat,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Draa-Tafilalet,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Morocco,Draa-Tafilalet,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Draa-Tafilalet,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Draa-Tafilalet,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Draa-Tafilalet,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Draa-Tafilalet,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Draa-Tafilalet,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Eddakhla-Oued Eddahab,June,2025,2,0,2,0,1.0,0.0,1.0,0.0,1754429217
+Morocco,Eddakhla-Oued Eddahab,July,2025,1,0,1,0,1.0,0.0,1.0,0.0,1754429217
+Morocco,Eddakhla-Oued Eddahab,August,2025,1,0,1,0,2.0,0.0,2.0,0.0,1757596698
+Morocco,Eddakhla-Oued Eddahab,September,2025,2,0,2,0,1.0,0.0,1.0,0.0,1760036046
+Morocco,Eddakhla-Oued Eddahab,October,2025,1,0,1,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Eddakhla-Oued Eddahab,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Morocco,Eddakhla-Oued Eddahab,December,2025,1,0,0,1,,,,,1765375966
+Morocco,Fes-Meknes,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Fes-Meknes,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Fes-Meknes,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Fes-Meknes,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Fes-Meknes,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Fes-Meknes,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Fes-Meknes,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Guelmim-Oued Noun,June,2025,1,0,1,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Guelmim-Oued Noun,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Guelmim-Oued Noun,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Guelmim-Oued Noun,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Guelmim-Oued Noun,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Guelmim-Oued Noun,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Guelmim-Oued Noun,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Laayoune-Sakia El Hamra,June,2025,0,0,0,0,3.0,0.0,3.0,0.0,1754429217
+Morocco,Laayoune-Sakia El Hamra,July,2025,3,0,3,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Laayoune-Sakia El Hamra,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Laayoune-Sakia El Hamra,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Morocco,Laayoune-Sakia El Hamra,October,2025,1,0,1,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Laayoune-Sakia El Hamra,November,2025,0,0,0,0,3.0,0.0,1.0,2.0,1765375966
+Morocco,Laayoune-Sakia El Hamra,December,2025,4,0,2,2,,,,,1765375966
+Morocco,Marrakech-Safi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Marrakech-Safi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Marrakech-Safi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Marrakech-Safi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Marrakech-Safi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Marrakech-Safi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Marrakech-Safi,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Oriental,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Oriental,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Morocco,Oriental,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Morocco,Oriental,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Oriental,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Morocco,Oriental,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Morocco,Oriental,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Rabat-Sale-Kenitra,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Rabat-Sale-Kenitra,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Rabat-Sale-Kenitra,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Rabat-Sale-Kenitra,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Rabat-Sale-Kenitra,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Rabat-Sale-Kenitra,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Rabat-Sale-Kenitra,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Souss-Massa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Souss-Massa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Souss-Massa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Morocco,Souss-Massa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Morocco,Souss-Massa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Souss-Massa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Souss-Massa,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Tanger-Tetouan-Al Hoceima,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Tanger-Tetouan-Al Hoceima,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Morocco,Tanger-Tetouan-Al Hoceima,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Morocco,Tanger-Tetouan-Al Hoceima,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Morocco,Tanger-Tetouan-Al Hoceima,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Morocco,Tanger-Tetouan-Al Hoceima,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Morocco,Tanger-Tetouan-Al Hoceima,December,2025,0,0,0,0,,,,,1765375966
+Morocco,Beni Mellal-Khenifra,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Casablanca-Settat,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Draa-Tafilalet,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Eddakhla-Oued Eddahab,January,2026,1,0,0,1,,,,,1765375966
+Morocco,Fes-Meknes,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Guelmim-Oued Noun,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Laayoune-Sakia El Hamra,January,2026,4,0,2,2,,,,,1765375966
+Morocco,Marrakech-Safi,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Oriental,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Rabat-Sale-Kenitra,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Souss-Massa,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Tanger-Tetouan-Al Hoceima,January,2026,0,0,0,0,,,,,1765375966
+Morocco,Beni Mellal-Khenifra,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Casablanca-Settat,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Draa-Tafilalet,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Eddakhla-Oued Eddahab,February,2026,1,0,0,1,,,,,1765375966
+Morocco,Fes-Meknes,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Guelmim-Oued Noun,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Laayoune-Sakia El Hamra,February,2026,4,0,2,2,,,,,1765375966
+Morocco,Marrakech-Safi,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Oriental,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Rabat-Sale-Kenitra,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Souss-Massa,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Tanger-Tetouan-Al Hoceima,February,2026,0,0,0,0,,,,,1765375966
+Morocco,Beni Mellal-Khenifra,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Casablanca-Settat,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Draa-Tafilalet,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Eddakhla-Oued Eddahab,March,2026,1,0,0,1,,,,,1765375966
+Morocco,Fes-Meknes,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Guelmim-Oued Noun,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Laayoune-Sakia El Hamra,March,2026,4,0,2,2,,,,,1765375966
+Morocco,Marrakech-Safi,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Oriental,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Rabat-Sale-Kenitra,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Souss-Massa,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Tanger-Tetouan-Al Hoceima,March,2026,0,0,0,0,,,,,1765375966
+Morocco,Beni Mellal-Khenifra,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Casablanca-Settat,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Draa-Tafilalet,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Eddakhla-Oued Eddahab,April,2026,1,0,0,1,,,,,1765375966
+Morocco,Fes-Meknes,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Guelmim-Oued Noun,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Laayoune-Sakia El Hamra,April,2026,4,0,2,2,,,,,1765375966
+Morocco,Marrakech-Safi,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Oriental,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Rabat-Sale-Kenitra,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Souss-Massa,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Tanger-Tetouan-Al Hoceima,April,2026,0,0,0,0,,,,,1765375966
+Morocco,Beni Mellal-Khenifra,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Casablanca-Settat,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Draa-Tafilalet,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Eddakhla-Oued Eddahab,May,2026,1,0,0,1,,,,,1765375966
+Morocco,Fes-Meknes,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Guelmim-Oued Noun,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Laayoune-Sakia El Hamra,May,2026,4,0,2,2,,,,,1765375966
+Morocco,Marrakech-Safi,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Oriental,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Rabat-Sale-Kenitra,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Souss-Massa,May,2026,0,0,0,0,,,,,1765375966
+Morocco,Tanger-Tetouan-Al Hoceima,May,2026,0,0,0,0,,,,,1765375966

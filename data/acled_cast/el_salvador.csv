@@ -1,0 +1,547 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+El Salvador,Ahuachapan,March,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141090
+El Salvador,Ahuachapan,April,2023,2,1,0,0,1.0,1.0,0.0,0.0,1726141090
+El Salvador,Ahuachapan,May,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141090
+El Salvador,Ahuachapan,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Ahuachapan,July,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Ahuachapan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Cabanas,July,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Cabanas,August,2023,1,1,0,0,2.0,2.0,0.0,0.0,1726141091
+El Salvador,Cabanas,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Cabanas,April,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cabanas,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Chalatenango,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,June,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Chalatenango,July,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,March,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141091
+El Salvador,Chalatenango,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,June,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Chalatenango,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,July,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Cuscatlan,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,La Libertad,March,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141091
+El Salvador,La Libertad,April,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141091
+El Salvador,La Libertad,May,2023,1,1,0,1,1.0,1.0,0.0,0.0,1726141091
+El Salvador,La Libertad,June,2023,1,1,0,1,1.0,1.0,0.0,0.0,1726141091
+El Salvador,La Libertad,July,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,La Libertad,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,September,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141091
+El Salvador,La Libertad,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,November,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141091
+El Salvador,La Libertad,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Libertad,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,La Paz,July,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,La Paz,June,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Paz,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,La Union,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Morazan,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Morazan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,San Miguel,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,San Miguel,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141091
+El Salvador,San Miguel,November,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,San Miguel,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Miguel,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,March,2023,1,0,0,1,3.0,2.0,0.0,1.0,1726141091
+El Salvador,San Salvador,April,2023,2,2,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,May,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141091
+El Salvador,San Salvador,June,2023,1,1,0,1,1.0,0.0,0.0,1.0,1726141091
+El Salvador,San Salvador,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141091
+El Salvador,San Salvador,August,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141091
+El Salvador,San Salvador,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,San Salvador,November,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Salvador,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,San Vicente,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,November,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141091
+El Salvador,San Vicente,December,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,San Vicente,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,San Vicente,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Santa Ana,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Santa Ana,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Santa Ana,March,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Santa Ana,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,March,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,April,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Sonsonate,May,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141091
+El Salvador,Sonsonate,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,September,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,October,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,November,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141091
+El Salvador,Sonsonate,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Sonsonate,March,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141092
+El Salvador,Sonsonate,April,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Sonsonate,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Sonsonate,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Sonsonate,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Sonsonate,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141092
+El Salvador,Usulutan,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141092
+El Salvador,Usulutan,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141092
+El Salvador,Usulutan,January,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141092
+El Salvador,Usulutan,February,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Usulutan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141092
+El Salvador,Ahuachapan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+El Salvador,Cabanas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+El Salvador,Chalatenango,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+El Salvador,Cuscatlan,September,2024,1,1,0,0,0.0,0.0,0.0,0.0,1730731002
+El Salvador,La Libertad,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730731003
+El Salvador,La Paz,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,La Union,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,Morazan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,San Miguel,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,San Salvador,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,San Vicente,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,Santa Ana,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,Sonsonate,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,Usulutan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+El Salvador,Ahuachapan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Ahuachapan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Cabanas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Cabanas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Chalatenango,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Chalatenango,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Cuscatlan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Cuscatlan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,La Libertad,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010308
+El Salvador,La Libertad,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010308
+El Salvador,La Paz,October,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010308
+El Salvador,La Paz,November,2024,1,1,0,0,1.0,1.0,0.0,0.0,1734010308
+El Salvador,La Union,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,La Union,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Morazan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Morazan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,San Miguel,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,San Miguel,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,San Salvador,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,San Salvador,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,San Vicente,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,San Vicente,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Santa Ana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Santa Ana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010308
+El Salvador,Sonsonate,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+El Salvador,Sonsonate,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+El Salvador,Usulutan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+El Salvador,Usulutan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+El Salvador,Ahuachapan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,Cabanas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,Chalatenango,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,Cuscatlan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,La Libertad,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033372
+El Salvador,La Paz,December,2024,1,1,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,La Union,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,Morazan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,San Miguel,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,San Salvador,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,San Vicente,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,Santa Ana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,Sonsonate,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033372
+El Salvador,Usulutan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033373
+El Salvador,Ahuachapan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+El Salvador,Cabanas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+El Salvador,Chalatenango,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+El Salvador,Cuscatlan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+El Salvador,La Libertad,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,La Paz,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,La Union,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,Morazan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,San Miguel,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,San Salvador,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,San Vicente,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,Santa Ana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,Sonsonate,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,Usulutan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+El Salvador,Ahuachapan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,Cabanas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,Chalatenango,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,Cuscatlan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,La Libertad,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,La Paz,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,La Union,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,Morazan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,San Miguel,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,San Salvador,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,San Vicente,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,Santa Ana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266641
+El Salvador,Sonsonate,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266642
+El Salvador,Usulutan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266642
+El Salvador,Ahuachapan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,Cabanas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,Chalatenango,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,Cuscatlan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,La Libertad,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,La Paz,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,La Union,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,Morazan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,San Miguel,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,San Salvador,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287548
+El Salvador,San Vicente,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,Santa Ana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,Sonsonate,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,Usulutan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+El Salvador,Ahuachapan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,Cabanas,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,Chalatenango,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,Cuscatlan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,La Libertad,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,La Paz,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,La Union,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,Morazan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,San Miguel,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,San Salvador,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702918
+El Salvador,San Vicente,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,Santa Ana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,Sonsonate,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,Usulutan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+El Salvador,Ahuachapan,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732029
+El Salvador,Cabanas,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,Chalatenango,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,Cuscatlan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,La Libertad,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,La Paz,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,La Union,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732029
+El Salvador,Morazan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,San Miguel,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,San Salvador,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,San Vicente,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,Santa Ana,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,Sonsonate,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732029
+El Salvador,Usulutan,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732029
+El Salvador,Ahuachapan,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Ahuachapan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Ahuachapan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,Ahuachapan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,Ahuachapan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,Ahuachapan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,Ahuachapan,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,Cabanas,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Cabanas,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Cabanas,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,Cabanas,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,Cabanas,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,Cabanas,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,Cabanas,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,Chalatenango,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Chalatenango,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Chalatenango,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,Chalatenango,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,Chalatenango,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,Chalatenango,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,Chalatenango,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,Cuscatlan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Cuscatlan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Cuscatlan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,Cuscatlan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,Cuscatlan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,Cuscatlan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,Cuscatlan,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,La Libertad,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,La Libertad,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,La Libertad,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,La Libertad,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,La Libertad,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,La Libertad,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+El Salvador,La Libertad,December,2025,1,0,0,1,,,,,1765375966
+El Salvador,La Paz,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,La Paz,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+El Salvador,La Paz,August,2025,1,1,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,La Paz,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,La Paz,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,La Paz,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,La Paz,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,La Union,June,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,La Union,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,La Union,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,La Union,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+El Salvador,La Union,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+El Salvador,La Union,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,La Union,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,Morazan,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+El Salvador,Morazan,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Morazan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,Morazan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,Morazan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,Morazan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,Morazan,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,San Miguel,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,San Miguel,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,San Miguel,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,San Miguel,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,San Miguel,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,San Miguel,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,San Miguel,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,San Salvador,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+El Salvador,San Salvador,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+El Salvador,San Salvador,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+El Salvador,San Salvador,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+El Salvador,San Salvador,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,San Salvador,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,San Salvador,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,San Vicente,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,San Vicente,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,San Vicente,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,San Vicente,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,San Vicente,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,San Vicente,November,2025,0,0,0,0,1.0,1.0,0.0,0.0,1765375966
+El Salvador,San Vicente,December,2025,1,1,0,0,,,,,1765375966
+El Salvador,Santa Ana,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+El Salvador,Santa Ana,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Santa Ana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,Santa Ana,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,Santa Ana,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+El Salvador,Santa Ana,November,2025,2,0,0,2,0.0,0.0,0.0,0.0,1765375966
+El Salvador,Santa Ana,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,Sonsonate,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Sonsonate,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Sonsonate,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,Sonsonate,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+El Salvador,Sonsonate,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+El Salvador,Sonsonate,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,Sonsonate,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,Usulutan,June,2025,1,0,0,1,1.0,1.0,0.0,0.0,1754429217
+El Salvador,Usulutan,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+El Salvador,Usulutan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+El Salvador,Usulutan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+El Salvador,Usulutan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+El Salvador,Usulutan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+El Salvador,Usulutan,December,2025,0,0,0,0,,,,,1765375966
+El Salvador,Ahuachapan,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cabanas,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,Chalatenango,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cuscatlan,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Libertad,January,2026,1,0,0,1,,,,,1765375966
+El Salvador,La Paz,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Union,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,Morazan,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Miguel,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Salvador,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Vicente,January,2026,1,1,0,0,,,,,1765375966
+El Salvador,Santa Ana,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,Sonsonate,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,Usulutan,January,2026,0,0,0,0,,,,,1765375966
+El Salvador,Ahuachapan,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cabanas,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,Chalatenango,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cuscatlan,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Libertad,February,2026,1,0,0,1,,,,,1765375966
+El Salvador,La Paz,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Union,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,Morazan,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Miguel,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Salvador,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Vicente,February,2026,1,1,0,0,,,,,1765375966
+El Salvador,Santa Ana,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,Sonsonate,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,Usulutan,February,2026,0,0,0,0,,,,,1765375966
+El Salvador,Ahuachapan,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cabanas,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,Chalatenango,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cuscatlan,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Libertad,March,2026,1,0,0,1,,,,,1765375966
+El Salvador,La Paz,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Union,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,Morazan,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Miguel,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Salvador,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Vicente,March,2026,1,1,0,0,,,,,1765375966
+El Salvador,Santa Ana,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,Sonsonate,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,Usulutan,March,2026,0,0,0,0,,,,,1765375966
+El Salvador,Ahuachapan,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cabanas,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,Chalatenango,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cuscatlan,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Libertad,April,2026,1,0,0,1,,,,,1765375966
+El Salvador,La Paz,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Union,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,Morazan,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Miguel,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Salvador,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Vicente,April,2026,1,1,0,0,,,,,1765375966
+El Salvador,Santa Ana,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,Sonsonate,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,Usulutan,April,2026,0,0,0,0,,,,,1765375966
+El Salvador,Ahuachapan,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cabanas,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,Chalatenango,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,Cuscatlan,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Libertad,May,2026,1,0,0,1,,,,,1765375966
+El Salvador,La Paz,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,La Union,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,Morazan,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Miguel,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Salvador,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,San Vicente,May,2026,1,1,0,0,,,,,1765375966
+El Salvador,Santa Ana,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,Sonsonate,May,2026,0,0,0,0,,,,,1765375966
+El Salvador,Usulutan,May,2026,0,0,0,0,,,,,1765375966

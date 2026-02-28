@@ -1,0 +1,664 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Kazakhstan,Almaty,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,November,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141050
+Kazakhstan,Almaty,December,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Almaty,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Almaty,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Almaty,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Almaty City,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Almaty City,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Almaty City,January,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Almaty City,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Almaty City,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Almaty City,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,May,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141050
+Kazakhstan,Aqmola,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqmola,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Aqtobe,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Astana City,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Astana City,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141050
+Kazakhstan,Astana City,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Astana City,January,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Astana City,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Astana City,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Astana City,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Astana City,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,Astana City,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Atyrau,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,East Kazakhstan,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,East Kazakhstan,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141050
+Kazakhstan,East Kazakhstan,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141050
+Kazakhstan,East Kazakhstan,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,East Kazakhstan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kostanay,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Kazakhstan,Kyzylorda,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Kyzylorda,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Mangystau,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Mangystau,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,March,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141051
+Kazakhstan,Mangystau,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Mangystau,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Mangystau,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Mangystau,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,North Kazakhstan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Pavlodar,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Qaraghandy,December,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141051
+Kazakhstan,Qaraghandy,January,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Qaraghandy,March,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141051
+Kazakhstan,Qaraghandy,April,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Qaraghandy,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Qaraghandy,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Shymkent,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Shymkent,August,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141051
+Kazakhstan,Turkistan,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Turkistan,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,West Kazakhstan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,West Kazakhstan,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,West Kazakhstan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Zhambyl,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Zhambyl,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Zhambyl,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Zhambyl,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141051
+Kazakhstan,Zhambyl,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Zhambyl,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141051
+Kazakhstan,Almaty,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Kazakhstan,Almaty City,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Kazakhstan,Aqmola,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Kazakhstan,Aqtobe,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Kazakhstan,Astana City,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Kazakhstan,Atyrau,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Kazakhstan,East Kazakhstan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Kazakhstan,Kostanay,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Kazakhstan,Kyzylorda,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730993
+Kazakhstan,Mangystau,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730993
+Kazakhstan,North Kazakhstan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730993
+Kazakhstan,Pavlodar,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730993
+Kazakhstan,Qaraghandy,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730993
+Kazakhstan,Shymkent,September,2024,1,0,0,1,2.0,0.0,0.0,2.0,1730730993
+Kazakhstan,Turkistan,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730993
+Kazakhstan,West Kazakhstan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730993
+Kazakhstan,Zhambyl,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730993
+Kazakhstan,Almaty,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Almaty,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010289
+Kazakhstan,Almaty City,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Almaty City,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Aqmola,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Aqmola,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Aqtobe,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Aqtobe,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Astana City,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010289
+Kazakhstan,Astana City,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Atyrau,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Atyrau,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,East Kazakhstan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,East Kazakhstan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Kostanay,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Kostanay,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Kazakhstan,Kyzylorda,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Kyzylorda,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Mangystau,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Mangystau,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,North Kazakhstan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,North Kazakhstan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Pavlodar,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Pavlodar,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Qaraghandy,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Qaraghandy,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Shymkent,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Shymkent,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Turkistan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Turkistan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,West Kazakhstan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,West Kazakhstan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Zhambyl,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Zhambyl,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010290
+Kazakhstan,Almaty,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033351
+Kazakhstan,Almaty City,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Aqmola,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Aqtobe,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Astana City,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Atyrau,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,East Kazakhstan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Kostanay,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Kyzylorda,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Mangystau,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,North Kazakhstan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Pavlodar,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Qaraghandy,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Shymkent,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Turkistan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,West Kazakhstan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033352
+Kazakhstan,Zhambyl,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033352
+Kazakhstan,Almaty,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Almaty City,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Aqmola,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Aqtobe,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Astana City,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Atyrau,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,East Kazakhstan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Kostanay,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Kyzylorda,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Mangystau,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,North Kazakhstan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Pavlodar,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Qaraghandy,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Shymkent,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Turkistan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,West Kazakhstan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Kazakhstan,Zhambyl,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854856
+Kazakhstan,Almaty,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Almaty City,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266626
+Kazakhstan,Aqmola,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Aqtobe,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Astana City,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Atyrau,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,East Kazakhstan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Kostanay,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Kyzylorda,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Mangystau,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,North Kazakhstan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Pavlodar,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Qaraghandy,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Shymkent,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Turkistan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,West Kazakhstan,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266626
+Kazakhstan,Zhambyl,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266626
+Kazakhstan,Almaty,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Almaty City,March,2025,1,0,0,1,1.0,0.0,0.0,1.0,1744287544
+Kazakhstan,Aqmola,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Aqtobe,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287544
+Kazakhstan,Astana City,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Atyrau,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,East Kazakhstan,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287544
+Kazakhstan,Kostanay,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Kyzylorda,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Mangystau,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,North Kazakhstan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Pavlodar,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Qaraghandy,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Shymkent,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Turkistan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,West Kazakhstan,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Zhambyl,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Kazakhstan,Almaty,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Almaty City,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Aqmola,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Aqtobe,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Astana City,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Atyrau,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,East Kazakhstan,April,2025,1,0,0,1,1.0,0.0,0.0,1.0,1746702914
+Kazakhstan,Kostanay,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Kyzylorda,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Mangystau,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,North Kazakhstan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Pavlodar,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Qaraghandy,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Shymkent,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702914
+Kazakhstan,Turkistan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,West Kazakhstan,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702914
+Kazakhstan,Zhambyl,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kazakhstan,Almaty,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Almaty City,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732017
+Kazakhstan,Aqmola,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732017
+Kazakhstan,Aqtobe,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Astana City,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Atyrau,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,East Kazakhstan,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Kostanay,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Kyzylorda,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Mangystau,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,North Kazakhstan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Pavlodar,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Qaraghandy,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732017
+Kazakhstan,Shymkent,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Turkistan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,West Kazakhstan,May,2025,1,0,0,1,3.0,0.0,0.0,3.0,1749732017
+Kazakhstan,Zhambyl,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732017
+Kazakhstan,Almaty,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Kazakhstan,Almaty,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Almaty,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Almaty,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Kazakhstan,Almaty,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Kazakhstan,Almaty,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Almaty,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,Almaty City,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Almaty City,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Almaty City,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Almaty City,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Kazakhstan,Almaty City,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Kazakhstan,Almaty City,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Kazakhstan,Almaty City,December,2025,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqmola,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Aqmola,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Aqmola,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Aqmola,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Kazakhstan,Aqmola,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Aqmola,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Kazakhstan,Aqmola,December,2025,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqtobe,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Aqtobe,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Aqtobe,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Aqtobe,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Kazakhstan,Aqtobe,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Aqtobe,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Aqtobe,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,Astana City,June,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Kazakhstan,Astana City,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Kazakhstan,Astana City,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Astana City,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,Astana City,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Astana City,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Kazakhstan,Astana City,December,2025,1,0,0,1,,,,,1765375966
+Kazakhstan,Atyrau,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Atyrau,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Atyrau,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Atyrau,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,Atyrau,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Atyrau,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Atyrau,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,East Kazakhstan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,East Kazakhstan,July,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Kazakhstan,East Kazakhstan,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,East Kazakhstan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,East Kazakhstan,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Kazakhstan,East Kazakhstan,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,East Kazakhstan,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,Kostanay,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Kazakhstan,Kostanay,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Kostanay,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Kostanay,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,Kostanay,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Kostanay,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Kostanay,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,Kyzylorda,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Kyzylorda,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Kyzylorda,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Kyzylorda,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,Kyzylorda,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Kyzylorda,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Kyzylorda,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,Mangystau,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Mangystau,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Kazakhstan,Mangystau,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Mangystau,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Kazakhstan,Mangystau,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Mangystau,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Kazakhstan,Mangystau,December,2025,1,0,0,1,,,,,1765375966
+Kazakhstan,North Kazakhstan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,North Kazakhstan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,North Kazakhstan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,North Kazakhstan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,North Kazakhstan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,North Kazakhstan,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Kazakhstan,North Kazakhstan,December,2025,1,0,0,1,,,,,1765375966
+Kazakhstan,Pavlodar,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Pavlodar,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Pavlodar,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Pavlodar,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,Pavlodar,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Pavlodar,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Pavlodar,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,Qaraghandy,June,2025,1,0,0,1,2.0,0.0,0.0,2.0,1754429217
+Kazakhstan,Qaraghandy,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Qaraghandy,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Qaraghandy,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,Qaraghandy,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Qaraghandy,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Qaraghandy,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,Shymkent,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Kazakhstan,Shymkent,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Shymkent,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Kazakhstan,Shymkent,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,Shymkent,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Shymkent,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Shymkent,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,Turkistan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Turkistan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Turkistan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Turkistan,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Kazakhstan,Turkistan,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Turkistan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kazakhstan,Turkistan,December,2025,0,0,0,0,,,,,1765375966
+Kazakhstan,West Kazakhstan,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,West Kazakhstan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,West Kazakhstan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,West Kazakhstan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kazakhstan,West Kazakhstan,October,2025,0,0,0,0,2.0,0.0,1.0,1.0,1762435626
+Kazakhstan,West Kazakhstan,November,2025,2,0,1,1,1.0,0.0,0.0,1.0,1765375966
+Kazakhstan,West Kazakhstan,December,2025,1,0,0,1,,,,,1765375966
+Kazakhstan,Zhambyl,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Zhambyl,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kazakhstan,Zhambyl,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kazakhstan,Zhambyl,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Kazakhstan,Zhambyl,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Kazakhstan,Zhambyl,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Kazakhstan,Zhambyl,December,2025,1,0,0,1,,,,,1765375966
+Kazakhstan,Almaty,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Almaty City,January,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqmola,January,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqtobe,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Astana City,January,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Atyrau,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,East Kazakhstan,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kostanay,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kyzylorda,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Mangystau,January,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,North Kazakhstan,January,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Pavlodar,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Qaraghandy,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Shymkent,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Turkistan,January,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,West Kazakhstan,January,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Zhambyl,January,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Almaty,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Almaty City,February,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqmola,February,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqtobe,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Astana City,February,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Atyrau,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,East Kazakhstan,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kostanay,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kyzylorda,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Mangystau,February,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,North Kazakhstan,February,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Pavlodar,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Qaraghandy,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Shymkent,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Turkistan,February,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,West Kazakhstan,February,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Zhambyl,February,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Almaty,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Almaty City,March,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqmola,March,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqtobe,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Astana City,March,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Atyrau,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,East Kazakhstan,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kostanay,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kyzylorda,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Mangystau,March,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,North Kazakhstan,March,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Pavlodar,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Qaraghandy,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Shymkent,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Turkistan,March,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,West Kazakhstan,March,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Zhambyl,March,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Almaty,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Almaty City,April,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqmola,April,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqtobe,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Astana City,April,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Atyrau,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,East Kazakhstan,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kostanay,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kyzylorda,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Mangystau,April,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,North Kazakhstan,April,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Pavlodar,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Qaraghandy,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Shymkent,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Turkistan,April,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,West Kazakhstan,April,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Zhambyl,April,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Almaty,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Almaty City,May,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqmola,May,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Aqtobe,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Astana City,May,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Atyrau,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,East Kazakhstan,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kostanay,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Kyzylorda,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Mangystau,May,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,North Kazakhstan,May,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Pavlodar,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Qaraghandy,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Shymkent,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,Turkistan,May,2026,0,0,0,0,,,,,1765375966
+Kazakhstan,West Kazakhstan,May,2026,1,0,0,1,,,,,1765375966
+Kazakhstan,Zhambyl,May,2026,1,0,0,1,,,,,1765375966

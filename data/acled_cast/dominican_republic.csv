@@ -1,0 +1,1025 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Dominican Republic,Azua,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Azua,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Dominican Republic,Bahoruco,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560866
+Dominican Republic,Bahoruco,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Bahoruco,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Barahona,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560866
+Dominican Republic,Dajabon,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560867
+Dominican Republic,Dajabon,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Dajabon,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560867
+Dominican Republic,Dajabon,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Dajabon,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Dajabon,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560867
+Dominican Republic,Dajabon,April,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Dajabon,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Dajabon,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Dajabon,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Dajabon,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560867
+Dominican Republic,Distrito Nacional,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Distrito Nacional,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Duarte,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Duarte,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Duarte,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Duarte,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Duarte,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Duarte,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560867
+Dominican Republic,Duarte,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Duarte,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Duarte,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Duarte,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Duarte,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560868
+Dominican Republic,El Seibo,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,El Seibo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Elias Pina,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560868
+Dominican Republic,Espaillat,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Espaillat,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hato Mayor,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560869
+Dominican Republic,Hermanas Mirabal,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Hermanas Mirabal,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,Independencia,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560870
+Dominican Republic,La Altagracia,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560871
+Dominican Republic,La Altagracia,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Altagracia,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Romana,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560871
+Dominican Republic,La Vega,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560872
+Dominican Republic,La Vega,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,La Vega,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Maria Trinidad Sanchez,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Monsenor Nouel,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Monsenor Nouel,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560872
+Dominican Republic,Monsenor Nouel,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monsenor Nouel,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monsenor Nouel,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monsenor Nouel,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monsenor Nouel,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monsenor Nouel,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monsenor Nouel,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monsenor Nouel,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monsenor Nouel,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560873
+Dominican Republic,Monte Cristi,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Cristi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Plata,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Plata,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Plata,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Plata,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Plata,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Plata,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560873
+Dominican Republic,Monte Plata,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Monte Plata,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Monte Plata,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Monte Plata,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Monte Plata,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Pedernales,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560874
+Dominican Republic,Peravia,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560874
+Dominican Republic,Peravia,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Peravia,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Puerto Plata,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,Samana,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560875
+Dominican Republic,San Cristobal,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,June,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Cristobal,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Jose de Ocoa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Jose de Ocoa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Jose de Ocoa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Jose de Ocoa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Jose de Ocoa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Jose de Ocoa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Jose de Ocoa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560876
+Dominican Republic,San Jose de Ocoa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Jose de Ocoa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Jose de Ocoa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Jose de Ocoa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560877
+Dominican Republic,San Juan,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Juan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Pedro de Macoris,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Pedro de Macoris,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Pedro de Macoris,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Pedro de Macoris,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Pedro de Macoris,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560877
+Dominican Republic,San Pedro de Macoris,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,San Pedro de Macoris,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,San Pedro de Macoris,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,San Pedro de Macoris,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,San Pedro de Macoris,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,San Pedro de Macoris,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560878
+Dominican Republic,Sanchez Ramirez,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Sanchez Ramirez,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Santiago,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Santiago,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Santiago,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Santiago,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560878
+Dominican Republic,Santiago,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560878
+Dominican Republic,Santiago,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560879
+Dominican Republic,Santiago,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560879
+Dominican Republic,Santiago,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560879
+Dominican Republic,Santiago Rodriguez,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santiago Rodriguez,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,February,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560879
+Dominican Republic,Santo Domingo,March,2024,2,0,0,2,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560879
+Dominican Republic,Santo Domingo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Santo Domingo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Valverde,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560880
+Dominican Republic,Azua,September,2024,0,0,0,0,1.0,1.0,0.0,0.0,1730730986
+Dominican Republic,Bahoruco,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Barahona,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Dajabon,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Distrito Nacional,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Duarte,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,El Seibo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Elias Pina,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Espaillat,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Hato Mayor,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Hermanas Mirabal,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Independencia,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,La Altagracia,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,La Romana,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,La Vega,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Maria Trinidad Sanchez,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Monsenor Nouel,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Monte Cristi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Monte Plata,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Pedernales,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Peravia,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Puerto Plata,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Samana,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,San Cristobal,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,San Jose de Ocoa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,San Juan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,San Pedro de Macoris,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Sanchez Ramirez,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Santiago,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Santiago Rodriguez,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Santo Domingo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Valverde,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730986
+Dominican Republic,Azua,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010276
+Dominican Republic,Azua,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Dominican Republic,Bahoruco,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Dominican Republic,Bahoruco,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Dominican Republic,Barahona,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Dominican Republic,Barahona,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Dominican Republic,Dajabon,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010276
+Dominican Republic,Dajabon,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010276
+Dominican Republic,Distrito Nacional,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010276
+Dominican Republic,Distrito Nacional,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010276
+Dominican Republic,Duarte,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Duarte,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,El Seibo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,El Seibo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Elias Pina,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Elias Pina,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Espaillat,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Espaillat,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Hato Mayor,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Hato Mayor,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Hermanas Mirabal,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Hermanas Mirabal,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Independencia,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Independencia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,La Altagracia,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,La Altagracia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,La Romana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,La Romana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,La Vega,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,La Vega,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Maria Trinidad Sanchez,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Maria Trinidad Sanchez,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Monsenor Nouel,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Monsenor Nouel,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Monte Cristi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Monte Cristi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Monte Plata,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Monte Plata,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Pedernales,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010277
+Dominican Republic,Pedernales,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Peravia,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Peravia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Puerto Plata,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Puerto Plata,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Samana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Samana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,San Cristobal,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,San Cristobal,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010277
+Dominican Republic,San Jose de Ocoa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,San Jose de Ocoa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,San Juan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,San Juan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,San Pedro de Macoris,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,San Pedro de Macoris,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Sanchez Ramirez,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Sanchez Ramirez,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Santiago,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Santiago,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010277
+Dominican Republic,Santiago Rodriguez,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010278
+Dominican Republic,Santiago Rodriguez,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010278
+Dominican Republic,Santo Domingo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010278
+Dominican Republic,Santo Domingo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010278
+Dominican Republic,Valverde,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010278
+Dominican Republic,Valverde,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010278
+Dominican Republic,Azua,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Bahoruco,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Barahona,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Dajabon,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Distrito Nacional,December,2024,0,0,0,0,2.0,0.0,0.0,2.0,1737033340
+Dominican Republic,Duarte,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,El Seibo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Elias Pina,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Espaillat,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Hato Mayor,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Hermanas Mirabal,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Independencia,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,La Altagracia,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,La Romana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,La Vega,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Maria Trinidad Sanchez,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Monsenor Nouel,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Dominican Republic,Monte Cristi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Monte Plata,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Pedernales,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Peravia,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Puerto Plata,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Samana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,San Cristobal,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033341
+Dominican Republic,San Jose de Ocoa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,San Juan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,San Pedro de Macoris,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Sanchez Ramirez,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Santiago,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Santiago Rodriguez,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Santo Domingo,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033341
+Dominican Republic,Valverde,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033341
+Dominican Republic,Azua,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Bahoruco,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Barahona,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Dajabon,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Distrito Nacional,January,2025,2,0,0,2,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Duarte,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,El Seibo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Elias Pina,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Espaillat,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Hato Mayor,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Hermanas Mirabal,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,Independencia,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,La Altagracia,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,La Romana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Dominican Republic,La Vega,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Maria Trinidad Sanchez,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Monsenor Nouel,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Monte Cristi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Monte Plata,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Pedernales,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Peravia,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Puerto Plata,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Samana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,San Cristobal,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,San Jose de Ocoa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,San Juan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,San Pedro de Macoris,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Sanchez Ramirez,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Santiago,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854847
+Dominican Republic,Santiago Rodriguez,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Santo Domingo,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Valverde,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854847
+Dominican Republic,Azua,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Bahoruco,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Barahona,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Dajabon,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Distrito Nacional,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Duarte,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,El Seibo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Elias Pina,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Espaillat,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Hato Mayor,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Hermanas Mirabal,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Independencia,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,La Altagracia,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,La Romana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,La Vega,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Maria Trinidad Sanchez,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Monsenor Nouel,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Monte Cristi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Monte Plata,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Pedernales,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Peravia,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Puerto Plata,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,Samana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,San Cristobal,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,San Jose de Ocoa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,San Juan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Dominican Republic,San Pedro de Macoris,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Dominican Republic,Sanchez Ramirez,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Dominican Republic,Santiago,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266617
+Dominican Republic,Santiago Rodriguez,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Dominican Republic,Santo Domingo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Dominican Republic,Valverde,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Dominican Republic,Azua,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Dominican Republic,Bahoruco,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Dominican Republic,Barahona,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Dominican Republic,Dajabon,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Dominican Republic,Distrito Nacional,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Dominican Republic,Duarte,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Dominican Republic,El Seibo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Dominican Republic,Elias Pina,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Espaillat,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Hato Mayor,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Hermanas Mirabal,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Independencia,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,La Altagracia,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,La Romana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,La Vega,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Maria Trinidad Sanchez,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Monsenor Nouel,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Monte Cristi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Monte Plata,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Pedernales,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Peravia,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Puerto Plata,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Samana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,San Cristobal,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,San Jose de Ocoa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,San Juan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,San Pedro de Macoris,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Sanchez Ramirez,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Santiago,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Santiago Rodriguez,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Santo Domingo,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287542
+Dominican Republic,Valverde,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Dominican Republic,Azua,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Bahoruco,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Barahona,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Dajabon,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Distrito Nacional,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Duarte,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,El Seibo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Elias Pina,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Espaillat,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702911
+Dominican Republic,Hato Mayor,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Hermanas Mirabal,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Independencia,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,La Altagracia,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,La Romana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,La Vega,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Maria Trinidad Sanchez,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Monsenor Nouel,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Monte Cristi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Monte Plata,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Pedernales,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Peravia,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Puerto Plata,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Samana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,San Cristobal,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,San Jose de Ocoa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,San Juan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,San Pedro de Macoris,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Sanchez Ramirez,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Santiago,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Santiago Rodriguez,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Santo Domingo,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Valverde,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Dominican Republic,Azua,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Bahoruco,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Barahona,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Dajabon,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Distrito Nacional,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Duarte,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,El Seibo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Elias Pina,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Espaillat,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Hato Mayor,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Hermanas Mirabal,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Independencia,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,La Altagracia,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732009
+Dominican Republic,La Romana,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,La Vega,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Maria Trinidad Sanchez,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Monsenor Nouel,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Monte Cristi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Monte Plata,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Pedernales,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Peravia,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Puerto Plata,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Samana,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,San Cristobal,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,San Jose de Ocoa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,San Juan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,San Pedro de Macoris,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Sanchez Ramirez,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Santiago,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Santiago Rodriguez,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Santo Domingo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Dominican Republic,Valverde,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Dominican Republic,Azua,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Azua,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Azua,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Azua,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Azua,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Azua,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Azua,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Bahoruco,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Bahoruco,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Bahoruco,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Bahoruco,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Bahoruco,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Bahoruco,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Bahoruco,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Barahona,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Barahona,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Barahona,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Barahona,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Barahona,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Barahona,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Barahona,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Dajabon,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Dajabon,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Dajabon,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Dajabon,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Dajabon,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Dajabon,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Dajabon,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Distrito Nacional,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Distrito Nacional,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Distrito Nacional,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Distrito Nacional,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Distrito Nacional,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Distrito Nacional,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Distrito Nacional,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Duarte,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Duarte,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Duarte,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Duarte,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Duarte,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Duarte,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Duarte,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,El Seibo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,El Seibo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,El Seibo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,El Seibo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,El Seibo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,El Seibo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,El Seibo,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Elias Pina,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Elias Pina,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Elias Pina,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Elias Pina,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Elias Pina,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Elias Pina,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Elias Pina,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Espaillat,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Espaillat,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Espaillat,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Espaillat,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Espaillat,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Espaillat,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Espaillat,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Hato Mayor,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Hato Mayor,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Hato Mayor,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Hato Mayor,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Hato Mayor,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Hato Mayor,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Hato Mayor,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Hermanas Mirabal,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Hermanas Mirabal,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Hermanas Mirabal,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Hermanas Mirabal,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Hermanas Mirabal,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Hermanas Mirabal,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Hermanas Mirabal,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Independencia,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Independencia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Independencia,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Dominican Republic,Independencia,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Independencia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Independencia,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Independencia,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,La Altagracia,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,La Altagracia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,La Altagracia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,La Altagracia,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,La Altagracia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,La Altagracia,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,La Altagracia,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,La Romana,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,La Romana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,La Romana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,La Romana,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,La Romana,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,La Romana,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,La Romana,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,La Vega,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,La Vega,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,La Vega,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,La Vega,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,La Vega,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,La Vega,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,La Vega,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Maria Trinidad Sanchez,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Maria Trinidad Sanchez,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Maria Trinidad Sanchez,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Maria Trinidad Sanchez,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Maria Trinidad Sanchez,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Maria Trinidad Sanchez,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Maria Trinidad Sanchez,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Monsenor Nouel,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Monsenor Nouel,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Monsenor Nouel,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Monsenor Nouel,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Monsenor Nouel,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Monsenor Nouel,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Monsenor Nouel,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Cristi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Monte Cristi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Monte Cristi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Monte Cristi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Monte Cristi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Monte Cristi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Monte Cristi,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Plata,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Monte Plata,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Monte Plata,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Monte Plata,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Monte Plata,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Monte Plata,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Monte Plata,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Pedernales,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Pedernales,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Pedernales,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Pedernales,September,2025,0,0,0,0,1.0,0.0,1.0,0.0,1760036046
+Dominican Republic,Pedernales,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Pedernales,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Pedernales,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Peravia,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Peravia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Peravia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Peravia,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Peravia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Peravia,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Peravia,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Puerto Plata,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Puerto Plata,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Puerto Plata,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Puerto Plata,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Puerto Plata,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Puerto Plata,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Puerto Plata,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Samana,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Samana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Samana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Samana,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Samana,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Samana,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Samana,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,San Cristobal,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,San Cristobal,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,San Cristobal,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,San Cristobal,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,San Cristobal,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,San Cristobal,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,San Cristobal,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,San Jose de Ocoa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,San Jose de Ocoa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,San Jose de Ocoa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,San Jose de Ocoa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,San Jose de Ocoa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,San Jose de Ocoa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,San Jose de Ocoa,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,San Juan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,San Juan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,San Juan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,San Juan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,San Juan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,San Juan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,San Juan,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,San Pedro de Macoris,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,San Pedro de Macoris,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,San Pedro de Macoris,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,San Pedro de Macoris,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,San Pedro de Macoris,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,San Pedro de Macoris,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,San Pedro de Macoris,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Sanchez Ramirez,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Sanchez Ramirez,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Sanchez Ramirez,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Sanchez Ramirez,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Sanchez Ramirez,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Sanchez Ramirez,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Sanchez Ramirez,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Santiago,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Santiago,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Dominican Republic,Santiago,August,2025,1,1,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Santiago,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Dominican Republic,Santiago,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Santiago,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Dominican Republic,Santiago,December,2025,1,0,0,1,,,,,1765375966
+Dominican Republic,Santiago Rodriguez,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Santiago Rodriguez,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Santiago Rodriguez,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Dominican Republic,Santiago Rodriguez,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Santiago Rodriguez,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Santiago Rodriguez,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Santiago Rodriguez,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Santo Domingo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Santo Domingo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Santo Domingo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Santo Domingo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Santo Domingo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Santo Domingo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Santo Domingo,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Valverde,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Valverde,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Dominican Republic,Valverde,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Dominican Republic,Valverde,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Dominican Republic,Valverde,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Dominican Republic,Valverde,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Dominican Republic,Valverde,December,2025,0,0,0,0,,,,,1765375966
+Dominican Republic,Azua,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Bahoruco,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Barahona,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Dajabon,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Distrito Nacional,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Duarte,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,El Seibo,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Elias Pina,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Espaillat,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hato Mayor,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hermanas Mirabal,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Independencia,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Altagracia,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Romana,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Vega,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Maria Trinidad Sanchez,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monsenor Nouel,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Cristi,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Plata,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Pedernales,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Peravia,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Puerto Plata,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Samana,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Cristobal,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Jose de Ocoa,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Juan,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Pedro de Macoris,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Sanchez Ramirez,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santiago,January,2026,1,0,0,1,,,,,1765375966
+Dominican Republic,Santiago Rodriguez,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santo Domingo,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Valverde,January,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Azua,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Bahoruco,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Barahona,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Dajabon,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Distrito Nacional,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Duarte,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,El Seibo,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Elias Pina,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Espaillat,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hato Mayor,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hermanas Mirabal,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Independencia,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Altagracia,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Romana,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Vega,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Maria Trinidad Sanchez,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monsenor Nouel,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Cristi,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Plata,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Pedernales,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Peravia,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Puerto Plata,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Samana,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Cristobal,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Jose de Ocoa,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Juan,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Pedro de Macoris,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Sanchez Ramirez,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santiago,February,2026,1,0,0,1,,,,,1765375966
+Dominican Republic,Santiago Rodriguez,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santo Domingo,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Valverde,February,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Azua,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Bahoruco,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Barahona,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Dajabon,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Distrito Nacional,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Duarte,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,El Seibo,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Elias Pina,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Espaillat,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hato Mayor,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hermanas Mirabal,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Independencia,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Altagracia,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Romana,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Vega,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Maria Trinidad Sanchez,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monsenor Nouel,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Cristi,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Plata,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Pedernales,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Peravia,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Puerto Plata,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Samana,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Cristobal,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Jose de Ocoa,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Juan,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Pedro de Macoris,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Sanchez Ramirez,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santiago,March,2026,1,0,0,1,,,,,1765375966
+Dominican Republic,Santiago Rodriguez,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santo Domingo,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Valverde,March,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Azua,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Bahoruco,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Barahona,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Dajabon,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Distrito Nacional,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Duarte,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,El Seibo,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Elias Pina,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Espaillat,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hato Mayor,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hermanas Mirabal,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Independencia,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Altagracia,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Romana,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Vega,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Maria Trinidad Sanchez,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monsenor Nouel,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Cristi,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Plata,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Pedernales,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Peravia,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Puerto Plata,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Samana,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Cristobal,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Jose de Ocoa,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Juan,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Pedro de Macoris,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Sanchez Ramirez,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santiago,April,2026,1,0,0,1,,,,,1765375966
+Dominican Republic,Santiago Rodriguez,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santo Domingo,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Valverde,April,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Azua,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Bahoruco,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Barahona,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Dajabon,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Distrito Nacional,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Duarte,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,El Seibo,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Elias Pina,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Espaillat,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hato Mayor,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Hermanas Mirabal,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Independencia,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Altagracia,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Romana,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,La Vega,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Maria Trinidad Sanchez,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monsenor Nouel,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Cristi,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Monte Plata,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Pedernales,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Peravia,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Puerto Plata,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Samana,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Cristobal,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Jose de Ocoa,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Juan,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,San Pedro de Macoris,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Sanchez Ramirez,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santiago,May,2026,1,0,0,1,,,,,1765375966
+Dominican Republic,Santiago Rodriguez,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Santo Domingo,May,2026,0,0,0,0,,,,,1765375966
+Dominican Republic,Valverde,May,2026,0,0,0,0,,,,,1765375966

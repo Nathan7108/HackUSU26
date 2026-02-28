@@ -1,0 +1,274 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Belarus,Brest,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560716
+Belarus,Brest,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560716
+Belarus,Brest,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560716
+Belarus,Brest,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560716
+Belarus,Brest,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560716
+Belarus,Brest,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560716
+Belarus,Brest,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560716
+Belarus,Brest,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560716
+Belarus,Brest,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Brest,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560717
+Belarus,Gomel,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560717
+Belarus,Gomel,July,2024,0,0,0,0,1.0,0.0,1.0,0.0,1728560717
+Belarus,Gomel,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560717
+Belarus,Grodno,March,2023,0,0,0,0,2.0,1.0,0.0,1.0,1728560718
+Belarus,Grodno,April,2023,2,0,0,1,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Grodno,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560718
+Belarus,Minsk,March,2023,2,0,1,1,1.0,0.0,0.0,1.0,1728560718
+Belarus,Minsk,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560719
+Belarus,Minsk,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560719
+Belarus,Minsk city,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560719
+Belarus,Minsk city,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,October,2023,0,0,0,0,1.0,0.0,1.0,0.0,1728560719
+Belarus,Minsk city,November,2023,1,0,1,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560719
+Belarus,Minsk city,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Minsk city,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Minsk city,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Minsk city,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Minsk city,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Minsk city,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Minsk city,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560720
+Belarus,Mogilev,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Mogilev,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Vitebsk,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Vitebsk,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560720
+Belarus,Vitebsk,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560720
+Belarus,Vitebsk,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560720
+Belarus,Vitebsk,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560721
+Belarus,Vitebsk,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560721
+Belarus,Vitebsk,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560721
+Belarus,Vitebsk,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560721
+Belarus,Vitebsk,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560721
+Belarus,Brest,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Belarus,Gomel,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Belarus,Grodno,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Belarus,Minsk,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Belarus,Minsk city,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730982
+Belarus,Mogilev,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730982
+Belarus,Vitebsk,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730982
+Belarus,Brest,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010268
+Belarus,Brest,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010268
+Belarus,Gomel,October,2024,0,0,0,0,1.0,0.0,1.0,0.0,1734010268
+Belarus,Gomel,November,2024,1,0,1,0,0.0,0.0,0.0,0.0,1734010268
+Belarus,Grodno,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010268
+Belarus,Grodno,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010268
+Belarus,Minsk,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010268
+Belarus,Minsk,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010268
+Belarus,Minsk city,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010268
+Belarus,Minsk city,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010268
+Belarus,Mogilev,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010268
+Belarus,Mogilev,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010268
+Belarus,Vitebsk,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010268
+Belarus,Vitebsk,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010268
+Belarus,Brest,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033333
+Belarus,Gomel,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033333
+Belarus,Grodno,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033333
+Belarus,Minsk,December,2024,0,0,0,0,2.0,0.0,1.0,1.0,1737033333
+Belarus,Minsk city,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033333
+Belarus,Mogilev,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033333
+Belarus,Vitebsk,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033333
+Belarus,Brest,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854840
+Belarus,Gomel,January,2025,0,0,0,0,1.0,0.0,1.0,0.0,1738854840
+Belarus,Grodno,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854840
+Belarus,Minsk,January,2025,2,0,1,1,0.0,0.0,0.0,0.0,1738854840
+Belarus,Minsk city,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854840
+Belarus,Mogilev,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854840
+Belarus,Vitebsk,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854840
+Belarus,Brest,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266609
+Belarus,Gomel,February,2025,1,0,1,0,1.0,0.0,1.0,0.0,1741266609
+Belarus,Grodno,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266609
+Belarus,Minsk,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266609
+Belarus,Minsk city,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266609
+Belarus,Mogilev,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266609
+Belarus,Vitebsk,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266609
+Belarus,Brest,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Belarus,Gomel,March,2025,1,0,1,0,0.0,0.0,0.0,0.0,1744287540
+Belarus,Grodno,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Belarus,Minsk,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Belarus,Minsk city,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287540
+Belarus,Mogilev,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Belarus,Vitebsk,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287540
+Belarus,Brest,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belarus,Gomel,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belarus,Grodno,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belarus,Minsk,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belarus,Minsk city,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702909
+Belarus,Mogilev,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belarus,Vitebsk,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702909
+Belarus,Brest,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belarus,Gomel,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belarus,Grodno,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belarus,Minsk,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belarus,Minsk city,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belarus,Mogilev,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belarus,Vitebsk,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belarus,Brest,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Brest,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Brest,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Belarus,Brest,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Belarus,Brest,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Belarus,Brest,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belarus,Brest,December,2025,0,0,0,0,,,,,1765375966
+Belarus,Gomel,June,2025,0,0,0,0,1.0,0.0,1.0,0.0,1754429217
+Belarus,Gomel,July,2025,1,0,1,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Gomel,August,2025,0,0,0,0,1.0,0.0,1.0,0.0,1757596698
+Belarus,Gomel,September,2025,1,0,1,0,0.0,0.0,0.0,0.0,1760036046
+Belarus,Gomel,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Belarus,Gomel,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belarus,Gomel,December,2025,0,0,0,0,,,,,1765375966
+Belarus,Grodno,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Grodno,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Grodno,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Belarus,Grodno,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Belarus,Grodno,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Belarus,Grodno,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belarus,Grodno,December,2025,0,0,0,0,,,,,1765375966
+Belarus,Minsk,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Minsk,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Minsk,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Belarus,Minsk,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Belarus,Minsk,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Belarus,Minsk,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belarus,Minsk,December,2025,0,0,0,0,,,,,1765375966
+Belarus,Minsk city,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Minsk city,July,2025,0,0,0,0,1.0,0.0,1.0,0.0,1754429217
+Belarus,Minsk city,August,2025,1,0,1,0,0.0,0.0,0.0,0.0,1757596698
+Belarus,Minsk city,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Belarus,Minsk city,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Belarus,Minsk city,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belarus,Minsk city,December,2025,0,0,0,0,,,,,1765375966
+Belarus,Mogilev,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Mogilev,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Mogilev,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Belarus,Mogilev,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Belarus,Mogilev,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Belarus,Mogilev,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belarus,Mogilev,December,2025,0,0,0,0,,,,,1765375966
+Belarus,Vitebsk,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Vitebsk,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belarus,Vitebsk,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Belarus,Vitebsk,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Belarus,Vitebsk,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Belarus,Vitebsk,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belarus,Vitebsk,December,2025,0,0,0,0,,,,,1765375966
+Belarus,Brest,January,2026,0,0,0,0,,,,,1765375966
+Belarus,Gomel,January,2026,0,0,0,0,,,,,1765375966
+Belarus,Grodno,January,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk,January,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk city,January,2026,0,0,0,0,,,,,1765375966
+Belarus,Mogilev,January,2026,0,0,0,0,,,,,1765375966
+Belarus,Vitebsk,January,2026,0,0,0,0,,,,,1765375966
+Belarus,Brest,February,2026,0,0,0,0,,,,,1765375966
+Belarus,Gomel,February,2026,0,0,0,0,,,,,1765375966
+Belarus,Grodno,February,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk,February,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk city,February,2026,0,0,0,0,,,,,1765375966
+Belarus,Mogilev,February,2026,0,0,0,0,,,,,1765375966
+Belarus,Vitebsk,February,2026,0,0,0,0,,,,,1765375966
+Belarus,Brest,March,2026,0,0,0,0,,,,,1765375966
+Belarus,Gomel,March,2026,0,0,0,0,,,,,1765375966
+Belarus,Grodno,March,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk,March,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk city,March,2026,0,0,0,0,,,,,1765375966
+Belarus,Mogilev,March,2026,0,0,0,0,,,,,1765375966
+Belarus,Vitebsk,March,2026,0,0,0,0,,,,,1765375966
+Belarus,Brest,April,2026,0,0,0,0,,,,,1765375966
+Belarus,Gomel,April,2026,0,0,0,0,,,,,1765375966
+Belarus,Grodno,April,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk,April,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk city,April,2026,0,0,0,0,,,,,1765375966
+Belarus,Mogilev,April,2026,0,0,0,0,,,,,1765375966
+Belarus,Vitebsk,April,2026,0,0,0,0,,,,,1765375966
+Belarus,Brest,May,2026,0,0,0,0,,,,,1765375966
+Belarus,Gomel,May,2026,0,0,0,0,,,,,1765375966
+Belarus,Grodno,May,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk,May,2026,0,0,0,0,,,,,1765375966
+Belarus,Minsk city,May,2026,0,0,0,0,,,,,1765375966
+Belarus,Mogilev,May,2026,0,0,0,0,,,,,1765375966
+Belarus,Vitebsk,May,2026,0,0,0,0,,,,,1765375966

@@ -118,6 +118,17 @@ export interface BackendForecast {
 
 // ── API functions ───────────────────────────────────────────────
 
+export interface ApiCountryListItem {
+  countryCode: string   // 2-letter ISO
+  country: string       // display name
+  riskScore: number
+  riskLevel: string
+}
+
+export function fetchCountriesList(): Promise<ApiCountryListItem[]> {
+  return apiFetch("/api/countries")
+}
+
 export function fetchDashboardSummary(): Promise<BackendDashboardSummary> {
   return apiFetch("/api/dashboard/summary?limit=0")
 }
@@ -267,4 +278,98 @@ export function fetchDataSources(): Promise<DataSourcesResponse> {
 
 export function fetchRecentActivity(): Promise<{ items: Array<{ time: string; icon: string; label: string; detail: string }> }> {
   return apiFetch("/api/recent-activity")
+}
+
+// ── Exposure endpoint ──────────────────────────────────────────
+
+export interface BackendFacility {
+  id: string
+  name: string
+  location: string
+  lat: number
+  lng: number
+  type: string
+  function: string
+  annualValue: number
+}
+
+export interface BackendRoute {
+  id: string
+  from: string
+  to: string
+  fromName: string
+  toName: string
+  chokepoint: string
+  riskLevel: string
+  annualCargo: number
+}
+
+export interface BackendCountryExposure {
+  countryCode: string
+  countryName: string
+  totalExposure: number
+  riskLevel: string
+  riskSource: string
+  affectedFacilities: string[]
+  affectedRoutes: string[]
+  description: string
+}
+
+export interface BackendExposureResponse {
+  company: string
+  totalRevenue: number
+  totalExposure: number
+  facilities: BackendFacility[]
+  routes: BackendRoute[]
+  countryExposure: Record<string, BackendCountryExposure>
+  computedAt: string
+}
+
+export function fetchExposure(): Promise<BackendExposureResponse> {
+  return apiFetch("/api/exposure")
+}
+
+// ── Recommendations endpoint ───────────────────────────────────
+
+export interface BackendRecommendation {
+  countryCode: string
+  countryName: string
+  riskScore: number
+  riskLevel: string
+  exposure: number
+  industries: string[]
+  watch: string[]
+  action: string
+  description: string
+  cost: number
+  riskReduction: number
+  roi: number
+  leadTime: string
+  priority: string
+  trigger: string
+  costOfInaction: number
+  evidence: string
+}
+
+export interface BackendRecommendationsResponse {
+  company: string
+  totalRecommendations: number
+  recommendations: BackendRecommendation[]
+  computedAt: string
+}
+
+export function fetchRecommendations(): Promise<BackendRecommendationsResponse> {
+  return apiFetch("/api/recommendations")
+}
+
+// ── Headlines endpoint ─────────────────────────────────────────
+
+export interface BackendHeadlinesResponse {
+  headlines: Record<string, Array<{ text: string; source: string }>>
+  cached: boolean
+  fetchedAt: string
+}
+
+export function fetchHeadlines(): Promise<BackendHeadlinesResponse> {
+  return apiFetch("/api/headlines")
 }

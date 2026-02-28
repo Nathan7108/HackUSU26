@@ -1,0 +1,625 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Cuba,Artemisa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560854
+Cuba,Artemisa,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Artemisa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Camaguey,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560854
+Cuba,Camaguey,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560854
+Cuba,Camaguey,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Camaguey,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560854
+Cuba,Camaguey,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560855
+Cuba,Camaguey,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Camaguey,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560855
+Cuba,Ciego de Avila,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560855
+Cuba,Ciego de Avila,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Ciego de Avila,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Ciego de Avila,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Ciego de Avila,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560856
+Cuba,Cienfuegos,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Cienfuegos,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Granma,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Granma,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Granma,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Granma,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Granma,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Granma,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560856
+Cuba,Granma,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Granma,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560857
+Cuba,Guantanamo,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560857
+Cuba,Guantanamo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Guantanamo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Guantanamo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Guantanamo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Guantanamo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560858
+Cuba,Holguin,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Holguin,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Isla de la Juventud,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560858
+Cuba,Isla de la Juventud,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560859
+Cuba,Isla de la Juventud,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,Isla de la Juventud,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,La Habana,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560859
+Cuba,La Habana,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560859
+Cuba,La Habana,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560859
+Cuba,La Habana,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,La Habana,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560859
+Cuba,La Habana,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560859
+Cuba,La Habana,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560859
+Cuba,La Habana,October,2023,0,0,0,0,3.0,0.0,0.0,3.0,1728560859
+Cuba,La Habana,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560859
+Cuba,La Habana,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560859
+Cuba,La Habana,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560859
+Cuba,La Habana,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1728560859
+Cuba,La Habana,March,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560859
+Cuba,La Habana,April,2024,2,0,0,2,0.0,0.0,0.0,0.0,1728560860
+Cuba,La Habana,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560860
+Cuba,La Habana,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560860
+Cuba,La Habana,July,2024,2,0,0,2,1.0,0.0,0.0,1.0,1728560860
+Cuba,La Habana,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560860
+Cuba,Las Tunas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560860
+Cuba,Las Tunas,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560860
+Cuba,Las Tunas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Las Tunas,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Las Tunas,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560861
+Cuba,Matanzas,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560861
+Cuba,Matanzas,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560861
+Cuba,Matanzas,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560861
+Cuba,Matanzas,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560861
+Cuba,Matanzas,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560861
+Cuba,Matanzas,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560861
+Cuba,Mayabeque,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560862
+Cuba,Mayabeque,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560862
+Cuba,Mayabeque,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560862
+Cuba,Mayabeque,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Mayabeque,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Pinar del Rio,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560862
+Cuba,Pinar del Rio,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Pinar del Rio,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Pinar del Rio,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Pinar del Rio,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560862
+Cuba,Pinar del Rio,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Pinar del Rio,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560863
+Cuba,Pinar del Rio,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560863
+Cuba,Sancti Spiritus,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560864
+Cuba,Santiago de Cuba,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560864
+Cuba,Santiago de Cuba,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560864
+Cuba,Santiago de Cuba,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560864
+Cuba,Santiago de Cuba,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560864
+Cuba,Santiago de Cuba,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Santiago de Cuba,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Villa Clara,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Villa Clara,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Villa Clara,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560864
+Cuba,Villa Clara,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Villa Clara,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560865
+Cuba,Artemisa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Camaguey,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Ciego de Avila,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Cienfuegos,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Granma,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Guantanamo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Holguin,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Isla de la Juventud,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,La Habana,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730985
+Cuba,Las Tunas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Matanzas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Mayabeque,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Pinar del Rio,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Sancti Spiritus,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Santiago de Cuba,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Villa Clara,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730985
+Cuba,Artemisa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Artemisa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Camaguey,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Camaguey,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Ciego de Avila,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Ciego de Avila,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Cienfuegos,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Cienfuegos,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010276
+Cuba,Granma,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Granma,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Guantanamo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Guantanamo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Holguin,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010276
+Cuba,Holguin,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010276
+Cuba,Isla de la Juventud,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Isla de la Juventud,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,La Habana,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010276
+Cuba,La Habana,November,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010276
+Cuba,Las Tunas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Las Tunas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Matanzas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Matanzas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Mayabeque,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Mayabeque,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Pinar del Rio,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Pinar del Rio,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Sancti Spiritus,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Sancti Spiritus,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Santiago de Cuba,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010276
+Cuba,Santiago de Cuba,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010276
+Cuba,Villa Clara,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010276
+Cuba,Villa Clara,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010276
+Cuba,Artemisa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033339
+Cuba,Camaguey,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033339
+Cuba,Ciego de Avila,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Cienfuegos,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033340
+Cuba,Granma,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Guantanamo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Holguin,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Isla de la Juventud,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,La Habana,December,2024,2,0,0,2,0.0,0.0,0.0,0.0,1737033340
+Cuba,Las Tunas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Matanzas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Mayabeque,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Pinar del Rio,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Sancti Spiritus,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Santiago de Cuba,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033340
+Cuba,Villa Clara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033340
+Cuba,Artemisa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Camaguey,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854846
+Cuba,Ciego de Avila,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Cienfuegos,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Granma,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Guantanamo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Holguin,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Isla de la Juventud,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,La Habana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Las Tunas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Matanzas,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854846
+Cuba,Mayabeque,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854846
+Cuba,Pinar del Rio,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Sancti Spiritus,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Santiago de Cuba,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854846
+Cuba,Villa Clara,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854846
+Cuba,Artemisa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266615
+Cuba,Camaguey,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266615
+Cuba,Ciego de Avila,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266615
+Cuba,Cienfuegos,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266615
+Cuba,Granma,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266615
+Cuba,Guantanamo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Cuba,Holguin,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Cuba,Isla de la Juventud,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Cuba,La Habana,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266616
+Cuba,Las Tunas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Cuba,Matanzas,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266616
+Cuba,Mayabeque,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266616
+Cuba,Pinar del Rio,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266616
+Cuba,Sancti Spiritus,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Cuba,Santiago de Cuba,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266616
+Cuba,Villa Clara,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266616
+Cuba,Artemisa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Camaguey,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287541
+Cuba,Ciego de Avila,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Cienfuegos,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Granma,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287541
+Cuba,Guantanamo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Holguin,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Isla de la Juventud,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,La Habana,March,2025,1,0,0,1,2.0,0.0,0.0,2.0,1744287541
+Cuba,Las Tunas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Matanzas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Mayabeque,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Pinar del Rio,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287541
+Cuba,Sancti Spiritus,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Santiago de Cuba,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Villa Clara,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287541
+Cuba,Artemisa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Camaguey,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702911
+Cuba,Ciego de Avila,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Cienfuegos,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Granma,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702911
+Cuba,Guantanamo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Holguin,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Isla de la Juventud,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,La Habana,April,2025,1,0,0,1,1.0,0.0,0.0,1.0,1746702911
+Cuba,Las Tunas,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702911
+Cuba,Matanzas,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Mayabeque,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Pinar del Rio,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Sancti Spiritus,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Santiago de Cuba,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702911
+Cuba,Villa Clara,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702911
+Cuba,Artemisa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732008
+Cuba,Camaguey,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732008
+Cuba,Ciego de Avila,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Cienfuegos,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Granma,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Guantanamo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Holguin,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Isla de la Juventud,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,La Habana,May,2025,1,0,0,1,1.0,0.0,0.0,1.0,1749732009
+Cuba,Las Tunas,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732009
+Cuba,Matanzas,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Mayabeque,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Pinar del Rio,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Sancti Spiritus,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Santiago de Cuba,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732009
+Cuba,Villa Clara,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732009
+Cuba,Artemisa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Artemisa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Artemisa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Artemisa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Artemisa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Artemisa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Artemisa,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Camaguey,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Camaguey,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Camaguey,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Camaguey,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Camaguey,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Camaguey,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Camaguey,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Ciego de Avila,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Ciego de Avila,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Ciego de Avila,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Ciego de Avila,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Ciego de Avila,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Ciego de Avila,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Ciego de Avila,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Cienfuegos,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Cienfuegos,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Cienfuegos,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Cienfuegos,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Cienfuegos,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Cienfuegos,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Cienfuegos,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Granma,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Granma,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Cuba,Granma,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Cuba,Granma,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Granma,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Granma,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Granma,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Guantanamo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Guantanamo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Guantanamo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Guantanamo,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Cuba,Guantanamo,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Cuba,Guantanamo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Guantanamo,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Holguin,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Holguin,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Holguin,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Holguin,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Holguin,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Holguin,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Holguin,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Isla de la Juventud,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Isla de la Juventud,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Isla de la Juventud,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Isla de la Juventud,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Isla de la Juventud,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Isla de la Juventud,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Isla de la Juventud,December,2025,0,0,0,0,,,,,1765375966
+Cuba,La Habana,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Cuba,La Habana,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Cuba,La Habana,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Cuba,La Habana,September,2025,1,0,0,1,3.0,0.0,0.0,3.0,1760036046
+Cuba,La Habana,October,2025,3,0,0,3,0.0,0.0,0.0,0.0,1762435626
+Cuba,La Habana,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Cuba,La Habana,December,2025,1,0,0,1,,,,,1765375966
+Cuba,Las Tunas,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Las Tunas,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Las Tunas,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Las Tunas,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Las Tunas,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Las Tunas,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Las Tunas,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Matanzas,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Matanzas,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Matanzas,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Matanzas,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Matanzas,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Matanzas,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Matanzas,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Mayabeque,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Mayabeque,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Mayabeque,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Mayabeque,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Mayabeque,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Mayabeque,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Mayabeque,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Pinar del Rio,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Pinar del Rio,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Pinar del Rio,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Pinar del Rio,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Pinar del Rio,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Pinar del Rio,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Pinar del Rio,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Sancti Spiritus,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Sancti Spiritus,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Sancti Spiritus,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Sancti Spiritus,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Sancti Spiritus,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Sancti Spiritus,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Sancti Spiritus,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Santiago de Cuba,June,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Cuba,Santiago de Cuba,July,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Cuba,Santiago de Cuba,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Cuba,Santiago de Cuba,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Santiago de Cuba,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Santiago de Cuba,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Santiago de Cuba,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Villa Clara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Villa Clara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Cuba,Villa Clara,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Cuba,Villa Clara,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Cuba,Villa Clara,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Cuba,Villa Clara,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Cuba,Villa Clara,December,2025,0,0,0,0,,,,,1765375966
+Cuba,Artemisa,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Camaguey,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Ciego de Avila,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Cienfuegos,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Granma,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Guantanamo,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Holguin,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Isla de la Juventud,January,2026,0,0,0,0,,,,,1765375966
+Cuba,La Habana,January,2026,1,0,0,1,,,,,1765375966
+Cuba,Las Tunas,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Matanzas,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Mayabeque,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Pinar del Rio,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Sancti Spiritus,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Santiago de Cuba,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Villa Clara,January,2026,0,0,0,0,,,,,1765375966
+Cuba,Artemisa,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Camaguey,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Ciego de Avila,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Cienfuegos,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Granma,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Guantanamo,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Holguin,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Isla de la Juventud,February,2026,0,0,0,0,,,,,1765375966
+Cuba,La Habana,February,2026,1,0,0,1,,,,,1765375966
+Cuba,Las Tunas,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Matanzas,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Mayabeque,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Pinar del Rio,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Sancti Spiritus,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Santiago de Cuba,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Villa Clara,February,2026,0,0,0,0,,,,,1765375966
+Cuba,Artemisa,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Camaguey,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Ciego de Avila,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Cienfuegos,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Granma,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Guantanamo,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Holguin,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Isla de la Juventud,March,2026,0,0,0,0,,,,,1765375966
+Cuba,La Habana,March,2026,1,0,0,1,,,,,1765375966
+Cuba,Las Tunas,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Matanzas,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Mayabeque,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Pinar del Rio,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Sancti Spiritus,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Santiago de Cuba,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Villa Clara,March,2026,0,0,0,0,,,,,1765375966
+Cuba,Artemisa,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Camaguey,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Ciego de Avila,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Cienfuegos,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Granma,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Guantanamo,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Holguin,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Isla de la Juventud,April,2026,0,0,0,0,,,,,1765375966
+Cuba,La Habana,April,2026,1,0,0,1,,,,,1765375966
+Cuba,Las Tunas,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Matanzas,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Mayabeque,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Pinar del Rio,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Sancti Spiritus,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Santiago de Cuba,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Villa Clara,April,2026,0,0,0,0,,,,,1765375966
+Cuba,Artemisa,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Camaguey,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Ciego de Avila,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Cienfuegos,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Granma,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Guantanamo,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Holguin,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Isla de la Juventud,May,2026,0,0,0,0,,,,,1765375966
+Cuba,La Habana,May,2026,1,0,0,1,,,,,1765375966
+Cuba,Las Tunas,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Matanzas,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Mayabeque,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Pinar del Rio,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Sancti Spiritus,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Santiago de Cuba,May,2026,0,0,0,0,,,,,1765375966
+Cuba,Villa Clara,May,2026,0,0,0,0,,,,,1765375966

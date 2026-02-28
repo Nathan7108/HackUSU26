@@ -12,10 +12,8 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as SettingsRouteImport } from './routes/settings'
 import { Route as ReportsRouteImport } from './routes/reports'
 import { Route as ForecastsRouteImport } from './routes/forecasts'
-import { Route as ExposureRouteImport } from './routes/exposure'
 import { Route as DashboardRouteImport } from './routes/dashboard'
 import { Route as CountriesRouteImport } from './routes/countries'
-import { Route as AlertsRouteImport } from './routes/alerts'
 import { Route as ActionsRouteImport } from './routes/actions'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as CountryCodeRouteImport } from './routes/country.$code'
@@ -35,11 +33,6 @@ const ForecastsRoute = ForecastsRouteImport.update({
   path: '/forecasts',
   getParentRoute: () => rootRouteImport,
 } as any)
-const ExposureRoute = ExposureRouteImport.update({
-  id: '/exposure',
-  path: '/exposure',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const DashboardRoute = DashboardRouteImport.update({
   id: '/dashboard',
   path: '/dashboard',
@@ -48,11 +41,6 @@ const DashboardRoute = DashboardRouteImport.update({
 const CountriesRoute = CountriesRouteImport.update({
   id: '/countries',
   path: '/countries',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const AlertsRoute = AlertsRouteImport.update({
-  id: '/alerts',
-  path: '/alerts',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ActionsRoute = ActionsRouteImport.update({
@@ -74,10 +62,8 @@ const CountryCodeRoute = CountryCodeRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/actions': typeof ActionsRoute
-  '/alerts': typeof AlertsRoute
   '/countries': typeof CountriesRoute
   '/dashboard': typeof DashboardRoute
-  '/exposure': typeof ExposureRoute
   '/forecasts': typeof ForecastsRoute
   '/reports': typeof ReportsRoute
   '/settings': typeof SettingsRoute
@@ -86,10 +72,8 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/actions': typeof ActionsRoute
-  '/alerts': typeof AlertsRoute
   '/countries': typeof CountriesRoute
   '/dashboard': typeof DashboardRoute
-  '/exposure': typeof ExposureRoute
   '/forecasts': typeof ForecastsRoute
   '/reports': typeof ReportsRoute
   '/settings': typeof SettingsRoute
@@ -99,10 +83,8 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/actions': typeof ActionsRoute
-  '/alerts': typeof AlertsRoute
   '/countries': typeof CountriesRoute
   '/dashboard': typeof DashboardRoute
-  '/exposure': typeof ExposureRoute
   '/forecasts': typeof ForecastsRoute
   '/reports': typeof ReportsRoute
   '/settings': typeof SettingsRoute
@@ -113,10 +95,8 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/actions'
-    | '/alerts'
     | '/countries'
     | '/dashboard'
-    | '/exposure'
     | '/forecasts'
     | '/reports'
     | '/settings'
@@ -125,10 +105,8 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/actions'
-    | '/alerts'
     | '/countries'
     | '/dashboard'
-    | '/exposure'
     | '/forecasts'
     | '/reports'
     | '/settings'
@@ -137,10 +115,8 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/actions'
-    | '/alerts'
     | '/countries'
     | '/dashboard'
-    | '/exposure'
     | '/forecasts'
     | '/reports'
     | '/settings'
@@ -150,10 +126,8 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   ActionsRoute: typeof ActionsRoute
-  AlertsRoute: typeof AlertsRoute
   CountriesRoute: typeof CountriesRoute
   DashboardRoute: typeof DashboardRoute
-  ExposureRoute: typeof ExposureRoute
   ForecastsRoute: typeof ForecastsRoute
   ReportsRoute: typeof ReportsRoute
   SettingsRoute: typeof SettingsRoute
@@ -183,13 +157,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ForecastsRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/exposure': {
-      id: '/exposure'
-      path: '/exposure'
-      fullPath: '/exposure'
-      preLoaderRoute: typeof ExposureRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/dashboard': {
       id: '/dashboard'
       path: '/dashboard'
@@ -202,13 +169,6 @@ declare module '@tanstack/react-router' {
       path: '/countries'
       fullPath: '/countries'
       preLoaderRoute: typeof CountriesRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/alerts': {
-      id: '/alerts'
-      path: '/alerts'
-      fullPath: '/alerts'
-      preLoaderRoute: typeof AlertsRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/actions': {
@@ -238,10 +198,8 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   ActionsRoute: ActionsRoute,
-  AlertsRoute: AlertsRoute,
   CountriesRoute: CountriesRoute,
   DashboardRoute: DashboardRoute,
-  ExposureRoute: ExposureRoute,
   ForecastsRoute: ForecastsRoute,
   ReportsRoute: ReportsRoute,
   SettingsRoute: SettingsRoute,

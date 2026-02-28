@@ -1,0 +1,325 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Sri Lanka,Central,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Central,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141093
+Sri Lanka,Eastern,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Eastern,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Eastern,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Eastern,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Eastern,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Eastern,July,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141094
+Sri Lanka,Eastern,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,North Central,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Central,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,December,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141094
+Sri Lanka,North Western,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,North Western,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,North Western,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,North Western,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Northern,June,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141094
+Sri Lanka,Northern,July,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Northern,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Northern,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Northern,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Northern,November,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141094
+Sri Lanka,Northern,December,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Northern,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Northern,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Northern,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Northern,April,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141094
+Sri Lanka,Northern,May,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Northern,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Northern,July,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141094
+Sri Lanka,Northern,August,2024,3,0,0,3,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Sabaragamuwa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Sabaragamuwa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Southern,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141094
+Sri Lanka,Southern,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Southern,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Southern,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Uva,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Western,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Western,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,March,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141094
+Sri Lanka,Western,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+Sri Lanka,Western,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141094
+Sri Lanka,Central,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+Sri Lanka,Eastern,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+Sri Lanka,North Central,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+Sri Lanka,North Western,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+Sri Lanka,Northern,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730731003
+Sri Lanka,Sabaragamuwa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+Sri Lanka,Southern,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730731003
+Sri Lanka,Uva,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+Sri Lanka,Western,September,2024,1,0,0,1,2.0,0.0,0.0,2.0,1730731003
+Sri Lanka,Central,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,Central,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010309
+Sri Lanka,Eastern,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,Eastern,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,North Central,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,North Central,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,North Western,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,North Western,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,Northern,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010309
+Sri Lanka,Northern,November,2024,1,0,0,1,3.0,0.0,1.0,2.0,1734010309
+Sri Lanka,Sabaragamuwa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,Sabaragamuwa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,Southern,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,Southern,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,Uva,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010309
+Sri Lanka,Uva,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010309
+Sri Lanka,Western,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010310
+Sri Lanka,Western,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010310
+Sri Lanka,Central,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033373
+Sri Lanka,Eastern,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033373
+Sri Lanka,North Central,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033373
+Sri Lanka,North Western,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033373
+Sri Lanka,Northern,December,2024,3,0,1,2,1.0,0.0,0.0,1.0,1737033373
+Sri Lanka,Sabaragamuwa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033373
+Sri Lanka,Southern,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033373
+Sri Lanka,Uva,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033373
+Sri Lanka,Western,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033373
+Sri Lanka,Central,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854871
+Sri Lanka,Eastern,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+Sri Lanka,North Central,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+Sri Lanka,North Western,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+Sri Lanka,Northern,January,2025,1,0,0,1,2.0,0.0,0.0,2.0,1738854871
+Sri Lanka,Sabaragamuwa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+Sri Lanka,Southern,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+Sri Lanka,Uva,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854871
+Sri Lanka,Western,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854871
+Sri Lanka,Central,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266642
+Sri Lanka,Eastern,February,2025,0,0,0,0,2.0,0.0,0.0,2.0,1741266642
+Sri Lanka,North Central,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266642
+Sri Lanka,North Western,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266642
+Sri Lanka,Northern,February,2025,2,0,0,2,2.0,0.0,0.0,2.0,1741266642
+Sri Lanka,Sabaragamuwa,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266642
+Sri Lanka,Southern,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266642
+Sri Lanka,Uva,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266642
+Sri Lanka,Western,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266642
+Sri Lanka,Central,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Sri Lanka,Eastern,March,2025,2,0,0,2,0.0,0.0,0.0,0.0,1744287549
+Sri Lanka,North Central,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Sri Lanka,North Western,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Sri Lanka,Northern,March,2025,2,0,0,2,1.0,0.0,0.0,1.0,1744287549
+Sri Lanka,Sabaragamuwa,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287549
+Sri Lanka,Southern,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Sri Lanka,Uva,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Sri Lanka,Western,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+Sri Lanka,Central,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Sri Lanka,Eastern,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Sri Lanka,North Central,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Sri Lanka,North Western,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Sri Lanka,Northern,April,2025,1,0,0,1,2.0,0.0,0.0,2.0,1746702918
+Sri Lanka,Sabaragamuwa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Sri Lanka,Southern,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Sri Lanka,Uva,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+Sri Lanka,Western,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702918
+Sri Lanka,Central,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732030
+Sri Lanka,Eastern,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732030
+Sri Lanka,North Central,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732030
+Sri Lanka,North Western,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732030
+Sri Lanka,Northern,May,2025,2,0,0,2,2.0,0.0,0.0,2.0,1749732030
+Sri Lanka,Sabaragamuwa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732030
+Sri Lanka,Southern,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732030
+Sri Lanka,Uva,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732030
+Sri Lanka,Western,May,2025,2,0,0,2,1.0,0.0,0.0,1.0,1749732030
+Sri Lanka,Central,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Central,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Central,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Sri Lanka,Central,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Sri Lanka,Central,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Sri Lanka,Central,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sri Lanka,Central,December,2025,0,0,0,0,,,,,1765375966
+Sri Lanka,Eastern,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Sri Lanka,Eastern,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Eastern,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Sri Lanka,Eastern,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Sri Lanka,Eastern,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Sri Lanka,Eastern,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sri Lanka,Eastern,December,2025,0,0,0,0,,,,,1765375966
+Sri Lanka,North Central,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,North Central,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,North Central,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Sri Lanka,North Central,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Sri Lanka,North Central,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Sri Lanka,North Central,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sri Lanka,North Central,December,2025,0,0,0,0,,,,,1765375966
+Sri Lanka,North Western,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Sri Lanka,North Western,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Sri Lanka,North Western,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Sri Lanka,North Western,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Sri Lanka,North Western,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Sri Lanka,North Western,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sri Lanka,North Western,December,2025,0,0,0,0,,,,,1765375966
+Sri Lanka,Northern,June,2025,2,0,0,2,2.0,0.0,0.0,2.0,1754429217
+Sri Lanka,Northern,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Northern,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+Sri Lanka,Northern,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Sri Lanka,Northern,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Sri Lanka,Northern,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Sri Lanka,Northern,December,2025,1,0,0,1,,,,,1765375966
+Sri Lanka,Sabaragamuwa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Sabaragamuwa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Sabaragamuwa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Sri Lanka,Sabaragamuwa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Sri Lanka,Sabaragamuwa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Sri Lanka,Sabaragamuwa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sri Lanka,Sabaragamuwa,December,2025,0,0,0,0,,,,,1765375966
+Sri Lanka,Southern,June,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Sri Lanka,Southern,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Sri Lanka,Southern,August,2025,1,0,0,1,1.0,1.0,0.0,0.0,1757596698
+Sri Lanka,Southern,September,2025,1,1,0,0,0.0,0.0,0.0,0.0,1760036046
+Sri Lanka,Southern,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Sri Lanka,Southern,November,2025,2,0,0,2,0.0,0.0,0.0,0.0,1765375966
+Sri Lanka,Southern,December,2025,0,0,0,0,,,,,1765375966
+Sri Lanka,Uva,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Uva,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Uva,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Sri Lanka,Uva,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Sri Lanka,Uva,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Sri Lanka,Uva,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sri Lanka,Uva,December,2025,0,0,0,0,,,,,1765375966
+Sri Lanka,Western,June,2025,1,0,0,1,2.0,0.0,0.0,2.0,1754429217
+Sri Lanka,Western,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Sri Lanka,Western,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Sri Lanka,Western,September,2025,1,0,0,1,1.0,0.0,1.0,0.0,1760036046
+Sri Lanka,Western,October,2025,1,0,1,0,0.0,0.0,0.0,0.0,1762435626
+Sri Lanka,Western,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Sri Lanka,Western,December,2025,0,0,0,0,,,,,1765375966
+Sri Lanka,Central,January,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Eastern,January,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Central,January,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Western,January,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Northern,January,2026,1,0,0,1,,,,,1765375966
+Sri Lanka,Sabaragamuwa,January,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Southern,January,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Uva,January,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Western,January,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Central,February,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Eastern,February,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Central,February,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Western,February,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Northern,February,2026,1,0,0,1,,,,,1765375966
+Sri Lanka,Sabaragamuwa,February,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Southern,February,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Uva,February,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Western,February,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Central,March,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Eastern,March,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Central,March,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Western,March,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Northern,March,2026,1,0,0,1,,,,,1765375966
+Sri Lanka,Sabaragamuwa,March,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Southern,March,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Uva,March,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Western,March,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Central,April,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Eastern,April,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Central,April,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Western,April,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Northern,April,2026,1,0,0,1,,,,,1765375966
+Sri Lanka,Sabaragamuwa,April,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Southern,April,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Uva,April,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Western,April,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Central,May,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Eastern,May,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Central,May,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,North Western,May,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Northern,May,2026,1,0,0,1,,,,,1765375966
+Sri Lanka,Sabaragamuwa,May,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Southern,May,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Uva,May,2026,0,0,0,0,,,,,1765375966
+Sri Lanka,Western,May,2026,0,0,0,0,,,,,1765375966

@@ -1,0 +1,274 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Nepal,Bagmati,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Bagmati,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141064
+Nepal,Bagmati,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141064
+Nepal,Bagmati,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Bagmati,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Nepal,Bagmati,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,March,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141064
+Nepal,Bagmati,April,2024,2,0,1,1,1.0,0.0,1.0,0.0,1726141064
+Nepal,Bagmati,May,2024,1,0,1,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Bagmati,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141064
+Nepal,Bagmati,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,March,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Gandaki,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Gandaki,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141064
+Nepal,Gandaki,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Gandaki,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Karnali,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Karnali,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Karnali,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Karnali,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,June,2023,0,0,0,0,2.0,0.0,2.0,0.0,1726141064
+Nepal,Lumbini,July,2023,2,0,1,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Lumbini,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Lumbini,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141064
+Nepal,Lumbini,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Lumbini,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Madhesh,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Nepal,Madhesh,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Madhesh,July,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141064
+Nepal,Madhesh,August,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141064
+Nepal,Madhesh,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Nepal,Madhesh,November,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Madhesh,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Madhesh,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Madhesh,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Madhesh,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Province 1,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Province 1,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Province 1,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Province 1,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141064
+Nepal,Province 1,July,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141064
+Nepal,Province 1,August,2024,2,0,0,2,1.0,0.0,1.0,0.0,1726141064
+Nepal,Sudurpashchim,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Nepal,Sudurpashchim,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Sudurpashchim,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nepal,Sudurpashchim,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nepal,Sudurpashchim,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nepal,Bagmati,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Nepal,Gandaki,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Nepal,Karnali,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Nepal,Lumbini,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730996
+Nepal,Madhesh,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Nepal,Province 1,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730997
+Nepal,Sudurpashchim,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nepal,Bagmati,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Bagmati,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Gandaki,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Gandaki,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010296
+Nepal,Karnali,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Karnali,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Lumbini,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010296
+Nepal,Lumbini,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010296
+Nepal,Madhesh,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Madhesh,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Province 1,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010296
+Nepal,Province 1,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010296
+Nepal,Sudurpashchim,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Sudurpashchim,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nepal,Bagmati,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Nepal,Gandaki,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033358
+Nepal,Karnali,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Nepal,Lumbini,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Nepal,Madhesh,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Nepal,Province 1,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Nepal,Sudurpashchim,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Nepal,Bagmati,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nepal,Gandaki,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nepal,Karnali,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nepal,Lumbini,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nepal,Madhesh,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854861
+Nepal,Province 1,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854861
+Nepal,Sudurpashchim,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nepal,Bagmati,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266631
+Nepal,Gandaki,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266631
+Nepal,Karnali,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nepal,Lumbini,February,2025,0,0,0,0,2.0,0.0,1.0,1.0,1741266631
+Nepal,Madhesh,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266631
+Nepal,Province 1,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266631
+Nepal,Sudurpashchim,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nepal,Bagmati,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287546
+Nepal,Gandaki,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287546
+Nepal,Karnali,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nepal,Lumbini,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287546
+Nepal,Madhesh,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287546
+Nepal,Province 1,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nepal,Sudurpashchim,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nepal,Bagmati,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702915
+Nepal,Gandaki,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nepal,Karnali,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702915
+Nepal,Lumbini,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702915
+Nepal,Madhesh,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702915
+Nepal,Province 1,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nepal,Sudurpashchim,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nepal,Bagmati,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732020
+Nepal,Gandaki,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nepal,Karnali,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732020
+Nepal,Lumbini,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732020
+Nepal,Madhesh,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nepal,Province 1,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nepal,Sudurpashchim,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732020
+Nepal,Bagmati,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nepal,Bagmati,July,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Nepal,Bagmati,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+Nepal,Bagmati,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Nepal,Bagmati,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nepal,Bagmati,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nepal,Bagmati,December,2025,0,0,0,0,,,,,1765375966
+Nepal,Gandaki,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Nepal,Gandaki,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Nepal,Gandaki,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nepal,Gandaki,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nepal,Gandaki,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nepal,Gandaki,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nepal,Gandaki,December,2025,0,0,0,0,,,,,1765375966
+Nepal,Karnali,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nepal,Karnali,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nepal,Karnali,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nepal,Karnali,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nepal,Karnali,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nepal,Karnali,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Nepal,Karnali,December,2025,1,0,0,1,,,,,1765375966
+Nepal,Lumbini,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nepal,Lumbini,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nepal,Lumbini,August,2025,0,0,0,0,1.0,0.0,1.0,0.0,1757596698
+Nepal,Lumbini,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Nepal,Lumbini,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nepal,Lumbini,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nepal,Lumbini,December,2025,0,0,0,0,,,,,1765375966
+Nepal,Madhesh,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Nepal,Madhesh,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Nepal,Madhesh,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nepal,Madhesh,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nepal,Madhesh,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Nepal,Madhesh,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Nepal,Madhesh,December,2025,0,0,0,0,,,,,1765375966
+Nepal,Province 1,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nepal,Province 1,July,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Nepal,Province 1,August,2025,2,0,0,2,0.0,0.0,0.0,0.0,1757596698
+Nepal,Province 1,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nepal,Province 1,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nepal,Province 1,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nepal,Province 1,December,2025,0,0,0,0,,,,,1765375966
+Nepal,Sudurpashchim,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Nepal,Sudurpashchim,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Nepal,Sudurpashchim,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nepal,Sudurpashchim,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nepal,Sudurpashchim,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nepal,Sudurpashchim,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nepal,Sudurpashchim,December,2025,0,0,0,0,,,,,1765375966
+Nepal,Bagmati,January,2026,0,0,0,0,,,,,1765375966
+Nepal,Gandaki,January,2026,0,0,0,0,,,,,1765375966
+Nepal,Karnali,January,2026,1,0,0,1,,,,,1765375966
+Nepal,Lumbini,January,2026,0,0,0,0,,,,,1765375966
+Nepal,Madhesh,January,2026,0,0,0,0,,,,,1765375966
+Nepal,Province 1,January,2026,0,0,0,0,,,,,1765375966
+Nepal,Sudurpashchim,January,2026,0,0,0,0,,,,,1765375966
+Nepal,Bagmati,February,2026,0,0,0,0,,,,,1765375966
+Nepal,Gandaki,February,2026,0,0,0,0,,,,,1765375966
+Nepal,Karnali,February,2026,1,0,0,1,,,,,1765375966
+Nepal,Lumbini,February,2026,0,0,0,0,,,,,1765375966
+Nepal,Madhesh,February,2026,0,0,0,0,,,,,1765375966
+Nepal,Province 1,February,2026,0,0,0,0,,,,,1765375966
+Nepal,Sudurpashchim,February,2026,0,0,0,0,,,,,1765375966
+Nepal,Bagmati,March,2026,0,0,0,0,,,,,1765375966
+Nepal,Gandaki,March,2026,0,0,0,0,,,,,1765375966
+Nepal,Karnali,March,2026,1,0,0,1,,,,,1765375966
+Nepal,Lumbini,March,2026,0,0,0,0,,,,,1765375966
+Nepal,Madhesh,March,2026,0,0,0,0,,,,,1765375966
+Nepal,Province 1,March,2026,0,0,0,0,,,,,1765375966
+Nepal,Sudurpashchim,March,2026,0,0,0,0,,,,,1765375966
+Nepal,Bagmati,April,2026,0,0,0,0,,,,,1765375966
+Nepal,Gandaki,April,2026,0,0,0,0,,,,,1765375966
+Nepal,Karnali,April,2026,1,0,0,1,,,,,1765375966
+Nepal,Lumbini,April,2026,0,0,0,0,,,,,1765375966
+Nepal,Madhesh,April,2026,0,0,0,0,,,,,1765375966
+Nepal,Province 1,April,2026,0,0,0,0,,,,,1765375966
+Nepal,Sudurpashchim,April,2026,0,0,0,0,,,,,1765375966
+Nepal,Bagmati,May,2026,0,0,0,0,,,,,1765375966
+Nepal,Gandaki,May,2026,0,0,0,0,,,,,1765375966
+Nepal,Karnali,May,2026,1,0,0,1,,,,,1765375966
+Nepal,Lumbini,May,2026,0,0,0,0,,,,,1765375966
+Nepal,Madhesh,May,2026,0,0,0,0,,,,,1765375966
+Nepal,Province 1,May,2026,0,0,0,0,,,,,1765375966
+Nepal,Sudurpashchim,May,2026,0,0,0,0,,,,,1765375966

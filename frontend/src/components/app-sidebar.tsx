@@ -2,11 +2,7 @@ import * as React from "react"
 import {
   LayoutDashboard,
   List,
-  Route,
   Bell,
-  TrendingUp,
-  FileBarChart,
-  Settings2,
   Sparkles,
   Globe,
   Brain,
@@ -27,7 +23,6 @@ function SentinelIcon({ className }: { className?: string }) {
 }
 
 import { NavMain } from "@/components/nav-main"
-import { NavProjects } from "@/components/nav-projects"
 import { NavUser } from "@/components/nav-user"
 import { TeamSwitcher } from "@/components/team-switcher"
 import {
@@ -72,16 +67,14 @@ const data = {
       icon: List,
       items: [
         { title: "Country Rankings", url: "/countries" },
-        { title: "Exposure Map", url: "/exposure" },
-        { title: "Recommended Actions", url: "/actions" },
+        { title: "Actions", url: "/actions" },
       ],
     },
     {
       title: "Monitoring",
-      url: "/alerts",
+      url: "/forecasts",
       icon: Bell,
       items: [
-        { title: "Live Alerts", url: "/alerts" },
         { title: "LSTM Forecasts", url: "/forecasts" },
       ],
     },
@@ -91,24 +84,8 @@ const data = {
       icon: Brain,
       items: [
         { title: "Model Performance", url: "/reports" },
+        { title: "Ask Sentinel", url: "#ask-sentinel" },
       ],
-    },
-  ],
-  projects: [
-    {
-      name: "Supply Chain Risk",
-      url: "/exposure",
-      icon: Route,
-    },
-    {
-      name: "Forecast Models",
-      url: "/forecasts",
-      icon: TrendingUp,
-    },
-    {
-      name: "Ask Sentinel",
-      url: "#ask-sentinel",
-      icon: Sparkles,
     },
   ],
 }
@@ -121,7 +98,6 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
       </SidebarHeader>
       <SidebarContent>
         <NavMain items={data.navMain} />
-        <NavProjects projects={data.projects} />
       </SidebarContent>
       <SidebarFooter>
         <NavUser user={data.user} />

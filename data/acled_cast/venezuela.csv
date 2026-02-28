@@ -1,0 +1,937 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Venezuela,Amazonas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Amazonas,May,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Amazonas,June,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Amazonas,October,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Amazonas,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Amazonas,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,March,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,May,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,October,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141133
+Venezuela,Anzoategui,November,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Anzoategui,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,May,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141133
+Venezuela,Anzoategui,June,2024,2,1,0,1,2.0,2.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,July,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Anzoategui,August,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141133
+Venezuela,Apure,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,June,2023,0,0,0,0,2.0,0.0,2.0,0.0,1726141133
+Venezuela,Apure,July,2023,2,0,2,0,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Apure,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,March,2024,0,0,0,0,2.0,1.0,1.0,0.0,1726141133
+Venezuela,Apure,April,2024,3,1,1,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Apure,May,2024,2,1,0,1,1.0,0.0,1.0,0.0,1726141133
+Venezuela,Apure,June,2024,2,0,1,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Apure,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Aragua,March,2023,2,1,0,1,5.0,3.0,0.0,2.0,1726141133
+Venezuela,Aragua,April,2023,3,2,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Aragua,May,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Aragua,June,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Aragua,July,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Aragua,August,2023,1,1,0,0,4.0,3.0,0.0,1.0,1726141133
+Venezuela,Aragua,September,2023,4,3,0,1,4.0,3.0,0.0,1.0,1726141133
+Venezuela,Aragua,October,2023,3,2,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Aragua,November,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Aragua,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Aragua,January,2024,2,1,0,1,2.0,2.0,0.0,0.0,1726141133
+Venezuela,Aragua,February,2024,2,1,0,1,3.0,3.0,0.0,0.0,1726141133
+Venezuela,Aragua,March,2024,3,2,0,1,6.0,4.0,1.0,1.0,1726141133
+Venezuela,Aragua,April,2024,5,3,1,1,4.0,3.0,0.0,1.0,1726141133
+Venezuela,Aragua,May,2024,4,3,0,1,4.0,4.0,0.0,0.0,1726141133
+Venezuela,Aragua,June,2024,4,3,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Aragua,July,2024,2,1,0,1,4.0,2.0,0.0,2.0,1726141133
+Venezuela,Aragua,August,2024,3,1,0,2,6.0,4.0,0.0,2.0,1726141133
+Venezuela,Barinas,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Barinas,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Barinas,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Barinas,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Barinas,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Barinas,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Bolivar,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141133
+Venezuela,Bolivar,April,2023,1,0,0,1,4.0,2.0,0.0,2.0,1726141133
+Venezuela,Bolivar,May,2023,3,2,0,2,4.0,2.0,0.0,2.0,1726141133
+Venezuela,Bolivar,June,2023,4,2,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Bolivar,July,2023,2,1,0,1,3.0,2.0,0.0,1.0,1726141133
+Venezuela,Bolivar,August,2023,3,2,0,1,2.0,2.0,0.0,0.0,1726141133
+Venezuela,Bolivar,September,2023,3,2,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Bolivar,October,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141133
+Venezuela,Bolivar,November,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Bolivar,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Bolivar,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Bolivar,February,2024,1,0,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Bolivar,March,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Bolivar,April,2024,0,0,0,0,3.0,2.0,0.0,1.0,1726141133
+Venezuela,Bolivar,May,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Bolivar,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Bolivar,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Bolivar,August,2024,1,1,0,0,5.0,0.0,0.0,5.0,1726141133
+Venezuela,Carabobo,March,2023,6,6,0,0,4.0,2.0,0.0,2.0,1726141133
+Venezuela,Carabobo,April,2023,3,2,0,1,5.0,5.0,0.0,0.0,1726141133
+Venezuela,Carabobo,May,2023,5,4,0,1,5.0,4.0,0.0,1.0,1726141133
+Venezuela,Carabobo,June,2023,5,4,0,1,7.0,6.0,0.0,1.0,1726141133
+Venezuela,Carabobo,July,2023,7,6,0,2,2.0,2.0,0.0,0.0,1726141133
+Venezuela,Carabobo,August,2023,4,3,0,1,4.0,3.0,0.0,1.0,1726141133
+Venezuela,Carabobo,September,2023,5,4,0,1,8.0,8.0,0.0,0.0,1726141133
+Venezuela,Carabobo,October,2023,6,5,0,1,9.0,9.0,0.0,0.0,1726141133
+Venezuela,Carabobo,November,2023,8,7,0,1,7.0,7.0,0.0,0.0,1726141133
+Venezuela,Carabobo,December,2023,8,7,0,1,6.0,5.0,0.0,1.0,1726141133
+Venezuela,Carabobo,January,2024,7,6,0,1,12.0,10.0,0.0,2.0,1726141133
+Venezuela,Carabobo,February,2024,7,6,0,1,10.0,9.0,0.0,1.0,1726141133
+Venezuela,Carabobo,March,2024,9,8,0,1,6.0,5.0,0.0,1.0,1726141133
+Venezuela,Carabobo,April,2024,5,4,0,1,5.0,3.0,0.0,2.0,1726141133
+Venezuela,Carabobo,May,2024,5,4,0,1,4.0,3.0,0.0,1.0,1726141133
+Venezuela,Carabobo,June,2024,4,3,0,1,2.0,1.0,0.0,1.0,1726141133
+Venezuela,Carabobo,July,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Carabobo,August,2024,2,1,0,1,4.0,4.0,0.0,0.0,1726141133
+Venezuela,Cojedes,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Cojedes,October,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Cojedes,May,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Cojedes,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,June,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,August,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141133
+Venezuela,Delta Amacuro,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Delta Amacuro,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Distrito Capital,March,2023,2,1,0,1,7.0,5.0,0.0,2.0,1726141133
+Venezuela,Distrito Capital,April,2023,5,3,0,2,3.0,2.0,0.0,1.0,1726141133
+Venezuela,Distrito Capital,May,2023,3,2,0,2,5.0,3.0,0.0,2.0,1726141133
+Venezuela,Distrito Capital,June,2023,4,3,0,1,3.0,1.0,0.0,2.0,1726141133
+Venezuela,Distrito Capital,July,2023,3,1,0,2,4.0,3.0,1.0,0.0,1726141133
+Venezuela,Distrito Capital,August,2023,5,3,1,1,3.0,2.0,0.0,1.0,1726141133
+Venezuela,Distrito Capital,September,2023,3,2,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Distrito Capital,October,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141133
+Venezuela,Distrito Capital,November,2023,2,1,0,1,5.0,3.0,0.0,2.0,1726141133
+Venezuela,Distrito Capital,December,2023,3,2,0,1,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Distrito Capital,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141133
+Venezuela,Distrito Capital,February,2024,0,0,0,0,6.0,3.0,0.0,3.0,1726141133
+Venezuela,Distrito Capital,March,2024,4,2,0,2,1.0,0.0,0.0,1.0,1726141133
+Venezuela,Distrito Capital,April,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141133
+Venezuela,Distrito Capital,May,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Distrito Capital,June,2024,2,1,0,1,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Distrito Capital,July,2024,3,2,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Distrito Capital,August,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Falcon,March,2023,1,0,0,1,5.0,1.0,0.0,4.0,1726141134
+Venezuela,Falcon,April,2023,4,1,0,2,5.0,4.0,0.0,1.0,1726141134
+Venezuela,Falcon,May,2023,5,3,0,2,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Falcon,June,2023,2,1,0,1,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Falcon,July,2023,3,2,0,1,3.0,2.0,1.0,0.0,1726141134
+Venezuela,Falcon,August,2023,3,2,1,0,3.0,1.0,0.0,2.0,1726141134
+Venezuela,Falcon,September,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Falcon,October,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Falcon,November,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Falcon,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Falcon,January,2024,0,0,0,0,4.0,2.0,0.0,2.0,1726141134
+Venezuela,Falcon,February,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Falcon,March,2024,0,0,0,0,3.0,2.0,0.0,1.0,1726141134
+Venezuela,Falcon,April,2024,3,2,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Falcon,May,2024,2,1,0,1,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Falcon,June,2024,2,1,0,1,7.0,3.0,1.0,3.0,1726141134
+Venezuela,Falcon,July,2024,3,2,0,1,2.0,0.0,0.0,2.0,1726141134
+Venezuela,Falcon,August,2024,3,1,0,2,3.0,2.0,0.0,1.0,1726141134
+Venezuela,Guarico,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Guarico,April,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Guarico,May,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Guarico,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Guarico,July,2023,0,0,0,0,5.0,4.0,0.0,1.0,1726141134
+Venezuela,Guarico,August,2023,3,2,0,1,2.0,0.0,0.0,2.0,1726141134
+Venezuela,Guarico,September,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Guarico,October,2023,1,0,0,1,4.0,1.0,0.0,3.0,1726141134
+Venezuela,Guarico,November,2023,2,1,0,1,4.0,4.0,0.0,0.0,1726141134
+Venezuela,Guarico,December,2023,4,3,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Guarico,January,2024,2,1,0,1,3.0,3.0,0.0,0.0,1726141134
+Venezuela,Guarico,February,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Guarico,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Guarico,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Guarico,May,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Guarico,June,2024,0,0,0,0,3.0,2.0,0.0,1.0,1726141134
+Venezuela,Guarico,July,2024,2,1,0,1,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Guarico,August,2024,1,1,0,0,6.0,6.0,0.0,0.0,1726141134
+Venezuela,La Guaira,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,La Guaira,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,La Guaira,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,La Guaira,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,La Guaira,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Lara,March,2023,1,1,0,0,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Lara,April,2023,2,1,0,0,4.0,4.0,0.0,0.0,1726141134
+Venezuela,Lara,May,2023,4,3,0,0,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Lara,June,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Lara,July,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Lara,August,2023,2,2,0,0,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Lara,September,2023,3,2,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Lara,October,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Lara,November,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Lara,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Lara,January,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Lara,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Lara,March,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Lara,April,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Lara,May,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Lara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Lara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Lara,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Merida,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Merida,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Merida,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Miranda,March,2023,8,6,0,2,4.0,4.0,0.0,0.0,1726141134
+Venezuela,Miranda,April,2023,3,3,0,0,8.0,8.0,0.0,0.0,1726141134
+Venezuela,Miranda,May,2023,8,7,0,1,7.0,5.0,0.0,2.0,1726141134
+Venezuela,Miranda,June,2023,7,6,0,1,5.0,2.0,0.0,3.0,1726141134
+Venezuela,Miranda,July,2023,6,3,0,2,9.0,7.0,1.0,1.0,1726141134
+Venezuela,Miranda,August,2023,8,6,1,1,6.0,3.0,0.0,3.0,1726141134
+Venezuela,Miranda,September,2023,7,5,0,2,5.0,2.0,0.0,3.0,1726141134
+Venezuela,Miranda,October,2023,4,2,0,2,4.0,3.0,0.0,1.0,1726141134
+Venezuela,Miranda,November,2023,5,3,0,2,3.0,2.0,0.0,1.0,1726141134
+Venezuela,Miranda,December,2023,4,3,0,1,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Miranda,January,2024,4,4,0,0,6.0,3.0,0.0,3.0,1726141134
+Venezuela,Miranda,February,2024,4,2,0,2,4.0,1.0,0.0,3.0,1726141134
+Venezuela,Miranda,March,2024,4,2,0,2,6.0,4.0,0.0,2.0,1726141134
+Venezuela,Miranda,April,2024,5,3,0,2,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Miranda,May,2024,4,2,0,2,9.0,8.0,0.0,1.0,1726141134
+Venezuela,Miranda,June,2024,6,5,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Miranda,July,2024,1,0,0,1,10.0,3.0,1.0,6.0,1726141134
+Venezuela,Miranda,August,2024,7,2,1,4,5.0,1.0,2.0,2.0,1726141134
+Venezuela,Monagas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Monagas,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Monagas,May,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Monagas,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Monagas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Monagas,August,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141134
+Venezuela,Monagas,September,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Monagas,October,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Monagas,November,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Monagas,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Monagas,January,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Monagas,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Monagas,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Monagas,April,2024,1,1,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Monagas,May,2024,1,0,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Monagas,June,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Monagas,July,2024,2,1,0,1,2.0,0.0,1.0,1.0,1726141134
+Venezuela,Monagas,August,2024,3,1,1,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,October,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,November,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Nueva Esparta,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Nueva Esparta,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Portuguesa,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,October,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,November,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Portuguesa,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Portuguesa,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,March,2023,2,1,0,1,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Sucre,April,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Sucre,May,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Sucre,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Sucre,July,2023,1,0,0,1,2.0,2.0,0.0,0.0,1726141134
+Venezuela,Sucre,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Sucre,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Sucre,June,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Sucre,July,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Sucre,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Tachira,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Tachira,May,2023,1,0,0,1,2.0,1.0,1.0,0.0,1726141134
+Venezuela,Tachira,June,2023,2,1,0,1,3.0,0.0,1.0,2.0,1726141134
+Venezuela,Tachira,July,2023,2,0,1,1,2.0,0.0,1.0,1.0,1726141134
+Venezuela,Tachira,August,2023,2,0,1,1,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Tachira,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Tachira,April,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Tachira,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Tachira,July,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141134
+Venezuela,Tachira,August,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Trujillo,March,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Trujillo,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141134
+Venezuela,Trujillo,May,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Trujillo,June,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Trujillo,July,2023,2,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Trujillo,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Trujillo,September,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Trujillo,October,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Trujillo,November,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141134
+Venezuela,Trujillo,December,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Trujillo,January,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Trujillo,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Trujillo,March,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Trujillo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Trujillo,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Trujillo,June,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Trujillo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Trujillo,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,April,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,May,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,August,2023,1,1,0,0,2.0,0.0,0.0,2.0,1726141134
+Venezuela,Yaracuy,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,March,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,May,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,June,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Yaracuy,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141134
+Venezuela,Zulia,March,2023,7,4,0,3,12.0,7.0,0.0,5.0,1726141134
+Venezuela,Zulia,April,2023,7,5,0,2,8.0,7.0,0.0,1.0,1726141134
+Venezuela,Zulia,May,2023,8,6,0,2,11.0,6.0,1.0,4.0,1726141134
+Venezuela,Zulia,June,2023,9,6,0,3,9.0,7.0,0.0,2.0,1726141134
+Venezuela,Zulia,July,2023,10,7,0,3,7.0,1.0,2.0,4.0,1726141134
+Venezuela,Zulia,August,2023,8,2,2,4,8.0,5.0,1.0,2.0,1726141134
+Venezuela,Zulia,September,2023,8,5,1,2,6.0,3.0,2.0,1.0,1726141134
+Venezuela,Zulia,October,2023,7,3,1,3,8.0,4.0,2.0,2.0,1726141134
+Venezuela,Zulia,November,2023,8,4,2,2,5.0,2.0,0.0,3.0,1726141134
+Venezuela,Zulia,December,2023,5,3,0,2,3.0,2.0,0.0,1.0,1726141134
+Venezuela,Zulia,January,2024,6,5,0,1,3.0,2.0,0.0,1.0,1726141134
+Venezuela,Zulia,February,2024,3,2,0,1,9.0,7.0,1.0,1.0,1726141134
+Venezuela,Zulia,March,2024,8,6,1,1,5.0,3.0,0.0,2.0,1726141134
+Venezuela,Zulia,April,2024,5,3,0,2,4.0,4.0,0.0,0.0,1726141134
+Venezuela,Zulia,May,2024,5,4,0,1,4.0,1.0,0.0,3.0,1726141134
+Venezuela,Zulia,June,2024,4,2,0,2,1.0,1.0,0.0,0.0,1726141134
+Venezuela,Zulia,July,2024,2,1,0,1,7.0,2.0,0.0,5.0,1726141134
+Venezuela,Zulia,August,2024,6,2,0,4,9.0,4.0,0.0,5.0,1726141134
+Venezuela,Amazonas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Anzoategui,September,2024,2,2,0,0,1.0,1.0,0.0,0.0,1730731011
+Venezuela,Apure,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Aragua,September,2024,5,3,0,2,4.0,4.0,0.0,0.0,1730731011
+Venezuela,Barinas,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730731011
+Venezuela,Bolivar,September,2024,4,1,0,3,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Carabobo,September,2024,5,4,0,1,9.0,6.0,0.0,3.0,1730731011
+Venezuela,Cojedes,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Delta Amacuro,September,2024,1,1,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Distrito Capital,September,2024,1,1,0,0,5.0,2.0,0.0,3.0,1730731011
+Venezuela,Falcon,September,2024,3,2,0,1,2.0,1.0,0.0,1.0,1730731011
+Venezuela,Guarico,September,2024,4,4,0,0,1.0,0.0,0.0,1.0,1730731011
+Venezuela,La Guaira,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Lara,September,2024,0,0,0,0,1.0,1.0,0.0,0.0,1730731011
+Venezuela,Merida,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Miranda,September,2024,7,2,2,3,1.0,0.0,0.0,1.0,1730731011
+Venezuela,Monagas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Nueva Esparta,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Portuguesa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Sucre,September,2024,0,0,0,0,1.0,1.0,0.0,0.0,1730731011
+Venezuela,Tachira,September,2024,0,0,0,0,1.0,1.0,0.0,0.0,1730731011
+Venezuela,Trujillo,September,2024,1,1,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Yaracuy,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731011
+Venezuela,Zulia,September,2024,8,4,0,4,9.0,7.0,0.0,2.0,1730731011
+Venezuela,Amazonas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Venezuela,Amazonas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Venezuela,Anzoategui,October,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010327
+Venezuela,Anzoategui,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Venezuela,Apure,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Venezuela,Apure,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010327
+Venezuela,Aragua,October,2024,5,4,0,1,4.0,2.0,0.0,2.0,1734010327
+Venezuela,Aragua,November,2024,3,2,0,1,2.0,2.0,0.0,0.0,1734010327
+Venezuela,Barinas,October,2024,1,0,0,1,1.0,1.0,0.0,0.0,1734010327
+Venezuela,Barinas,November,2024,2,1,0,1,1.0,0.0,0.0,1.0,1734010327
+Venezuela,Bolivar,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Bolivar,November,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010328
+Venezuela,Carabobo,October,2024,7,5,0,2,9.0,7.0,0.0,2.0,1734010328
+Venezuela,Carabobo,November,2024,7,6,0,1,3.0,2.0,0.0,1.0,1734010328
+Venezuela,Cojedes,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Cojedes,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Delta Amacuro,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Delta Amacuro,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Distrito Capital,October,2024,4,2,0,2,3.0,3.0,0.0,0.0,1734010328
+Venezuela,Distrito Capital,November,2024,4,3,0,1,1.0,1.0,0.0,0.0,1734010328
+Venezuela,Falcon,October,2024,2,1,0,1,2.0,1.0,0.0,1.0,1734010328
+Venezuela,Falcon,November,2024,2,1,0,1,4.0,3.0,0.0,1.0,1734010328
+Venezuela,Guarico,October,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Guarico,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,La Guaira,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,La Guaira,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Lara,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Lara,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Merida,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Merida,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Miranda,October,2024,2,1,0,1,1.0,1.0,0.0,0.0,1734010328
+Venezuela,Miranda,November,2024,3,2,0,1,6.0,4.0,0.0,2.0,1734010328
+Venezuela,Monagas,October,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010328
+Venezuela,Monagas,November,2024,2,1,0,1,1.0,0.0,0.0,1.0,1734010328
+Venezuela,Nueva Esparta,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Nueva Esparta,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Portuguesa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Portuguesa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Sucre,October,2024,1,1,0,0,2.0,1.0,0.0,1.0,1734010328
+Venezuela,Sucre,November,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Tachira,October,2024,1,1,0,0,1.0,0.0,1.0,0.0,1734010328
+Venezuela,Tachira,November,2024,1,0,1,0,1.0,1.0,0.0,0.0,1734010328
+Venezuela,Trujillo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Trujillo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Yaracuy,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Yaracuy,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010328
+Venezuela,Zulia,October,2024,8,6,0,2,8.0,7.0,0.0,1.0,1734010328
+Venezuela,Zulia,November,2024,7,6,0,1,3.0,3.0,0.0,0.0,1734010328
+Venezuela,Amazonas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Venezuela,Anzoategui,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033393
+Venezuela,Apure,December,2024,0,0,0,0,2.0,2.0,0.0,0.0,1737033393
+Venezuela,Aragua,December,2024,2,2,0,0,5.0,3.0,0.0,2.0,1737033394
+Venezuela,Barinas,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Bolivar,December,2024,1,1,0,0,2.0,1.0,0.0,1.0,1737033394
+Venezuela,Carabobo,December,2024,4,3,0,1,3.0,2.0,0.0,1.0,1737033394
+Venezuela,Cojedes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Delta Amacuro,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Distrito Capital,December,2024,1,1,0,0,2.0,2.0,0.0,0.0,1737033394
+Venezuela,Falcon,December,2024,3,2,0,1,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Guarico,December,2024,0,0,0,0,1.0,1.0,0.0,0.0,1737033394
+Venezuela,La Guaira,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Lara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Merida,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Miranda,December,2024,5,3,0,2,5.0,2.0,0.0,3.0,1737033394
+Venezuela,Monagas,December,2024,1,0,0,1,1.0,1.0,0.0,0.0,1737033394
+Venezuela,Nueva Esparta,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Portuguesa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Sucre,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Tachira,December,2024,1,1,0,0,1.0,1.0,0.0,0.0,1737033394
+Venezuela,Trujillo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Yaracuy,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033394
+Venezuela,Zulia,December,2024,3,3,0,0,6.0,3.0,1.0,2.0,1737033395
+Venezuela,Amazonas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Anzoategui,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Apure,January,2025,1,1,0,0,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Aragua,January,2025,5,3,0,2,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Barinas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Bolivar,January,2025,2,1,0,1,2.0,0.0,0.0,2.0,1738854884
+Venezuela,Carabobo,January,2025,5,3,0,2,11.0,7.0,0.0,4.0,1738854884
+Venezuela,Cojedes,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Delta Amacuro,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854884
+Venezuela,Distrito Capital,January,2025,3,2,0,1,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Falcon,January,2025,1,1,0,0,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Guarico,January,2025,1,1,0,0,1.0,1.0,0.0,0.0,1738854884
+Venezuela,La Guaira,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Lara,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854884
+Venezuela,Merida,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854884
+Venezuela,Miranda,January,2025,6,3,0,3,7.0,6.0,0.0,1.0,1738854885
+Venezuela,Monagas,January,2025,1,1,0,0,0.0,0.0,0.0,0.0,1738854885
+Venezuela,Nueva Esparta,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854885
+Venezuela,Portuguesa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854885
+Venezuela,Sucre,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854885
+Venezuela,Tachira,January,2025,1,1,0,0,0.0,0.0,0.0,0.0,1738854885
+Venezuela,Trujillo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854885
+Venezuela,Yaracuy,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854885
+Venezuela,Zulia,January,2025,6,3,1,2,3.0,1.0,0.0,2.0,1738854885
+Venezuela,Amazonas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Anzoategui,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Apure,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Aragua,February,2025,1,1,0,0,3.0,3.0,0.0,0.0,1741266656
+Venezuela,Barinas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Bolivar,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Carabobo,February,2025,6,5,0,1,12.0,11.0,0.0,1.0,1741266656
+Venezuela,Cojedes,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Delta Amacuro,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Distrito Capital,February,2025,0,0,0,0,5.0,3.0,0.0,2.0,1741266656
+Venezuela,Falcon,February,2025,0,0,0,0,2.0,2.0,0.0,0.0,1741266656
+Venezuela,Guarico,February,2025,2,1,0,1,3.0,3.0,0.0,0.0,1741266656
+Venezuela,La Guaira,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Lara,February,2025,1,0,0,1,1.0,0.0,0.0,1.0,1741266656
+Venezuela,Merida,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266656
+Venezuela,Miranda,February,2025,6,4,0,2,6.0,5.0,0.0,1.0,1741266656
+Venezuela,Monagas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266657
+Venezuela,Nueva Esparta,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266657
+Venezuela,Portuguesa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266657
+Venezuela,Sucre,February,2025,2,1,0,1,0.0,0.0,0.0,0.0,1741266657
+Venezuela,Tachira,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266657
+Venezuela,Trujillo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266657
+Venezuela,Yaracuy,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266657
+Venezuela,Zulia,February,2025,4,2,0,2,4.0,3.0,0.0,1.0,1741266657
+Venezuela,Amazonas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Venezuela,Anzoategui,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Venezuela,Apure,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Venezuela,Aragua,March,2025,3,3,0,0,2.0,2.0,0.0,0.0,1744287552
+Venezuela,Barinas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Venezuela,Bolivar,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287552
+Venezuela,Carabobo,March,2025,10,9,0,1,6.0,6.0,0.0,0.0,1744287553
+Venezuela,Cojedes,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287553
+Venezuela,Delta Amacuro,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Distrito Capital,March,2025,4,3,0,1,5.0,4.0,0.0,1.0,1744287553
+Venezuela,Falcon,March,2025,2,2,0,0,1.0,1.0,0.0,0.0,1744287553
+Venezuela,Guarico,March,2025,3,3,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,La Guaira,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Lara,March,2025,2,1,0,1,3.0,3.0,0.0,0.0,1744287553
+Venezuela,Merida,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Miranda,March,2025,6,5,0,1,5.0,4.0,0.0,1.0,1744287553
+Venezuela,Monagas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Nueva Esparta,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Portuguesa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Sucre,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Tachira,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Trujillo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Yaracuy,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Venezuela,Zulia,March,2025,4,3,0,1,2.0,1.0,0.0,1.0,1744287553
+Venezuela,Amazonas,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Anzoategui,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Apure,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Aragua,April,2025,2,2,0,0,3.0,3.0,0.0,0.0,1746702922
+Venezuela,Barinas,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702922
+Venezuela,Bolivar,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702922
+Venezuela,Carabobo,April,2025,5,5,0,0,3.0,3.0,0.0,0.0,1746702922
+Venezuela,Cojedes,April,2025,2,1,0,1,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Delta Amacuro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Distrito Capital,April,2025,4,3,0,1,2.0,2.0,0.0,0.0,1746702922
+Venezuela,Falcon,April,2025,1,1,0,0,1.0,0.0,0.0,1.0,1746702922
+Venezuela,Guarico,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,La Guaira,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Lara,April,2025,3,2,0,1,1.0,1.0,0.0,0.0,1746702922
+Venezuela,Merida,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Miranda,April,2025,5,4,0,1,2.0,1.0,0.0,1.0,1746702922
+Venezuela,Monagas,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702922
+Venezuela,Nueva Esparta,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Portuguesa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Sucre,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Tachira,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702922
+Venezuela,Trujillo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702922
+Venezuela,Yaracuy,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702922
+Venezuela,Zulia,April,2025,3,2,0,1,6.0,5.0,0.0,1.0,1746702922
+Venezuela,Amazonas,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Venezuela,Anzoategui,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Venezuela,Apure,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732039
+Venezuela,Aragua,May,2025,3,3,0,0,1.0,1.0,0.0,0.0,1749732040
+Venezuela,Barinas,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Bolivar,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Carabobo,May,2025,4,4,0,0,6.0,4.0,0.0,2.0,1749732040
+Venezuela,Cojedes,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Delta Amacuro,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Distrito Capital,May,2025,4,3,0,1,4.0,1.0,0.0,3.0,1749732040
+Venezuela,Falcon,May,2025,2,1,0,1,3.0,2.0,0.0,1.0,1749732040
+Venezuela,Guarico,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732040
+Venezuela,La Guaira,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732040
+Venezuela,Lara,May,2025,1,1,0,0,4.0,3.0,0.0,1.0,1749732040
+Venezuela,Merida,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Miranda,May,2025,3,2,0,1,1.0,0.0,0.0,1.0,1749732040
+Venezuela,Monagas,May,2025,1,1,0,0,1.0,0.0,0.0,1.0,1749732040
+Venezuela,Nueva Esparta,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732040
+Venezuela,Portuguesa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Sucre,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Tachira,May,2025,1,1,0,0,1.0,0.0,0.0,1.0,1749732040
+Venezuela,Trujillo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Yaracuy,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732040
+Venezuela,Zulia,May,2025,5,4,0,1,1.0,0.0,0.0,1.0,1749732040
+Venezuela,Amazonas,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Amazonas,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Amazonas,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Venezuela,Amazonas,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Amazonas,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Venezuela,Amazonas,November,2025,1,1,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Amazonas,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Anzoategui,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Anzoategui,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Venezuela,Anzoategui,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Anzoategui,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Anzoategui,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Venezuela,Anzoategui,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Anzoategui,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Apure,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Apure,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Apure,August,2025,0,0,0,0,2.0,1.0,0.0,1.0,1757596698
+Venezuela,Apure,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Apure,October,2025,0,0,0,0,1.0,0.0,1.0,0.0,1762435626
+Venezuela,Apure,November,2025,1,0,1,0,1.0,0.0,1.0,0.0,1765375966
+Venezuela,Apure,December,2025,2,0,1,1,,,,,1765375966
+Venezuela,Aragua,June,2025,3,2,0,1,4.0,3.0,0.0,1.0,1754429217
+Venezuela,Aragua,July,2025,3,2,0,1,6.0,5.0,0.0,1.0,1754429217
+Venezuela,Aragua,August,2025,5,4,0,1,4.0,2.0,0.0,2.0,1757596698
+Venezuela,Aragua,September,2025,3,2,0,1,3.0,3.0,0.0,0.0,1760036046
+Venezuela,Aragua,October,2025,4,3,0,1,7.0,6.0,0.0,1.0,1762435626
+Venezuela,Aragua,November,2025,4,3,0,1,8.0,6.0,0.0,2.0,1765375966
+Venezuela,Aragua,December,2025,6,5,0,1,,,,,1765375966
+Venezuela,Barinas,June,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Venezuela,Barinas,July,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Barinas,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Barinas,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Barinas,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Venezuela,Barinas,November,2025,1,0,0,1,1.0,1.0,0.0,0.0,1765375966
+Venezuela,Barinas,December,2025,2,1,0,1,,,,,1765375966
+Venezuela,Bolivar,June,2025,0,0,0,0,5.0,2.0,0.0,3.0,1754429217
+Venezuela,Bolivar,July,2025,3,2,0,1,2.0,0.0,0.0,2.0,1754429217
+Venezuela,Bolivar,August,2025,2,1,0,1,1.0,0.0,0.0,1.0,1757596698
+Venezuela,Bolivar,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Bolivar,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Venezuela,Bolivar,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Venezuela,Bolivar,December,2025,1,0,0,1,,,,,1765375966
+Venezuela,Carabobo,June,2025,5,4,0,1,4.0,3.0,0.0,1.0,1754429217
+Venezuela,Carabobo,July,2025,4,3,0,1,3.0,3.0,0.0,0.0,1754429217
+Venezuela,Carabobo,August,2025,4,3,0,1,3.0,2.0,0.0,1.0,1757596698
+Venezuela,Carabobo,September,2025,4,3,0,1,7.0,7.0,0.0,0.0,1760036046
+Venezuela,Carabobo,October,2025,6,5,0,1,2.0,1.0,0.0,1.0,1762435626
+Venezuela,Carabobo,November,2025,2,1,0,1,1.0,0.0,0.0,1.0,1765375966
+Venezuela,Carabobo,December,2025,2,1,0,1,,,,,1765375966
+Venezuela,Cojedes,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Cojedes,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Cojedes,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Cojedes,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Cojedes,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Cojedes,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Cojedes,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Delta Amacuro,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Venezuela,Delta Amacuro,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Venezuela,Delta Amacuro,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Delta Amacuro,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Delta Amacuro,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Delta Amacuro,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Venezuela,Delta Amacuro,December,2025,1,0,0,1,,,,,1765375966
+Venezuela,Distrito Capital,June,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Distrito Capital,July,2025,1,1,0,0,3.0,3.0,0.0,0.0,1754429217
+Venezuela,Distrito Capital,August,2025,3,2,0,1,1.0,0.0,0.0,1.0,1757596698
+Venezuela,Distrito Capital,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Distrito Capital,October,2025,0,0,0,0,4.0,1.0,0.0,3.0,1762435626
+Venezuela,Distrito Capital,November,2025,2,1,0,1,2.0,0.0,0.0,2.0,1765375966
+Venezuela,Distrito Capital,December,2025,1,0,0,1,,,,,1765375966
+Venezuela,Falcon,June,2025,3,2,0,1,1.0,0.0,0.0,1.0,1754429217
+Venezuela,Falcon,July,2025,2,1,0,1,1.0,0.0,0.0,1.0,1754429217
+Venezuela,Falcon,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Falcon,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Venezuela,Falcon,October,2025,1,0,0,1,1.0,1.0,0.0,0.0,1762435626
+Venezuela,Falcon,November,2025,2,1,0,1,4.0,1.0,0.0,3.0,1765375966
+Venezuela,Falcon,December,2025,2,1,0,1,,,,,1765375966
+Venezuela,Guarico,June,2025,1,1,0,0,4.0,3.0,0.0,1.0,1754429217
+Venezuela,Guarico,July,2025,3,2,0,1,1.0,0.0,0.0,1.0,1754429217
+Venezuela,Guarico,August,2025,2,1,0,1,3.0,2.0,0.0,1.0,1757596698
+Venezuela,Guarico,September,2025,3,2,0,1,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Guarico,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Guarico,November,2025,0,0,0,0,1.0,1.0,0.0,0.0,1765375966
+Venezuela,Guarico,December,2025,2,1,0,1,,,,,1765375966
+Venezuela,La Guaira,June,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,La Guaira,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,La Guaira,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Venezuela,La Guaira,September,2025,2,1,0,1,1.0,0.0,1.0,0.0,1760036046
+Venezuela,La Guaira,October,2025,1,0,0,1,4.0,0.0,3.0,1.0,1762435626
+Venezuela,La Guaira,November,2025,3,0,2,1,0.0,0.0,0.0,0.0,1765375966
+Venezuela,La Guaira,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Lara,June,2025,3,2,0,1,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Lara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Lara,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Venezuela,Lara,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Lara,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Venezuela,Lara,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Lara,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Merida,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Merida,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Merida,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Merida,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Merida,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Merida,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Merida,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Miranda,June,2025,2,1,0,1,3.0,3.0,0.0,0.0,1754429217
+Venezuela,Miranda,July,2025,3,2,0,1,2.0,1.0,0.0,1.0,1754429217
+Venezuela,Miranda,August,2025,3,2,0,1,1.0,0.0,0.0,1.0,1757596698
+Venezuela,Miranda,September,2025,2,1,0,1,1.0,1.0,0.0,0.0,1760036046
+Venezuela,Miranda,October,2025,2,1,0,1,1.0,1.0,0.0,0.0,1762435626
+Venezuela,Miranda,November,2025,2,1,0,1,2.0,1.0,0.0,1.0,1765375966
+Venezuela,Miranda,December,2025,2,1,0,1,,,,,1765375966
+Venezuela,Monagas,June,2025,1,0,0,1,2.0,1.0,0.0,1.0,1754429217
+Venezuela,Monagas,July,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Monagas,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Venezuela,Monagas,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Monagas,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Monagas,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Monagas,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Nueva Esparta,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Nueva Esparta,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Nueva Esparta,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Nueva Esparta,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Nueva Esparta,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Nueva Esparta,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Nueva Esparta,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Portuguesa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Portuguesa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Portuguesa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Portuguesa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Portuguesa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Portuguesa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Portuguesa,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Sucre,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Sucre,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Venezuela,Sucre,August,2025,1,0,0,1,1.0,1.0,0.0,0.0,1757596698
+Venezuela,Sucre,September,2025,2,1,0,1,1.0,0.0,1.0,0.0,1760036046
+Venezuela,Sucre,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Sucre,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Sucre,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Tachira,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Tachira,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Venezuela,Tachira,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Tachira,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Tachira,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Tachira,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Venezuela,Tachira,December,2025,1,0,0,1,,,,,1765375966
+Venezuela,Trujillo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Trujillo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Trujillo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Venezuela,Trujillo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Trujillo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Trujillo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Trujillo,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Yaracuy,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Yaracuy,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Venezuela,Yaracuy,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Venezuela,Yaracuy,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Venezuela,Yaracuy,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Venezuela,Yaracuy,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Yaracuy,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Zulia,June,2025,2,1,0,1,6.0,5.0,0.0,1.0,1754429217
+Venezuela,Zulia,July,2025,5,4,0,1,4.0,2.0,0.0,2.0,1754429217
+Venezuela,Zulia,August,2025,3,2,0,1,5.0,3.0,0.0,2.0,1757596698
+Venezuela,Zulia,September,2025,4,3,0,1,1.0,0.0,0.0,1.0,1760036046
+Venezuela,Zulia,October,2025,2,1,0,1,6.0,3.0,1.0,2.0,1762435626
+Venezuela,Zulia,November,2025,5,3,1,1,0.0,0.0,0.0,0.0,1765375966
+Venezuela,Zulia,December,2025,0,0,0,0,,,,,1765375966
+Venezuela,Amazonas,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Anzoategui,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Apure,January,2026,3,1,1,1,,,,,1765375966
+Venezuela,Aragua,January,2026,6,5,0,1,,,,,1765375966
+Venezuela,Barinas,January,2026,2,1,0,1,,,,,1765375966
+Venezuela,Bolivar,January,2026,1,0,0,1,,,,,1765375966
+Venezuela,Carabobo,January,2026,3,2,0,1,,,,,1765375966
+Venezuela,Cojedes,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Delta Amacuro,January,2026,1,0,0,1,,,,,1765375966
+Venezuela,Distrito Capital,January,2026,2,1,0,1,,,,,1765375966
+Venezuela,Falcon,January,2026,2,1,0,1,,,,,1765375966
+Venezuela,Guarico,January,2026,2,1,0,1,,,,,1765375966
+Venezuela,La Guaira,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Lara,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Merida,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Miranda,January,2026,2,1,0,1,,,,,1765375966
+Venezuela,Monagas,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Nueva Esparta,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Portuguesa,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Sucre,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Tachira,January,2026,1,0,0,1,,,,,1765375966
+Venezuela,Trujillo,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Yaracuy,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Zulia,January,2026,0,0,0,0,,,,,1765375966
+Venezuela,Amazonas,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Anzoategui,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Apure,February,2026,3,1,1,1,,,,,1765375966
+Venezuela,Aragua,February,2026,6,5,0,1,,,,,1765375966
+Venezuela,Barinas,February,2026,2,1,0,1,,,,,1765375966
+Venezuela,Bolivar,February,2026,1,0,0,1,,,,,1765375966
+Venezuela,Carabobo,February,2026,3,2,0,1,,,,,1765375966
+Venezuela,Cojedes,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Delta Amacuro,February,2026,1,0,0,1,,,,,1765375966
+Venezuela,Distrito Capital,February,2026,2,1,0,1,,,,,1765375966
+Venezuela,Falcon,February,2026,2,1,0,1,,,,,1765375966
+Venezuela,Guarico,February,2026,2,1,0,1,,,,,1765375966
+Venezuela,La Guaira,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Lara,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Merida,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Miranda,February,2026,2,1,0,1,,,,,1765375966
+Venezuela,Monagas,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Nueva Esparta,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Portuguesa,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Sucre,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Tachira,February,2026,1,0,0,1,,,,,1765375966
+Venezuela,Trujillo,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Yaracuy,February,2026,0,0,0,0,,,,,1765375966
+Venezuela,Zulia,February,2026,1,1,0,0,,,,,1765375966
+Venezuela,Amazonas,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Anzoategui,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Apure,March,2026,3,1,1,1,,,,,1765375966
+Venezuela,Aragua,March,2026,6,5,0,1,,,,,1765375966
+Venezuela,Barinas,March,2026,2,1,0,1,,,,,1765375966
+Venezuela,Bolivar,March,2026,1,0,0,1,,,,,1765375966
+Venezuela,Carabobo,March,2026,3,2,0,1,,,,,1765375966
+Venezuela,Cojedes,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Delta Amacuro,March,2026,1,0,0,1,,,,,1765375966
+Venezuela,Distrito Capital,March,2026,2,1,0,1,,,,,1765375966
+Venezuela,Falcon,March,2026,2,1,0,1,,,,,1765375966
+Venezuela,Guarico,March,2026,2,1,0,1,,,,,1765375966
+Venezuela,La Guaira,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Lara,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Merida,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Miranda,March,2026,2,1,0,1,,,,,1765375966
+Venezuela,Monagas,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Nueva Esparta,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Portuguesa,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Sucre,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Tachira,March,2026,1,0,0,1,,,,,1765375966
+Venezuela,Trujillo,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Yaracuy,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Zulia,March,2026,0,0,0,0,,,,,1765375966
+Venezuela,Amazonas,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Anzoategui,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Apure,April,2026,2,0,1,1,,,,,1765375966
+Venezuela,Aragua,April,2026,6,5,0,1,,,,,1765375966
+Venezuela,Barinas,April,2026,2,1,0,1,,,,,1765375966
+Venezuela,Bolivar,April,2026,1,0,0,1,,,,,1765375966
+Venezuela,Carabobo,April,2026,3,2,0,1,,,,,1765375966
+Venezuela,Cojedes,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Delta Amacuro,April,2026,1,0,0,1,,,,,1765375966
+Venezuela,Distrito Capital,April,2026,2,1,0,1,,,,,1765375966
+Venezuela,Falcon,April,2026,2,1,0,1,,,,,1765375966
+Venezuela,Guarico,April,2026,2,1,0,1,,,,,1765375966
+Venezuela,La Guaira,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Lara,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Merida,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Miranda,April,2026,2,1,0,1,,,,,1765375966
+Venezuela,Monagas,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Nueva Esparta,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Portuguesa,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Sucre,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Tachira,April,2026,1,0,0,1,,,,,1765375966
+Venezuela,Trujillo,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Yaracuy,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Zulia,April,2026,0,0,0,0,,,,,1765375966
+Venezuela,Amazonas,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Anzoategui,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Apure,May,2026,2,0,1,1,,,,,1765375966
+Venezuela,Aragua,May,2026,6,5,0,1,,,,,1765375966
+Venezuela,Barinas,May,2026,2,1,0,1,,,,,1765375966
+Venezuela,Bolivar,May,2026,1,0,0,1,,,,,1765375966
+Venezuela,Carabobo,May,2026,3,2,0,1,,,,,1765375966
+Venezuela,Cojedes,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Delta Amacuro,May,2026,1,0,0,1,,,,,1765375966
+Venezuela,Distrito Capital,May,2026,2,1,0,1,,,,,1765375966
+Venezuela,Falcon,May,2026,2,1,0,1,,,,,1765375966
+Venezuela,Guarico,May,2026,2,1,0,1,,,,,1765375966
+Venezuela,La Guaira,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Lara,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Merida,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Miranda,May,2026,2,1,0,1,,,,,1765375966
+Venezuela,Monagas,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Nueva Esparta,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Portuguesa,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Sucre,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Tachira,May,2026,1,0,0,1,,,,,1765375966
+Venezuela,Trujillo,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Yaracuy,May,2026,0,0,0,0,,,,,1765375966
+Venezuela,Zulia,May,2026,0,0,0,0,,,,,1765375966

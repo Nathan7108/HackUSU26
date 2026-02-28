@@ -1,0 +1,1210 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Iran,Alborz,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+Iran,Alborz,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141045
+Iran,Alborz,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Alborz,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Ardabil,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Bushehr,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,February,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,March,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Chaharmahal and Bakhtiari,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,East Azerbaijan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+Iran,Fars,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141045
+Iran,Fars,September,2023,1,0,0,1,5.0,5.0,0.0,0.0,1726141045
+Iran,Fars,October,2023,3,3,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,February,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141045
+Iran,Fars,March,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Fars,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141045
+Iran,Gilan,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Gilan,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Gilan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Gilan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Gilan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Golestan,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Golestan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hamadan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141046
+Iran,Hormozgan,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Hormozgan,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Hormozgan,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Hormozgan,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Hormozgan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Ilam,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Ilam,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Isfahan,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,April,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141046
+Iran,Isfahan,May,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Isfahan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Kerman,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Kerman,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,January,2024,0,0,0,0,2.0,1.0,1.0,0.0,1726141046
+Iran,Kerman,February,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Kerman,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141046
+Iran,Kerman,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kerman,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Kermanshah,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141046
+Iran,Kermanshah,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,June,2023,0,0,0,0,4.0,3.0,1.0,0.0,1726141046
+Iran,Kermanshah,July,2023,2,2,1,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Kermanshah,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141046
+Iran,Kermanshah,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kermanshah,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Khuzestan,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141046
+Iran,Khuzestan,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Khuzestan,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Khuzestan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kohgiluyeh and Boyer-Ahmad,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kurdistan,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kurdistan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kurdistan,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Kurdistan,June,2023,1,0,0,1,13.0,4.0,8.0,1.0,1726141046
+Iran,Kurdistan,July,2023,6,2,3,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Kurdistan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kurdistan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kurdistan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Kurdistan,November,2023,0,0,0,0,4.0,2.0,0.0,2.0,1726141046
+Iran,Kurdistan,December,2023,3,2,0,1,2.0,0.0,0.0,2.0,1726141046
+Iran,Kurdistan,January,2024,1,0,0,1,5.0,0.0,3.0,2.0,1726141046
+Iran,Kurdistan,February,2024,4,0,2,2,2.0,0.0,0.0,2.0,1726141046
+Iran,Kurdistan,March,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141046
+Iran,Kurdistan,April,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141046
+Iran,Kurdistan,May,2024,2,0,0,2,3.0,1.0,0.0,2.0,1726141046
+Iran,Kurdistan,June,2024,4,1,1,2,0.0,0.0,0.0,0.0,1726141046
+Iran,Kurdistan,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Kurdistan,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Lorestan,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Lorestan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Markazi,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Markazi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Mazandaran,May,2023,1,0,0,1,1.0,0.0,1.0,0.0,1726141046
+Iran,Mazandaran,June,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Mazandaran,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141046
+Iran,Mazandaran,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,North Khorasan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qazvin,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Qom,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141046
+Iran,Razavi Khorasan,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141047
+Iran,Razavi Khorasan,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Razavi Khorasan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141047
+Iran,Semnan,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Semnan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Sistan and Baluchestan,March,2023,7,2,0,5,12.0,2.0,0.0,10.0,1726141047
+Iran,Sistan and Baluchestan,April,2023,8,2,0,6,5.0,1.0,0.0,4.0,1726141047
+Iran,Sistan and Baluchestan,May,2023,6,1,0,5,13.0,6.0,0.0,7.0,1726141047
+Iran,Sistan and Baluchestan,June,2023,12,5,0,7,12.0,3.0,0.0,9.0,1726141047
+Iran,Sistan and Baluchestan,July,2023,12,3,0,9,9.0,3.0,1.0,5.0,1726141047
+Iran,Sistan and Baluchestan,August,2023,9,3,1,5,4.0,3.0,0.0,1.0,1726141047
+Iran,Sistan and Baluchestan,September,2023,5,3,0,2,3.0,2.0,1.0,0.0,1726141047
+Iran,Sistan and Baluchestan,October,2023,4,2,1,1,1.0,1.0,0.0,0.0,1726141047
+Iran,Sistan and Baluchestan,November,2023,2,2,0,0,4.0,2.0,1.0,1.0,1726141047
+Iran,Sistan and Baluchestan,December,2023,4,2,1,1,6.0,3.0,1.0,2.0,1726141047
+Iran,Sistan and Baluchestan,January,2024,5,3,1,1,16.0,9.0,4.0,3.0,1726141047
+Iran,Sistan and Baluchestan,February,2024,15,8,3,4,5.0,2.0,2.0,1.0,1726141047
+Iran,Sistan and Baluchestan,March,2024,5,2,2,1,9.0,6.0,1.0,2.0,1726141047
+Iran,Sistan and Baluchestan,April,2024,9,6,1,2,6.0,5.0,1.0,0.0,1726141047
+Iran,Sistan and Baluchestan,May,2024,6,5,1,0,1.0,1.0,0.0,0.0,1726141047
+Iran,Sistan and Baluchestan,June,2024,2,1,1,0,4.0,3.0,1.0,0.0,1726141047
+Iran,Sistan and Baluchestan,July,2024,4,3,1,0,2.0,2.0,0.0,0.0,1726141047
+Iran,Sistan and Baluchestan,August,2024,2,2,0,0,4.0,3.0,0.0,1.0,1726141047
+Iran,South Khorasan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141047
+Iran,South Khorasan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,South Khorasan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,April,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141047
+Iran,Tehran,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,April,2024,0,0,0,0,4.0,0.0,0.0,4.0,1726141047
+Iran,Tehran,May,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141047
+Iran,Tehran,June,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141047
+Iran,Tehran,July,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141047
+Iran,Tehran,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,March,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141047
+Iran,West Azerbaijan,April,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141047
+Iran,West Azerbaijan,June,2023,1,0,0,1,3.0,1.0,2.0,0.0,1726141047
+Iran,West Azerbaijan,July,2023,2,1,1,0,2.0,1.0,1.0,0.0,1726141047
+Iran,West Azerbaijan,August,2023,1,0,1,0,1.0,1.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,September,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141047
+Iran,West Azerbaijan,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141047
+Iran,West Azerbaijan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Yazd,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Zanjan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141047
+Iran,Alborz,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Ardabil,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Bushehr,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Chaharmahal and Bakhtiari,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,East Azerbaijan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Fars,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Gilan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Golestan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Hamadan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Hormozgan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Ilam,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Isfahan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Kerman,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730991
+Iran,Kermanshah,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Khuzestan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Kohgiluyeh and Boyer-Ahmad,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Kurdistan,September,2024,0,0,0,0,1.0,1.0,0.0,0.0,1730730991
+Iran,Lorestan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Markazi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Mazandaran,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,North Khorasan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Qazvin,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Qom,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Razavi Khorasan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Semnan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Sistan and Baluchestan,September,2024,4,3,0,1,13.0,9.0,0.0,4.0,1730730991
+Iran,South Khorasan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Tehran,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,West Azerbaijan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Yazd,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Zanjan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730991
+Iran,Alborz,October,2024,0,0,0,0,1.0,0.0,1.0,0.0,1734010287
+Iran,Alborz,November,2024,1,0,1,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Ardabil,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Ardabil,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Bushehr,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Bushehr,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Chaharmahal and Bakhtiari,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Chaharmahal and Bakhtiari,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,East Azerbaijan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,East Azerbaijan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Fars,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Fars,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Gilan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Gilan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Golestan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Golestan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Hamadan,October,2024,0,0,0,0,1.0,0.0,1.0,0.0,1734010287
+Iran,Hamadan,November,2024,1,0,1,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Hormozgan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Hormozgan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Ilam,October,2024,0,0,0,0,1.0,0.0,1.0,0.0,1734010287
+Iran,Ilam,November,2024,1,0,1,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Isfahan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Isfahan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Kerman,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010287
+Iran,Kerman,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Kermanshah,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Kermanshah,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010287
+Iran,Khuzestan,October,2024,0,0,0,0,3.0,0.0,3.0,0.0,1734010287
+Iran,Khuzestan,November,2024,2,0,2,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Kohgiluyeh and Boyer-Ahmad,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Kohgiluyeh and Boyer-Ahmad,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Kurdistan,October,2024,1,0,0,1,1.0,1.0,0.0,0.0,1734010287
+Iran,Kurdistan,November,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Lorestan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Lorestan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Markazi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Markazi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Mazandaran,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Mazandaran,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,North Khorasan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,North Khorasan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Qazvin,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Qazvin,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Qom,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Qom,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Razavi Khorasan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Razavi Khorasan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Semnan,October,2024,0,0,0,0,1.0,0.0,1.0,0.0,1734010287
+Iran,Semnan,November,2024,1,0,1,0,0.0,0.0,0.0,0.0,1734010287
+Iran,Sistan and Baluchestan,October,2024,10,8,0,2,14.0,8.0,5.0,1.0,1734010287
+Iran,Sistan and Baluchestan,November,2024,14,8,4,2,7.0,6.0,1.0,0.0,1734010287
+Iran,South Khorasan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010288
+Iran,South Khorasan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010288
+Iran,Tehran,October,2024,0,0,0,0,7.0,0.0,7.0,0.0,1734010288
+Iran,Tehran,November,2024,4,0,4,0,1.0,0.0,0.0,1.0,1734010288
+Iran,West Azerbaijan,October,2024,0,0,0,0,2.0,2.0,0.0,0.0,1734010288
+Iran,West Azerbaijan,November,2024,2,2,0,0,0.0,0.0,0.0,0.0,1734010288
+Iran,Yazd,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010288
+Iran,Yazd,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010288
+Iran,Zanjan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010288
+Iran,Zanjan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010288
+Iran,Alborz,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Ardabil,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Bushehr,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Chaharmahal and Bakhtiari,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,East Azerbaijan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Fars,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Gilan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Golestan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Hamadan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Hormozgan,December,2024,0,0,0,0,1.0,0.0,1.0,0.0,1737033349
+Iran,Ilam,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Isfahan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Kerman,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Kermanshah,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033349
+Iran,Khuzestan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Kohgiluyeh and Boyer-Ahmad,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033349
+Iran,Kurdistan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Lorestan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Markazi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Mazandaran,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,North Khorasan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Qazvin,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Qom,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Razavi Khorasan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Semnan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Sistan and Baluchestan,December,2024,7,6,0,1,4.0,0.0,4.0,0.0,1737033350
+Iran,South Khorasan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Tehran,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033350
+Iran,West Azerbaijan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Yazd,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Zanjan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033350
+Iran,Alborz,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Ardabil,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Bushehr,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Chaharmahal and Bakhtiari,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,East Azerbaijan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Fars,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Gilan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Golestan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Hamadan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Hormozgan,January,2025,1,0,1,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Ilam,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Isfahan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Kerman,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Kermanshah,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854854
+Iran,Khuzestan,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854854
+Iran,Kohgiluyeh and Boyer-Ahmad,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Kurdistan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Lorestan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Markazi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Mazandaran,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,North Khorasan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Qazvin,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Qom,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Razavi Khorasan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854854
+Iran,Semnan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854855
+Iran,Sistan and Baluchestan,January,2025,4,1,3,0,5.0,3.0,2.0,0.0,1738854855
+Iran,South Khorasan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854855
+Iran,Tehran,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854855
+Iran,West Azerbaijan,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854855
+Iran,Yazd,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854855
+Iran,Zanjan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854855
+Iran,Alborz,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Ardabil,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Bushehr,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Chaharmahal and Bakhtiari,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,East Azerbaijan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Fars,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Gilan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Golestan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Hamadan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Hormozgan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Ilam,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Isfahan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Kerman,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Kermanshah,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Khuzestan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Kohgiluyeh and Boyer-Ahmad,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Kurdistan,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266624
+Iran,Lorestan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Markazi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Mazandaran,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,North Khorasan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Qazvin,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Qom,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266624
+Iran,Razavi Khorasan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266625
+Iran,Semnan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266625
+Iran,Sistan and Baluchestan,February,2025,4,3,1,0,5.0,2.0,1.0,2.0,1741266625
+Iran,South Khorasan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266625
+Iran,Tehran,February,2025,2,0,1,1,0.0,0.0,0.0,0.0,1741266625
+Iran,West Azerbaijan,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266625
+Iran,Yazd,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266625
+Iran,Zanjan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266625
+Iran,Alborz,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Ardabil,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Bushehr,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Chaharmahal and Bakhtiari,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,East Azerbaijan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Fars,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Gilan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Golestan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Hamadan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Hormozgan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Ilam,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Isfahan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Kerman,March,2025,0,0,0,0,1.0,1.0,0.0,0.0,1744287544
+Iran,Kermanshah,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Khuzestan,March,2025,0,0,0,0,1.0,1.0,0.0,0.0,1744287544
+Iran,Kohgiluyeh and Boyer-Ahmad,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Kurdistan,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287544
+Iran,Lorestan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Markazi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Mazandaran,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,North Khorasan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Qazvin,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Qom,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Razavi Khorasan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Semnan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Sistan and Baluchestan,March,2025,4,2,0,2,6.0,5.0,0.0,1.0,1744287544
+Iran,South Khorasan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Tehran,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,West Azerbaijan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Yazd,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Zanjan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Iran,Alborz,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Iran,Ardabil,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Iran,Bushehr,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Iran,Chaharmahal and Bakhtiari,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Iran,East Azerbaijan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Iran,Fars,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Iran,Gilan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Iran,Golestan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Hamadan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Hormozgan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Ilam,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Isfahan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Kerman,April,2025,1,1,0,0,1.0,0.0,0.0,1.0,1746702914
+Iran,Kermanshah,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Khuzestan,April,2025,1,1,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Kohgiluyeh and Boyer-Ahmad,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Kurdistan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Lorestan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Markazi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Mazandaran,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,North Khorasan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Qazvin,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Qom,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Razavi Khorasan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Semnan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Sistan and Baluchestan,April,2025,6,5,0,1,3.0,2.0,0.0,1.0,1746702914
+Iran,South Khorasan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Tehran,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,West Azerbaijan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Yazd,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Zanjan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Iran,Alborz,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Ardabil,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Bushehr,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Chaharmahal and Bakhtiari,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,East Azerbaijan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Fars,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732015
+Iran,Gilan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Golestan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Hamadan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Hormozgan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Ilam,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Isfahan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Kerman,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Kermanshah,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Khuzestan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Kohgiluyeh and Boyer-Ahmad,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Kurdistan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Lorestan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Markazi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Mazandaran,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,North Khorasan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Qazvin,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Qom,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Razavi Khorasan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732015
+Iran,Semnan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Iran,Sistan and Baluchestan,May,2025,3,2,0,1,3.0,2.0,1.0,0.0,1749732016
+Iran,South Khorasan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Iran,Tehran,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Iran,West Azerbaijan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Iran,Yazd,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Iran,Zanjan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Iran,Alborz,June,2025,0,0,0,0,21.0,0.0,21.0,0.0,1754429217
+Iran,Alborz,July,2025,16,0,16,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Alborz,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Alborz,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Alborz,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Alborz,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Alborz,December,2025,0,0,0,0,,,,,1765375966
+Iran,Ardabil,June,2025,0,0,0,0,3.0,0.0,3.0,0.0,1754429217
+Iran,Ardabil,July,2025,2,0,2,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Ardabil,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Ardabil,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Ardabil,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Ardabil,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Ardabil,December,2025,0,0,0,0,,,,,1765375966
+Iran,Bushehr,June,2025,0,0,0,0,7.0,0.0,7.0,0.0,1754429217
+Iran,Bushehr,July,2025,6,0,6,0,1.0,1.0,0.0,0.0,1754429217
+Iran,Bushehr,August,2025,1,1,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Bushehr,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Bushehr,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Bushehr,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Bushehr,December,2025,0,0,0,0,,,,,1765375966
+Iran,Chaharmahal and Bakhtiari,June,2025,0,0,0,0,1.0,0.0,1.0,0.0,1754429217
+Iran,Chaharmahal and Bakhtiari,July,2025,1,0,1,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Chaharmahal and Bakhtiari,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Chaharmahal and Bakhtiari,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Chaharmahal and Bakhtiari,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Chaharmahal and Bakhtiari,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Chaharmahal and Bakhtiari,December,2025,0,0,0,0,,,,,1765375966
+Iran,East Azerbaijan,June,2025,0,0,0,0,29.0,0.0,29.0,0.0,1754429217
+Iran,East Azerbaijan,July,2025,17,0,17,0,0.0,0.0,0.0,0.0,1754429217
+Iran,East Azerbaijan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,East Azerbaijan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,East Azerbaijan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,East Azerbaijan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,East Azerbaijan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Fars,June,2025,0,0,0,0,8.0,0.0,8.0,0.0,1754429217
+Iran,Fars,July,2025,6,0,6,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Fars,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Fars,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Fars,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Fars,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Fars,December,2025,0,0,0,0,,,,,1765375966
+Iran,Gilan,June,2025,0,0,0,0,6.0,0.0,6.0,0.0,1754429217
+Iran,Gilan,July,2025,5,0,5,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Gilan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Gilan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Gilan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Gilan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Gilan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Golestan,June,2025,0,0,0,0,2.0,0.0,2.0,0.0,1754429217
+Iran,Golestan,July,2025,2,0,2,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Golestan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Golestan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Golestan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Golestan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Golestan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Hamadan,June,2025,0,0,0,0,9.0,0.0,8.0,1.0,1754429217
+Iran,Hamadan,July,2025,7,0,7,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Hamadan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Hamadan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Hamadan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Hamadan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Hamadan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Hormozgan,June,2025,0,0,0,0,5.0,0.0,5.0,0.0,1754429217
+Iran,Hormozgan,July,2025,5,0,4,1,1.0,0.0,0.0,1.0,1754429217
+Iran,Hormozgan,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Iran,Hormozgan,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Iran,Hormozgan,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Iran,Hormozgan,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Iran,Hormozgan,December,2025,1,0,0,1,,,,,1765375966
+Iran,Ilam,June,2025,0,0,0,0,9.0,0.0,9.0,0.0,1754429217
+Iran,Ilam,July,2025,7,0,7,0,1.0,1.0,0.0,0.0,1754429217
+Iran,Ilam,August,2025,1,1,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Ilam,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Ilam,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Ilam,November,2025,0,0,0,0,1.0,1.0,0.0,0.0,1765375966
+Iran,Ilam,December,2025,1,1,0,0,,,,,1765375966
+Iran,Isfahan,June,2025,0,0,0,0,26.0,0.0,26.0,0.0,1754429217
+Iran,Isfahan,July,2025,18,0,18,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Isfahan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Isfahan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Isfahan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Isfahan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Isfahan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Kerman,June,2025,0,0,0,0,6.0,1.0,4.0,1.0,1754429217
+Iran,Kerman,July,2025,4,1,3,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Kerman,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Iran,Kerman,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Iran,Kerman,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Iran,Kerman,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Kerman,December,2025,0,0,0,0,,,,,1765375966
+Iran,Kermanshah,June,2025,0,0,0,0,25.0,0.0,24.0,1.0,1754429217
+Iran,Kermanshah,July,2025,15,0,15,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Kermanshah,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Kermanshah,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Kermanshah,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Kermanshah,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Kermanshah,December,2025,0,0,0,0,,,,,1765375966
+Iran,Khuzestan,June,2025,0,0,0,0,17.0,0.0,16.0,1.0,1754429217
+Iran,Khuzestan,July,2025,13,0,13,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Khuzestan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Khuzestan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Khuzestan,October,2025,0,0,0,0,3.0,1.0,0.0,2.0,1762435626
+Iran,Khuzestan,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Iran,Khuzestan,December,2025,2,0,0,2,,,,,1765375966
+Iran,Kohgiluyeh and Boyer-Ahmad,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Kohgiluyeh and Boyer-Ahmad,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Kohgiluyeh and Boyer-Ahmad,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Kohgiluyeh and Boyer-Ahmad,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Kohgiluyeh and Boyer-Ahmad,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Kohgiluyeh and Boyer-Ahmad,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Kohgiluyeh and Boyer-Ahmad,December,2025,0,0,0,0,,,,,1765375966
+Iran,Kurdistan,June,2025,0,0,0,0,8.0,1.0,6.0,1.0,1754429217
+Iran,Kurdistan,July,2025,6,1,5,0,7.0,3.0,0.0,4.0,1754429217
+Iran,Kurdistan,August,2025,7,3,0,4,4.0,0.0,1.0,3.0,1757596698
+Iran,Kurdistan,September,2025,5,0,1,4,0.0,0.0,0.0,0.0,1760036046
+Iran,Kurdistan,October,2025,0,0,0,0,4.0,0.0,2.0,2.0,1762435626
+Iran,Kurdistan,November,2025,1,0,1,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Kurdistan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Lorestan,June,2025,0,0,0,0,10.0,0.0,10.0,0.0,1754429217
+Iran,Lorestan,July,2025,7,0,7,0,1.0,1.0,0.0,0.0,1754429217
+Iran,Lorestan,August,2025,1,1,0,0,1.0,0.0,1.0,0.0,1757596698
+Iran,Lorestan,September,2025,1,0,1,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Lorestan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Lorestan,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Iran,Lorestan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Markazi,June,2025,0,0,0,0,12.0,0.0,12.0,0.0,1754429217
+Iran,Markazi,July,2025,10,0,10,0,1.0,0.0,0.0,1.0,1754429217
+Iran,Markazi,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Iran,Markazi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Markazi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Markazi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Markazi,December,2025,0,0,0,0,,,,,1765375966
+Iran,Mazandaran,June,2025,0,0,0,0,10.0,0.0,10.0,0.0,1754429217
+Iran,Mazandaran,July,2025,9,0,9,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Mazandaran,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Mazandaran,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Mazandaran,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Mazandaran,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Iran,Mazandaran,December,2025,0,0,0,0,,,,,1765375966
+Iran,North Khorasan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Iran,North Khorasan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Iran,North Khorasan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,North Khorasan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,North Khorasan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,North Khorasan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,North Khorasan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Qazvin,June,2025,0,0,0,0,7.0,0.0,7.0,0.0,1754429217
+Iran,Qazvin,July,2025,6,0,6,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Qazvin,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Qazvin,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Qazvin,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Qazvin,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Qazvin,December,2025,0,0,0,0,,,,,1765375966
+Iran,Qom,June,2025,0,0,0,0,14.0,0.0,14.0,0.0,1754429217
+Iran,Qom,July,2025,10,0,10,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Qom,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Qom,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Qom,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Qom,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Qom,December,2025,0,0,0,0,,,,,1765375966
+Iran,Razavi Khorasan,June,2025,0,0,0,0,4.0,0.0,4.0,0.0,1754429217
+Iran,Razavi Khorasan,July,2025,3,0,3,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Razavi Khorasan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Razavi Khorasan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Razavi Khorasan,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Iran,Razavi Khorasan,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Iran,Razavi Khorasan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Semnan,June,2025,0,0,0,0,3.0,0.0,3.0,0.0,1754429217
+Iran,Semnan,July,2025,2,0,2,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Semnan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Semnan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Semnan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Semnan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Semnan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Sistan and Baluchestan,June,2025,4,2,1,1,3.0,1.0,0.0,2.0,1754429217
+Iran,Sistan and Baluchestan,July,2025,2,1,0,1,18.0,7.0,1.0,10.0,1754429217
+Iran,Sistan and Baluchestan,August,2025,15,7,1,7,13.0,9.0,4.0,0.0,1757596698
+Iran,Sistan and Baluchestan,September,2025,13,9,4,0,9.0,4.0,2.0,3.0,1760036046
+Iran,Sistan and Baluchestan,October,2025,9,5,2,2,14.0,4.0,0.0,10.0,1762435626
+Iran,Sistan and Baluchestan,November,2025,10,3,1,6,15.0,3.0,0.0,12.0,1765375966
+Iran,Sistan and Baluchestan,December,2025,12,3,0,9,,,,,1765375966
+Iran,South Khorasan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Iran,South Khorasan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Iran,South Khorasan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,South Khorasan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,South Khorasan,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Iran,South Khorasan,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Iran,South Khorasan,December,2025,1,0,0,1,,,,,1765375966
+Iran,Tehran,June,2025,0,0,0,0,111.0,2.0,108.0,1.0,1754429217
+Iran,Tehran,July,2025,56,1,55,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Tehran,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Tehran,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Iran,Tehran,October,2025,1,1,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Tehran,November,2025,1,0,1,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Tehran,December,2025,0,0,0,0,,,,,1765375966
+Iran,West Azerbaijan,June,2025,0,0,0,0,7.0,0.0,7.0,0.0,1754429217
+Iran,West Azerbaijan,July,2025,6,0,6,0,3.0,2.0,0.0,1.0,1754429217
+Iran,West Azerbaijan,August,2025,3,2,0,1,0.0,0.0,0.0,0.0,1757596698
+Iran,West Azerbaijan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,West Azerbaijan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,West Azerbaijan,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Iran,West Azerbaijan,December,2025,1,0,0,1,,,,,1765375966
+Iran,Yazd,June,2025,0,0,0,0,3.0,0.0,3.0,0.0,1754429217
+Iran,Yazd,July,2025,2,0,2,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Yazd,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Yazd,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Yazd,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Yazd,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Yazd,December,2025,0,0,0,0,,,,,1765375966
+Iran,Zanjan,June,2025,0,0,0,0,9.0,0.0,9.0,0.0,1754429217
+Iran,Zanjan,July,2025,7,0,7,0,0.0,0.0,0.0,0.0,1754429217
+Iran,Zanjan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Iran,Zanjan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Iran,Zanjan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Iran,Zanjan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Iran,Zanjan,December,2025,0,0,0,0,,,,,1765375966
+Iran,Alborz,January,2026,0,0,0,0,,,,,1765375966
+Iran,Ardabil,January,2026,0,0,0,0,,,,,1765375966
+Iran,Bushehr,January,2026,0,0,0,0,,,,,1765375966
+Iran,Chaharmahal and Bakhtiari,January,2026,0,0,0,0,,,,,1765375966
+Iran,East Azerbaijan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Fars,January,2026,0,0,0,0,,,,,1765375966
+Iran,Gilan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Golestan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Hamadan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Hormozgan,January,2026,1,0,0,1,,,,,1765375966
+Iran,Ilam,January,2026,1,1,0,0,,,,,1765375966
+Iran,Isfahan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Kerman,January,2026,0,0,0,0,,,,,1765375966
+Iran,Kermanshah,January,2026,0,0,0,0,,,,,1765375966
+Iran,Khuzestan,January,2026,2,0,0,2,,,,,1765375966
+Iran,Kohgiluyeh and Boyer-Ahmad,January,2026,0,0,0,0,,,,,1765375966
+Iran,Kurdistan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Lorestan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Markazi,January,2026,0,0,0,0,,,,,1765375966
+Iran,Mazandaran,January,2026,0,0,0,0,,,,,1765375966
+Iran,North Khorasan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Qazvin,January,2026,0,0,0,0,,,,,1765375966
+Iran,Qom,January,2026,0,0,0,0,,,,,1765375966
+Iran,Razavi Khorasan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Semnan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Sistan and Baluchestan,January,2026,13,3,1,9,,,,,1765375966
+Iran,South Khorasan,January,2026,1,0,0,1,,,,,1765375966
+Iran,Tehran,January,2026,1,0,1,0,,,,,1765375966
+Iran,West Azerbaijan,January,2026,1,0,0,1,,,,,1765375966
+Iran,Yazd,January,2026,0,0,0,0,,,,,1765375966
+Iran,Zanjan,January,2026,0,0,0,0,,,,,1765375966
+Iran,Alborz,February,2026,0,0,0,0,,,,,1765375966
+Iran,Ardabil,February,2026,0,0,0,0,,,,,1765375966
+Iran,Bushehr,February,2026,0,0,0,0,,,,,1765375966
+Iran,Chaharmahal and Bakhtiari,February,2026,0,0,0,0,,,,,1765375966
+Iran,East Azerbaijan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Fars,February,2026,0,0,0,0,,,,,1765375966
+Iran,Gilan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Golestan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Hamadan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Hormozgan,February,2026,1,0,0,1,,,,,1765375966
+Iran,Ilam,February,2026,1,1,0,0,,,,,1765375966
+Iran,Isfahan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Kerman,February,2026,0,0,0,0,,,,,1765375966
+Iran,Kermanshah,February,2026,0,0,0,0,,,,,1765375966
+Iran,Khuzestan,February,2026,2,0,0,2,,,,,1765375966
+Iran,Kohgiluyeh and Boyer-Ahmad,February,2026,0,0,0,0,,,,,1765375966
+Iran,Kurdistan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Lorestan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Markazi,February,2026,0,0,0,0,,,,,1765375966
+Iran,Mazandaran,February,2026,0,0,0,0,,,,,1765375966
+Iran,North Khorasan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Qazvin,February,2026,0,0,0,0,,,,,1765375966
+Iran,Qom,February,2026,0,0,0,0,,,,,1765375966
+Iran,Razavi Khorasan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Semnan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Sistan and Baluchestan,February,2026,13,3,1,9,,,,,1765375966
+Iran,South Khorasan,February,2026,1,0,0,1,,,,,1765375966
+Iran,Tehran,February,2026,1,0,1,0,,,,,1765375966
+Iran,West Azerbaijan,February,2026,1,0,0,1,,,,,1765375966
+Iran,Yazd,February,2026,0,0,0,0,,,,,1765375966
+Iran,Zanjan,February,2026,0,0,0,0,,,,,1765375966
+Iran,Alborz,March,2026,0,0,0,0,,,,,1765375966
+Iran,Ardabil,March,2026,0,0,0,0,,,,,1765375966
+Iran,Bushehr,March,2026,0,0,0,0,,,,,1765375966
+Iran,Chaharmahal and Bakhtiari,March,2026,0,0,0,0,,,,,1765375966
+Iran,East Azerbaijan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Fars,March,2026,0,0,0,0,,,,,1765375966
+Iran,Gilan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Golestan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Hamadan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Hormozgan,March,2026,1,0,0,1,,,,,1765375966
+Iran,Ilam,March,2026,1,1,0,0,,,,,1765375966
+Iran,Isfahan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Kerman,March,2026,0,0,0,0,,,,,1765375966
+Iran,Kermanshah,March,2026,0,0,0,0,,,,,1765375966
+Iran,Khuzestan,March,2026,2,0,0,2,,,,,1765375966
+Iran,Kohgiluyeh and Boyer-Ahmad,March,2026,0,0,0,0,,,,,1765375966
+Iran,Kurdistan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Lorestan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Markazi,March,2026,0,0,0,0,,,,,1765375966
+Iran,Mazandaran,March,2026,0,0,0,0,,,,,1765375966
+Iran,North Khorasan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Qazvin,March,2026,0,0,0,0,,,,,1765375966
+Iran,Qom,March,2026,0,0,0,0,,,,,1765375966
+Iran,Razavi Khorasan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Semnan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Sistan and Baluchestan,March,2026,13,3,1,9,,,,,1765375966
+Iran,South Khorasan,March,2026,1,0,0,1,,,,,1765375966
+Iran,Tehran,March,2026,1,0,1,0,,,,,1765375966
+Iran,West Azerbaijan,March,2026,1,0,0,1,,,,,1765375966
+Iran,Yazd,March,2026,0,0,0,0,,,,,1765375966
+Iran,Zanjan,March,2026,0,0,0,0,,,,,1765375966
+Iran,Alborz,April,2026,1,0,1,0,,,,,1765375966
+Iran,Ardabil,April,2026,0,0,0,0,,,,,1765375966
+Iran,Bushehr,April,2026,1,0,1,0,,,,,1765375966
+Iran,Chaharmahal and Bakhtiari,April,2026,0,0,0,0,,,,,1765375966
+Iran,East Azerbaijan,April,2026,1,0,1,0,,,,,1765375966
+Iran,Fars,April,2026,0,0,0,0,,,,,1765375966
+Iran,Gilan,April,2026,0,0,0,0,,,,,1765375966
+Iran,Golestan,April,2026,0,0,0,0,,,,,1765375966
+Iran,Hamadan,April,2026,0,0,0,0,,,,,1765375966
+Iran,Hormozgan,April,2026,2,0,1,1,,,,,1765375966
+Iran,Ilam,April,2026,2,1,1,0,,,,,1765375966
+Iran,Isfahan,April,2026,1,0,1,0,,,,,1765375966
+Iran,Kerman,April,2026,0,0,0,0,,,,,1765375966
+Iran,Kermanshah,April,2026,0,0,0,0,,,,,1765375966
+Iran,Khuzestan,April,2026,4,0,2,2,,,,,1765375966
+Iran,Kohgiluyeh and Boyer-Ahmad,April,2026,0,0,0,0,,,,,1765375966
+Iran,Kurdistan,April,2026,0,0,0,0,,,,,1765375966
+Iran,Lorestan,April,2026,1,0,1,0,,,,,1765375966
+Iran,Markazi,April,2026,0,0,0,0,,,,,1765375966
+Iran,Mazandaran,April,2026,1,0,1,0,,,,,1765375966
+Iran,North Khorasan,April,2026,0,0,0,0,,,,,1765375966
+Iran,Qazvin,April,2026,0,0,0,0,,,,,1765375966
+Iran,Qom,April,2026,0,0,0,0,,,,,1765375966
+Iran,Razavi Khorasan,April,2026,0,0,0,0,,,,,1765375966
+Iran,Semnan,April,2026,0,0,0,0,,,,,1765375966
+Iran,Sistan and Baluchestan,April,2026,13,3,1,9,,,,,1765375966
+Iran,South Khorasan,April,2026,2,0,1,1,,,,,1765375966
+Iran,Tehran,April,2026,3,0,3,0,,,,,1765375966
+Iran,West Azerbaijan,April,2026,2,0,1,1,,,,,1765375966
+Iran,Yazd,April,2026,0,0,0,0,,,,,1765375966
+Iran,Zanjan,April,2026,0,0,0,0,,,,,1765375966
+Iran,Alborz,May,2026,1,0,1,0,,,,,1765375966
+Iran,Ardabil,May,2026,0,0,0,0,,,,,1765375966
+Iran,Bushehr,May,2026,1,0,1,0,,,,,1765375966
+Iran,Chaharmahal and Bakhtiari,May,2026,0,0,0,0,,,,,1765375966
+Iran,East Azerbaijan,May,2026,1,0,1,0,,,,,1765375966
+Iran,Fars,May,2026,0,0,0,0,,,,,1765375966
+Iran,Gilan,May,2026,0,0,0,0,,,,,1765375966
+Iran,Golestan,May,2026,0,0,0,0,,,,,1765375966
+Iran,Hamadan,May,2026,0,0,0,0,,,,,1765375966
+Iran,Hormozgan,May,2026,2,0,1,1,,,,,1765375966
+Iran,Ilam,May,2026,2,1,1,0,,,,,1765375966
+Iran,Isfahan,May,2026,1,0,1,0,,,,,1765375966
+Iran,Kerman,May,2026,0,0,0,0,,,,,1765375966
+Iran,Kermanshah,May,2026,0,0,0,0,,,,,1765375966
+Iran,Khuzestan,May,2026,4,0,2,2,,,,,1765375966
+Iran,Kohgiluyeh and Boyer-Ahmad,May,2026,0,0,0,0,,,,,1765375966
+Iran,Kurdistan,May,2026,0,0,0,0,,,,,1765375966
+Iran,Lorestan,May,2026,1,0,1,0,,,,,1765375966
+Iran,Markazi,May,2026,0,0,0,0,,,,,1765375966
+Iran,Mazandaran,May,2026,1,0,1,0,,,,,1765375966
+Iran,North Khorasan,May,2026,0,0,0,0,,,,,1765375966
+Iran,Qazvin,May,2026,0,0,0,0,,,,,1765375966
+Iran,Qom,May,2026,0,0,0,0,,,,,1765375966
+Iran,Razavi Khorasan,May,2026,0,0,0,0,,,,,1765375966
+Iran,Semnan,May,2026,0,0,0,0,,,,,1765375966
+Iran,Sistan and Baluchestan,May,2026,13,3,1,9,,,,,1765375966
+Iran,South Khorasan,May,2026,2,0,1,1,,,,,1765375966
+Iran,Tehran,May,2026,3,0,3,0,,,,,1765375966
+Iran,West Azerbaijan,May,2026,2,0,1,1,,,,,1765375966
+Iran,Yazd,May,2026,0,0,0,0,,,,,1765375966
+Iran,Zanjan,May,2026,0,0,0,0,,,,,1765375966

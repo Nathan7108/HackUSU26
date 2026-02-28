@@ -1,0 +1,329 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Kyrgyzstan,Bishkek,February,2024,0,0,0,0,,,,,1704898562
+Kyrgyzstan,Bishkek,March,2024,0,0,0,0,,,,,1704898562
+Kyrgyzstan,Bishkek,April,2024,0,0,0,0,,,,,1704898562
+Kyrgyzstan,Bishkek,May,2024,0,0,0,0,,,,,1704898562
+Kyrgyzstan,Bishkek,June,2024,0,0,0,0,,,,,1704898562
+Kyrgyzstan,Batken,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Bishkek,March,2023,2,0,0,2,5.0,1.0,0.0,4.0,1726141055
+Kyrgyzstan,Bishkek,April,2023,2,1,0,2,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Bishkek,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Bishkek,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Bishkek,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Bishkek,August,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141055
+Kyrgyzstan,Bishkek,September,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Bishkek,October,2023,1,0,0,1,4.0,1.0,0.0,3.0,1726141055
+Kyrgyzstan,Bishkek,November,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Bishkek,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Bishkek,January,2024,0,0,0,0,,,,,1726141055
+Kyrgyzstan,Chui,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141055
+Kyrgyzstan,Chui,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Chui,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Chui,August,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141055
+Kyrgyzstan,Chui,September,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Chui,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Chui,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Chui,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Issyk-Kul,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Issyk-Kul,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Jalal-Abad,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Jalal-Abad,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Jalal-Abad,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Naryn,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Naryn,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Osh,April,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Osh,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Osh City,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Osh City,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Osh City,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141055
+Kyrgyzstan,Talas,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Talas,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141055
+Kyrgyzstan,Batken,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Kyrgyzstan,Chui,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Kyrgyzstan,Issyk-Kul,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Kyrgyzstan,Jalal-Abad,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730994
+Kyrgyzstan,Naryn,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Kyrgyzstan,Osh,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Kyrgyzstan,Osh City,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Kyrgyzstan,Talas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Kyrgyzstan,Batken,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Batken,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Chui,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010292
+Kyrgyzstan,Chui,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Issyk-Kul,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Issyk-Kul,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Jalal-Abad,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Jalal-Abad,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Naryn,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Naryn,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Osh,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Osh,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Osh City,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Osh City,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Talas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Talas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Kyrgyzstan,Batken,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Kyrgyzstan,Chui,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Kyrgyzstan,Issyk-Kul,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Kyrgyzstan,Jalal-Abad,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Kyrgyzstan,Naryn,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Kyrgyzstan,Osh,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Kyrgyzstan,Osh City,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Kyrgyzstan,Talas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Kyrgyzstan,Batken,January,2025,0,0,0,0,1.0,0.0,1.0,0.0,1738854858
+Kyrgyzstan,Chui,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854858
+Kyrgyzstan,Issyk-Kul,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Kyrgyzstan,Jalal-Abad,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854858
+Kyrgyzstan,Naryn,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Kyrgyzstan,Osh,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Kyrgyzstan,Osh City,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Kyrgyzstan,Talas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Kyrgyzstan,Batken,February,2025,1,0,1,0,0.0,0.0,0.0,0.0,1741266628
+Kyrgyzstan,Chui,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266628
+Kyrgyzstan,Issyk-Kul,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Kyrgyzstan,Jalal-Abad,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266628
+Kyrgyzstan,Naryn,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Kyrgyzstan,Osh,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Kyrgyzstan,Osh City,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Kyrgyzstan,Talas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Kyrgyzstan,Batken,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Kyrgyzstan,Chui,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Kyrgyzstan,Issyk-Kul,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Kyrgyzstan,Jalal-Abad,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Kyrgyzstan,Naryn,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Kyrgyzstan,Osh,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Kyrgyzstan,Osh City,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Kyrgyzstan,Talas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Kyrgyzstan,Batken,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Kyrgyzstan,Chui,April,2025,0,0,0,0,3.0,0.0,0.0,3.0,1746702915
+Kyrgyzstan,Issyk-Kul,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702915
+Kyrgyzstan,Jalal-Abad,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Kyrgyzstan,Naryn,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Kyrgyzstan,Osh,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Kyrgyzstan,Osh City,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Kyrgyzstan,Talas,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Kyrgyzstan,Batken,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Kyrgyzstan,Chui,May,2025,3,0,0,3,1.0,0.0,0.0,1.0,1749732018
+Kyrgyzstan,Issyk-Kul,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732018
+Kyrgyzstan,Jalal-Abad,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Kyrgyzstan,Naryn,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Kyrgyzstan,Osh,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Kyrgyzstan,Osh City,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Kyrgyzstan,Talas,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Kyrgyzstan,Batken,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Batken,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Batken,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kyrgyzstan,Batken,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kyrgyzstan,Batken,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kyrgyzstan,Batken,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kyrgyzstan,Batken,December,2025,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Chui,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Chui,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Chui,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kyrgyzstan,Chui,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Kyrgyzstan,Chui,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Kyrgyzstan,Chui,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Kyrgyzstan,Chui,December,2025,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Issyk-Kul,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Issyk-Kul,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Issyk-Kul,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kyrgyzstan,Issyk-Kul,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kyrgyzstan,Issyk-Kul,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kyrgyzstan,Issyk-Kul,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Kyrgyzstan,Issyk-Kul,December,2025,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Jalal-Abad,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Jalal-Abad,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Jalal-Abad,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kyrgyzstan,Jalal-Abad,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kyrgyzstan,Jalal-Abad,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Kyrgyzstan,Jalal-Abad,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Kyrgyzstan,Jalal-Abad,December,2025,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Naryn,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Naryn,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Naryn,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Kyrgyzstan,Naryn,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Kyrgyzstan,Naryn,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kyrgyzstan,Naryn,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kyrgyzstan,Naryn,December,2025,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Osh,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Osh,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Osh,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kyrgyzstan,Osh,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kyrgyzstan,Osh,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kyrgyzstan,Osh,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Kyrgyzstan,Osh,December,2025,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Osh City,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Osh City,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Osh City,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kyrgyzstan,Osh City,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kyrgyzstan,Osh City,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kyrgyzstan,Osh City,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kyrgyzstan,Osh City,December,2025,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Talas,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Talas,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Kyrgyzstan,Talas,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Kyrgyzstan,Talas,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Kyrgyzstan,Talas,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Kyrgyzstan,Talas,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Kyrgyzstan,Talas,December,2025,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Batken,January,2026,1,0,1,0,,,,,1765375966
+Kyrgyzstan,Chui,January,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Issyk-Kul,January,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Jalal-Abad,January,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Naryn,January,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Osh,January,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Osh City,January,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Talas,January,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Batken,February,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Chui,February,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Issyk-Kul,February,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Jalal-Abad,February,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Naryn,February,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Osh,February,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Osh City,February,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Talas,February,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Batken,March,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Chui,March,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Issyk-Kul,March,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Jalal-Abad,March,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Naryn,March,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Osh,March,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Osh City,March,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Talas,March,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Batken,April,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Chui,April,2026,2,0,0,2,,,,,1765375966
+Kyrgyzstan,Issyk-Kul,April,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Jalal-Abad,April,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Naryn,April,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Osh,April,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Osh City,April,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Talas,April,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Batken,May,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Chui,May,2026,2,0,0,2,,,,,1765375966
+Kyrgyzstan,Issyk-Kul,May,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Jalal-Abad,May,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Naryn,May,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Osh,May,2026,1,0,0,1,,,,,1765375966
+Kyrgyzstan,Osh City,May,2026,0,0,0,0,,,,,1765375966
+Kyrgyzstan,Talas,May,2026,0,0,0,0,,,,,1765375966

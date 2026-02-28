@@ -1,0 +1,937 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Ecuador,El Oro,October,2023,2,0,1,1,0.0,0.0,0.0,0.0,1726141030
+Ecuador,El Oro,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141030
+Ecuador,El Oro,December,2023,2,1,0,1,1.0,0.0,1.0,0.0,1726141030
+Ecuador,El Oro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,El Oro,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141030
+Ecuador,El Oro,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141030
+Ecuador,El Oro,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141030
+Ecuador,El Oro,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141030
+Ecuador,El Oro,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,El Oro,July,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141030
+Ecuador,El Oro,August,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141030
+Ecuador,Esmeraldas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141030
+Ecuador,Esmeraldas,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141030
+Ecuador,Esmeraldas,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141030
+Ecuador,Esmeraldas,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141030
+Ecuador,Esmeraldas,December,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,January,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Esmeraldas,July,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141030
+Ecuador,Esmeraldas,August,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Galapagos,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Guayas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Guayas,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Guayas,May,2023,0,0,0,0,2.0,1.0,1.0,0.0,1726141030
+Ecuador,Guayas,June,2023,2,1,1,0,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Guayas,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141030
+Ecuador,Guayas,August,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141030
+Ecuador,Guayas,September,2023,1,0,0,1,5.0,0.0,2.0,3.0,1726141030
+Ecuador,Guayas,October,2023,5,0,2,3,3.0,0.0,0.0,3.0,1726141030
+Ecuador,Guayas,November,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Guayas,December,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141030
+Ecuador,Guayas,January,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141030
+Ecuador,Guayas,February,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141030
+Ecuador,Guayas,March,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141030
+Ecuador,Guayas,April,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141030
+Ecuador,Guayas,May,2024,0,0,0,0,2.0,0.0,1.0,1.0,1726141030
+Ecuador,Guayas,June,2024,1,0,0,1,2.0,0.0,1.0,1.0,1726141030
+Ecuador,Guayas,July,2024,1,0,0,1,4.0,0.0,0.0,4.0,1726141030
+Ecuador,Guayas,August,2024,4,0,0,4,4.0,0.0,0.0,4.0,1726141030
+Ecuador,Imbabura,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Imbabura,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Imbabura,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Loja,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Loja,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Los Rios,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Los Rios,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141031
+Ecuador,Los Rios,December,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Los Rios,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Los Rios,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Los Rios,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Los Rios,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Los Rios,July,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141031
+Ecuador,Los Rios,August,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Manabi,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Manabi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Manabi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Manabi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Manabi,July,2023,0,0,0,0,2.0,0.0,1.0,1.0,1726141031
+Ecuador,Manabi,August,2023,2,0,1,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Manabi,September,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141031
+Ecuador,Manabi,October,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141031
+Ecuador,Manabi,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Manabi,December,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141031
+Ecuador,Manabi,January,2024,2,0,0,2,2.0,0.0,1.0,1.0,1726141031
+Ecuador,Manabi,February,2024,2,0,1,1,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Manabi,March,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141031
+Ecuador,Manabi,April,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141031
+Ecuador,Manabi,May,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141031
+Ecuador,Manabi,June,2024,2,0,0,2,3.0,0.0,1.0,2.0,1726141031
+Ecuador,Manabi,July,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Manabi,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Morona Santiago,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,September,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141031
+Ecuador,Napo,October,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Napo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Orellana,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pastaza,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141031
+Ecuador,Pichincha,July,2023,1,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Pichincha,August,2023,1,0,0,1,4.0,1.0,2.0,1.0,1726141031
+Ecuador,Pichincha,September,2023,3,1,1,1,1.0,1.0,0.0,0.0,1726141031
+Ecuador,Pichincha,October,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Pichincha,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Pichincha,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Pichincha,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Pichincha,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Pichincha,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Santa Elena,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Santa Elena,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Santa Elena,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santa Elena,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Santa Elena,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Santo Domingo de los Tsachilas,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,February,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141031
+Ecuador,Sucumbios,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141031
+Ecuador,Sucumbios,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Sucumbios,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Tungurahua,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Zamora Chinchipe,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141031
+Ecuador,Azuay,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560897
+Ecuador,Azuay,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560897
+Ecuador,Azuay,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560897
+Ecuador,Azuay,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560897
+Ecuador,Azuay,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560897
+Ecuador,Azuay,August,2023,0,0,0,0,1.0,0.0,1.0,0.0,1728560897
+Ecuador,Azuay,September,2023,1,0,1,0,0.0,0.0,0.0,0.0,1728560897
+Ecuador,Azuay,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Azuay,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Azuay,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Azuay,January,2024,0,0,0,0,1.0,0.0,1.0,0.0,1728560898
+Ecuador,Azuay,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Azuay,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Azuay,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560898
+Ecuador,Azuay,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Azuay,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Azuay,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Azuay,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Bolivar,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560898
+Ecuador,Canar,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Canar,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560899
+Ecuador,Carchi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Chimborazo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560900
+Ecuador,Cotopaxi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,Cotopaxi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,Cotopaxi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,Cotopaxi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,Cotopaxi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,Cotopaxi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,Cotopaxi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,El Oro,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560901
+Ecuador,El Oro,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560901
+Ecuador,El Oro,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,El Oro,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560901
+Ecuador,El Oro,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560901
+Ecuador,El Oro,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560901
+Ecuador,El Oro,September,2023,1,0,0,1,2.0,0.0,1.0,1.0,1728560901
+Ecuador,Azuay,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Bolivar,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Canar,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Carchi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Chimborazo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Cotopaxi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,El Oro,September,2024,2,0,0,2,1.0,0.0,0.0,1.0,1730730987
+Ecuador,Esmeraldas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Galapagos,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Guayas,September,2024,4,0,0,4,3.0,0.0,0.0,3.0,1730730987
+Ecuador,Imbabura,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Loja,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Los Rios,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Manabi,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730987
+Ecuador,Morona Santiago,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Napo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Orellana,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Pastaza,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Pichincha,September,2024,0,0,0,0,2.0,0.0,0.0,2.0,1730730987
+Ecuador,Santa Elena,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Santo Domingo de los Tsachilas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Sucumbios,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730987
+Ecuador,Tungurahua,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Zamora Chinchipe,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ecuador,Azuay,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Azuay,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Bolivar,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Bolivar,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Canar,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Canar,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Carchi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Carchi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Chimborazo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Chimborazo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Cotopaxi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Cotopaxi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,El Oro,October,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010279
+Ecuador,El Oro,November,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010279
+Ecuador,Esmeraldas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Esmeraldas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Galapagos,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Galapagos,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Guayas,October,2024,3,0,0,3,4.0,0.0,0.0,4.0,1734010279
+Ecuador,Guayas,November,2024,3,0,0,3,4.0,0.0,0.0,4.0,1734010279
+Ecuador,Imbabura,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Imbabura,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Loja,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Loja,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Los Rios,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010279
+Ecuador,Los Rios,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010279
+Ecuador,Manabi,October,2024,1,0,0,1,2.0,1.0,0.0,1.0,1734010279
+Ecuador,Manabi,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Morona Santiago,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Morona Santiago,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Napo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Napo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Orellana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Orellana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010279
+Ecuador,Pastaza,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Pastaza,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Pichincha,October,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Pichincha,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010280
+Ecuador,Santa Elena,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010280
+Ecuador,Santa Elena,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010280
+Ecuador,Santo Domingo de los Tsachilas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Santo Domingo de los Tsachilas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Sucumbios,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Sucumbios,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Tungurahua,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Tungurahua,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Zamora Chinchipe,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Zamora Chinchipe,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010280
+Ecuador,Azuay,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033342
+Ecuador,Bolivar,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Canar,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Carchi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Chimborazo,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033342
+Ecuador,Cotopaxi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,El Oro,December,2024,2,0,0,2,1.0,0.0,0.0,1.0,1737033342
+Ecuador,Esmeraldas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Galapagos,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Guayas,December,2024,3,0,0,3,2.0,0.0,0.0,2.0,1737033342
+Ecuador,Imbabura,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Loja,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Los Rios,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Manabi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Morona Santiago,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Napo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Orellana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Pastaza,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Pichincha,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Santa Elena,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Santo Domingo de los Tsachilas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Sucumbios,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Tungurahua,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Zamora Chinchipe,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033342
+Ecuador,Azuay,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Bolivar,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Canar,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Carchi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Chimborazo,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Cotopaxi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,El Oro,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854848
+Ecuador,Esmeraldas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Galapagos,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Guayas,January,2025,2,0,0,2,2.0,0.0,0.0,2.0,1738854848
+Ecuador,Imbabura,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Loja,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Los Rios,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Manabi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Morona Santiago,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Napo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Orellana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Pastaza,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Pichincha,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Santa Elena,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Santo Domingo de los Tsachilas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Sucumbios,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Tungurahua,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Zamora Chinchipe,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854848
+Ecuador,Azuay,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Ecuador,Bolivar,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Ecuador,Canar,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Ecuador,Carchi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Ecuador,Chimborazo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266617
+Ecuador,Cotopaxi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,El Oro,February,2025,1,0,0,1,2.0,0.0,1.0,1.0,1741266618
+Ecuador,Esmeraldas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Galapagos,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Guayas,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Imbabura,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Loja,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Los Rios,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Manabi,February,2025,0,0,0,0,3.0,0.0,0.0,3.0,1741266618
+Ecuador,Morona Santiago,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Napo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Orellana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Pastaza,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Pichincha,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Santa Elena,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Santo Domingo de los Tsachilas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Sucumbios,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Tungurahua,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Zamora Chinchipe,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266618
+Ecuador,Azuay,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Bolivar,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Canar,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Carchi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Chimborazo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Cotopaxi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,El Oro,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Esmeraldas,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287542
+Ecuador,Galapagos,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Guayas,March,2025,0,0,0,0,1.0,0.0,1.0,0.0,1744287542
+Ecuador,Imbabura,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Loja,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Los Rios,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287542
+Ecuador,Manabi,March,2025,1,0,0,1,2.0,0.0,0.0,2.0,1744287542
+Ecuador,Morona Santiago,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Napo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Orellana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Pastaza,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Pichincha,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Santa Elena,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Santo Domingo de los Tsachilas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Sucumbios,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Tungurahua,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Zamora Chinchipe,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ecuador,Azuay,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Bolivar,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Canar,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Carchi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Chimborazo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Cotopaxi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,El Oro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Esmeraldas,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Galapagos,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Guayas,April,2025,1,0,1,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Imbabura,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Loja,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Los Rios,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Manabi,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Morona Santiago,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Napo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Orellana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Pastaza,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Pichincha,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Santa Elena,April,2025,0,0,0,0,3.0,0.0,0.0,3.0,1746702912
+Ecuador,Santo Domingo de los Tsachilas,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Sucumbios,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Tungurahua,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Zamora Chinchipe,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ecuador,Azuay,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Ecuador,Bolivar,May,2025,0,0,0,0,2.0,0.0,0.0,2.0,1749732010
+Ecuador,Canar,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Ecuador,Carchi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Ecuador,Chimborazo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Ecuador,Cotopaxi,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732010
+Ecuador,El Oro,May,2025,0,0,0,0,38.0,5.0,8.0,25.0,1749732010
+Ecuador,Esmeraldas,May,2025,0,0,0,0,9.0,0.0,0.0,9.0,1749732010
+Ecuador,Galapagos,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Ecuador,Guayas,May,2025,0,0,0,0,126.0,28.0,14.0,84.0,1749732010
+Ecuador,Imbabura,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732010
+Ecuador,Loja,May,2025,0,0,0,0,4.0,1.0,1.0,2.0,1749732010
+Ecuador,Los Rios,May,2025,0,0,0,0,29.0,7.0,0.0,22.0,1749732010
+Ecuador,Manabi,May,2025,0,0,0,0,65.0,9.0,0.0,56.0,1749732010
+Ecuador,Morona Santiago,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Ecuador,Napo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Ecuador,Orellana,May,2025,0,0,0,0,3.0,2.0,1.0,0.0,1749732010
+Ecuador,Pastaza,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732010
+Ecuador,Pichincha,May,2025,0,0,0,0,15.0,4.0,0.0,11.0,1749732010
+Ecuador,Santa Elena,May,2025,2,0,0,2,6.0,2.0,0.0,4.0,1749732010
+Ecuador,Santo Domingo de los Tsachilas,May,2025,0,0,0,0,6.0,0.0,3.0,3.0,1749732010
+Ecuador,Sucumbios,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732010
+Ecuador,Tungurahua,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732011
+Ecuador,Zamora Chinchipe,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732011
+Ecuador,Azuay,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Ecuador,Azuay,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Azuay,August,2025,0,0,0,0,2.0,1.0,0.0,1.0,1757596698
+Ecuador,Azuay,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Azuay,October,2025,1,0,0,1,6.0,3.0,0.0,3.0,1762435626
+Ecuador,Azuay,November,2025,4,3,0,1,4.0,2.0,1.0,1.0,1765375966
+Ecuador,Azuay,December,2025,4,1,1,2,,,,,1765375966
+Ecuador,Bolivar,June,2025,3,1,0,2,1.0,0.0,0.0,1.0,1754429217
+Ecuador,Bolivar,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Bolivar,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Ecuador,Bolivar,September,2025,0,0,0,0,2.0,0.0,1.0,1.0,1760036046
+Ecuador,Bolivar,October,2025,2,0,1,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Bolivar,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ecuador,Bolivar,December,2025,0,0,0,0,,,,,1765375966
+Ecuador,Canar,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Canar,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Canar,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ecuador,Canar,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Ecuador,Canar,October,2025,1,0,0,1,4.0,0.0,0.0,4.0,1762435626
+Ecuador,Canar,November,2025,3,0,0,3,0.0,0.0,0.0,0.0,1765375966
+Ecuador,Canar,December,2025,1,1,0,0,,,,,1765375966
+Ecuador,Carchi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Carchi,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Ecuador,Carchi,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Ecuador,Carchi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Carchi,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Carchi,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Ecuador,Carchi,December,2025,2,1,0,1,,,,,1765375966
+Ecuador,Chimborazo,June,2025,0,0,0,0,3.0,1.0,0.0,2.0,1754429217
+Ecuador,Chimborazo,July,2025,3,1,0,2,1.0,0.0,0.0,1.0,1754429217
+Ecuador,Chimborazo,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Ecuador,Chimborazo,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Ecuador,Chimborazo,October,2025,1,0,0,1,1.0,1.0,0.0,0.0,1762435626
+Ecuador,Chimborazo,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Ecuador,Chimborazo,December,2025,0,0,0,0,,,,,1765375966
+Ecuador,Cotopaxi,June,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Cotopaxi,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Ecuador,Cotopaxi,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Ecuador,Cotopaxi,September,2025,1,0,0,1,1.0,0.0,1.0,0.0,1760036046
+Ecuador,Cotopaxi,October,2025,2,0,1,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Cotopaxi,November,2025,1,0,0,1,1.0,1.0,0.0,0.0,1765375966
+Ecuador,Cotopaxi,December,2025,1,1,0,0,,,,,1765375966
+Ecuador,El Oro,June,2025,38,4,9,25,26.0,4.0,1.0,21.0,1754429217
+Ecuador,El Oro,July,2025,30,4,5,21,27.0,4.0,3.0,20.0,1754429217
+Ecuador,El Oro,August,2025,26,4,2,20,45.0,10.0,5.0,30.0,1757596698
+Ecuador,El Oro,September,2025,43,9,4,30,30.0,3.0,2.0,25.0,1760036046
+Ecuador,El Oro,October,2025,35,3,2,30,30.0,5.0,3.0,22.0,1762435626
+Ecuador,El Oro,November,2025,30,4,3,23,36.0,6.0,2.0,28.0,1765375966
+Ecuador,El Oro,December,2025,35,5,3,27,,,,,1765375966
+Ecuador,Esmeraldas,June,2025,10,1,0,9,12.0,1.0,1.0,10.0,1754429217
+Ecuador,Esmeraldas,July,2025,11,1,0,10,6.0,2.0,0.0,4.0,1754429217
+Ecuador,Esmeraldas,August,2025,6,2,0,4,6.0,0.0,0.0,6.0,1757596698
+Ecuador,Esmeraldas,September,2025,7,1,0,6,11.0,2.0,0.0,9.0,1760036046
+Ecuador,Esmeraldas,October,2025,9,2,0,7,15.0,2.0,0.0,13.0,1762435626
+Ecuador,Esmeraldas,November,2025,9,2,0,7,21.0,4.0,2.0,15.0,1765375966
+Ecuador,Esmeraldas,December,2025,16,2,1,13,,,,,1765375966
+Ecuador,Galapagos,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Galapagos,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Galapagos,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ecuador,Galapagos,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Galapagos,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Galapagos,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ecuador,Galapagos,December,2025,0,0,0,0,,,,,1765375966
+Ecuador,Guayas,June,2025,115,24,9,82,86.0,16.0,5.0,65.0,1754429217
+Ecuador,Guayas,July,2025,88,18,6,64,67.0,17.0,2.0,48.0,1754429217
+Ecuador,Guayas,August,2025,71,17,4,50,75.0,13.0,2.0,60.0,1757596698
+Ecuador,Guayas,September,2025,76,13,2,61,79.0,18.0,7.0,54.0,1760036046
+Ecuador,Guayas,October,2025,82,19,7,56,67.0,16.0,3.0,48.0,1762435626
+Ecuador,Guayas,November,2025,74,16,4,54,92.0,19.0,2.0,71.0,1765375966
+Ecuador,Guayas,December,2025,85,17,2,66,,,,,1765375966
+Ecuador,Imbabura,June,2025,2,1,0,1,1.0,0.0,0.0,1.0,1754429217
+Ecuador,Imbabura,July,2025,1,0,0,1,1.0,0.0,1.0,0.0,1754429217
+Ecuador,Imbabura,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ecuador,Imbabura,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Ecuador,Imbabura,October,2025,2,1,0,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Imbabura,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ecuador,Imbabura,December,2025,0,0,0,0,,,,,1765375966
+Ecuador,Loja,June,2025,3,1,0,2,1.0,0.0,1.0,0.0,1754429217
+Ecuador,Loja,July,2025,1,0,0,1,2.0,1.0,0.0,1.0,1754429217
+Ecuador,Loja,August,2025,2,1,0,1,3.0,1.0,0.0,2.0,1757596698
+Ecuador,Loja,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Loja,October,2025,1,0,0,1,2.0,0.0,0.0,2.0,1762435626
+Ecuador,Loja,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Ecuador,Loja,December,2025,2,1,0,1,,,,,1765375966
+Ecuador,Los Rios,June,2025,28,5,0,23,34.0,10.0,0.0,24.0,1754429217
+Ecuador,Los Rios,July,2025,32,9,0,23,33.0,5.0,0.0,28.0,1754429217
+Ecuador,Los Rios,August,2025,33,5,0,28,42.0,2.0,0.0,40.0,1757596698
+Ecuador,Los Rios,September,2025,43,4,0,39,31.0,5.0,0.0,26.0,1760036046
+Ecuador,Los Rios,October,2025,34,5,0,29,40.0,5.0,0.0,35.0,1762435626
+Ecuador,Los Rios,November,2025,27,4,0,23,29.0,4.0,0.0,25.0,1765375966
+Ecuador,Los Rios,December,2025,30,4,0,26,,,,,1765375966
+Ecuador,Manabi,June,2025,65,10,1,54,45.0,14.0,0.0,31.0,1754429217
+Ecuador,Manabi,July,2025,50,14,1,35,59.0,3.0,0.0,56.0,1754429217
+Ecuador,Manabi,August,2025,58,3,0,55,57.0,6.0,0.0,51.0,1757596698
+Ecuador,Manabi,September,2025,57,6,0,51,57.0,7.0,0.0,50.0,1760036046
+Ecuador,Manabi,October,2025,55,6,0,49,56.0,9.0,0.0,47.0,1762435626
+Ecuador,Manabi,November,2025,52,8,0,44,46.0,6.0,0.0,40.0,1765375966
+Ecuador,Manabi,December,2025,50,7,0,43,,,,,1765375966
+Ecuador,Morona Santiago,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Morona Santiago,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Morona Santiago,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ecuador,Morona Santiago,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Morona Santiago,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Morona Santiago,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ecuador,Morona Santiago,December,2025,0,0,0,0,,,,,1765375966
+Ecuador,Napo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Napo,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Ecuador,Napo,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Ecuador,Napo,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Napo,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Napo,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ecuador,Napo,December,2025,0,0,0,0,,,,,1765375966
+Ecuador,Orellana,June,2025,2,2,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Orellana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Orellana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ecuador,Orellana,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Ecuador,Orellana,October,2025,2,1,0,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Orellana,November,2025,1,0,0,1,1.0,1.0,0.0,0.0,1765375966
+Ecuador,Orellana,December,2025,0,0,0,0,,,,,1765375966
+Ecuador,Pastaza,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Pastaza,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Ecuador,Pastaza,August,2025,1,0,0,1,1.0,1.0,0.0,0.0,1757596698
+Ecuador,Pastaza,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Pastaza,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Ecuador,Pastaza,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Ecuador,Pastaza,December,2025,1,0,0,1,,,,,1765375966
+Ecuador,Pichincha,June,2025,12,2,0,10,12.0,1.0,1.0,10.0,1754429217
+Ecuador,Pichincha,July,2025,10,2,0,8,8.0,2.0,0.0,6.0,1754429217
+Ecuador,Pichincha,August,2025,8,2,0,6,9.0,1.0,0.0,8.0,1757596698
+Ecuador,Pichincha,September,2025,9,1,0,8,9.0,2.0,0.0,7.0,1760036046
+Ecuador,Pichincha,October,2025,11,2,0,9,5.0,1.0,0.0,4.0,1762435626
+Ecuador,Pichincha,November,2025,8,1,0,7,11.0,1.0,2.0,8.0,1765375966
+Ecuador,Pichincha,December,2025,11,1,2,8,,,,,1765375966
+Ecuador,Santa Elena,June,2025,6,1,0,5,8.0,0.0,0.0,8.0,1754429217
+Ecuador,Santa Elena,July,2025,10,1,0,9,8.0,1.0,0.0,7.0,1754429217
+Ecuador,Santa Elena,August,2025,8,1,0,7,4.0,0.0,0.0,4.0,1757596698
+Ecuador,Santa Elena,September,2025,5,1,0,4,17.0,3.0,0.0,14.0,1760036046
+Ecuador,Santa Elena,October,2025,10,3,0,7,13.0,3.0,0.0,10.0,1762435626
+Ecuador,Santa Elena,November,2025,9,2,0,7,10.0,0.0,0.0,10.0,1765375966
+Ecuador,Santa Elena,December,2025,11,1,0,10,,,,,1765375966
+Ecuador,Santo Domingo de los Tsachilas,June,2025,4,1,0,3,4.0,0.0,1.0,3.0,1754429217
+Ecuador,Santo Domingo de los Tsachilas,July,2025,6,0,3,3,9.0,2.0,0.0,7.0,1754429217
+Ecuador,Santo Domingo de los Tsachilas,August,2025,8,2,0,6,12.0,2.0,0.0,10.0,1757596698
+Ecuador,Santo Domingo de los Tsachilas,September,2025,12,2,0,10,10.0,2.0,1.0,7.0,1760036046
+Ecuador,Santo Domingo de los Tsachilas,October,2025,10,2,1,7,10.0,3.0,0.0,7.0,1762435626
+Ecuador,Santo Domingo de los Tsachilas,November,2025,10,3,0,7,7.0,2.0,0.0,5.0,1765375966
+Ecuador,Santo Domingo de los Tsachilas,December,2025,7,1,0,6,,,,,1765375966
+Ecuador,Sucumbios,June,2025,2,1,0,1,1.0,1.0,0.0,0.0,1754429217
+Ecuador,Sucumbios,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Ecuador,Sucumbios,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+Ecuador,Sucumbios,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Sucumbios,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Ecuador,Sucumbios,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Ecuador,Sucumbios,December,2025,1,0,0,1,,,,,1765375966
+Ecuador,Tungurahua,June,2025,2,1,0,1,2.0,0.0,0.0,2.0,1754429217
+Ecuador,Tungurahua,July,2025,2,0,0,2,2.0,0.0,0.0,2.0,1754429217
+Ecuador,Tungurahua,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+Ecuador,Tungurahua,September,2025,2,1,0,1,1.0,1.0,0.0,0.0,1760036046
+Ecuador,Tungurahua,October,2025,2,1,0,1,4.0,0.0,0.0,4.0,1762435626
+Ecuador,Tungurahua,November,2025,1,0,0,1,4.0,0.0,0.0,4.0,1765375966
+Ecuador,Tungurahua,December,2025,4,1,0,3,,,,,1765375966
+Ecuador,Zamora Chinchipe,June,2025,1,0,0,1,3.0,2.0,0.0,1.0,1754429217
+Ecuador,Zamora Chinchipe,July,2025,2,1,0,1,1.0,0.0,0.0,1.0,1754429217
+Ecuador,Zamora Chinchipe,August,2025,1,0,0,1,3.0,2.0,0.0,1.0,1757596698
+Ecuador,Zamora Chinchipe,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Ecuador,Zamora Chinchipe,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Ecuador,Zamora Chinchipe,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ecuador,Zamora Chinchipe,December,2025,0,0,0,0,,,,,1765375966
+Ecuador,Azuay,January,2026,4,1,1,2,,,,,1765375966
+Ecuador,Bolivar,January,2026,0,0,0,0,,,,,1765375966
+Ecuador,Canar,January,2026,1,1,0,0,,,,,1765375966
+Ecuador,Carchi,January,2026,2,1,0,1,,,,,1765375966
+Ecuador,Chimborazo,January,2026,0,0,0,0,,,,,1765375966
+Ecuador,Cotopaxi,January,2026,2,1,0,1,,,,,1765375966
+Ecuador,El Oro,January,2026,36,5,3,28,,,,,1765375966
+Ecuador,Esmeraldas,January,2026,16,2,1,13,,,,,1765375966
+Ecuador,Galapagos,January,2026,0,0,0,0,,,,,1765375966
+Ecuador,Guayas,January,2026,87,17,3,67,,,,,1765375966
+Ecuador,Imbabura,January,2026,0,0,0,0,,,,,1765375966
+Ecuador,Loja,January,2026,3,1,0,2,,,,,1765375966
+Ecuador,Los Rios,January,2026,31,4,0,27,,,,,1765375966
+Ecuador,Manabi,January,2026,50,7,0,43,,,,,1765375966
+Ecuador,Morona Santiago,January,2026,0,0,0,0,,,,,1765375966
+Ecuador,Napo,January,2026,0,0,0,0,,,,,1765375966
+Ecuador,Orellana,January,2026,0,0,0,0,,,,,1765375966
+Ecuador,Pastaza,January,2026,1,0,0,1,,,,,1765375966
+Ecuador,Pichincha,January,2026,11,1,2,8,,,,,1765375966
+Ecuador,Santa Elena,January,2026,11,1,0,10,,,,,1765375966
+Ecuador,Santo Domingo de los Tsachilas,January,2026,8,1,0,7,,,,,1765375966
+Ecuador,Sucumbios,January,2026,1,0,0,1,,,,,1765375966
+Ecuador,Tungurahua,January,2026,4,1,0,3,,,,,1765375966
+Ecuador,Zamora Chinchipe,January,2026,0,0,0,0,,,,,1765375966
+Ecuador,Azuay,February,2026,4,1,1,2,,,,,1765375966
+Ecuador,Bolivar,February,2026,0,0,0,0,,,,,1765375966
+Ecuador,Canar,February,2026,1,1,0,0,,,,,1765375966
+Ecuador,Carchi,February,2026,2,1,0,1,,,,,1765375966
+Ecuador,Chimborazo,February,2026,0,0,0,0,,,,,1765375966
+Ecuador,Cotopaxi,February,2026,2,1,0,1,,,,,1765375966
+Ecuador,El Oro,February,2026,35,5,3,27,,,,,1765375966
+Ecuador,Esmeraldas,February,2026,16,2,1,13,,,,,1765375966
+Ecuador,Galapagos,February,2026,0,0,0,0,,,,,1765375966
+Ecuador,Guayas,February,2026,86,17,3,66,,,,,1765375966
+Ecuador,Imbabura,February,2026,0,0,0,0,,,,,1765375966
+Ecuador,Loja,February,2026,2,1,0,1,,,,,1765375966
+Ecuador,Los Rios,February,2026,30,4,0,26,,,,,1765375966
+Ecuador,Manabi,February,2026,49,7,0,42,,,,,1765375966
+Ecuador,Morona Santiago,February,2026,0,0,0,0,,,,,1765375966
+Ecuador,Napo,February,2026,0,0,0,0,,,,,1765375966
+Ecuador,Orellana,February,2026,0,0,0,0,,,,,1765375966
+Ecuador,Pastaza,February,2026,1,0,0,1,,,,,1765375966
+Ecuador,Pichincha,February,2026,11,1,2,8,,,,,1765375966
+Ecuador,Santa Elena,February,2026,11,1,0,10,,,,,1765375966
+Ecuador,Santo Domingo de los Tsachilas,February,2026,8,1,0,7,,,,,1765375966
+Ecuador,Sucumbios,February,2026,1,0,0,1,,,,,1765375966
+Ecuador,Tungurahua,February,2026,4,1,0,3,,,,,1765375966
+Ecuador,Zamora Chinchipe,February,2026,0,0,0,0,,,,,1765375966
+Ecuador,Azuay,March,2026,4,1,1,2,,,,,1765375966
+Ecuador,Bolivar,March,2026,0,0,0,0,,,,,1765375966
+Ecuador,Canar,March,2026,1,1,0,0,,,,,1765375966
+Ecuador,Carchi,March,2026,2,1,0,1,,,,,1765375966
+Ecuador,Chimborazo,March,2026,0,0,0,0,,,,,1765375966
+Ecuador,Cotopaxi,March,2026,2,1,0,1,,,,,1765375966
+Ecuador,El Oro,March,2026,36,5,3,28,,,,,1765375966
+Ecuador,Esmeraldas,March,2026,16,2,1,13,,,,,1765375966
+Ecuador,Galapagos,March,2026,0,0,0,0,,,,,1765375966
+Ecuador,Guayas,March,2026,86,17,3,66,,,,,1765375966
+Ecuador,Imbabura,March,2026,0,0,0,0,,,,,1765375966
+Ecuador,Loja,March,2026,2,1,0,1,,,,,1765375966
+Ecuador,Los Rios,March,2026,31,4,0,27,,,,,1765375966
+Ecuador,Manabi,March,2026,50,7,0,43,,,,,1765375966
+Ecuador,Morona Santiago,March,2026,0,0,0,0,,,,,1765375966
+Ecuador,Napo,March,2026,0,0,0,0,,,,,1765375966
+Ecuador,Orellana,March,2026,0,0,0,0,,,,,1765375966
+Ecuador,Pastaza,March,2026,1,0,0,1,,,,,1765375966
+Ecuador,Pichincha,March,2026,11,1,2,8,,,,,1765375966
+Ecuador,Santa Elena,March,2026,11,1,0,10,,,,,1765375966
+Ecuador,Santo Domingo de los Tsachilas,March,2026,8,1,0,7,,,,,1765375966
+Ecuador,Sucumbios,March,2026,1,0,0,1,,,,,1765375966
+Ecuador,Tungurahua,March,2026,4,1,0,3,,,,,1765375966
+Ecuador,Zamora Chinchipe,March,2026,0,0,0,0,,,,,1765375966
+Ecuador,Azuay,April,2026,4,1,1,2,,,,,1765375966
+Ecuador,Bolivar,April,2026,0,0,0,0,,,,,1765375966
+Ecuador,Canar,April,2026,1,1,0,0,,,,,1765375966
+Ecuador,Carchi,April,2026,2,1,0,1,,,,,1765375966
+Ecuador,Chimborazo,April,2026,0,0,0,0,,,,,1765375966
+Ecuador,Cotopaxi,April,2026,2,1,0,1,,,,,1765375966
+Ecuador,El Oro,April,2026,35,5,3,27,,,,,1765375966
+Ecuador,Esmeraldas,April,2026,16,2,1,13,,,,,1765375966
+Ecuador,Galapagos,April,2026,0,0,0,0,,,,,1765375966
+Ecuador,Guayas,April,2026,85,17,3,65,,,,,1765375966
+Ecuador,Imbabura,April,2026,0,0,0,0,,,,,1765375966
+Ecuador,Loja,April,2026,2,1,0,1,,,,,1765375966
+Ecuador,Los Rios,April,2026,30,4,0,26,,,,,1765375966
+Ecuador,Manabi,April,2026,49,7,0,42,,,,,1765375966
+Ecuador,Morona Santiago,April,2026,0,0,0,0,,,,,1765375966
+Ecuador,Napo,April,2026,0,0,0,0,,,,,1765375966
+Ecuador,Orellana,April,2026,0,0,0,0,,,,,1765375966
+Ecuador,Pastaza,April,2026,1,0,0,1,,,,,1765375966
+Ecuador,Pichincha,April,2026,11,1,2,8,,,,,1765375966
+Ecuador,Santa Elena,April,2026,11,1,0,10,,,,,1765375966
+Ecuador,Santo Domingo de los Tsachilas,April,2026,7,1,0,6,,,,,1765375966
+Ecuador,Sucumbios,April,2026,1,0,0,1,,,,,1765375966
+Ecuador,Tungurahua,April,2026,4,1,0,3,,,,,1765375966
+Ecuador,Zamora Chinchipe,April,2026,0,0,0,0,,,,,1765375966
+Ecuador,Azuay,May,2026,4,1,1,2,,,,,1765375966
+Ecuador,Bolivar,May,2026,0,0,0,0,,,,,1765375966
+Ecuador,Canar,May,2026,1,1,0,0,,,,,1765375966
+Ecuador,Carchi,May,2026,2,1,0,1,,,,,1765375966
+Ecuador,Chimborazo,May,2026,0,0,0,0,,,,,1765375966
+Ecuador,Cotopaxi,May,2026,2,1,0,1,,,,,1765375966
+Ecuador,El Oro,May,2026,35,5,3,27,,,,,1765375966
+Ecuador,Esmeraldas,May,2026,16,2,1,13,,,,,1765375966
+Ecuador,Galapagos,May,2026,0,0,0,0,,,,,1765375966
+Ecuador,Guayas,May,2026,87,17,4,66,,,,,1765375966
+Ecuador,Imbabura,May,2026,0,0,0,0,,,,,1765375966
+Ecuador,Loja,May,2026,2,1,0,1,,,,,1765375966
+Ecuador,Los Rios,May,2026,30,4,0,26,,,,,1765375966
+Ecuador,Manabi,May,2026,50,7,0,43,,,,,1765375966
+Ecuador,Morona Santiago,May,2026,0,0,0,0,,,,,1765375966
+Ecuador,Napo,May,2026,0,0,0,0,,,,,1765375966
+Ecuador,Orellana,May,2026,0,0,0,0,,,,,1765375966
+Ecuador,Pastaza,May,2026,1,0,0,1,,,,,1765375966
+Ecuador,Pichincha,May,2026,11,1,2,8,,,,,1765375966
+Ecuador,Santa Elena,May,2026,11,1,0,10,,,,,1765375966
+Ecuador,Santo Domingo de los Tsachilas,May,2026,8,1,0,7,,,,,1765375966
+Ecuador,Sucumbios,May,2026,1,0,0,1,,,,,1765375966
+Ecuador,Tungurahua,May,2026,4,1,0,3,,,,,1765375966
+Ecuador,Zamora Chinchipe,May,2026,0,0,0,0,,,,,1765375966

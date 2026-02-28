@@ -1,0 +1,703 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Honduras,Atlantida,March,2023,3,0,0,3,5.0,1.0,0.0,4.0,1726141038
+Honduras,Atlantida,April,2023,3,0,0,3,5.0,0.0,0.0,5.0,1726141038
+Honduras,Atlantida,May,2023,5,0,0,4,3.0,0.0,0.0,3.0,1726141038
+Honduras,Atlantida,June,2023,3,0,0,3,5.0,0.0,0.0,5.0,1726141038
+Honduras,Atlantida,July,2023,4,0,0,4,1.0,0.0,0.0,1.0,1726141038
+Honduras,Atlantida,August,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141038
+Honduras,Atlantida,September,2023,1,0,0,1,5.0,1.0,0.0,4.0,1726141038
+Honduras,Atlantida,October,2023,4,1,0,3,2.0,0.0,0.0,2.0,1726141038
+Honduras,Atlantida,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141038
+Honduras,Atlantida,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141038
+Honduras,Atlantida,January,2024,1,0,0,1,4.0,0.0,0.0,4.0,1726141038
+Honduras,Atlantida,February,2024,3,0,0,3,3.0,1.0,0.0,2.0,1726141038
+Honduras,Atlantida,March,2024,3,1,0,2,6.0,1.0,0.0,5.0,1726141038
+Honduras,Atlantida,April,2024,4,1,0,3,1.0,0.0,0.0,1.0,1726141038
+Honduras,Atlantida,May,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141038
+Honduras,Atlantida,June,2024,3,0,0,3,5.0,0.0,0.0,5.0,1726141038
+Honduras,Atlantida,July,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141038
+Honduras,Atlantida,August,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141038
+Honduras,Bay Islands,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Honduras,Bay Islands,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141038
+Honduras,Bay Islands,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,June,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141038
+Honduras,Bay Islands,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Honduras,Bay Islands,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Honduras,Bay Islands,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Bay Islands,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Honduras,Choluteca,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Honduras,Choluteca,April,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141038
+Honduras,Choluteca,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141038
+Honduras,Choluteca,June,2023,1,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Honduras,Choluteca,July,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Honduras,Choluteca,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Honduras,Choluteca,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Honduras,Choluteca,October,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141038
+Honduras,Choluteca,November,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141038
+Honduras,Choluteca,December,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141038
+Honduras,Choluteca,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141038
+Honduras,Choluteca,February,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141038
+Honduras,Choluteca,March,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141038
+Honduras,Choluteca,April,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141038
+Honduras,Choluteca,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Honduras,Choluteca,June,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141038
+Honduras,Choluteca,July,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141038
+Honduras,Choluteca,August,2024,1,0,0,1,3.0,1.0,0.0,2.0,1726141038
+Honduras,Colon,March,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141038
+Honduras,Colon,April,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141038
+Honduras,Colon,May,2023,3,0,0,2,2.0,1.0,0.0,1.0,1726141038
+Honduras,Colon,June,2023,2,0,0,2,7.0,0.0,0.0,7.0,1726141038
+Honduras,Colon,July,2023,5,0,0,4,5.0,0.0,0.0,5.0,1726141038
+Honduras,Colon,August,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141038
+Honduras,Colon,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141038
+Honduras,Colon,October,2023,3,0,0,3,2.0,1.0,0.0,1.0,1726141038
+Honduras,Colon,November,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141038
+Honduras,Colon,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Colon,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Colon,February,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141039
+Honduras,Colon,March,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Colon,April,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141039
+Honduras,Colon,May,2024,0,0,0,0,5.0,0.0,0.0,5.0,1726141039
+Honduras,Colon,June,2024,4,0,0,4,0.0,0.0,0.0,0.0,1726141039
+Honduras,Colon,July,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141039
+Honduras,Colon,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Comayagua,March,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,Comayagua,April,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Comayagua,May,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,Comayagua,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141039
+Honduras,Comayagua,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Comayagua,August,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,Comayagua,September,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Comayagua,October,2023,1,0,0,1,4.0,1.0,0.0,3.0,1726141039
+Honduras,Comayagua,November,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Comayagua,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Comayagua,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Comayagua,February,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141039
+Honduras,Comayagua,March,2024,2,0,0,2,2.0,1.0,0.0,1.0,1726141039
+Honduras,Comayagua,April,2024,3,1,0,2,3.0,0.0,0.0,3.0,1726141039
+Honduras,Comayagua,May,2024,2,0,0,2,1.0,1.0,0.0,0.0,1726141039
+Honduras,Comayagua,June,2024,2,1,0,1,2.0,0.0,0.0,2.0,1726141039
+Honduras,Comayagua,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Comayagua,August,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141039
+Honduras,Copan,March,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141039
+Honduras,Copan,April,2023,3,0,0,2,0.0,0.0,0.0,0.0,1726141039
+Honduras,Copan,May,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141039
+Honduras,Copan,June,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,Copan,July,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141039
+Honduras,Copan,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Copan,September,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141039
+Honduras,Copan,October,2023,3,0,0,3,3.0,0.0,0.0,3.0,1726141039
+Honduras,Copan,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Copan,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Copan,January,2024,1,0,0,1,5.0,3.0,0.0,2.0,1726141039
+Honduras,Copan,February,2024,4,2,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Copan,March,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141039
+Honduras,Copan,April,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Copan,May,2024,1,0,0,1,4.0,0.0,0.0,4.0,1726141039
+Honduras,Copan,June,2024,3,0,0,3,3.0,1.0,0.0,2.0,1726141039
+Honduras,Copan,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Copan,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Cortes,March,2023,11,1,0,10,12.0,2.0,0.0,10.0,1726141039
+Honduras,Cortes,April,2023,12,2,0,10,7.0,1.0,0.0,6.0,1726141039
+Honduras,Cortes,May,2023,9,1,0,7,21.0,3.0,0.0,18.0,1726141039
+Honduras,Cortes,June,2023,12,1,0,10,22.0,3.0,0.0,19.0,1726141039
+Honduras,Cortes,July,2023,18,3,0,15,9.0,3.0,0.0,6.0,1726141039
+Honduras,Cortes,August,2023,10,3,0,7,4.0,0.0,0.0,4.0,1726141039
+Honduras,Cortes,September,2023,6,0,0,6,7.0,0.0,0.0,7.0,1726141039
+Honduras,Cortes,October,2023,8,0,0,8,8.0,2.0,0.0,6.0,1726141039
+Honduras,Cortes,November,2023,7,2,0,5,10.0,1.0,0.0,9.0,1726141039
+Honduras,Cortes,December,2023,7,1,0,6,4.0,0.0,0.0,4.0,1726141039
+Honduras,Cortes,January,2024,4,1,0,3,4.0,3.0,0.0,1.0,1726141039
+Honduras,Cortes,February,2024,3,2,0,1,3.0,0.0,0.0,3.0,1726141039
+Honduras,Cortes,March,2024,3,0,0,3,9.0,3.0,0.0,6.0,1726141039
+Honduras,Cortes,April,2024,9,3,0,6,4.0,0.0,0.0,4.0,1726141039
+Honduras,Cortes,May,2024,5,0,0,5,10.0,1.0,0.0,9.0,1726141039
+Honduras,Cortes,June,2024,9,1,0,8,7.0,1.0,0.0,6.0,1726141039
+Honduras,Cortes,July,2024,5,1,0,4,11.0,1.0,0.0,10.0,1726141039
+Honduras,Cortes,August,2024,7,1,0,6,8.0,2.0,0.0,6.0,1726141039
+Honduras,El Paraiso,March,2023,2,0,0,2,2.0,1.0,0.0,1.0,1726141039
+Honduras,El Paraiso,April,2023,2,0,0,2,6.0,4.0,0.0,2.0,1726141039
+Honduras,El Paraiso,May,2023,4,2,0,2,3.0,1.0,0.0,2.0,1726141039
+Honduras,El Paraiso,June,2023,2,1,0,2,2.0,1.0,0.0,1.0,1726141039
+Honduras,El Paraiso,July,2023,2,1,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,El Paraiso,August,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,El Paraiso,September,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141039
+Honduras,El Paraiso,October,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,El Paraiso,November,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141039
+Honduras,El Paraiso,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,El Paraiso,January,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141039
+Honduras,El Paraiso,February,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141039
+Honduras,El Paraiso,March,2024,3,0,0,3,4.0,1.0,0.0,3.0,1726141039
+Honduras,El Paraiso,April,2024,3,1,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,El Paraiso,May,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141039
+Honduras,El Paraiso,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,El Paraiso,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,El Paraiso,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Francisco Morazan,March,2023,12,2,0,10,12.0,7.0,0.0,5.0,1726141039
+Honduras,Francisco Morazan,April,2023,8,3,0,5,15.0,6.0,0.0,9.0,1726141039
+Honduras,Francisco Morazan,May,2023,13,5,0,8,13.0,3.0,0.0,10.0,1726141039
+Honduras,Francisco Morazan,June,2023,12,3,0,10,18.0,2.0,0.0,16.0,1726141039
+Honduras,Francisco Morazan,July,2023,16,2,0,14,9.0,1.0,0.0,8.0,1726141039
+Honduras,Francisco Morazan,August,2023,10,1,0,9,8.0,1.0,0.0,7.0,1726141039
+Honduras,Francisco Morazan,September,2023,9,1,0,8,7.0,0.0,0.0,7.0,1726141039
+Honduras,Francisco Morazan,October,2023,8,0,0,8,1.0,0.0,0.0,1.0,1726141039
+Honduras,Francisco Morazan,November,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141039
+Honduras,Francisco Morazan,December,2023,2,0,0,2,6.0,0.0,0.0,6.0,1726141039
+Honduras,Francisco Morazan,January,2024,5,1,0,4,12.0,4.0,0.0,8.0,1726141039
+Honduras,Francisco Morazan,February,2024,9,3,0,6,10.0,1.0,0.0,9.0,1726141039
+Honduras,Francisco Morazan,March,2024,9,1,0,8,5.0,0.0,0.0,5.0,1726141039
+Honduras,Francisco Morazan,April,2024,7,0,0,7,9.0,3.0,0.0,6.0,1726141039
+Honduras,Francisco Morazan,May,2024,10,3,0,7,11.0,1.0,0.0,10.0,1726141039
+Honduras,Francisco Morazan,June,2024,10,1,0,9,6.0,0.0,0.0,6.0,1726141039
+Honduras,Francisco Morazan,July,2024,5,1,0,4,8.0,3.0,0.0,5.0,1726141039
+Honduras,Francisco Morazan,August,2024,5,1,0,4,3.0,0.0,0.0,3.0,1726141039
+Honduras,Gracias a Dios,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,June,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,January,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Gracias a Dios,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Intibuca,May,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Intibuca,June,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Intibuca,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Intibuca,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Intibuca,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Intibuca,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Intibuca,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Intibuca,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Intibuca,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,June,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,La Paz,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,March,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141039
+Honduras,Lempira,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,May,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141039
+Honduras,Lempira,June,2023,2,0,0,1,2.0,0.0,0.0,2.0,1726141039
+Honduras,Lempira,July,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Lempira,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Lempira,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,March,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141039
+Honduras,Lempira,April,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Lempira,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141039
+Honduras,Lempira,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Lempira,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Ocotepeque,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Ocotepeque,June,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141039
+Honduras,Ocotepeque,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141039
+Honduras,Ocotepeque,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141039
+Honduras,Olancho,March,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,Olancho,April,2023,3,0,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,Olancho,May,2023,3,0,0,2,4.0,0.0,0.0,4.0,1726141039
+Honduras,Olancho,June,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Olancho,July,2023,2,0,0,2,3.0,0.0,0.0,3.0,1726141039
+Honduras,Olancho,August,2023,2,0,0,2,7.0,2.0,0.0,5.0,1726141039
+Honduras,Olancho,September,2023,6,2,0,4,2.0,0.0,0.0,2.0,1726141039
+Honduras,Olancho,October,2023,2,0,0,2,5.0,0.0,0.0,5.0,1726141039
+Honduras,Olancho,November,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141039
+Honduras,Olancho,December,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Olancho,January,2024,1,0,0,1,5.0,1.0,0.0,4.0,1726141039
+Honduras,Olancho,February,2024,5,1,0,4,5.0,0.0,0.0,5.0,1726141039
+Honduras,Olancho,March,2024,5,0,0,5,1.0,0.0,0.0,1.0,1726141039
+Honduras,Olancho,April,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Olancho,May,2024,2,0,0,2,5.0,3.0,0.0,2.0,1726141039
+Honduras,Olancho,June,2024,4,2,0,2,6.0,2.0,0.0,4.0,1726141039
+Honduras,Olancho,July,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141039
+Honduras,Olancho,August,2024,2,0,0,2,6.0,1.0,0.0,5.0,1726141039
+Honduras,Santa Barbara,March,2023,2,0,0,2,3.0,1.0,0.0,2.0,1726141039
+Honduras,Santa Barbara,April,2023,2,0,0,2,5.0,5.0,0.0,0.0,1726141039
+Honduras,Santa Barbara,May,2023,4,2,0,1,4.0,2.0,0.0,2.0,1726141039
+Honduras,Santa Barbara,June,2023,3,2,0,2,5.0,3.0,0.0,2.0,1726141039
+Honduras,Santa Barbara,July,2023,4,2,0,2,2.0,1.0,0.0,1.0,1726141039
+Honduras,Santa Barbara,August,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141039
+Honduras,Santa Barbara,September,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141039
+Honduras,Santa Barbara,October,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141039
+Honduras,Santa Barbara,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141039
+Honduras,Santa Barbara,December,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141039
+Honduras,Santa Barbara,January,2024,1,0,0,1,4.0,1.0,0.0,3.0,1726141040
+Honduras,Santa Barbara,February,2024,4,1,0,3,0.0,0.0,0.0,0.0,1726141040
+Honduras,Santa Barbara,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141040
+Honduras,Santa Barbara,April,2024,3,1,0,2,0.0,0.0,0.0,0.0,1726141040
+Honduras,Santa Barbara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Santa Barbara,June,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141040
+Honduras,Santa Barbara,July,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141040
+Honduras,Santa Barbara,August,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,March,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141040
+Honduras,Valle,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,June,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141040
+Honduras,Valle,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,May,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141040
+Honduras,Valle,June,2024,2,2,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Honduras,Valle,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141040
+Honduras,Yoro,March,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141040
+Honduras,Yoro,April,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141040
+Honduras,Yoro,May,2023,0,0,0,0,7.0,0.0,0.0,7.0,1726141040
+Honduras,Yoro,June,2023,3,0,0,3,7.0,2.0,0.0,5.0,1726141040
+Honduras,Yoro,July,2023,6,1,0,4,4.0,1.0,0.0,3.0,1726141040
+Honduras,Yoro,August,2023,5,1,0,4,2.0,0.0,0.0,2.0,1726141040
+Honduras,Yoro,September,2023,2,0,0,2,6.0,1.0,0.0,5.0,1726141040
+Honduras,Yoro,October,2023,5,1,0,4,2.0,0.0,0.0,2.0,1726141040
+Honduras,Yoro,November,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141040
+Honduras,Yoro,December,2023,3,0,0,3,3.0,0.0,0.0,3.0,1726141040
+Honduras,Yoro,January,2024,2,0,0,2,2.0,1.0,0.0,1.0,1726141040
+Honduras,Yoro,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141040
+Honduras,Yoro,March,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141040
+Honduras,Yoro,April,2024,3,0,0,3,0.0,0.0,0.0,0.0,1726141040
+Honduras,Yoro,May,2024,0,0,0,0,4.0,0.0,0.0,4.0,1726141040
+Honduras,Yoro,June,2024,4,0,0,4,5.0,1.0,0.0,4.0,1726141040
+Honduras,Yoro,July,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141040
+Honduras,Yoro,August,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141040
+Honduras,Atlantida,September,2024,3,0,0,3,1.0,0.0,0.0,1.0,1730730989
+Honduras,Bay Islands,September,2024,1,0,0,1,2.0,2.0,0.0,0.0,1730730989
+Honduras,Choluteca,September,2024,3,1,0,2,0.0,0.0,0.0,0.0,1730730989
+Honduras,Colon,September,2024,0,0,0,0,3.0,0.0,0.0,3.0,1730730989
+Honduras,Comayagua,September,2024,2,0,0,2,2.0,1.0,0.0,1.0,1730730989
+Honduras,Copan,September,2024,1,0,0,1,2.0,0.0,0.0,2.0,1730730989
+Honduras,Cortes,September,2024,9,2,0,7,6.0,2.0,0.0,4.0,1730730989
+Honduras,El Paraiso,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730989
+Honduras,Francisco Morazan,September,2024,4,0,0,4,10.0,1.0,0.0,9.0,1730730989
+Honduras,Gracias a Dios,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Honduras,Intibuca,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Honduras,La Paz,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Honduras,Lempira,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Honduras,Ocotepeque,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Honduras,Olancho,September,2024,6,1,0,5,2.0,1.0,0.0,1.0,1730730989
+Honduras,Santa Barbara,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Honduras,Valle,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730989
+Honduras,Yoro,September,2024,3,0,0,3,2.0,0.0,0.0,2.0,1730730989
+Honduras,Atlantida,October,2024,2,0,0,2,2.0,0.0,0.0,2.0,1734010283
+Honduras,Atlantida,November,2024,2,0,0,2,2.0,0.0,0.0,2.0,1734010283
+Honduras,Bay Islands,October,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010283
+Honduras,Bay Islands,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Choluteca,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Choluteca,November,2024,0,0,0,0,3.0,0.0,0.0,3.0,1734010283
+Honduras,Colon,October,2024,2,0,0,2,2.0,0.0,0.0,2.0,1734010283
+Honduras,Colon,November,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010283
+Honduras,Comayagua,October,2024,2,1,0,1,1.0,0.0,0.0,1.0,1734010283
+Honduras,Comayagua,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010283
+Honduras,Copan,October,2024,1,0,0,1,6.0,1.0,0.0,5.0,1734010283
+Honduras,Copan,November,2024,3,0,0,3,3.0,0.0,0.0,3.0,1734010283
+Honduras,Cortes,October,2024,6,2,0,4,4.0,0.0,0.0,4.0,1734010283
+Honduras,Cortes,November,2024,6,1,0,5,4.0,0.0,0.0,4.0,1734010283
+Honduras,El Paraiso,October,2024,0,0,0,0,3.0,0.0,0.0,3.0,1734010283
+Honduras,El Paraiso,November,2024,3,0,0,3,1.0,0.0,0.0,1.0,1734010283
+Honduras,Francisco Morazan,October,2024,8,1,0,7,6.0,1.0,0.0,5.0,1734010283
+Honduras,Francisco Morazan,November,2024,6,1,0,5,6.0,2.0,0.0,4.0,1734010283
+Honduras,Gracias a Dios,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Gracias a Dios,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Intibuca,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Intibuca,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,La Paz,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,La Paz,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Lempira,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Lempira,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010283
+Honduras,Ocotepeque,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Ocotepeque,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Honduras,Olancho,October,2024,3,1,0,2,5.0,2.0,0.0,3.0,1734010284
+Honduras,Olancho,November,2024,4,1,0,3,4.0,1.0,0.0,3.0,1734010284
+Honduras,Santa Barbara,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010284
+Honduras,Santa Barbara,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010284
+Honduras,Valle,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Honduras,Valle,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010284
+Honduras,Yoro,October,2024,2,0,0,2,5.0,0.0,0.0,5.0,1734010284
+Honduras,Yoro,November,2024,4,0,0,4,2.0,0.0,0.0,2.0,1734010284
+Honduras,Atlantida,December,2024,2,0,0,2,1.0,0.0,0.0,1.0,1737033346
+Honduras,Bay Islands,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033346
+Honduras,Choluteca,December,2024,2,0,0,2,1.0,0.0,0.0,1.0,1737033346
+Honduras,Colon,December,2024,0,0,0,0,3.0,0.0,0.0,3.0,1737033346
+Honduras,Comayagua,December,2024,1,0,0,1,2.0,0.0,0.0,2.0,1737033346
+Honduras,Copan,December,2024,3,0,0,3,1.0,0.0,0.0,1.0,1737033346
+Honduras,Cortes,December,2024,5,1,0,4,12.0,1.0,0.0,11.0,1737033346
+Honduras,El Paraiso,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033346
+Honduras,Francisco Morazan,December,2024,5,1,0,4,11.0,2.0,0.0,9.0,1737033346
+Honduras,Gracias a Dios,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033346
+Honduras,Intibuca,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033346
+Honduras,La Paz,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033346
+Honduras,Lempira,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033346
+Honduras,Ocotepeque,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033346
+Honduras,Olancho,December,2024,4,1,0,3,2.0,0.0,0.0,2.0,1737033346
+Honduras,Santa Barbara,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033346
+Honduras,Valle,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033346
+Honduras,Yoro,December,2024,2,0,0,2,3.0,0.0,0.0,3.0,1737033346
+Honduras,Atlantida,January,2025,2,0,0,2,5.0,0.0,0.0,5.0,1738854851
+Honduras,Bay Islands,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854851
+Honduras,Choluteca,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854851
+Honduras,Colon,January,2025,3,0,0,3,4.0,2.0,0.0,2.0,1738854851
+Honduras,Comayagua,January,2025,2,0,0,2,2.0,0.0,0.0,2.0,1738854851
+Honduras,Copan,January,2025,2,0,0,2,2.0,0.0,0.0,2.0,1738854851
+Honduras,Cortes,January,2025,10,2,0,8,8.0,2.0,0.0,6.0,1738854851
+Honduras,El Paraiso,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854851
+Honduras,Francisco Morazan,January,2025,10,2,0,8,15.0,0.0,0.0,15.0,1738854851
+Honduras,Gracias a Dios,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854851
+Honduras,Intibuca,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Honduras,La Paz,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Honduras,Lempira,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854851
+Honduras,Ocotepeque,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Honduras,Olancho,January,2025,2,0,0,2,5.0,0.0,0.0,5.0,1738854851
+Honduras,Santa Barbara,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Honduras,Valle,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Honduras,Yoro,January,2025,3,0,0,3,3.0,1.0,0.0,2.0,1738854851
+Honduras,Atlantida,February,2025,4,0,0,4,3.0,1.0,1.0,1.0,1741266621
+Honduras,Bay Islands,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266621
+Honduras,Choluteca,February,2025,1,0,0,1,1.0,0.0,0.0,1.0,1741266621
+Honduras,Colon,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266621
+Honduras,Comayagua,February,2025,2,0,0,2,2.0,0.0,0.0,2.0,1741266621
+Honduras,Copan,February,2025,2,0,0,2,1.0,0.0,0.0,1.0,1741266621
+Honduras,Cortes,February,2025,8,1,0,7,7.0,0.0,0.0,7.0,1741266621
+Honduras,El Paraiso,February,2025,1,0,0,1,2.0,1.0,0.0,1.0,1741266621
+Honduras,Francisco Morazan,February,2025,12,1,0,11,8.0,2.0,0.0,6.0,1741266621
+Honduras,Gracias a Dios,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266621
+Honduras,Intibuca,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266621
+Honduras,La Paz,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266621
+Honduras,Lempira,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266621
+Honduras,Ocotepeque,February,2025,0,0,0,0,2.0,1.0,0.0,1.0,1741266621
+Honduras,Olancho,February,2025,4,0,0,4,4.0,0.0,0.0,4.0,1741266621
+Honduras,Santa Barbara,February,2025,0,0,0,0,3.0,0.0,0.0,3.0,1741266621
+Honduras,Valle,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266621
+Honduras,Yoro,February,2025,2,0,0,2,2.0,0.0,0.0,2.0,1741266621
+Honduras,Atlantida,March,2025,2,0,0,2,1.0,0.0,0.0,1.0,1744287543
+Honduras,Bay Islands,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Honduras,Choluteca,March,2025,2,0,0,2,3.0,0.0,0.0,3.0,1744287543
+Honduras,Colon,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Honduras,Comayagua,March,2025,2,0,0,2,0.0,0.0,0.0,0.0,1744287543
+Honduras,Copan,March,2025,2,0,0,2,1.0,0.0,0.0,1.0,1744287543
+Honduras,Cortes,March,2025,7,1,0,6,10.0,4.0,0.0,6.0,1744287543
+Honduras,El Paraiso,March,2025,2,0,0,2,0.0,0.0,0.0,0.0,1744287543
+Honduras,Francisco Morazan,March,2025,9,2,0,7,12.0,3.0,0.0,9.0,1744287543
+Honduras,Gracias a Dios,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Honduras,Intibuca,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Honduras,La Paz,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Honduras,Lempira,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Honduras,Ocotepeque,March,2025,1,0,0,1,1.0,0.0,0.0,1.0,1744287543
+Honduras,Olancho,March,2025,3,0,0,3,5.0,0.0,0.0,5.0,1744287543
+Honduras,Santa Barbara,March,2025,2,0,0,2,1.0,0.0,0.0,1.0,1744287543
+Honduras,Valle,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Honduras,Yoro,March,2025,2,0,0,2,2.0,0.0,0.0,2.0,1744287543
+Honduras,Atlantida,April,2025,1,0,0,1,8.0,2.0,0.0,6.0,1746702913
+Honduras,Bay Islands,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Honduras,Choluteca,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702913
+Honduras,Colon,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702913
+Honduras,Comayagua,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702913
+Honduras,Copan,April,2025,1,0,0,1,5.0,0.0,0.0,5.0,1746702913
+Honduras,Cortes,April,2025,10,3,0,7,6.0,2.0,0.0,4.0,1746702913
+Honduras,El Paraiso,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Honduras,Francisco Morazan,April,2025,11,2,0,9,11.0,2.0,0.0,9.0,1746702913
+Honduras,Gracias a Dios,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Honduras,Intibuca,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Honduras,La Paz,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Honduras,Lempira,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+Honduras,Ocotepeque,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+Honduras,Olancho,April,2025,4,0,0,4,3.0,0.0,0.0,3.0,1746702913
+Honduras,Santa Barbara,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+Honduras,Valle,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Honduras,Yoro,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702913
+Honduras,Atlantida,May,2025,4,0,0,4,6.0,4.0,0.0,2.0,1749732013
+Honduras,Bay Islands,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Honduras,Choluteca,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732013
+Honduras,Colon,May,2025,3,0,0,3,6.0,2.0,0.0,4.0,1749732013
+Honduras,Comayagua,May,2025,1,0,0,1,1.0,0.0,0.0,1.0,1749732013
+Honduras,Copan,May,2025,4,0,0,4,3.0,1.0,0.0,2.0,1749732013
+Honduras,Cortes,May,2025,7,2,0,5,14.0,2.0,0.0,12.0,1749732013
+Honduras,El Paraiso,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732013
+Honduras,Francisco Morazan,May,2025,11,2,0,9,7.0,2.0,0.0,5.0,1749732013
+Honduras,Gracias a Dios,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Honduras,Intibuca,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Honduras,La Paz,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Honduras,Lempira,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732013
+Honduras,Ocotepeque,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Honduras,Olancho,May,2025,3,0,0,3,1.0,0.0,0.0,1.0,1749732013
+Honduras,Santa Barbara,May,2025,0,0,0,0,2.0,0.0,0.0,2.0,1749732013
+Honduras,Valle,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732013
+Honduras,Yoro,May,2025,0,0,0,0,3.0,2.0,0.0,1.0,1749732013
+Honduras,Atlantida,June,2025,5,3,0,2,4.0,1.0,0.0,3.0,1754429217
+Honduras,Atlantida,July,2025,5,2,0,3,5.0,0.0,0.0,5.0,1754429217
+Honduras,Atlantida,August,2025,5,0,0,5,3.0,1.0,0.0,2.0,1757596698
+Honduras,Atlantida,September,2025,3,1,0,2,3.0,1.0,0.0,2.0,1760036046
+Honduras,Atlantida,October,2025,3,1,0,2,2.0,0.0,0.0,2.0,1762435626
+Honduras,Atlantida,November,2025,4,1,0,3,0.0,0.0,0.0,0.0,1765375966
+Honduras,Atlantida,December,2025,0,0,0,0,,,,,1765375966
+Honduras,Bay Islands,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Bay Islands,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Bay Islands,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Honduras,Bay Islands,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Honduras,Bay Islands,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Honduras,Bay Islands,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Honduras,Bay Islands,December,2025,0,0,0,0,,,,,1765375966
+Honduras,Choluteca,June,2025,1,0,0,1,2.0,0.0,0.0,2.0,1754429217
+Honduras,Choluteca,July,2025,2,0,0,2,1.0,1.0,0.0,0.0,1754429217
+Honduras,Choluteca,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+Honduras,Choluteca,September,2025,1,0,0,1,2.0,1.0,0.0,1.0,1760036046
+Honduras,Choluteca,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Honduras,Choluteca,November,2025,2,0,0,2,2.0,0.0,0.0,2.0,1765375966
+Honduras,Choluteca,December,2025,2,0,0,2,,,,,1765375966
+Honduras,Colon,June,2025,5,1,0,4,2.0,1.0,0.0,1.0,1754429217
+Honduras,Colon,July,2025,3,1,0,2,4.0,0.0,0.0,4.0,1754429217
+Honduras,Colon,August,2025,3,0,0,3,2.0,0.0,0.0,2.0,1757596698
+Honduras,Colon,September,2025,2,0,0,2,2.0,1.0,0.0,1.0,1760036046
+Honduras,Colon,October,2025,2,0,0,2,1.0,0.0,0.0,1.0,1762435626
+Honduras,Colon,November,2025,2,0,0,2,3.0,1.0,0.0,2.0,1765375966
+Honduras,Colon,December,2025,2,0,0,2,,,,,1765375966
+Honduras,Comayagua,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Honduras,Comayagua,July,2025,1,0,0,1,3.0,0.0,0.0,3.0,1754429217
+Honduras,Comayagua,August,2025,1,0,0,1,2.0,0.0,0.0,2.0,1757596698
+Honduras,Comayagua,September,2025,2,0,0,2,0.0,0.0,0.0,0.0,1760036046
+Honduras,Comayagua,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Honduras,Comayagua,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Honduras,Comayagua,December,2025,0,0,0,0,,,,,1765375966
+Honduras,Copan,June,2025,3,1,0,2,2.0,0.0,0.0,2.0,1754429217
+Honduras,Copan,July,2025,2,0,0,2,5.0,1.0,0.0,4.0,1754429217
+Honduras,Copan,August,2025,2,0,0,2,0.0,0.0,0.0,0.0,1757596698
+Honduras,Copan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Honduras,Copan,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Honduras,Copan,November,2025,2,0,0,2,1.0,0.0,0.0,1.0,1765375966
+Honduras,Copan,December,2025,1,0,0,1,,,,,1765375966
+Honduras,Cortes,June,2025,11,1,0,10,10.0,0.0,0.0,10.0,1754429217
+Honduras,Cortes,July,2025,10,1,0,9,11.0,3.0,0.0,8.0,1754429217
+Honduras,Cortes,August,2025,9,2,0,7,4.0,0.0,0.0,4.0,1757596698
+Honduras,Cortes,September,2025,5,0,0,5,6.0,2.0,0.0,4.0,1760036046
+Honduras,Cortes,October,2025,7,2,0,5,4.0,0.0,0.0,4.0,1762435626
+Honduras,Cortes,November,2025,6,1,0,5,6.0,3.0,0.0,3.0,1765375966
+Honduras,Cortes,December,2025,6,2,0,4,,,,,1765375966
+Honduras,El Paraiso,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Honduras,El Paraiso,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Honduras,El Paraiso,August,2025,0,0,0,0,2.0,1.0,0.0,1.0,1757596698
+Honduras,El Paraiso,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Honduras,El Paraiso,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Honduras,El Paraiso,November,2025,1,0,0,1,2.0,0.0,0.0,2.0,1765375966
+Honduras,El Paraiso,December,2025,2,0,0,2,,,,,1765375966
+Honduras,Francisco Morazan,June,2025,8,2,0,6,10.0,1.0,0.0,9.0,1754429217
+Honduras,Francisco Morazan,July,2025,9,1,0,8,11.0,0.0,0.0,11.0,1754429217
+Honduras,Francisco Morazan,August,2025,9,0,0,9,10.0,0.0,0.0,10.0,1757596698
+Honduras,Francisco Morazan,September,2025,10,0,0,10,10.0,0.0,0.0,10.0,1760036046
+Honduras,Francisco Morazan,October,2025,10,1,0,9,15.0,2.0,0.0,13.0,1762435626
+Honduras,Francisco Morazan,November,2025,11,1,0,10,12.0,0.0,0.0,12.0,1765375966
+Honduras,Francisco Morazan,December,2025,13,1,0,12,,,,,1765375966
+Honduras,Gracias a Dios,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Gracias a Dios,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Honduras,Gracias a Dios,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Honduras,Gracias a Dios,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Honduras,Gracias a Dios,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Honduras,Gracias a Dios,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Honduras,Gracias a Dios,December,2025,0,0,0,0,,,,,1765375966
+Honduras,Intibuca,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Intibuca,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Intibuca,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Honduras,Intibuca,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Honduras,Intibuca,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Honduras,Intibuca,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Honduras,Intibuca,December,2025,0,0,0,0,,,,,1765375966
+Honduras,La Paz,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,La Paz,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,La Paz,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Honduras,La Paz,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Honduras,La Paz,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Honduras,La Paz,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Honduras,La Paz,December,2025,0,0,0,0,,,,,1765375966
+Honduras,Lempira,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Honduras,Lempira,July,2025,1,0,0,1,2.0,0.0,0.0,2.0,1754429217
+Honduras,Lempira,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Honduras,Lempira,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Honduras,Lempira,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Honduras,Lempira,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Honduras,Lempira,December,2025,0,0,0,0,,,,,1765375966
+Honduras,Ocotepeque,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Ocotepeque,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Ocotepeque,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Honduras,Ocotepeque,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Honduras,Ocotepeque,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Honduras,Ocotepeque,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Honduras,Ocotepeque,December,2025,0,0,0,0,,,,,1765375966
+Honduras,Olancho,June,2025,2,0,0,2,5.0,1.0,0.0,4.0,1754429217
+Honduras,Olancho,July,2025,4,0,0,4,1.0,0.0,0.0,1.0,1754429217
+Honduras,Olancho,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+Honduras,Olancho,September,2025,2,0,0,2,4.0,0.0,0.0,4.0,1760036046
+Honduras,Olancho,October,2025,3,0,0,3,5.0,1.0,0.0,4.0,1762435626
+Honduras,Olancho,November,2025,3,0,0,3,6.0,1.0,0.0,5.0,1765375966
+Honduras,Olancho,December,2025,6,1,0,5,,,,,1765375966
+Honduras,Santa Barbara,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Honduras,Santa Barbara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Santa Barbara,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Honduras,Santa Barbara,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Honduras,Santa Barbara,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Honduras,Santa Barbara,November,2025,2,0,0,2,1.0,0.0,0.0,1.0,1765375966
+Honduras,Santa Barbara,December,2025,1,0,0,1,,,,,1765375966
+Honduras,Valle,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Honduras,Valle,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Honduras,Valle,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Honduras,Valle,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Honduras,Valle,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Honduras,Valle,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Honduras,Valle,December,2025,2,0,0,2,,,,,1765375966
+Honduras,Yoro,June,2025,1,0,0,1,4.0,0.0,0.0,4.0,1754429217
+Honduras,Yoro,July,2025,3,0,0,3,2.0,1.0,0.0,1.0,1754429217
+Honduras,Yoro,August,2025,4,1,0,3,1.0,0.0,0.0,1.0,1757596698
+Honduras,Yoro,September,2025,1,0,0,1,3.0,0.0,0.0,3.0,1760036046
+Honduras,Yoro,October,2025,3,0,0,3,3.0,0.0,0.0,3.0,1762435626
+Honduras,Yoro,November,2025,3,0,0,3,4.0,1.0,0.0,3.0,1765375966
+Honduras,Yoro,December,2025,3,0,0,3,,,,,1765375966
+Honduras,Atlantida,January,2026,0,0,0,0,,,,,1765375966
+Honduras,Bay Islands,January,2026,0,0,0,0,,,,,1765375966
+Honduras,Choluteca,January,2026,2,0,0,2,,,,,1765375966
+Honduras,Colon,January,2026,2,0,0,2,,,,,1765375966
+Honduras,Comayagua,January,2026,0,0,0,0,,,,,1765375966
+Honduras,Copan,January,2026,2,0,0,2,,,,,1765375966
+Honduras,Cortes,January,2026,6,2,0,4,,,,,1765375966
+Honduras,El Paraiso,January,2026,2,0,0,2,,,,,1765375966
+Honduras,Francisco Morazan,January,2026,12,1,0,11,,,,,1765375966
+Honduras,Gracias a Dios,January,2026,0,0,0,0,,,,,1765375966
+Honduras,Intibuca,January,2026,0,0,0,0,,,,,1765375966
+Honduras,La Paz,January,2026,0,0,0,0,,,,,1765375966
+Honduras,Lempira,January,2026,0,0,0,0,,,,,1765375966
+Honduras,Ocotepeque,January,2026,0,0,0,0,,,,,1765375966
+Honduras,Olancho,January,2026,5,1,0,4,,,,,1765375966
+Honduras,Santa Barbara,January,2026,1,0,0,1,,,,,1765375966
+Honduras,Valle,January,2026,1,0,0,1,,,,,1765375966
+Honduras,Yoro,January,2026,3,0,0,3,,,,,1765375966
+Honduras,Atlantida,February,2026,0,0,0,0,,,,,1765375966
+Honduras,Bay Islands,February,2026,0,0,0,0,,,,,1765375966
+Honduras,Choluteca,February,2026,2,0,0,2,,,,,1765375966
+Honduras,Colon,February,2026,2,0,0,2,,,,,1765375966
+Honduras,Comayagua,February,2026,0,0,0,0,,,,,1765375966
+Honduras,Copan,February,2026,1,0,0,1,,,,,1765375966
+Honduras,Cortes,February,2026,6,2,0,4,,,,,1765375966
+Honduras,El Paraiso,February,2026,2,0,0,2,,,,,1765375966
+Honduras,Francisco Morazan,February,2026,12,1,0,11,,,,,1765375966
+Honduras,Gracias a Dios,February,2026,0,0,0,0,,,,,1765375966
+Honduras,Intibuca,February,2026,0,0,0,0,,,,,1765375966
+Honduras,La Paz,February,2026,0,0,0,0,,,,,1765375966
+Honduras,Lempira,February,2026,0,0,0,0,,,,,1765375966
+Honduras,Ocotepeque,February,2026,0,0,0,0,,,,,1765375966
+Honduras,Olancho,February,2026,5,1,0,4,,,,,1765375966
+Honduras,Santa Barbara,February,2026,1,0,0,1,,,,,1765375966
+Honduras,Valle,February,2026,1,0,0,1,,,,,1765375966
+Honduras,Yoro,February,2026,3,0,0,3,,,,,1765375966
+Honduras,Atlantida,March,2026,0,0,0,0,,,,,1765375966
+Honduras,Bay Islands,March,2026,0,0,0,0,,,,,1765375966
+Honduras,Choluteca,March,2026,2,0,0,2,,,,,1765375966
+Honduras,Colon,March,2026,2,0,0,2,,,,,1765375966
+Honduras,Comayagua,March,2026,0,0,0,0,,,,,1765375966
+Honduras,Copan,March,2026,1,0,0,1,,,,,1765375966
+Honduras,Cortes,March,2026,6,2,0,4,,,,,1765375966
+Honduras,El Paraiso,March,2026,2,0,0,2,,,,,1765375966
+Honduras,Francisco Morazan,March,2026,12,1,0,11,,,,,1765375966
+Honduras,Gracias a Dios,March,2026,0,0,0,0,,,,,1765375966
+Honduras,Intibuca,March,2026,0,0,0,0,,,,,1765375966
+Honduras,La Paz,March,2026,0,0,0,0,,,,,1765375966
+Honduras,Lempira,March,2026,0,0,0,0,,,,,1765375966
+Honduras,Ocotepeque,March,2026,0,0,0,0,,,,,1765375966
+Honduras,Olancho,March,2026,5,1,0,4,,,,,1765375966
+Honduras,Santa Barbara,March,2026,1,0,0,1,,,,,1765375966
+Honduras,Valle,March,2026,1,0,0,1,,,,,1765375966
+Honduras,Yoro,March,2026,3,0,0,3,,,,,1765375966
+Honduras,Atlantida,April,2026,0,0,0,0,,,,,1765375966
+Honduras,Bay Islands,April,2026,0,0,0,0,,,,,1765375966
+Honduras,Choluteca,April,2026,2,0,0,2,,,,,1765375966
+Honduras,Colon,April,2026,3,0,0,3,,,,,1765375966
+Honduras,Comayagua,April,2026,0,0,0,0,,,,,1765375966
+Honduras,Copan,April,2026,2,0,0,2,,,,,1765375966
+Honduras,Cortes,April,2026,6,2,0,4,,,,,1765375966
+Honduras,El Paraiso,April,2026,2,0,0,2,,,,,1765375966
+Honduras,Francisco Morazan,April,2026,12,1,0,11,,,,,1765375966
+Honduras,Gracias a Dios,April,2026,0,0,0,0,,,,,1765375966
+Honduras,Intibuca,April,2026,0,0,0,0,,,,,1765375966
+Honduras,La Paz,April,2026,0,0,0,0,,,,,1765375966
+Honduras,Lempira,April,2026,0,0,0,0,,,,,1765375966
+Honduras,Ocotepeque,April,2026,0,0,0,0,,,,,1765375966
+Honduras,Olancho,April,2026,5,1,0,4,,,,,1765375966
+Honduras,Santa Barbara,April,2026,1,0,0,1,,,,,1765375966
+Honduras,Valle,April,2026,1,0,0,1,,,,,1765375966
+Honduras,Yoro,April,2026,3,0,0,3,,,,,1765375966
+Honduras,Atlantida,May,2026,0,0,0,0,,,,,1765375966
+Honduras,Bay Islands,May,2026,0,0,0,0,,,,,1765375966
+Honduras,Choluteca,May,2026,2,0,0,2,,,,,1765375966
+Honduras,Colon,May,2026,3,0,0,3,,,,,1765375966
+Honduras,Comayagua,May,2026,0,0,0,0,,,,,1765375966
+Honduras,Copan,May,2026,2,0,0,2,,,,,1765375966
+Honduras,Cortes,May,2026,7,2,0,5,,,,,1765375966
+Honduras,El Paraiso,May,2026,2,0,0,2,,,,,1765375966
+Honduras,Francisco Morazan,May,2026,12,1,0,11,,,,,1765375966
+Honduras,Gracias a Dios,May,2026,0,0,0,0,,,,,1765375966
+Honduras,Intibuca,May,2026,0,0,0,0,,,,,1765375966
+Honduras,La Paz,May,2026,0,0,0,0,,,,,1765375966
+Honduras,Lempira,May,2026,0,0,0,0,,,,,1765375966
+Honduras,Ocotepeque,May,2026,0,0,0,0,,,,,1765375966
+Honduras,Olancho,May,2026,5,1,0,4,,,,,1765375966
+Honduras,Santa Barbara,May,2026,1,0,0,1,,,,,1765375966
+Honduras,Valle,May,2026,1,0,0,1,,,,,1765375966
+Honduras,Yoro,May,2026,3,0,0,3,,,,,1765375966

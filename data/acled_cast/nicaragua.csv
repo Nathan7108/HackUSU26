@@ -1,0 +1,664 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Nicaragua,Boaco,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Boaco,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nicaragua,Carazo,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Carazo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,May,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chinandega,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Chontales,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,March,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141064
+Nicaragua,Costa Caribe Norte,April,2023,2,0,0,2,2.0,1.0,0.0,1.0,1726141064
+Nicaragua,Costa Caribe Norte,May,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Nicaragua,Costa Caribe Norte,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,January,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,February,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nicaragua,Costa Caribe Norte,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Norte,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Nicaragua,Costa Caribe Norte,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Nicaragua,Costa Caribe Sur,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Costa Caribe Sur,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Costa Caribe Sur,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Costa Caribe Sur,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Costa Caribe Sur,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Costa Caribe Sur,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Costa Caribe Sur,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Costa Caribe Sur,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Esteli,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141065
+Nicaragua,Esteli,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Granada,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141065
+Nicaragua,Jinotega,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,May,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Jinotega,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Leon,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Madriz,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141065
+Nicaragua,Managua,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Managua,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Masaya,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141065
+Nicaragua,Matagalpa,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Nueva Segovia,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rio San Juan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Rivas,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141065
+Nicaragua,Boaco,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Carazo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Chinandega,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Chontales,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Costa Caribe Norte,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Costa Caribe Sur,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Esteli,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Granada,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Jinotega,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Leon,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Madriz,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Managua,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Masaya,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Matagalpa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Nueva Segovia,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Rio San Juan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Rivas,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730997
+Nicaragua,Boaco,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Boaco,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Carazo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Carazo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Chinandega,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Chinandega,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Chontales,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Chontales,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Costa Caribe Norte,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Costa Caribe Norte,November,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010296
+Nicaragua,Costa Caribe Sur,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Costa Caribe Sur,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Esteli,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Esteli,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Granada,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Granada,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Jinotega,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Jinotega,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010296
+Nicaragua,Leon,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Leon,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Madriz,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Madriz,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Managua,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Managua,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Masaya,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Masaya,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Nicaragua,Matagalpa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010297
+Nicaragua,Matagalpa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010297
+Nicaragua,Nueva Segovia,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010297
+Nicaragua,Nueva Segovia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010297
+Nicaragua,Rio San Juan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010297
+Nicaragua,Rio San Juan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010297
+Nicaragua,Rivas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010297
+Nicaragua,Rivas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010297
+Nicaragua,Boaco,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Carazo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Chinandega,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Chontales,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Costa Caribe Norte,December,2024,2,1,0,1,1.0,0.0,0.0,1.0,1737033359
+Nicaragua,Costa Caribe Sur,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Esteli,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Granada,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Jinotega,December,2024,2,1,0,1,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Leon,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Madriz,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Managua,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Masaya,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Matagalpa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Nueva Segovia,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Rio San Juan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Rivas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033359
+Nicaragua,Boaco,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Carazo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Chinandega,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Chontales,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Costa Caribe Norte,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Costa Caribe Sur,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Esteli,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Granada,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Jinotega,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Leon,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Madriz,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Managua,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Masaya,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Matagalpa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Nueva Segovia,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Rio San Juan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Rivas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Nicaragua,Boaco,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Carazo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Chinandega,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Chontales,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Costa Caribe Norte,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Costa Caribe Sur,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Esteli,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Granada,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Jinotega,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266631
+Nicaragua,Leon,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Madriz,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Managua,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Masaya,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Matagalpa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Nueva Segovia,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Rio San Juan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Nicaragua,Rivas,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266632
+Nicaragua,Boaco,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Carazo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Chinandega,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Chontales,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Costa Caribe Norte,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Costa Caribe Sur,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Esteli,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Granada,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Jinotega,March,2025,1,0,0,1,1.0,0.0,0.0,1.0,1744287546
+Nicaragua,Leon,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Madriz,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Managua,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Masaya,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Matagalpa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Nueva Segovia,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Rio San Juan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Rivas,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Nicaragua,Boaco,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Carazo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Chinandega,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Chontales,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Costa Caribe Norte,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702915
+Nicaragua,Costa Caribe Sur,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Esteli,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Granada,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Jinotega,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Leon,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Madriz,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Managua,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Nicaragua,Masaya,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Nicaragua,Matagalpa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Nicaragua,Nueva Segovia,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Nicaragua,Rio San Juan,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702916
+Nicaragua,Rivas,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Nicaragua,Boaco,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Carazo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Chinandega,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Chontales,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Costa Caribe Norte,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Costa Caribe Sur,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Esteli,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Granada,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Jinotega,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Nicaragua,Leon,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732021
+Nicaragua,Madriz,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732021
+Nicaragua,Managua,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732021
+Nicaragua,Masaya,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732021
+Nicaragua,Matagalpa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732021
+Nicaragua,Nueva Segovia,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732021
+Nicaragua,Rio San Juan,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732021
+Nicaragua,Rivas,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732021
+Nicaragua,Boaco,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Boaco,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Boaco,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Boaco,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Boaco,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Boaco,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Boaco,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Carazo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Carazo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Carazo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Carazo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Carazo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Carazo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Carazo,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Chinandega,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Chinandega,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Nicaragua,Chinandega,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Chinandega,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Chinandega,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Chinandega,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Chinandega,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Chontales,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Chontales,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Chontales,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Chontales,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Chontales,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Chontales,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Chontales,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Costa Caribe Norte,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Costa Caribe Norte,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Costa Caribe Norte,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Costa Caribe Norte,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Nicaragua,Costa Caribe Norte,October,2025,2,0,0,2,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Costa Caribe Norte,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Nicaragua,Costa Caribe Norte,December,2025,1,0,0,1,,,,,1765375966
+Nicaragua,Costa Caribe Sur,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Costa Caribe Sur,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Costa Caribe Sur,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Costa Caribe Sur,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Nicaragua,Costa Caribe Sur,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Costa Caribe Sur,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Costa Caribe Sur,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Esteli,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Esteli,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Esteli,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Esteli,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Esteli,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Esteli,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Esteli,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Granada,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Granada,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Granada,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Granada,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Granada,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Granada,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Granada,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Jinotega,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Jinotega,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Jinotega,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Jinotega,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Jinotega,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Jinotega,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Jinotega,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Leon,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Leon,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Leon,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Leon,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Leon,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Leon,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Leon,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Madriz,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Madriz,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Madriz,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Madriz,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Madriz,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Madriz,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Madriz,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Managua,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Managua,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Managua,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Managua,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Managua,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Managua,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Managua,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Masaya,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Masaya,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Masaya,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Masaya,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Masaya,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Masaya,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Masaya,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Matagalpa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Matagalpa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Matagalpa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Matagalpa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Matagalpa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Matagalpa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Matagalpa,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Nueva Segovia,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Nueva Segovia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Nueva Segovia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Nueva Segovia,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Nueva Segovia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Nueva Segovia,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Nueva Segovia,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Rio San Juan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Rio San Juan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Rio San Juan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Rio San Juan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Rio San Juan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Rio San Juan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Rio San Juan,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Rivas,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Rivas,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Nicaragua,Rivas,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Nicaragua,Rivas,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Nicaragua,Rivas,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Nicaragua,Rivas,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Nicaragua,Rivas,December,2025,0,0,0,0,,,,,1765375966
+Nicaragua,Boaco,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Carazo,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chinandega,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chontales,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Costa Caribe Norte,January,2026,1,0,0,1,,,,,1765375966
+Nicaragua,Costa Caribe Sur,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Esteli,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Granada,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Jinotega,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Leon,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Madriz,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Managua,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Masaya,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Matagalpa,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Nueva Segovia,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rio San Juan,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rivas,January,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Boaco,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Carazo,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chinandega,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chontales,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Costa Caribe Norte,February,2026,1,0,0,1,,,,,1765375966
+Nicaragua,Costa Caribe Sur,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Esteli,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Granada,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Jinotega,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Leon,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Madriz,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Managua,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Masaya,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Matagalpa,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Nueva Segovia,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rio San Juan,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rivas,February,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Boaco,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Carazo,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chinandega,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chontales,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Costa Caribe Norte,March,2026,1,0,0,1,,,,,1765375966
+Nicaragua,Costa Caribe Sur,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Esteli,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Granada,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Jinotega,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Leon,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Madriz,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Managua,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Masaya,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Matagalpa,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Nueva Segovia,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rio San Juan,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rivas,March,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Boaco,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Carazo,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chinandega,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chontales,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Costa Caribe Norte,April,2026,1,0,0,1,,,,,1765375966
+Nicaragua,Costa Caribe Sur,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Esteli,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Granada,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Jinotega,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Leon,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Madriz,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Managua,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Masaya,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Matagalpa,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Nueva Segovia,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rio San Juan,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rivas,April,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Boaco,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Carazo,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chinandega,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Chontales,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Costa Caribe Norte,May,2026,1,0,0,1,,,,,1765375966
+Nicaragua,Costa Caribe Sur,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Esteli,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Granada,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Jinotega,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Leon,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Madriz,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Managua,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Masaya,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Matagalpa,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Nueva Segovia,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rio San Juan,May,2026,0,0,0,0,,,,,1765375966
+Nicaragua,Rivas,May,2026,0,0,0,0,,,,,1765375966

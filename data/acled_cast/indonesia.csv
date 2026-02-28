@@ -1,0 +1,1483 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Indonesia,Aceh,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,March,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141040
+Indonesia,Aceh,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Aceh,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bali,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141040
+Indonesia,Bangka-Belitung,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bangka-Belitung,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141040
+Indonesia,Banten,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Banten,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141040
+Indonesia,Bengkulu,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Bengkulu,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Bengkulu,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,May,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141041
+Indonesia,Central Java,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Central Java,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Central Java,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Central Java,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Central Java,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Java,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Kalimantan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Papua,March,2023,2,1,0,1,5.0,1.0,0.0,4.0,1726141041
+Indonesia,Central Papua,April,2023,2,1,0,1,12.0,8.0,0.0,4.0,1726141041
+Indonesia,Central Papua,May,2023,7,3,0,4,3.0,2.0,0.0,1.0,1726141041
+Indonesia,Central Papua,June,2023,4,2,0,2,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Central Papua,July,2023,1,0,0,1,7.0,3.0,0.0,4.0,1726141041
+Indonesia,Central Papua,August,2023,6,3,0,3,20.0,10.0,0.0,10.0,1726141041
+Indonesia,Central Papua,September,2023,16,10,0,6,3.0,2.0,0.0,1.0,1726141041
+Indonesia,Central Papua,October,2023,6,3,0,3,3.0,1.0,0.0,2.0,1726141041
+Indonesia,Central Papua,November,2023,4,2,0,2,9.0,4.0,0.0,5.0,1726141041
+Indonesia,Central Papua,December,2023,8,4,0,4,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Papua,January,2024,2,0,0,2,7.0,7.0,0.0,0.0,1726141041
+Indonesia,Central Papua,February,2024,8,7,0,1,12.0,4.0,0.0,8.0,1726141041
+Indonesia,Central Papua,March,2024,12,4,0,8,7.0,5.0,0.0,2.0,1726141041
+Indonesia,Central Papua,April,2024,9,6,0,3,7.0,4.0,0.0,3.0,1726141041
+Indonesia,Central Papua,May,2024,7,4,0,3,13.0,7.0,2.0,4.0,1726141041
+Indonesia,Central Papua,June,2024,13,7,2,4,11.0,5.0,0.0,6.0,1726141041
+Indonesia,Central Papua,July,2024,11,5,0,6,9.0,7.0,0.0,2.0,1726141041
+Indonesia,Central Papua,August,2024,10,7,0,3,7.0,4.0,0.0,3.0,1726141041
+Indonesia,Central Sulawesi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Central Sulawesi,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Central Sulawesi,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Java,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141041
+Indonesia,East Java,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Java,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Java,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Java,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Java,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Java,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Java,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Kalimantan,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Kalimantan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Nusa Tenggara,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,East Nusa Tenggara,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,East Nusa Tenggara,August,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141041
+Indonesia,Gorontalo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Gorontalo,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Gorontalo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Highland Papua,March,2023,3,1,0,2,4.0,2.0,0.0,2.0,1726141041
+Indonesia,Highland Papua,April,2023,2,1,0,1,10.0,2.0,0.0,8.0,1726141041
+Indonesia,Highland Papua,May,2023,8,1,0,7,4.0,2.0,0.0,2.0,1726141041
+Indonesia,Highland Papua,June,2023,4,2,0,2,2.0,2.0,0.0,0.0,1726141041
+Indonesia,Highland Papua,July,2023,3,2,0,1,2.0,1.0,0.0,1.0,1726141041
+Indonesia,Highland Papua,August,2023,2,1,0,1,8.0,3.0,0.0,5.0,1726141041
+Indonesia,Highland Papua,September,2023,7,3,0,4,13.0,6.0,0.0,7.0,1726141041
+Indonesia,Highland Papua,October,2023,9,5,0,4,5.0,2.0,0.0,3.0,1726141041
+Indonesia,Highland Papua,November,2023,6,3,0,3,2.0,2.0,0.0,0.0,1726141041
+Indonesia,Highland Papua,December,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Highland Papua,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Highland Papua,February,2024,0,0,0,0,5.0,2.0,0.0,3.0,1726141041
+Indonesia,Highland Papua,March,2024,5,2,0,3,5.0,1.0,3.0,1.0,1726141041
+Indonesia,Highland Papua,April,2024,5,2,1,2,6.0,3.0,0.0,3.0,1726141041
+Indonesia,Highland Papua,May,2024,6,3,0,3,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Highland Papua,June,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141041
+Indonesia,Highland Papua,July,2024,5,1,0,4,2.0,1.0,0.0,1.0,1726141041
+Indonesia,Highland Papua,August,2024,3,1,0,2,4.0,1.0,0.0,3.0,1726141041
+Indonesia,Jakarta,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141041
+Indonesia,Jakarta,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Jakarta,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Jakarta,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Jakarta,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jakarta,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Jambi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141041
+Indonesia,Jambi,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Jambi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,April,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141041
+Indonesia,Lampung,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Lampung,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Lampung,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Maluku,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Maluku,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Maluku,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Maluku,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141041
+Indonesia,Maluku,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141041
+Indonesia,Maluku,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141041
+Indonesia,North Kalimantan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Kalimantan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,North Maluku,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Maluku,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,North Sulawesi,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sulawesi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,North Sumatra,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,North Sumatra,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,North Sumatra,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,North Sumatra,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,North Sumatra,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,Papua,March,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141042
+Indonesia,Papua,April,2023,1,0,0,1,8.0,0.0,0.0,8.0,1726141042
+Indonesia,Papua,May,2023,8,1,0,7,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141042
+Indonesia,Papua,July,2023,1,1,0,0,5.0,1.0,0.0,4.0,1726141042
+Indonesia,Papua,August,2023,4,1,0,3,3.0,0.0,0.0,3.0,1726141042
+Indonesia,Papua,September,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Papua,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,Papua,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,Riau,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Riau Islands,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,South Kalimantan,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,February,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141042
+Indonesia,South Kalimantan,March,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Kalimantan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Papua,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,South Sulawesi,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,South Sulawesi,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sulawesi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,South Sumatra,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,South Sumatra,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,Southeast Sulawesi,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,Southeast Sulawesi,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,Southeast Sulawesi,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,April,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141042
+Indonesia,Southeast Sulawesi,May,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southeast Sulawesi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,December,2023,0,0,0,0,5.0,5.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,January,2024,6,5,0,1,1.0,1.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,February,2024,1,1,0,0,1.0,1.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,March,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,June,2024,1,1,0,0,1.0,1.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,July,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,Southwest Papua,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,West Java,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,West Java,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,West Java,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,West Java,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,West Java,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,West Java,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141042
+Indonesia,West Java,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,West Java,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141042
+Indonesia,West Java,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141042
+Indonesia,West Java,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141042
+Indonesia,West Java,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141042
+Indonesia,West Java,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Java,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Java,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Java,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Java,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Java,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Java,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141043
+Indonesia,West Kalimantan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141043
+Indonesia,West Kalimantan,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Kalimantan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Nusa Tenggara,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141043
+Indonesia,West Papua,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141043
+Indonesia,West Papua,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141043
+Indonesia,West Papua,September,2023,1,0,0,1,3.0,3.0,0.0,0.0,1726141043
+Indonesia,West Papua,October,2023,5,3,0,2,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Papua,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141043
+Indonesia,West Papua,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sulawesi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141043
+Indonesia,West Sumatra,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141043
+Indonesia,West Sumatra,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Yogyakarta,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141043
+Indonesia,Aceh,September,2024,0,0,0,0,2.0,0.0,1.0,1.0,1730730989
+Indonesia,Bali,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Bangka-Belitung,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Banten,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Bengkulu,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Central Java,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Central Kalimantan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Central Papua,September,2024,7,4,0,3,8.0,2.0,0.0,6.0,1730730989
+Indonesia,Central Sulawesi,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730989
+Indonesia,East Java,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,East Kalimantan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,East Nusa Tenggara,September,2024,2,0,0,2,1.0,0.0,0.0,1.0,1730730989
+Indonesia,Gorontalo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Highland Papua,September,2024,4,1,0,3,3.0,1.0,1.0,1.0,1730730989
+Indonesia,Jakarta,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Jambi,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730989
+Indonesia,Lampung,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Maluku,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,North Kalimantan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,North Maluku,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,North Sulawesi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,North Sumatra,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Papua,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Riau,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,Riau Islands,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,South Kalimantan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,South Papua,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730989
+Indonesia,South Sulawesi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+Indonesia,South Sumatra,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+Indonesia,Southeast Sulawesi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+Indonesia,Southwest Papua,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730990
+Indonesia,West Java,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730990
+Indonesia,West Kalimantan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+Indonesia,West Nusa Tenggara,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+Indonesia,West Papua,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+Indonesia,West Sulawesi,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730990
+Indonesia,West Sumatra,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+Indonesia,Yogyakarta,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730990
+Indonesia,Aceh,October,2024,2,0,1,1,1.0,0.0,0.0,1.0,1734010284
+Indonesia,Aceh,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Bali,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Bali,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Bangka-Belitung,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Bangka-Belitung,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010284
+Indonesia,Banten,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Banten,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Bengkulu,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Bengkulu,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Central Java,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Central Java,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010284
+Indonesia,Central Kalimantan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Central Kalimantan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Central Papua,October,2024,7,2,0,5,11.0,3.0,0.0,8.0,1734010284
+Indonesia,Central Papua,November,2024,10,3,0,7,7.0,1.0,0.0,6.0,1734010284
+Indonesia,Central Sulawesi,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Central Sulawesi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,East Java,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,East Java,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,East Kalimantan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,East Kalimantan,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010284
+Indonesia,East Nusa Tenggara,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010284
+Indonesia,East Nusa Tenggara,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Gorontalo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Gorontalo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Highland Papua,October,2024,3,1,1,1,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Highland Papua,November,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010284
+Indonesia,Jakarta,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Jakarta,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Jambi,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010284
+Indonesia,Jambi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Lampung,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Lampung,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Maluku,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Maluku,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,North Kalimantan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,North Kalimantan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,North Maluku,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,North Maluku,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,North Sulawesi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,North Sulawesi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,North Sumatra,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,North Sumatra,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010285
+Indonesia,Papua,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010285
+Indonesia,Papua,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Riau,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Riau,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Riau Islands,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Riau Islands,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,South Kalimantan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,South Kalimantan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,South Papua,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,South Papua,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,South Sulawesi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,South Sulawesi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,South Sumatra,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010285
+Indonesia,South Sumatra,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Southeast Sulawesi,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010285
+Indonesia,Southeast Sulawesi,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Southwest Papua,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Southwest Papua,November,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010285
+Indonesia,West Java,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Java,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Kalimantan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Kalimantan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Nusa Tenggara,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Nusa Tenggara,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Papua,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Papua,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Sulawesi,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Sulawesi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Sumatra,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,West Sumatra,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Yogyakarta,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Yogyakarta,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010285
+Indonesia,Aceh,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Bali,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Bangka-Belitung,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Banten,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Bengkulu,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Central Java,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Central Kalimantan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Central Papua,December,2024,7,1,0,6,13.0,7.0,0.0,6.0,1737033347
+Indonesia,Central Sulawesi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,East Java,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,East Kalimantan,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033347
+Indonesia,East Nusa Tenggara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Gorontalo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Highland Papua,December,2024,2,1,0,1,4.0,2.0,0.0,2.0,1737033347
+Indonesia,Jakarta,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033347
+Indonesia,Jambi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Lampung,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Maluku,December,2024,0,0,0,0,2.0,0.0,0.0,2.0,1737033347
+Indonesia,North Kalimantan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,North Maluku,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,North Sulawesi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,North Sumatra,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033347
+Indonesia,Papua,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033347
+Indonesia,Riau,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,Riau Islands,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033348
+Indonesia,South Kalimantan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,South Papua,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,South Sulawesi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,South Sumatra,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,Southeast Sulawesi,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033348
+Indonesia,Southwest Papua,December,2024,2,1,0,1,2.0,0.0,0.0,2.0,1737033348
+Indonesia,West Java,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,West Kalimantan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,West Nusa Tenggara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,West Papua,December,2024,0,0,0,0,3.0,2.0,0.0,1.0,1737033348
+Indonesia,West Sulawesi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,West Sumatra,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,Yogyakarta,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033348
+Indonesia,Aceh,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Bali,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Bangka-Belitung,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Banten,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Bengkulu,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Central Java,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Central Kalimantan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Central Papua,January,2025,12,6,0,6,1.0,1.0,0.0,0.0,1738854852
+Indonesia,Central Sulawesi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,East Java,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,East Kalimantan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,East Nusa Tenggara,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854852
+Indonesia,Gorontalo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Highland Papua,January,2025,3,1,0,2,3.0,1.0,0.0,2.0,1738854852
+Indonesia,Jakarta,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Jambi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Lampung,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Maluku,January,2025,2,0,0,2,0.0,0.0,0.0,0.0,1738854852
+Indonesia,North Kalimantan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,North Maluku,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,North Sulawesi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,North Sumatra,January,2025,1,0,0,1,1.0,0.0,0.0,1.0,1738854852
+Indonesia,Papua,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Riau,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,Riau Islands,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854852
+Indonesia,South Kalimantan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,South Papua,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854852
+Indonesia,South Sulawesi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+Indonesia,South Sumatra,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+Indonesia,Southeast Sulawesi,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854853
+Indonesia,Southwest Papua,January,2025,2,0,0,2,0.0,0.0,0.0,0.0,1738854853
+Indonesia,West Java,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+Indonesia,West Kalimantan,January,2025,0,0,0,0,1.0,0.0,1.0,0.0,1738854853
+Indonesia,West Nusa Tenggara,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+Indonesia,West Papua,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854853
+Indonesia,West Sulawesi,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854853
+Indonesia,West Sumatra,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+Indonesia,Yogyakarta,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854853
+Indonesia,Aceh,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266622
+Indonesia,Bali,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Bangka-Belitung,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Banten,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Bengkulu,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Central Java,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Central Kalimantan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Central Papua,February,2025,4,2,0,2,8.0,4.0,0.0,4.0,1741266622
+Indonesia,Central Sulawesi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,East Java,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,East Kalimantan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,East Nusa Tenggara,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Gorontalo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Highland Papua,February,2025,3,1,0,2,2.0,2.0,0.0,0.0,1741266622
+Indonesia,Jakarta,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Jambi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Lampung,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,Maluku,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266622
+Indonesia,North Kalimantan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,North Maluku,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,North Sulawesi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,North Sumatra,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266623
+Indonesia,Papua,February,2025,0,0,0,0,2.0,0.0,0.0,2.0,1741266623
+Indonesia,Riau,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,Riau Islands,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,South Kalimantan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,South Papua,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266623
+Indonesia,South Sulawesi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,South Sumatra,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,Southeast Sulawesi,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266623
+Indonesia,Southwest Papua,February,2025,0,0,0,0,2.0,0.0,0.0,2.0,1741266623
+Indonesia,West Java,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,West Kalimantan,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266623
+Indonesia,West Nusa Tenggara,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,West Papua,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266623
+Indonesia,West Sulawesi,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266623
+Indonesia,West Sumatra,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,Yogyakarta,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266623
+Indonesia,Aceh,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Bali,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Bangka-Belitung,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Banten,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Bengkulu,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Central Java,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Central Kalimantan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Central Papua,March,2025,6,3,0,3,8.0,2.0,0.0,6.0,1744287543
+Indonesia,Central Sulawesi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,East Java,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Indonesia,East Kalimantan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,East Nusa Tenggara,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Gorontalo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Highland Papua,March,2025,3,2,0,1,3.0,0.0,0.0,3.0,1744287543
+Indonesia,Jakarta,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Jambi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Lampung,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Maluku,March,2025,0,0,0,0,1.0,0.0,1.0,0.0,1744287543
+Indonesia,North Kalimantan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,North Maluku,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,North Sulawesi,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Indonesia,North Sumatra,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Indonesia,Papua,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Riau,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Riau Islands,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Indonesia,South Kalimantan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,South Papua,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Indonesia,South Sulawesi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,South Sumatra,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Southeast Sulawesi,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Southwest Papua,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Indonesia,West Java,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,West Kalimantan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,West Nusa Tenggara,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,West Papua,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Indonesia,West Sulawesi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,West Sumatra,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Yogyakarta,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Indonesia,Aceh,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Bali,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Bangka-Belitung,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Banten,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Bengkulu,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Central Java,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702913
+Indonesia,Central Kalimantan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Central Papua,April,2025,8,3,0,5,6.0,3.0,1.0,2.0,1746702913
+Indonesia,Central Sulawesi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,East Java,April,2025,1,0,0,1,3.0,0.0,0.0,3.0,1746702913
+Indonesia,East Kalimantan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,East Nusa Tenggara,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Gorontalo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Highland Papua,April,2025,4,1,0,3,11.0,1.0,0.0,10.0,1746702913
+Indonesia,Jakarta,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Jambi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Lampung,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Maluku,April,2025,1,0,1,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,North Kalimantan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,North Maluku,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,North Sulawesi,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+Indonesia,North Sumatra,April,2025,1,0,0,1,2.0,0.0,0.0,2.0,1746702913
+Indonesia,Papua,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Riau,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Riau Islands,April,2025,1,0,0,1,2.0,0.0,0.0,2.0,1746702913
+Indonesia,South Kalimantan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,South Papua,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,South Sulawesi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,South Sumatra,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Southeast Sulawesi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Southwest Papua,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702913
+Indonesia,West Java,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702913
+Indonesia,West Kalimantan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,West Nusa Tenggara,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,West Papua,April,2025,0,0,0,0,2.0,1.0,0.0,1.0,1746702913
+Indonesia,West Sulawesi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,West Sumatra,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Yogyakarta,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Indonesia,Aceh,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Indonesia,Bali,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Indonesia,Bangka-Belitung,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Indonesia,Banten,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Indonesia,Bengkulu,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Indonesia,Central Java,May,2025,2,0,0,2,1.0,0.0,0.0,1.0,1749732013
+Indonesia,Central Kalimantan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Indonesia,Central Papua,May,2025,7,3,1,3,35.0,26.0,5.0,4.0,1749732014
+Indonesia,Central Sulawesi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,East Java,May,2025,2,0,0,2,1.0,0.0,0.0,1.0,1749732014
+Indonesia,East Kalimantan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,East Nusa Tenggara,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Gorontalo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Highland Papua,May,2025,10,2,0,8,7.0,6.0,0.0,1.0,1749732014
+Indonesia,Jakarta,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Jambi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Lampung,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Maluku,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,North Kalimantan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,North Maluku,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,North Sulawesi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,North Sumatra,May,2025,2,0,0,2,1.0,0.0,0.0,1.0,1749732014
+Indonesia,Papua,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Riau,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Riau Islands,May,2025,2,0,0,2,0.0,0.0,0.0,0.0,1749732014
+Indonesia,South Kalimantan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,South Papua,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,South Sulawesi,May,2025,0,0,0,0,2.0,0.0,0.0,2.0,1749732014
+Indonesia,South Sumatra,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Southeast Sulawesi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Southwest Papua,May,2025,0,0,0,0,2.0,0.0,0.0,2.0,1749732014
+Indonesia,West Java,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732014
+Indonesia,West Kalimantan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,West Nusa Tenggara,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,West Papua,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732014
+Indonesia,West Sulawesi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,West Sumatra,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Yogyakarta,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732014
+Indonesia,Aceh,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Aceh,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Aceh,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Aceh,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Aceh,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Aceh,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Aceh,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Bali,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Bali,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Bali,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Bali,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Bali,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Bali,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Bali,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Bangka-Belitung,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Bangka-Belitung,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Bangka-Belitung,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Bangka-Belitung,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Bangka-Belitung,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Bangka-Belitung,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Bangka-Belitung,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Banten,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Banten,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Banten,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Indonesia,Banten,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Banten,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Banten,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Banten,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Bengkulu,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Bengkulu,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Bengkulu,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Bengkulu,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Bengkulu,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Bengkulu,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Bengkulu,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Central Java,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Central Java,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Central Java,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Central Java,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Central Java,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Central Java,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Central Java,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Central Kalimantan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Central Kalimantan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Central Kalimantan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Central Kalimantan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Central Kalimantan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Central Kalimantan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Central Kalimantan,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Central Papua,June,2025,32,24,4,4,12.0,4.0,0.0,8.0,1754429217
+Indonesia,Central Papua,July,2025,11,4,0,7,18.0,7.0,0.0,11.0,1754429217
+Indonesia,Central Papua,August,2025,18,7,1,10,16.0,10.0,2.0,4.0,1757596698
+Indonesia,Central Papua,September,2025,13,6,2,5,2.0,1.0,0.0,1.0,1760036046
+Indonesia,Central Papua,October,2025,6,5,0,1,9.0,3.0,0.0,6.0,1762435626
+Indonesia,Central Papua,November,2025,9,3,0,6,1.0,1.0,0.0,0.0,1765375966
+Indonesia,Central Papua,December,2025,4,2,0,2,,,,,1765375966
+Indonesia,Central Sulawesi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Central Sulawesi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Central Sulawesi,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Indonesia,Central Sulawesi,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Central Sulawesi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Central Sulawesi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Central Sulawesi,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,East Java,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Indonesia,East Java,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Indonesia,East Java,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,East Java,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,East Java,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Indonesia,East Java,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Indonesia,East Java,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,East Kalimantan,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Indonesia,East Kalimantan,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Indonesia,East Kalimantan,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Indonesia,East Kalimantan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,East Kalimantan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,East Kalimantan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,East Kalimantan,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,East Nusa Tenggara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,East Nusa Tenggara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,East Nusa Tenggara,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Indonesia,East Nusa Tenggara,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Indonesia,East Nusa Tenggara,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Indonesia,East Nusa Tenggara,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,East Nusa Tenggara,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Gorontalo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Gorontalo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Gorontalo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Gorontalo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Gorontalo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Gorontalo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Gorontalo,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Highland Papua,June,2025,8,6,0,2,17.0,11.0,0.0,6.0,1754429217
+Indonesia,Highland Papua,July,2025,13,8,0,5,9.0,3.0,0.0,6.0,1754429217
+Indonesia,Highland Papua,August,2025,9,3,0,6,7.0,3.0,0.0,4.0,1757596698
+Indonesia,Highland Papua,September,2025,9,4,0,5,8.0,4.0,0.0,4.0,1760036046
+Indonesia,Highland Papua,October,2025,8,4,0,4,18.0,8.0,4.0,6.0,1762435626
+Indonesia,Highland Papua,November,2025,16,7,3,6,7.0,1.0,1.0,5.0,1765375966
+Indonesia,Highland Papua,December,2025,7,1,1,5,,,,,1765375966
+Indonesia,Jakarta,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Jakarta,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Jakarta,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Jakarta,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Indonesia,Jakarta,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Jakarta,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Jakarta,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Jambi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Jambi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Jambi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Jambi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Jambi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Jambi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Jambi,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Lampung,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Lampung,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Lampung,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Lampung,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Lampung,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Lampung,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Lampung,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Maluku,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Maluku,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Maluku,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Maluku,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Maluku,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Maluku,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Maluku,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,North Kalimantan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,North Kalimantan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,North Kalimantan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,North Kalimantan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,North Kalimantan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,North Kalimantan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,North Kalimantan,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,North Maluku,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,North Maluku,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,North Maluku,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,North Maluku,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,North Maluku,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,North Maluku,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,North Maluku,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,North Sulawesi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,North Sulawesi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,North Sulawesi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,North Sulawesi,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Indonesia,North Sulawesi,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Indonesia,North Sulawesi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,North Sulawesi,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,North Sumatra,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Indonesia,North Sumatra,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,North Sumatra,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Indonesia,North Sumatra,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Indonesia,North Sumatra,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,North Sumatra,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,North Sumatra,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Papua,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Papua,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Papua,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Papua,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Papua,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Papua,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Papua,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Riau,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Riau,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Riau,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Riau,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Riau,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Riau,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Riau,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Riau Islands,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Riau Islands,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Riau Islands,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Riau Islands,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Riau Islands,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Riau Islands,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Riau Islands,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,South Kalimantan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,South Kalimantan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,South Kalimantan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,South Kalimantan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,South Kalimantan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,South Kalimantan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,South Kalimantan,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,South Papua,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,South Papua,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,South Papua,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,South Papua,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Indonesia,South Papua,October,2025,2,0,0,2,1.0,0.0,0.0,1.0,1762435626
+Indonesia,South Papua,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Indonesia,South Papua,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,South Sulawesi,June,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Indonesia,South Sulawesi,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Indonesia,South Sulawesi,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+Indonesia,South Sulawesi,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Indonesia,South Sulawesi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,South Sulawesi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,South Sulawesi,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,South Sumatra,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,South Sumatra,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,South Sumatra,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,South Sumatra,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,South Sumatra,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,South Sumatra,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,South Sumatra,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Southeast Sulawesi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Southeast Sulawesi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Southeast Sulawesi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Southeast Sulawesi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Southeast Sulawesi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Southeast Sulawesi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Southeast Sulawesi,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Southwest Papua,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Southwest Papua,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Southwest Papua,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Indonesia,Southwest Papua,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Indonesia,Southwest Papua,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Southwest Papua,November,2025,0,0,0,0,2.0,0.0,2.0,0.0,1765375966
+Indonesia,Southwest Papua,December,2025,1,0,0,1,,,,,1765375966
+Indonesia,West Java,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Java,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Java,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Indonesia,West Java,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Indonesia,West Java,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,West Java,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,West Java,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,West Kalimantan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Kalimantan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Kalimantan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,West Kalimantan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,West Kalimantan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,West Kalimantan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,West Kalimantan,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,West Nusa Tenggara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Nusa Tenggara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Nusa Tenggara,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,West Nusa Tenggara,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,West Nusa Tenggara,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,West Nusa Tenggara,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,West Nusa Tenggara,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,West Papua,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Papua,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Papua,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,West Papua,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,West Papua,October,2025,0,0,0,0,2.0,1.0,0.0,1.0,1762435626
+Indonesia,West Papua,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Indonesia,West Papua,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,West Sulawesi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Sulawesi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Sulawesi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,West Sulawesi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,West Sulawesi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,West Sulawesi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,West Sulawesi,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,West Sumatra,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Sumatra,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,West Sumatra,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,West Sumatra,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,West Sumatra,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,West Sumatra,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,West Sumatra,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Yogyakarta,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Yogyakarta,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Indonesia,Yogyakarta,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Indonesia,Yogyakarta,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Indonesia,Yogyakarta,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Indonesia,Yogyakarta,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Indonesia,Yogyakarta,December,2025,0,0,0,0,,,,,1765375966
+Indonesia,Aceh,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bali,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bangka-Belitung,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Banten,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bengkulu,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Java,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Kalimantan,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Papua,January,2026,3,2,0,1,,,,,1765375966
+Indonesia,Central Sulawesi,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Java,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Kalimantan,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Nusa Tenggara,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Gorontalo,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Highland Papua,January,2026,7,2,1,4,,,,,1765375966
+Indonesia,Jakarta,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Jambi,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Lampung,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Maluku,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Kalimantan,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Maluku,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sulawesi,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sumatra,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Papua,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau Islands,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Kalimantan,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Papua,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sulawesi,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sumatra,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southeast Sulawesi,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southwest Papua,January,2026,1,0,0,1,,,,,1765375966
+Indonesia,West Java,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Kalimantan,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Nusa Tenggara,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Papua,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sulawesi,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sumatra,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Yogyakarta,January,2026,0,0,0,0,,,,,1765375966
+Indonesia,Aceh,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bali,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bangka-Belitung,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Banten,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bengkulu,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Java,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Kalimantan,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Papua,February,2026,4,2,0,2,,,,,1765375966
+Indonesia,Central Sulawesi,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Java,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Kalimantan,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Nusa Tenggara,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Gorontalo,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Highland Papua,February,2026,8,2,1,5,,,,,1765375966
+Indonesia,Jakarta,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Jambi,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Lampung,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Maluku,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Kalimantan,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Maluku,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sulawesi,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sumatra,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Papua,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau Islands,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Kalimantan,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Papua,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sulawesi,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sumatra,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southeast Sulawesi,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southwest Papua,February,2026,1,0,0,1,,,,,1765375966
+Indonesia,West Java,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Kalimantan,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Nusa Tenggara,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Papua,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sulawesi,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sumatra,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Yogyakarta,February,2026,0,0,0,0,,,,,1765375966
+Indonesia,Aceh,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bali,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bangka-Belitung,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Banten,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bengkulu,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Java,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Kalimantan,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Papua,March,2026,4,2,0,2,,,,,1765375966
+Indonesia,Central Sulawesi,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Java,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Kalimantan,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Nusa Tenggara,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Gorontalo,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Highland Papua,March,2026,8,2,1,5,,,,,1765375966
+Indonesia,Jakarta,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Jambi,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Lampung,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Maluku,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Kalimantan,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Maluku,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sulawesi,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sumatra,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Papua,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau Islands,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Kalimantan,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Papua,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sulawesi,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sumatra,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southeast Sulawesi,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southwest Papua,March,2026,1,0,0,1,,,,,1765375966
+Indonesia,West Java,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Kalimantan,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Nusa Tenggara,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Papua,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sulawesi,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sumatra,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Yogyakarta,March,2026,0,0,0,0,,,,,1765375966
+Indonesia,Aceh,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bali,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bangka-Belitung,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Banten,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bengkulu,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Java,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Kalimantan,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Papua,April,2026,6,4,0,2,,,,,1765375966
+Indonesia,Central Sulawesi,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Java,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Kalimantan,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Nusa Tenggara,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Gorontalo,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Highland Papua,April,2026,8,2,1,5,,,,,1765375966
+Indonesia,Jakarta,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Jambi,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Lampung,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Maluku,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Kalimantan,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Maluku,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sulawesi,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sumatra,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Papua,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau Islands,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Kalimantan,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Papua,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sulawesi,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sumatra,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southeast Sulawesi,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southwest Papua,April,2026,1,0,0,1,,,,,1765375966
+Indonesia,West Java,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Kalimantan,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Nusa Tenggara,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Papua,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sulawesi,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sumatra,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Yogyakarta,April,2026,0,0,0,0,,,,,1765375966
+Indonesia,Aceh,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bali,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bangka-Belitung,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Banten,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Bengkulu,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Java,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Kalimantan,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Central Papua,May,2026,7,5,0,2,,,,,1765375966
+Indonesia,Central Sulawesi,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Java,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Kalimantan,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,East Nusa Tenggara,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Gorontalo,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Highland Papua,May,2026,9,3,1,5,,,,,1765375966
+Indonesia,Jakarta,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Jambi,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Lampung,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Maluku,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Kalimantan,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Maluku,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sulawesi,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,North Sumatra,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Papua,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Riau Islands,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Kalimantan,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Papua,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sulawesi,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,South Sumatra,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southeast Sulawesi,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Southwest Papua,May,2026,1,0,0,1,,,,,1765375966
+Indonesia,West Java,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Kalimantan,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Nusa Tenggara,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Papua,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sulawesi,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,West Sumatra,May,2026,0,0,0,0,,,,,1765375966
+Indonesia,Yogyakarta,May,2026,0,0,0,0,,,,,1765375966

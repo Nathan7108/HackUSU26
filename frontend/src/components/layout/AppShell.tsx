@@ -1,10 +1,8 @@
 import type { ReactNode } from "react"
 import { useMatches } from "@tanstack/react-router"
-import { Sun, Moon, Eclipse } from "lucide-react"
 import { AppSidebar } from "@/components/app-sidebar"
 import { DataStatusBadge } from "@/components/layout/DataStatusBadge"
 import { SentinelSearchBar } from "@/components/sentinel/SentinelSearchBar"
-import { useThemeStore } from "@/stores/theme"
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -23,9 +21,7 @@ import {
 const routeMeta: Record<string, { section: string; page: string }> = {
   "/dashboard": { section: "Sentinel AI", page: "Dashboard" },
   "/countries": { section: "Analysis", page: "Country Rankings" },
-  "/exposure": { section: "Supply Chain", page: "Exposure Map" },
   "/actions": { section: "Analysis", page: "Recommended Actions" },
-  "/alerts": { section: "Monitoring", page: "Live Alerts" },
   "/forecasts": { section: "Predictions", page: "LSTM Forecasts" },
   "/reports": { section: "Intelligence", page: "Model Performance" },
   "/settings": { section: "System", page: "Settings" },
@@ -76,9 +72,8 @@ export function AppShell({ children }: { children: ReactNode }) {
             <SentinelSearchBar />
           </div>
 
-          {/* Right: theme toggle + status badge */}
+          {/* Right: status badge */}
           <div className="flex items-center gap-2 px-4">
-            <ThemeToggle />
             <DataStatusBadge />
           </div>
         </header>
@@ -87,31 +82,5 @@ export function AppShell({ children }: { children: ReactNode }) {
         </div>
       </SidebarInset>
     </SidebarProvider>
-  )
-}
-
-const themeIcon = { light: Moon, dark: Eclipse, midnight: Sun } as const
-const themeLabel = { light: "Slate", dark: "Midnight", midnight: "Light" } as const
-
-function ThemeToggle() {
-  const { theme, toggleTheme } = useThemeStore()
-  const Icon = themeIcon[theme]
-
-  return (
-    <button
-      onClick={toggleTheme}
-      className="flex items-center gap-1.5 h-8 rounded-md border px-2.5 transition-colors"
-      style={{
-        backgroundColor: "var(--sentinel-bg-elevated)",
-        borderColor: "var(--sentinel-border-subtle)",
-        color: "var(--sentinel-text-secondary)",
-      }}
-      title={`Switch to ${themeLabel[theme]}`}
-    >
-      <Icon size={14} />
-      <span className="font-data text-[10px] font-semibold uppercase tracking-wider">
-        {theme}
-      </span>
-    </button>
   )
 }

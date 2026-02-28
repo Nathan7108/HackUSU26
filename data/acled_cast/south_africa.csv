@@ -1,0 +1,352 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+South Africa,Eastern Cape,March,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141087
+South Africa,Eastern Cape,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,May,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141087
+South Africa,Eastern Cape,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,August,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141087
+South Africa,Eastern Cape,September,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141087
+South Africa,Eastern Cape,October,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,January,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141087
+South Africa,Eastern Cape,February,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141087
+South Africa,Eastern Cape,March,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141087
+South Africa,Eastern Cape,April,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,June,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141087
+South Africa,Eastern Cape,July,2024,3,0,0,3,1.0,0.0,0.0,1.0,1726141087
+South Africa,Eastern Cape,August,2024,1,0,0,1,5.0,0.0,0.0,5.0,1726141087
+South Africa,Free State,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141087
+South Africa,Free State,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Free State,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Gauteng,March,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141087
+South Africa,Gauteng,April,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141087
+South Africa,Gauteng,May,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141087
+South Africa,Gauteng,June,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141087
+South Africa,Gauteng,July,2023,2,0,0,1,7.0,1.0,0.0,6.0,1726141087
+South Africa,Gauteng,August,2023,5,0,0,5,3.0,0.0,0.0,3.0,1726141087
+South Africa,Gauteng,September,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141087
+South Africa,Gauteng,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141087
+South Africa,Gauteng,November,2023,0,0,0,0,4.0,0.0,0.0,4.0,1726141087
+South Africa,Gauteng,December,2023,4,0,0,4,5.0,0.0,0.0,5.0,1726141087
+South Africa,Gauteng,January,2024,4,0,0,4,6.0,0.0,0.0,6.0,1726141087
+South Africa,Gauteng,February,2024,5,0,0,5,3.0,0.0,0.0,3.0,1726141087
+South Africa,Gauteng,March,2024,3,0,0,3,4.0,0.0,0.0,4.0,1726141087
+South Africa,Gauteng,April,2024,4,0,0,4,1.0,0.0,0.0,1.0,1726141087
+South Africa,Gauteng,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+South Africa,Gauteng,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141087
+South Africa,Gauteng,July,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141087
+South Africa,Gauteng,August,2024,3,0,0,3,1.0,0.0,0.0,1.0,1726141087
+South Africa,KwaZulu-Natal,March,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141087
+South Africa,KwaZulu-Natal,April,2023,4,0,0,4,3.0,0.0,0.0,3.0,1726141087
+South Africa,KwaZulu-Natal,May,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141087
+South Africa,KwaZulu-Natal,June,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141087
+South Africa,KwaZulu-Natal,July,2023,4,0,0,4,9.0,0.0,0.0,9.0,1726141087
+South Africa,KwaZulu-Natal,August,2023,6,0,0,6,6.0,0.0,0.0,6.0,1726141087
+South Africa,KwaZulu-Natal,September,2023,6,0,0,6,7.0,0.0,0.0,7.0,1726141087
+South Africa,KwaZulu-Natal,October,2023,6,0,0,6,4.0,0.0,0.0,4.0,1726141087
+South Africa,KwaZulu-Natal,November,2023,4,0,0,4,4.0,1.0,0.0,3.0,1726141087
+South Africa,KwaZulu-Natal,December,2023,3,0,0,3,3.0,0.0,0.0,3.0,1726141087
+South Africa,KwaZulu-Natal,January,2024,3,0,0,3,5.0,0.0,0.0,5.0,1726141087
+South Africa,KwaZulu-Natal,February,2024,5,0,0,5,2.0,0.0,0.0,2.0,1726141087
+South Africa,KwaZulu-Natal,March,2024,3,0,0,3,7.0,0.0,0.0,7.0,1726141087
+South Africa,KwaZulu-Natal,April,2024,6,0,0,6,0.0,0.0,0.0,0.0,1726141087
+South Africa,KwaZulu-Natal,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+South Africa,KwaZulu-Natal,June,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141087
+South Africa,KwaZulu-Natal,July,2024,2,0,0,2,4.0,0.0,0.0,4.0,1726141087
+South Africa,KwaZulu-Natal,August,2024,4,0,0,4,4.0,0.0,0.0,4.0,1726141087
+South Africa,Limpopo,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141087
+South Africa,Limpopo,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+South Africa,Limpopo,May,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141087
+South Africa,Limpopo,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141087
+South Africa,Limpopo,July,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141087
+South Africa,Limpopo,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141087
+South Africa,Limpopo,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+South Africa,Limpopo,October,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141087
+South Africa,Limpopo,November,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141087
+South Africa,Limpopo,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141087
+South Africa,Limpopo,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141087
+South Africa,Limpopo,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141087
+South Africa,Limpopo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Limpopo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Limpopo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Limpopo,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141088
+South Africa,Limpopo,July,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141088
+South Africa,Limpopo,August,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141088
+South Africa,Mpumalanga,March,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141088
+South Africa,Mpumalanga,April,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141088
+South Africa,Mpumalanga,May,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141088
+South Africa,Mpumalanga,June,2023,2,0,0,2,1.0,1.0,0.0,0.0,1726141088
+South Africa,Mpumalanga,July,2023,1,0,0,1,4.0,0.0,0.0,4.0,1726141088
+South Africa,Mpumalanga,August,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141088
+South Africa,Mpumalanga,September,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141088
+South Africa,Mpumalanga,October,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141088
+South Africa,Mpumalanga,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141088
+South Africa,Mpumalanga,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141088
+South Africa,Mpumalanga,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141088
+South Africa,Mpumalanga,February,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141088
+South Africa,Mpumalanga,March,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141088
+South Africa,Mpumalanga,April,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141088
+South Africa,Mpumalanga,May,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141088
+South Africa,Mpumalanga,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141088
+South Africa,Mpumalanga,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Mpumalanga,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141088
+South Africa,North West,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141088
+South Africa,North West,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141088
+South Africa,North West,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141088
+South Africa,North West,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141088
+South Africa,North West,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,April,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141088
+South Africa,North West,May,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,North West,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141088
+South Africa,Northern Cape,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141088
+South Africa,Northern Cape,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141088
+South Africa,Western Cape,March,2023,5,0,0,5,0.0,0.0,0.0,0.0,1726141088
+South Africa,Western Cape,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141088
+South Africa,Western Cape,May,2023,1,0,0,1,4.0,0.0,0.0,4.0,1726141088
+South Africa,Western Cape,June,2023,2,0,0,2,3.0,0.0,0.0,3.0,1726141088
+South Africa,Western Cape,July,2023,3,0,0,3,2.0,0.0,0.0,2.0,1726141088
+South Africa,Western Cape,August,2023,3,0,0,3,3.0,0.0,0.0,3.0,1726141088
+South Africa,Western Cape,September,2023,3,0,0,3,6.0,0.0,0.0,6.0,1726141088
+South Africa,Western Cape,October,2023,5,0,0,5,2.0,0.0,0.0,2.0,1726141088
+South Africa,Western Cape,November,2023,2,0,0,2,3.0,0.0,0.0,3.0,1726141088
+South Africa,Western Cape,December,2023,3,0,0,3,4.0,0.0,0.0,4.0,1726141088
+South Africa,Western Cape,January,2024,4,0,0,4,3.0,0.0,0.0,3.0,1726141088
+South Africa,Western Cape,February,2024,3,0,0,3,6.0,0.0,0.0,6.0,1726141088
+South Africa,Western Cape,March,2024,5,0,0,5,2.0,0.0,0.0,2.0,1726141088
+South Africa,Western Cape,April,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141088
+South Africa,Western Cape,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141088
+South Africa,Western Cape,June,2024,1,0,0,1,5.0,0.0,0.0,5.0,1726141088
+South Africa,Western Cape,July,2024,5,0,0,5,3.0,0.0,0.0,3.0,1726141088
+South Africa,Western Cape,August,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141088
+South Africa,Eastern Cape,September,2024,4,0,0,4,6.0,0.0,0.0,6.0,1730731002
+South Africa,Free State,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+South Africa,Gauteng,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730731002
+South Africa,KwaZulu-Natal,September,2024,4,0,0,4,2.0,0.0,0.0,2.0,1730731002
+South Africa,Limpopo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+South Africa,Mpumalanga,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730731002
+South Africa,North West,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+South Africa,Northern Cape,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731002
+South Africa,Western Cape,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730731002
+South Africa,Eastern Cape,October,2024,5,0,0,5,1.0,0.0,0.0,1.0,1734010307
+South Africa,Eastern Cape,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010307
+South Africa,Free State,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010307
+South Africa,Free State,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010307
+South Africa,Gauteng,October,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010307
+South Africa,Gauteng,November,2024,2,0,0,2,1.0,0.0,0.0,1.0,1734010307
+South Africa,KwaZulu-Natal,October,2024,2,0,0,2,2.0,0.0,0.0,2.0,1734010307
+South Africa,KwaZulu-Natal,November,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010307
+South Africa,Limpopo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+South Africa,Limpopo,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010307
+South Africa,Mpumalanga,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010307
+South Africa,Mpumalanga,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010307
+South Africa,North West,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+South Africa,North West,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+South Africa,Northern Cape,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+South Africa,Northern Cape,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010307
+South Africa,Western Cape,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010307
+South Africa,Western Cape,November,2024,2,0,0,2,1.0,0.0,0.0,1.0,1734010307
+South Africa,Eastern Cape,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033371
+South Africa,Free State,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033371
+South Africa,Gauteng,December,2024,2,0,0,2,0.0,0.0,0.0,0.0,1737033371
+South Africa,KwaZulu-Natal,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+South Africa,Limpopo,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033371
+South Africa,Mpumalanga,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+South Africa,North West,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+South Africa,Northern Cape,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033371
+South Africa,Western Cape,December,2024,2,0,0,2,2.0,0.0,0.0,2.0,1737033371
+South Africa,Eastern Cape,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854869
+South Africa,Free State,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854870
+South Africa,Gauteng,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+South Africa,KwaZulu-Natal,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854870
+South Africa,Limpopo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+South Africa,Mpumalanga,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854870
+South Africa,North West,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854870
+South Africa,Northern Cape,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854870
+South Africa,Western Cape,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854870
+South Africa,Eastern Cape,February,2025,1,0,0,1,1.0,0.0,0.0,1.0,1741266640
+South Africa,Free State,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266640
+South Africa,Gauteng,February,2025,0,0,0,0,3.0,0.0,0.0,3.0,1741266640
+South Africa,KwaZulu-Natal,February,2025,1,0,0,1,1.0,0.0,0.0,1.0,1741266640
+South Africa,Limpopo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266640
+South Africa,Mpumalanga,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266640
+South Africa,North West,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266640
+South Africa,Northern Cape,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266640
+South Africa,Western Cape,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266640
+South Africa,Eastern Cape,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287548
+South Africa,Free State,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+South Africa,Gauteng,March,2025,2,0,0,2,2.0,0.0,0.0,2.0,1744287548
+South Africa,KwaZulu-Natal,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287548
+South Africa,Limpopo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+South Africa,Mpumalanga,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+South Africa,North West,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+South Africa,Northern Cape,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+South Africa,Western Cape,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287548
+South Africa,Eastern Cape,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702918
+South Africa,Free State,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+South Africa,Gauteng,April,2025,1,0,0,1,1.0,0.0,0.0,1.0,1746702918
+South Africa,KwaZulu-Natal,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702918
+South Africa,Limpopo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+South Africa,Mpumalanga,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702918
+South Africa,North West,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+South Africa,Northern Cape,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702918
+South Africa,Western Cape,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702918
+South Africa,Eastern Cape,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732028
+South Africa,Free State,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+South Africa,Gauteng,May,2025,1,0,0,1,2.0,0.0,0.0,2.0,1749732028
+South Africa,KwaZulu-Natal,May,2025,2,0,0,2,0.0,0.0,0.0,0.0,1749732028
+South Africa,Limpopo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+South Africa,Mpumalanga,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732028
+South Africa,North West,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+South Africa,Northern Cape,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732028
+South Africa,Western Cape,May,2025,1,0,0,1,5.0,1.0,0.0,4.0,1749732028
+South Africa,Eastern Cape,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Eastern Cape,July,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+South Africa,Eastern Cape,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+South Africa,Eastern Cape,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+South Africa,Eastern Cape,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+South Africa,Eastern Cape,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+South Africa,Eastern Cape,December,2025,0,0,0,0,,,,,1765375966
+South Africa,Free State,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Free State,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Free State,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+South Africa,Free State,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+South Africa,Free State,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+South Africa,Free State,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+South Africa,Free State,December,2025,0,0,0,0,,,,,1765375966
+South Africa,Gauteng,June,2025,2,0,0,2,3.0,0.0,0.0,3.0,1754429217
+South Africa,Gauteng,July,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+South Africa,Gauteng,August,2025,2,0,0,2,1.0,0.0,0.0,1.0,1757596698
+South Africa,Gauteng,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+South Africa,Gauteng,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+South Africa,Gauteng,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+South Africa,Gauteng,December,2025,2,0,0,2,,,,,1765375966
+South Africa,KwaZulu-Natal,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+South Africa,KwaZulu-Natal,July,2025,2,0,0,2,2.0,0.0,0.0,2.0,1754429217
+South Africa,KwaZulu-Natal,August,2025,2,0,0,2,0.0,0.0,0.0,0.0,1757596698
+South Africa,KwaZulu-Natal,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+South Africa,KwaZulu-Natal,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+South Africa,KwaZulu-Natal,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+South Africa,KwaZulu-Natal,December,2025,0,0,0,0,,,,,1765375966
+South Africa,Limpopo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Limpopo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Limpopo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+South Africa,Limpopo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+South Africa,Limpopo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+South Africa,Limpopo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+South Africa,Limpopo,December,2025,0,0,0,0,,,,,1765375966
+South Africa,Mpumalanga,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Mpumalanga,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Mpumalanga,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+South Africa,Mpumalanga,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+South Africa,Mpumalanga,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+South Africa,Mpumalanga,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+South Africa,Mpumalanga,December,2025,0,0,0,0,,,,,1765375966
+South Africa,North West,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,North West,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,North West,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+South Africa,North West,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+South Africa,North West,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+South Africa,North West,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+South Africa,North West,December,2025,0,0,0,0,,,,,1765375966
+South Africa,Northern Cape,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Northern Cape,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Africa,Northern Cape,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+South Africa,Northern Cape,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+South Africa,Northern Cape,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+South Africa,Northern Cape,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+South Africa,Northern Cape,December,2025,0,0,0,0,,,,,1765375966
+South Africa,Western Cape,June,2025,5,1,0,4,2.0,0.0,0.0,2.0,1754429217
+South Africa,Western Cape,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+South Africa,Western Cape,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+South Africa,Western Cape,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+South Africa,Western Cape,October,2025,1,0,0,1,3.0,0.0,0.0,3.0,1762435626
+South Africa,Western Cape,November,2025,2,0,0,2,1.0,0.0,0.0,1.0,1765375966
+South Africa,Western Cape,December,2025,1,0,0,1,,,,,1765375966
+South Africa,Eastern Cape,January,2026,0,0,0,0,,,,,1765375966
+South Africa,Free State,January,2026,0,0,0,0,,,,,1765375966
+South Africa,Gauteng,January,2026,2,0,0,2,,,,,1765375966
+South Africa,KwaZulu-Natal,January,2026,0,0,0,0,,,,,1765375966
+South Africa,Limpopo,January,2026,0,0,0,0,,,,,1765375966
+South Africa,Mpumalanga,January,2026,0,0,0,0,,,,,1765375966
+South Africa,North West,January,2026,0,0,0,0,,,,,1765375966
+South Africa,Northern Cape,January,2026,0,0,0,0,,,,,1765375966
+South Africa,Western Cape,January,2026,1,0,0,1,,,,,1765375966
+South Africa,Eastern Cape,February,2026,0,0,0,0,,,,,1765375966
+South Africa,Free State,February,2026,0,0,0,0,,,,,1765375966
+South Africa,Gauteng,February,2026,2,0,0,2,,,,,1765375966
+South Africa,KwaZulu-Natal,February,2026,0,0,0,0,,,,,1765375966
+South Africa,Limpopo,February,2026,0,0,0,0,,,,,1765375966
+South Africa,Mpumalanga,February,2026,0,0,0,0,,,,,1765375966
+South Africa,North West,February,2026,0,0,0,0,,,,,1765375966
+South Africa,Northern Cape,February,2026,0,0,0,0,,,,,1765375966
+South Africa,Western Cape,February,2026,1,0,0,1,,,,,1765375966
+South Africa,Eastern Cape,March,2026,0,0,0,0,,,,,1765375966
+South Africa,Free State,March,2026,0,0,0,0,,,,,1765375966
+South Africa,Gauteng,March,2026,2,0,0,2,,,,,1765375966
+South Africa,KwaZulu-Natal,March,2026,0,0,0,0,,,,,1765375966
+South Africa,Limpopo,March,2026,0,0,0,0,,,,,1765375966
+South Africa,Mpumalanga,March,2026,0,0,0,0,,,,,1765375966
+South Africa,North West,March,2026,0,0,0,0,,,,,1765375966
+South Africa,Northern Cape,March,2026,0,0,0,0,,,,,1765375966
+South Africa,Western Cape,March,2026,1,0,0,1,,,,,1765375966
+South Africa,Eastern Cape,April,2026,0,0,0,0,,,,,1765375966
+South Africa,Free State,April,2026,0,0,0,0,,,,,1765375966
+South Africa,Gauteng,April,2026,1,0,0,1,,,,,1765375966
+South Africa,KwaZulu-Natal,April,2026,0,0,0,0,,,,,1765375966
+South Africa,Limpopo,April,2026,0,0,0,0,,,,,1765375966
+South Africa,Mpumalanga,April,2026,0,0,0,0,,,,,1765375966
+South Africa,North West,April,2026,0,0,0,0,,,,,1765375966
+South Africa,Northern Cape,April,2026,0,0,0,0,,,,,1765375966
+South Africa,Western Cape,April,2026,1,0,0,1,,,,,1765375966
+South Africa,Eastern Cape,May,2026,0,0,0,0,,,,,1765375966
+South Africa,Free State,May,2026,0,0,0,0,,,,,1765375966
+South Africa,Gauteng,May,2026,2,0,0,2,,,,,1765375966
+South Africa,KwaZulu-Natal,May,2026,0,0,0,0,,,,,1765375966
+South Africa,Limpopo,May,2026,0,0,0,0,,,,,1765375966
+South Africa,Mpumalanga,May,2026,0,0,0,0,,,,,1765375966
+South Africa,North West,May,2026,0,0,0,0,,,,,1765375966
+South Africa,Northern Cape,May,2026,0,0,0,0,,,,,1765375966
+South Africa,Western Cape,May,2026,1,0,0,1,,,,,1765375966

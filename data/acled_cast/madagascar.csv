@@ -1,0 +1,859 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Madagascar,Alaotra Mangoro,March,2023,1,0,0,1,5.0,4.0,0.0,1.0,1726141056
+Madagascar,Alaotra Mangoro,April,2023,5,4,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141056
+Madagascar,Alaotra Mangoro,June,2023,1,0,0,1,3.0,1.0,0.0,2.0,1726141056
+Madagascar,Alaotra Mangoro,July,2023,3,1,0,2,2.0,1.0,0.0,1.0,1726141056
+Madagascar,Alaotra Mangoro,August,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,September,2023,1,1,0,0,2.0,0.0,0.0,2.0,1726141056
+Madagascar,Alaotra Mangoro,October,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141056
+Madagascar,Alaotra Mangoro,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,June,2024,0,0,0,0,5.0,1.0,0.0,4.0,1726141056
+Madagascar,Alaotra Mangoro,July,2024,3,1,0,2,3.0,3.0,0.0,0.0,1726141056
+Madagascar,Alaotra Mangoro,August,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,March,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,April,2023,2,1,0,1,5.0,2.0,0.0,3.0,1726141056
+Madagascar,Amoron I Mania,May,2023,3,2,0,2,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141056
+Madagascar,Amoron I Mania,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,August,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141056
+Madagascar,Amoron I Mania,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141056
+Madagascar,Amoron I Mania,January,2024,2,1,0,1,2.0,1.0,0.0,1.0,1726141056
+Madagascar,Amoron I Mania,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,March,2024,0,0,0,0,3.0,2.0,0.0,1.0,1726141056
+Madagascar,Amoron I Mania,April,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,June,2024,1,1,0,0,1.0,0.0,0.0,1.0,1726141056
+Madagascar,Amoron I Mania,July,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Amoron I Mania,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analamanga,March,2023,3,3,0,0,4.0,2.0,0.0,2.0,1726141056
+Madagascar,Analamanga,April,2023,4,2,0,2,3.0,2.0,0.0,1.0,1726141056
+Madagascar,Analamanga,May,2023,4,2,0,1,3.0,2.0,0.0,1.0,1726141056
+Madagascar,Analamanga,June,2023,3,2,0,1,5.0,5.0,0.0,0.0,1726141056
+Madagascar,Analamanga,July,2023,5,4,0,0,1.0,1.0,0.0,0.0,1726141056
+Madagascar,Analamanga,August,2023,1,1,0,0,6.0,4.0,0.0,2.0,1726141056
+Madagascar,Analamanga,September,2023,6,4,0,2,16.0,10.0,0.0,6.0,1726141056
+Madagascar,Analamanga,October,2023,13,8,0,5,1.0,0.0,0.0,1.0,1726141056
+Madagascar,Analamanga,November,2023,3,2,0,1,13.0,5.0,2.0,6.0,1726141056
+Madagascar,Analamanga,December,2023,13,5,2,6,13.0,9.0,0.0,4.0,1726141056
+Madagascar,Analamanga,January,2024,12,8,0,4,8.0,4.0,1.0,3.0,1726141056
+Madagascar,Analamanga,February,2024,9,5,1,3,2.0,1.0,0.0,1.0,1726141056
+Madagascar,Analamanga,March,2024,3,2,0,1,2.0,0.0,0.0,2.0,1726141056
+Madagascar,Analamanga,April,2024,2,0,0,2,9.0,4.0,0.0,5.0,1726141056
+Madagascar,Analamanga,May,2024,9,4,0,5,9.0,3.0,0.0,6.0,1726141056
+Madagascar,Analamanga,June,2024,9,3,0,6,2.0,1.0,0.0,1.0,1726141056
+Madagascar,Analamanga,July,2024,3,2,0,1,5.0,1.0,0.0,4.0,1726141056
+Madagascar,Analamanga,August,2024,4,1,0,3,6.0,2.0,0.0,4.0,1726141056
+Madagascar,Analanjirofo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141056
+Madagascar,Analanjirofo,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Analanjirofo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141056
+Madagascar,Androy,May,2023,1,0,0,1,4.0,3.0,0.0,1.0,1726141056
+Madagascar,Androy,June,2023,3,3,0,1,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,August,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141056
+Madagascar,Androy,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,October,2023,0,0,0,0,4.0,1.0,0.0,3.0,1726141056
+Madagascar,Androy,November,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141056
+Madagascar,Androy,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141056
+Madagascar,Androy,May,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Androy,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Androy,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Androy,August,2024,0,0,0,0,3.0,1.0,0.0,2.0,1726141057
+Madagascar,Anosy,March,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Anosy,April,2023,2,1,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Anosy,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141057
+Madagascar,Anosy,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Anosy,December,2023,1,0,0,1,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Anosy,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Anosy,March,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Anosy,June,2024,1,0,0,1,3.0,1.0,0.0,2.0,1726141057
+Madagascar,Anosy,July,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Anosy,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,April,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Atsimo Andrefana,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Atsimo Andrefana,August,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,September,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,October,2023,1,1,0,0,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,November,2023,2,2,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,December,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Atsimo Andrefana,January,2024,1,0,0,1,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Atsimo Andrefana,February,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,March,2024,1,1,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Atsimo Andrefana,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,May,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,June,2024,1,1,0,0,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Atsimo Andrefana,July,2024,2,2,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Atsimo Andrefana,August,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,May,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,June,2023,1,1,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Atsimo Atsinanana,July,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,September,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Atsimo Atsinanana,October,2023,2,1,0,1,6.0,4.0,0.0,2.0,1726141057
+Madagascar,Atsimo Atsinanana,November,2023,4,2,0,2,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,January,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Atsimo Atsinanana,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsimo Atsinanana,May,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Atsimo Atsinanana,June,2024,2,1,0,1,2.0,0.0,0.0,2.0,1726141057
+Madagascar,Atsimo Atsinanana,July,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Atsimo Atsinanana,August,2024,2,1,0,1,4.0,3.0,0.0,1.0,1726141057
+Madagascar,Atsinanana,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Atsinanana,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Atsinanana,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Betsiboka,March,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Betsiboka,April,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Betsiboka,May,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Betsiboka,June,2023,1,1,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Betsiboka,July,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Betsiboka,August,2023,2,1,0,1,5.0,3.0,0.0,2.0,1726141057
+Madagascar,Betsiboka,September,2023,4,2,0,2,4.0,4.0,0.0,0.0,1726141057
+Madagascar,Betsiboka,October,2023,3,3,0,0,4.0,3.0,0.0,1.0,1726141057
+Madagascar,Betsiboka,November,2023,4,3,0,1,4.0,2.0,0.0,2.0,1726141057
+Madagascar,Betsiboka,December,2023,4,2,0,2,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Betsiboka,January,2024,3,2,0,1,5.0,3.0,0.0,2.0,1726141057
+Madagascar,Betsiboka,February,2024,3,2,0,1,8.0,2.0,0.0,6.0,1726141057
+Madagascar,Betsiboka,March,2024,7,2,0,5,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Betsiboka,April,2024,3,1,0,2,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Betsiboka,May,2024,2,2,0,0,3.0,0.0,0.0,3.0,1726141057
+Madagascar,Betsiboka,June,2024,4,1,0,3,5.0,5.0,0.0,0.0,1726141057
+Madagascar,Betsiboka,July,2024,4,3,0,1,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Betsiboka,August,2024,2,1,0,1,7.0,5.0,0.0,2.0,1726141057
+Madagascar,Boeny,March,2023,2,0,0,2,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Boeny,April,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Boeny,May,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Boeny,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Boeny,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Boeny,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Boeny,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Boeny,October,2023,0,0,0,0,7.0,7.0,0.0,0.0,1726141057
+Madagascar,Boeny,November,2023,4,4,0,0,3.0,2.0,0.0,1.0,1726141057
+Madagascar,Boeny,December,2023,3,2,0,1,6.0,5.0,0.0,1.0,1726141057
+Madagascar,Boeny,January,2024,4,3,0,1,7.0,7.0,0.0,0.0,1726141057
+Madagascar,Boeny,February,2024,6,5,0,1,4.0,4.0,0.0,0.0,1726141057
+Madagascar,Boeny,March,2024,4,4,0,0,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Boeny,April,2024,4,2,0,2,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Boeny,May,2024,2,2,0,0,5.0,2.0,0.0,3.0,1726141057
+Madagascar,Boeny,June,2024,5,2,0,3,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Boeny,July,2024,3,2,0,1,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Boeny,August,2024,2,1,0,1,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Bongolava,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141057
+Madagascar,Bongolava,April,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Bongolava,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Bongolava,June,2023,1,1,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Bongolava,July,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Bongolava,August,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Bongolava,September,2023,2,1,0,1,3.0,1.0,0.0,2.0,1726141057
+Madagascar,Bongolava,October,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Bongolava,November,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Bongolava,December,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141057
+Madagascar,Bongolava,January,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Bongolava,February,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Bongolava,March,2024,1,1,0,0,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Bongolava,April,2024,3,2,0,1,6.0,4.0,0.0,2.0,1726141057
+Madagascar,Bongolava,May,2024,5,3,0,2,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Bongolava,June,2024,2,2,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Bongolava,July,2024,1,1,0,0,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Bongolava,August,2024,1,1,0,0,4.0,3.0,0.0,1.0,1726141057
+Madagascar,Diana,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Diana,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,July,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,October,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Haute Matsiatra,November,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Haute Matsiatra,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Haute Matsiatra,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Haute Matsiatra,August,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141057
+Madagascar,Ihorombe,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,August,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,September,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,January,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Ihorombe,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,April,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Ihorombe,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Ihorombe,August,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Itasy,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Itasy,April,2023,1,1,0,0,3.0,1.0,0.0,2.0,1726141057
+Madagascar,Itasy,May,2023,2,1,0,1,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Itasy,June,2023,2,2,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Itasy,July,2023,2,1,0,1,6.0,3.0,0.0,3.0,1726141057
+Madagascar,Itasy,August,2023,4,2,0,2,1.0,0.0,0.0,1.0,1726141057
+Madagascar,Itasy,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Itasy,October,2023,0,0,0,0,6.0,5.0,0.0,1.0,1726141057
+Madagascar,Itasy,November,2023,4,3,0,1,2.0,2.0,0.0,0.0,1726141057
+Madagascar,Itasy,December,2023,2,2,0,0,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Itasy,January,2024,2,2,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Itasy,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141057
+Madagascar,Itasy,March,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Itasy,April,2024,2,1,0,1,5.0,2.0,0.0,3.0,1726141057
+Madagascar,Itasy,May,2024,4,2,0,2,2.0,1.0,0.0,1.0,1726141057
+Madagascar,Itasy,June,2024,3,2,0,1,1.0,1.0,0.0,0.0,1726141057
+Madagascar,Itasy,July,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Itasy,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Melaky,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Melaky,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Melaky,May,2023,1,1,0,1,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Melaky,June,2023,1,1,0,0,2.0,1.0,0.0,1.0,1726141058
+Madagascar,Melaky,July,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141058
+Madagascar,Melaky,August,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Melaky,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141058
+Madagascar,Melaky,October,2023,2,0,0,2,15.0,10.0,0.0,5.0,1726141058
+Madagascar,Melaky,November,2023,8,5,0,3,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Melaky,December,2023,2,2,0,0,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Melaky,January,2024,2,2,0,0,3.0,0.0,0.0,3.0,1726141058
+Madagascar,Melaky,February,2024,3,1,0,2,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Melaky,March,2024,2,2,0,0,3.0,3.0,0.0,0.0,1726141058
+Madagascar,Melaky,April,2024,3,2,0,1,6.0,4.0,0.0,2.0,1726141058
+Madagascar,Melaky,May,2024,5,3,0,2,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Melaky,June,2024,1,1,0,0,6.0,4.0,0.0,2.0,1726141058
+Madagascar,Melaky,July,2024,4,2,0,2,2.0,1.0,0.0,1.0,1726141058
+Madagascar,Melaky,August,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Menabe,March,2023,3,1,0,2,4.0,3.0,0.0,1.0,1726141058
+Madagascar,Menabe,April,2023,4,2,0,1,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Menabe,May,2023,3,2,0,1,2.0,1.0,0.0,1.0,1726141058
+Madagascar,Menabe,June,2023,2,1,0,1,5.0,0.0,0.0,5.0,1726141058
+Madagascar,Menabe,July,2023,4,0,0,3,5.0,4.0,0.0,1.0,1726141058
+Madagascar,Menabe,August,2023,4,3,0,1,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Menabe,September,2023,1,1,0,0,2.0,1.0,0.0,1.0,1726141058
+Madagascar,Menabe,October,2023,2,1,0,1,5.0,3.0,0.0,2.0,1726141058
+Madagascar,Menabe,November,2023,5,3,0,2,7.0,4.0,0.0,3.0,1726141058
+Madagascar,Menabe,December,2023,6,3,0,3,3.0,2.0,0.0,1.0,1726141058
+Madagascar,Menabe,January,2024,3,2,0,1,7.0,2.0,0.0,5.0,1726141058
+Madagascar,Menabe,February,2024,6,2,0,4,5.0,4.0,0.0,1.0,1726141058
+Madagascar,Menabe,March,2024,5,4,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Menabe,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Menabe,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Menabe,June,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Menabe,July,2024,2,2,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Menabe,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Madagascar,Sava,June,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Madagascar,Sava,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sava,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,March,2023,3,2,0,1,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Sofia,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,May,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Sofia,June,2023,2,2,0,0,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Sofia,July,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Sofia,August,2023,1,1,0,0,6.0,4.0,0.0,2.0,1726141058
+Madagascar,Sofia,September,2023,5,3,0,2,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Sofia,January,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,April,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Sofia,May,2024,2,2,0,0,4.0,2.0,0.0,2.0,1726141058
+Madagascar,Sofia,June,2024,4,2,0,2,3.0,3.0,0.0,0.0,1726141058
+Madagascar,Sofia,July,2024,2,2,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Sofia,August,2024,0,0,0,0,4.0,3.0,0.0,1.0,1726141058
+Madagascar,Vakinankaratra,March,2023,3,2,0,1,5.0,4.0,0.0,1.0,1726141058
+Madagascar,Vakinankaratra,April,2023,5,4,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,May,2023,1,0,0,0,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,June,2023,2,2,0,0,4.0,3.0,0.0,1.0,1726141058
+Madagascar,Vakinankaratra,July,2023,4,3,0,1,3.0,3.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,August,2023,3,3,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,September,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,October,2023,2,2,0,0,2.0,1.0,0.0,1.0,1726141058
+Madagascar,Vakinankaratra,November,2023,3,2,0,1,5.0,4.0,0.0,1.0,1726141058
+Madagascar,Vakinankaratra,December,2023,4,3,0,1,3.0,3.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,January,2024,2,2,0,0,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,February,2024,2,2,0,0,1.0,0.0,0.0,1.0,1726141058
+Madagascar,Vakinankaratra,March,2024,1,0,0,1,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,April,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141058
+Madagascar,Vakinankaratra,May,2024,2,1,0,1,3.0,2.0,0.0,1.0,1726141058
+Madagascar,Vakinankaratra,June,2024,3,2,0,1,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,July,2024,2,2,0,0,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Vakinankaratra,August,2024,1,1,0,0,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Madagascar,Vatovavy Fitovinany,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Madagascar,Vatovavy Fitovinany,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141058
+Madagascar,Vatovavy Fitovinany,November,2023,3,1,0,2,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,March,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,April,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141058
+Madagascar,Vatovavy Fitovinany,May,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Madagascar,Vatovavy Fitovinany,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Madagascar,Alaotra Mangoro,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730994
+Madagascar,Amoron I Mania,September,2024,0,0,0,0,3.0,2.0,0.0,1.0,1730730994
+Madagascar,Analamanga,September,2024,6,2,0,4,10.0,6.0,0.0,4.0,1730730994
+Madagascar,Analanjirofo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Madagascar,Androy,September,2024,3,1,0,2,4.0,1.0,0.0,3.0,1730730994
+Madagascar,Anosy,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Madagascar,Atsimo Andrefana,September,2024,0,0,0,0,3.0,2.0,0.0,1.0,1730730994
+Madagascar,Atsimo Atsinanana,September,2024,3,2,0,1,4.0,2.0,0.0,2.0,1730730994
+Madagascar,Atsinanana,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Madagascar,Betsiboka,September,2024,5,3,0,2,5.0,3.0,0.0,2.0,1730730994
+Madagascar,Boeny,September,2024,2,2,0,0,3.0,3.0,0.0,0.0,1730730994
+Madagascar,Bongolava,September,2024,3,2,0,1,6.0,4.0,0.0,2.0,1730730994
+Madagascar,Diana,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Madagascar,Haute Matsiatra,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730730994
+Madagascar,Ihorombe,September,2024,1,1,0,0,1.0,1.0,0.0,0.0,1730730994
+Madagascar,Itasy,September,2024,0,0,0,0,2.0,1.0,0.0,1.0,1730730994
+Madagascar,Melaky,September,2024,1,1,0,0,1.0,1.0,0.0,0.0,1730730994
+Madagascar,Menabe,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Madagascar,Sava,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730994
+Madagascar,Sofia,September,2024,3,2,0,1,3.0,3.0,0.0,0.0,1730730994
+Madagascar,Vakinankaratra,September,2024,1,1,0,0,3.0,3.0,0.0,0.0,1730730994
+Madagascar,Vatovavy Fitovinany,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730995
+Madagascar,Alaotra Mangoro,October,2024,1,0,0,1,3.0,2.0,0.0,1.0,1734010292
+Madagascar,Alaotra Mangoro,November,2024,2,1,0,1,1.0,1.0,0.0,0.0,1734010292
+Madagascar,Amoron I Mania,October,2024,3,2,0,1,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Amoron I Mania,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Analamanga,October,2024,9,5,0,4,5.0,3.0,0.0,2.0,1734010292
+Madagascar,Analamanga,November,2024,7,4,0,3,1.0,0.0,0.0,1.0,1734010292
+Madagascar,Analanjirofo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Analanjirofo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Androy,October,2024,4,1,0,3,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Androy,November,2024,0,0,0,0,2.0,2.0,0.0,0.0,1734010292
+Madagascar,Anosy,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Anosy,November,2024,0,0,0,0,3.0,1.0,0.0,2.0,1734010292
+Madagascar,Atsimo Andrefana,October,2024,3,2,0,1,2.0,1.0,0.0,1.0,1734010292
+Madagascar,Atsimo Andrefana,November,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Atsimo Atsinanana,October,2024,4,2,0,2,5.0,3.0,0.0,2.0,1734010292
+Madagascar,Atsimo Atsinanana,November,2024,3,2,0,1,1.0,1.0,0.0,0.0,1734010292
+Madagascar,Atsinanana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Atsinanana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010292
+Madagascar,Betsiboka,October,2024,5,3,0,2,5.0,4.0,0.0,1.0,1734010293
+Madagascar,Betsiboka,November,2024,4,3,0,1,1.0,1.0,0.0,0.0,1734010293
+Madagascar,Boeny,October,2024,3,3,0,0,1.0,1.0,0.0,0.0,1734010293
+Madagascar,Boeny,November,2024,3,2,0,1,1.0,1.0,0.0,0.0,1734010293
+Madagascar,Bongolava,October,2024,5,3,0,2,3.0,2.0,0.0,1.0,1734010293
+Madagascar,Bongolava,November,2024,3,2,0,1,1.0,0.0,0.0,1.0,1734010293
+Madagascar,Diana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Diana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Haute Matsiatra,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Haute Matsiatra,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Ihorombe,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Ihorombe,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Itasy,October,2024,3,2,0,1,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Itasy,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Melaky,October,2024,2,2,0,0,1.0,1.0,0.0,0.0,1734010293
+Madagascar,Melaky,November,2024,3,2,0,1,5.0,3.0,0.0,2.0,1734010293
+Madagascar,Menabe,October,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010293
+Madagascar,Menabe,November,2024,2,1,0,1,1.0,1.0,0.0,0.0,1734010293
+Madagascar,Sava,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Sava,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Sofia,October,2024,3,3,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Sofia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Vakinankaratra,October,2024,2,2,0,0,1.0,0.0,0.0,1.0,1734010293
+Madagascar,Vakinankaratra,November,2024,2,1,0,1,2.0,2.0,0.0,0.0,1734010293
+Madagascar,Vatovavy Fitovinany,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Vatovavy Fitovinany,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010293
+Madagascar,Alaotra Mangoro,December,2024,3,2,0,1,1.0,1.0,0.0,0.0,1737033354
+Madagascar,Amoron I Mania,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033354
+Madagascar,Analamanga,December,2024,4,2,0,2,2.0,1.0,0.0,1.0,1737033354
+Madagascar,Analanjirofo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033354
+Madagascar,Androy,December,2024,2,1,0,1,1.0,1.0,0.0,0.0,1737033354
+Madagascar,Anosy,December,2024,2,1,0,1,2.0,1.0,0.0,1.0,1737033354
+Madagascar,Atsimo Andrefana,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033354
+Madagascar,Atsimo Atsinanana,December,2024,3,2,0,1,2.0,0.0,0.0,2.0,1737033355
+Madagascar,Atsinanana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Betsiboka,December,2024,3,2,0,1,5.0,3.0,0.0,2.0,1737033355
+Madagascar,Boeny,December,2024,2,1,0,1,1.0,1.0,0.0,0.0,1737033355
+Madagascar,Bongolava,December,2024,3,2,0,1,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Diana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Haute Matsiatra,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Ihorombe,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Itasy,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Melaky,December,2024,2,1,0,1,3.0,2.0,0.0,1.0,1737033355
+Madagascar,Menabe,December,2024,2,1,0,1,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Sava,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Sofia,December,2024,1,1,0,0,2.0,2.0,0.0,0.0,1737033355
+Madagascar,Vakinankaratra,December,2024,3,2,0,1,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Vatovavy Fitovinany,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033355
+Madagascar,Alaotra Mangoro,January,2025,2,1,0,1,2.0,2.0,0.0,0.0,1738854858
+Madagascar,Amoron I Mania,January,2025,2,1,0,1,0.0,0.0,0.0,0.0,1738854858
+Madagascar,Analamanga,January,2025,2,1,0,1,2.0,0.0,0.0,2.0,1738854858
+Madagascar,Analanjirofo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Madagascar,Androy,January,2025,2,1,0,1,3.0,2.0,0.0,1.0,1738854858
+Madagascar,Anosy,January,2025,2,1,0,1,3.0,2.0,0.0,1.0,1738854858
+Madagascar,Atsimo Andrefana,January,2025,2,1,0,1,1.0,1.0,0.0,0.0,1738854858
+Madagascar,Atsimo Atsinanana,January,2025,2,1,0,1,1.0,1.0,0.0,0.0,1738854858
+Madagascar,Atsinanana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Madagascar,Betsiboka,January,2025,3,2,0,1,6.0,3.0,0.0,3.0,1738854858
+Madagascar,Boeny,January,2025,1,1,0,0,5.0,4.0,0.0,1.0,1738854858
+Madagascar,Bongolava,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854858
+Madagascar,Diana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Madagascar,Haute Matsiatra,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Madagascar,Ihorombe,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Madagascar,Itasy,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854858
+Madagascar,Melaky,January,2025,3,2,0,1,1.0,1.0,0.0,0.0,1738854858
+Madagascar,Menabe,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854858
+Madagascar,Sava,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854859
+Madagascar,Sofia,January,2025,3,2,0,1,1.0,1.0,0.0,0.0,1738854859
+Madagascar,Vakinankaratra,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854859
+Madagascar,Vatovavy Fitovinany,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854859
+Madagascar,Alaotra Mangoro,February,2025,2,1,0,1,1.0,0.0,0.0,1.0,1741266628
+Madagascar,Amoron I Mania,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266628
+Madagascar,Analamanga,February,2025,2,1,0,1,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Analanjirofo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Androy,February,2025,2,1,0,1,1.0,0.0,0.0,1.0,1741266628
+Madagascar,Anosy,February,2025,2,1,0,1,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Atsimo Andrefana,February,2025,2,1,0,1,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Atsimo Atsinanana,February,2025,3,2,0,1,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Atsinanana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Betsiboka,February,2025,3,2,0,1,7.0,3.0,0.0,4.0,1741266628
+Madagascar,Boeny,February,2025,2,1,0,1,1.0,1.0,0.0,0.0,1741266628
+Madagascar,Bongolava,February,2025,2,1,0,1,2.0,2.0,0.0,0.0,1741266628
+Madagascar,Diana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Haute Matsiatra,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Ihorombe,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Itasy,February,2025,2,1,0,1,1.0,1.0,0.0,0.0,1741266628
+Madagascar,Melaky,February,2025,2,1,0,1,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Menabe,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266628
+Madagascar,Sava,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266629
+Madagascar,Sofia,February,2025,2,1,0,1,2.0,1.0,0.0,1.0,1741266629
+Madagascar,Vakinankaratra,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266629
+Madagascar,Vatovavy Fitovinany,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266629
+Madagascar,Alaotra Mangoro,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Amoron I Mania,March,2025,2,1,0,1,3.0,3.0,0.0,0.0,1744287545
+Madagascar,Analamanga,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Analanjirofo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Androy,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Anosy,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Atsimo Andrefana,March,2025,0,0,0,0,2.0,2.0,0.0,0.0,1744287545
+Madagascar,Atsimo Atsinanana,March,2025,0,0,0,0,2.0,1.0,0.0,1.0,1744287545
+Madagascar,Atsinanana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Betsiboka,March,2025,4,2,0,2,4.0,2.0,0.0,2.0,1744287545
+Madagascar,Boeny,March,2025,1,1,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Bongolava,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Diana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Haute Matsiatra,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287545
+Madagascar,Ihorombe,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Itasy,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Melaky,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Menabe,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Sava,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Sofia,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Vakinankaratra,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Vatovavy Fitovinany,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287545
+Madagascar,Alaotra Mangoro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Amoron I Mania,April,2025,2,1,0,1,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Analamanga,April,2025,0,0,0,0,3.0,0.0,0.0,3.0,1746702915
+Madagascar,Analanjirofo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Androy,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702915
+Madagascar,Anosy,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Atsimo Andrefana,April,2025,1,1,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Atsimo Atsinanana,April,2025,2,1,0,1,1.0,1.0,0.0,0.0,1746702915
+Madagascar,Atsinanana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Betsiboka,April,2025,4,2,0,2,7.0,4.0,0.0,3.0,1746702915
+Madagascar,Boeny,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702915
+Madagascar,Bongolava,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702915
+Madagascar,Diana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Haute Matsiatra,April,2025,3,1,0,2,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Ihorombe,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702915
+Madagascar,Itasy,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702915
+Madagascar,Melaky,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Menabe,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Sava,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Sofia,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702915
+Madagascar,Vakinankaratra,April,2025,0,0,0,0,3.0,3.0,0.0,0.0,1746702915
+Madagascar,Vatovavy Fitovinany,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Madagascar,Alaotra Mangoro,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732018
+Madagascar,Amoron I Mania,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Analamanga,May,2025,4,1,0,3,1.0,1.0,0.0,0.0,1749732018
+Madagascar,Analanjirofo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Androy,May,2025,1,1,0,0,3.0,2.0,0.0,1.0,1749732018
+Madagascar,Anosy,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Atsimo Andrefana,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732018
+Madagascar,Atsimo Atsinanana,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Atsinanana,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Betsiboka,May,2025,5,2,0,3,3.0,3.0,0.0,0.0,1749732018
+Madagascar,Boeny,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Bongolava,May,2025,1,1,0,0,2.0,2.0,0.0,0.0,1749732018
+Madagascar,Diana,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Haute Matsiatra,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732018
+Madagascar,Ihorombe,May,2025,2,1,0,1,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Itasy,May,2025,1,1,0,0,1.0,1.0,0.0,0.0,1749732018
+Madagascar,Melaky,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Menabe,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Sava,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Sofia,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Vakinankaratra,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Vatovavy Fitovinany,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732018
+Madagascar,Alaotra Mangoro,June,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Alaotra Mangoro,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Alaotra Mangoro,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Alaotra Mangoro,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Alaotra Mangoro,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Alaotra Mangoro,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Alaotra Mangoro,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Amoron I Mania,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Amoron I Mania,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Amoron I Mania,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Amoron I Mania,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Amoron I Mania,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Madagascar,Amoron I Mania,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Amoron I Mania,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Analamanga,June,2025,3,1,0,2,1.0,1.0,0.0,0.0,1754429217
+Madagascar,Analamanga,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Analamanga,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Analamanga,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Madagascar,Analamanga,October,2025,1,1,0,0,3.0,3.0,0.0,0.0,1762435626
+Madagascar,Analamanga,November,2025,2,1,0,1,2.0,0.0,0.0,2.0,1765375966
+Madagascar,Analamanga,December,2025,2,1,0,1,,,,,1765375966
+Madagascar,Analanjirofo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Analanjirofo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Analanjirofo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Analanjirofo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Analanjirofo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Analanjirofo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Analanjirofo,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Androy,June,2025,3,2,0,1,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Androy,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Madagascar,Androy,August,2025,1,1,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Androy,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Madagascar,Androy,October,2025,2,1,0,1,1.0,0.0,0.0,1.0,1762435626
+Madagascar,Androy,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Androy,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Anosy,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Anosy,July,2025,0,0,0,0,2.0,2.0,0.0,0.0,1754429217
+Madagascar,Anosy,August,2025,2,2,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Anosy,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Anosy,October,2025,0,0,0,0,2.0,1.0,0.0,1.0,1762435626
+Madagascar,Anosy,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Anosy,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Atsimo Andrefana,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Atsimo Andrefana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Atsimo Andrefana,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Madagascar,Atsimo Andrefana,September,2025,1,1,0,0,2.0,1.0,0.0,1.0,1760036046
+Madagascar,Atsimo Andrefana,October,2025,1,1,0,0,1.0,1.0,0.0,0.0,1762435626
+Madagascar,Atsimo Andrefana,November,2025,2,1,0,1,2.0,2.0,0.0,0.0,1765375966
+Madagascar,Atsimo Andrefana,December,2025,1,1,0,0,,,,,1765375966
+Madagascar,Atsimo Atsinanana,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Madagascar,Atsimo Atsinanana,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Atsimo Atsinanana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Atsimo Atsinanana,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Atsimo Atsinanana,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Atsimo Atsinanana,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Atsimo Atsinanana,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Atsinanana,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Madagascar,Atsinanana,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Atsinanana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Atsinanana,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Atsinanana,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Madagascar,Atsinanana,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Madagascar,Atsinanana,December,2025,2,1,0,1,,,,,1765375966
+Madagascar,Betsiboka,June,2025,4,3,0,1,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Betsiboka,July,2025,0,0,0,0,4.0,2.0,0.0,2.0,1754429217
+Madagascar,Betsiboka,August,2025,4,2,0,2,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Betsiboka,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Betsiboka,October,2025,0,0,0,0,3.0,1.0,0.0,2.0,1762435626
+Madagascar,Betsiboka,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Betsiboka,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Boeny,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Boeny,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Boeny,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Boeny,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Madagascar,Boeny,October,2025,1,1,0,0,1.0,0.0,0.0,1.0,1762435626
+Madagascar,Boeny,November,2025,2,1,0,1,2.0,2.0,0.0,0.0,1765375966
+Madagascar,Boeny,December,2025,1,1,0,0,,,,,1765375966
+Madagascar,Bongolava,June,2025,3,2,0,1,3.0,3.0,0.0,0.0,1754429217
+Madagascar,Bongolava,July,2025,2,2,0,0,4.0,4.0,0.0,0.0,1754429217
+Madagascar,Bongolava,August,2025,4,4,0,0,2.0,2.0,0.0,0.0,1757596698
+Madagascar,Bongolava,September,2025,1,1,0,0,2.0,2.0,0.0,0.0,1760036046
+Madagascar,Bongolava,October,2025,2,2,0,0,3.0,3.0,0.0,0.0,1762435626
+Madagascar,Bongolava,November,2025,2,2,0,0,6.0,6.0,0.0,0.0,1765375966
+Madagascar,Bongolava,December,2025,3,3,0,0,,,,,1765375966
+Madagascar,Diana,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Diana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Diana,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Madagascar,Diana,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Diana,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Diana,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Diana,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Haute Matsiatra,June,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Haute Matsiatra,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Madagascar,Haute Matsiatra,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Haute Matsiatra,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Haute Matsiatra,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Haute Matsiatra,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Haute Matsiatra,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Ihorombe,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Ihorombe,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Ihorombe,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Madagascar,Ihorombe,September,2025,1,1,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Ihorombe,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Ihorombe,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Ihorombe,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Itasy,June,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Itasy,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Itasy,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Itasy,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Itasy,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Itasy,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Madagascar,Itasy,December,2025,2,1,0,1,,,,,1765375966
+Madagascar,Melaky,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Melaky,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Madagascar,Melaky,August,2025,1,1,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Melaky,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Melaky,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Melaky,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Melaky,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Menabe,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Menabe,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Menabe,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Menabe,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Menabe,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Menabe,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Menabe,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Sava,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Sava,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Sava,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Sava,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Sava,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Sava,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Sava,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Sofia,June,2025,0,0,0,0,2.0,2.0,0.0,0.0,1754429217
+Madagascar,Sofia,July,2025,2,2,0,0,3.0,2.0,0.0,1.0,1754429217
+Madagascar,Sofia,August,2025,3,2,0,1,1.0,0.0,0.0,1.0,1757596698
+Madagascar,Sofia,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Sofia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Sofia,November,2025,0,0,0,0,2.0,2.0,0.0,0.0,1765375966
+Madagascar,Sofia,December,2025,2,1,0,1,,,,,1765375966
+Madagascar,Vakinankaratra,June,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Madagascar,Vakinankaratra,July,2025,2,0,0,2,2.0,2.0,0.0,0.0,1754429217
+Madagascar,Vakinankaratra,August,2025,2,2,0,0,0.0,0.0,0.0,0.0,1757596698
+Madagascar,Vakinankaratra,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Vakinankaratra,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Madagascar,Vakinankaratra,November,2025,2,1,0,1,2.0,1.0,0.0,1.0,1765375966
+Madagascar,Vakinankaratra,December,2025,2,1,0,1,,,,,1765375966
+Madagascar,Vatovavy Fitovinany,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Vatovavy Fitovinany,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Madagascar,Vatovavy Fitovinany,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Madagascar,Vatovavy Fitovinany,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Madagascar,Vatovavy Fitovinany,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Madagascar,Vatovavy Fitovinany,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Madagascar,Vatovavy Fitovinany,December,2025,0,0,0,0,,,,,1765375966
+Madagascar,Alaotra Mangoro,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Amoron I Mania,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Analamanga,January,2026,2,1,0,1,,,,,1765375966
+Madagascar,Analanjirofo,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Androy,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Anosy,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsimo Andrefana,January,2026,1,1,0,0,,,,,1765375966
+Madagascar,Atsimo Atsinanana,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsinanana,January,2026,2,1,0,1,,,,,1765375966
+Madagascar,Betsiboka,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Boeny,January,2026,1,1,0,0,,,,,1765375966
+Madagascar,Bongolava,January,2026,3,3,0,0,,,,,1765375966
+Madagascar,Diana,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Haute Matsiatra,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Ihorombe,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Itasy,January,2026,2,1,0,1,,,,,1765375966
+Madagascar,Melaky,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Menabe,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sava,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sofia,January,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vakinankaratra,January,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vatovavy Fitovinany,January,2026,0,0,0,0,,,,,1765375966
+Madagascar,Alaotra Mangoro,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Amoron I Mania,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Analamanga,February,2026,2,1,0,1,,,,,1765375966
+Madagascar,Analanjirofo,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Androy,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Anosy,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsimo Andrefana,February,2026,1,1,0,0,,,,,1765375966
+Madagascar,Atsimo Atsinanana,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsinanana,February,2026,2,1,0,1,,,,,1765375966
+Madagascar,Betsiboka,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Boeny,February,2026,1,1,0,0,,,,,1765375966
+Madagascar,Bongolava,February,2026,3,3,0,0,,,,,1765375966
+Madagascar,Diana,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Haute Matsiatra,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Ihorombe,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Itasy,February,2026,2,1,0,1,,,,,1765375966
+Madagascar,Melaky,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Menabe,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sava,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sofia,February,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vakinankaratra,February,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vatovavy Fitovinany,February,2026,0,0,0,0,,,,,1765375966
+Madagascar,Alaotra Mangoro,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Amoron I Mania,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Analamanga,March,2026,2,1,0,1,,,,,1765375966
+Madagascar,Analanjirofo,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Androy,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Anosy,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsimo Andrefana,March,2026,1,1,0,0,,,,,1765375966
+Madagascar,Atsimo Atsinanana,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsinanana,March,2026,2,1,0,1,,,,,1765375966
+Madagascar,Betsiboka,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Boeny,March,2026,1,1,0,0,,,,,1765375966
+Madagascar,Bongolava,March,2026,3,3,0,0,,,,,1765375966
+Madagascar,Diana,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Haute Matsiatra,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Ihorombe,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Itasy,March,2026,2,1,0,1,,,,,1765375966
+Madagascar,Melaky,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Menabe,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sava,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sofia,March,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vakinankaratra,March,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vatovavy Fitovinany,March,2026,0,0,0,0,,,,,1765375966
+Madagascar,Alaotra Mangoro,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Amoron I Mania,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Analamanga,April,2026,2,1,0,1,,,,,1765375966
+Madagascar,Analanjirofo,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Androy,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Anosy,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsimo Andrefana,April,2026,2,1,0,1,,,,,1765375966
+Madagascar,Atsimo Atsinanana,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsinanana,April,2026,2,1,0,1,,,,,1765375966
+Madagascar,Betsiboka,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Boeny,April,2026,1,1,0,0,,,,,1765375966
+Madagascar,Bongolava,April,2026,3,3,0,0,,,,,1765375966
+Madagascar,Diana,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Haute Matsiatra,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Ihorombe,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Itasy,April,2026,2,1,0,1,,,,,1765375966
+Madagascar,Melaky,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Menabe,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sava,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sofia,April,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vakinankaratra,April,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vatovavy Fitovinany,April,2026,0,0,0,0,,,,,1765375966
+Madagascar,Alaotra Mangoro,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Amoron I Mania,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Analamanga,May,2026,2,1,0,1,,,,,1765375966
+Madagascar,Analanjirofo,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Androy,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Anosy,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsimo Andrefana,May,2026,2,1,0,1,,,,,1765375966
+Madagascar,Atsimo Atsinanana,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Atsinanana,May,2026,2,1,0,1,,,,,1765375966
+Madagascar,Betsiboka,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Boeny,May,2026,1,1,0,0,,,,,1765375966
+Madagascar,Bongolava,May,2026,3,3,0,0,,,,,1765375966
+Madagascar,Diana,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Haute Matsiatra,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Ihorombe,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Itasy,May,2026,2,1,0,1,,,,,1765375966
+Madagascar,Melaky,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Menabe,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sava,May,2026,0,0,0,0,,,,,1765375966
+Madagascar,Sofia,May,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vakinankaratra,May,2026,2,1,0,1,,,,,1765375966
+Madagascar,Vatovavy Fitovinany,May,2026,0,0,0,0,,,,,1765375966

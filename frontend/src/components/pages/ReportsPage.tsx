@@ -1,11 +1,11 @@
 import { useQuery } from "@tanstack/react-query"
-import { fetchHealth, fetchTrackRecord, type HealthResponse, type TrackRecordPrediction } from "@/lib/api"
+import { fetchHealth, fetchTrackRecord, type TrackRecordPrediction } from "@/lib/api"
 import { useDashboard } from "@/hooks/use-dashboard"
 import { riskColor } from "@/lib/risk"
 import type { RiskLevel } from "@/types"
 import {
   Brain, Database, Cpu, Target, Activity, Clock,
-  CheckCircle, XCircle, CircleDot, Server, Layers,
+  CheckCircle, XCircle, CircleDot, Layers,
 } from "lucide-react"
 
 const RISK_LEVELS: RiskLevel[] = ["CRITICAL", "HIGH", "ELEVATED", "MODERATE", "LOW"]
@@ -17,7 +17,7 @@ export function ReportsPage() {
 
   const riskDist = RISK_LEVELS.map((level) => ({
     level,
-    count: dashboard.countries.filter((c) => c.riskLevel === level).length,
+    count: (dashboard?.countries ?? []).filter((c) => c.riskLevel === level).length,
   }))
   const maxCount = Math.max(...riskDist.map((r) => r.count), 1)
 
@@ -32,14 +32,14 @@ export function ReportsPage() {
           <h1 className="text-lg font-semibold" style={{ color: "var(--sentinel-text-primary)" }}>
             Model Performance
           </h1>
-          <span className="font-data text-[10px] tracking-widest" style={{ color: "var(--sentinel-text-tertiary)" }}>
+          <span className="font-data text-[11px] tracking-widest" style={{ color: "var(--sentinel-text-tertiary)" }}>
             SENTINEL AI — LIVE ML PIPELINE METRICS
           </span>
         </div>
         {health && (
           <div className="flex items-center gap-1.5">
             <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
-            <span className="font-data text-[9px] tracking-wider" style={{ color: "var(--sentinel-text-tertiary)" }}>
+            <span className="font-data text-[10px] tracking-wider" style={{ color: "var(--sentinel-text-tertiary)" }}>
               v{health.version} · UP {health.uptime}
             </span>
           </div>
@@ -130,8 +130,8 @@ export function ReportsPage() {
             <StatusRow label="Live Data" ok={isLive} detail={isLive ? "streaming" : "offline"} />
             <div className="mt-1 pt-2" style={{ borderTop: "1px solid var(--sentinel-border-subtle)" }}>
               <div className="flex items-center justify-between">
-                <span className="text-[10px]" style={{ color: "var(--sentinel-text-tertiary)" }}>Last computed</span>
-                <span className="font-data text-[10px] font-medium" style={{ color: "var(--sentinel-text-secondary)" }}>
+                <span className="text-[11px]" style={{ color: "var(--sentinel-text-tertiary)" }}>Last computed</span>
+                <span className="font-data text-[11px] font-medium" style={{ color: "var(--sentinel-text-secondary)" }}>
                   {health?.data.lastComputed ? new Date(health.data.lastComputed).toLocaleTimeString() : "—"}
                 </span>
               </div>
@@ -167,8 +167,8 @@ export function ReportsPage() {
               ))}
             </div>
             <div className="pt-2 text-center" style={{ borderTop: "1px solid var(--sentinel-border-subtle)" }}>
-              <span className="font-data text-[9px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
-                {dashboard.countries.length} NATIONS MONITORED
+              <span className="font-data text-[10px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
+                {dashboard?.countries.length ?? 0} NATIONS MONITORED
               </span>
             </div>
           </Card>
@@ -180,7 +180,7 @@ export function ReportsPage() {
           <Card className="p-0 h-full overflow-hidden flex flex-col">
             {/* Table header */}
             <div
-              className="grid grid-cols-[80px_1fr_80px_80px_80px_80px] gap-2 px-3 py-2 text-[9px] font-data font-bold tracking-wider"
+              className="grid grid-cols-[80px_1fr_80px_80px_80px_80px] gap-2 px-3 py-2 text-[10px] font-data font-bold tracking-wider"
               style={{ color: "var(--sentinel-text-tertiary)", borderBottom: "1px solid var(--sentinel-border-subtle)" }}
             >
               <span>COUNTRY</span>
@@ -208,7 +208,7 @@ export function ReportsPage() {
                 className="flex items-center justify-between px-3 py-2"
                 style={{ borderTop: "1px solid var(--sentinel-border-subtle)", backgroundColor: "var(--sentinel-bg-muted)" }}
               >
-                <span className="font-data text-[9px] tracking-wider" style={{ color: "var(--sentinel-text-tertiary)" }}>
+                <span className="font-data text-[10px] tracking-wider" style={{ color: "var(--sentinel-text-tertiary)" }}>
                   {accuracy.total_evaluated} EVALUATED · {accuracy.days_back}D WINDOW
                 </span>
                 <span className="font-data text-xs font-bold" style={{ color: "var(--risk-low)" }}>
@@ -240,7 +240,7 @@ function Card({ className = "", children, ...props }: React.ComponentProps<"div"
 function SectionTitle({ title }: { title: string }) {
   return (
     <div className="flex items-center gap-2 mb-1.5">
-      <span className="font-data text-[9px] font-bold tracking-widest" style={{ color: "var(--sentinel-text-tertiary)" }}>
+      <span className="font-data text-[10px] font-bold tracking-widest" style={{ color: "var(--sentinel-text-tertiary)" }}>
         {title}
       </span>
       <div className="flex-1 h-px" style={{ backgroundColor: "var(--sentinel-border-subtle)" }} />
@@ -255,10 +255,10 @@ function KpiCard({ icon: Icon, label, value, sub, color }: {
     <Card className="flex flex-col items-center gap-1 p-3">
       <Icon size={16} style={{ color }} />
       <span className="font-data text-xl font-bold tabular-nums" style={{ color }}>{value}</span>
-      <span className="text-[9px] font-medium uppercase tracking-wider text-center" style={{ color: "var(--sentinel-text-tertiary)" }}>
+      <span className="text-[10px] font-medium uppercase tracking-wider text-center" style={{ color: "var(--sentinel-text-tertiary)" }}>
         {label}
       </span>
-      <span className="font-data text-[8px] text-center" style={{ color: "var(--sentinel-text-tertiary)" }}>
+      <span className="font-data text-[10px] text-center" style={{ color: "var(--sentinel-text-tertiary)" }}>
         {sub}
       </span>
     </Card>
@@ -272,7 +272,7 @@ function PipelineStep({ step, title, engine, ready, specs }: {
     <div className="flex flex-col gap-1.5">
       <div className="flex items-center gap-2">
         <span
-          className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full font-data text-[9px] font-bold"
+          className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full font-data text-[10px] font-bold"
           style={{ backgroundColor: "var(--sentinel-accent-muted)", color: "var(--sentinel-accent)" }}
         >
           {step}
@@ -284,14 +284,14 @@ function PipelineStep({ step, title, engine, ready, specs }: {
               ? <CheckCircle size={10} style={{ color: "var(--risk-low)" }} />
               : <Clock size={10} style={{ color: "var(--sentinel-text-tertiary)" }} />}
           </div>
-          <span className="font-data text-[9px]" style={{ color: "var(--sentinel-accent)" }}>{engine}</span>
+          <span className="font-data text-[10px]" style={{ color: "var(--sentinel-accent)" }}>{engine}</span>
         </div>
       </div>
       <div className="flex flex-col gap-0.5 pl-7">
         {specs.map((s) => (
           <div key={s} className="flex items-center gap-1">
             <CircleDot size={6} style={{ color: "var(--sentinel-border-subtle)" }} />
-            <span className="text-[10px]" style={{ color: "var(--sentinel-text-secondary)" }}>{s}</span>
+            <span className="text-[11px]" style={{ color: "var(--sentinel-text-secondary)" }}>{s}</span>
           </div>
         ))}
       </div>
@@ -307,9 +307,9 @@ function StatusRow({ label, ok, detail }: { label: string; ok: boolean; detail: 
           className="h-1.5 w-1.5 rounded-full"
           style={{ backgroundColor: ok ? "var(--risk-low)" : "var(--sentinel-text-tertiary)" }}
         />
-        <span className="text-[11px] font-medium" style={{ color: "var(--sentinel-text-secondary)" }}>{label}</span>
+        <span className="text-[12px] font-medium" style={{ color: "var(--sentinel-text-secondary)" }}>{label}</span>
       </div>
-      <span className="font-data text-[10px]" style={{ color: ok ? "var(--risk-low)" : "var(--sentinel-text-tertiary)" }}>
+      <span className="font-data text-[11px]" style={{ color: ok ? "var(--risk-low)" : "var(--sentinel-text-tertiary)" }}>
         {detail}
       </span>
     </div>
@@ -328,24 +328,24 @@ function PredictionRow({ prediction: p }: { prediction: TrackRecordPrediction })
       onMouseEnter={(e) => { e.currentTarget.style.backgroundColor = "var(--sentinel-bg-muted)" }}
       onMouseLeave={(e) => { e.currentTarget.style.backgroundColor = "transparent" }}
     >
-      <span className="font-data text-[11px] font-semibold" style={{ color: "var(--sentinel-text-primary)" }}>
+      <span className="font-data text-[12px] font-semibold" style={{ color: "var(--sentinel-text-primary)" }}>
         {p.country_code}
       </span>
-      <span className="font-data text-[10px] truncate" style={{ color: "var(--sentinel-text-tertiary)" }}>
+      <span className="font-data text-[11px] truncate" style={{ color: "var(--sentinel-text-tertiary)" }}>
         {timeStr}
       </span>
-      <span className="font-data text-[10px] font-semibold" style={{ color: levelColor }}>
+      <span className="font-data text-[11px] font-semibold" style={{ color: levelColor }}>
         {p.risk_level}
       </span>
-      <span className="font-data text-[11px] text-right tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
+      <span className="font-data text-[12px] text-right tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
         {p.risk_score}
       </span>
-      <span className="font-data text-[11px] text-right tabular-nums" style={{ color: "var(--sentinel-text-secondary)" }}>
+      <span className="font-data text-[12px] text-right tabular-nums" style={{ color: "var(--sentinel-text-secondary)" }}>
         {(p.confidence * 100).toFixed(0)}%
       </span>
       <div className="flex justify-center">
         {p.prediction_correct === null ? (
-          <span className="font-data text-[8px] tracking-wider" style={{ color: "var(--sentinel-text-tertiary)" }}>PENDING</span>
+          <span className="font-data text-[10px] tracking-wider" style={{ color: "var(--sentinel-text-tertiary)" }}>PENDING</span>
         ) : p.prediction_correct === 1 ? (
           <CheckCircle size={12} style={{ color: "var(--risk-low)" }} />
         ) : (

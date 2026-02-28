@@ -1,0 +1,625 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Ghana,Ahafo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+Ghana,Ahafo,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+Ghana,Ahafo,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ahafo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+Ghana,Ashanti,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+Ghana,Ashanti,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141035
+Ghana,Ashanti,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,November,2023,0,0,0,0,4.0,0.0,0.0,4.0,1726141035
+Ghana,Ashanti,December,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+Ghana,Ashanti,April,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141035
+Ghana,Ashanti,May,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141035
+Ghana,Ashanti,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141035
+Ghana,Ashanti,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+Ghana,Ashanti,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141035
+Ghana,Bono,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono East,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono East,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono East,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono East,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono East,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141035
+Ghana,Bono East,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Bono East,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Bono East,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Central,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Central,April,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141036
+Ghana,Central,May,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141036
+Ghana,Central,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Ghana,Central,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Central,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Central,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Central,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Ghana,Central,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141036
+Ghana,Central,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Central,January,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,Central,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Central,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Central,April,2024,1,0,0,1,1.0,1.0,0.0,0.0,1726141036
+Ghana,Central,May,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Ghana,Central,June,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141036
+Ghana,Central,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Central,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Eastern,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Ghana,Eastern,August,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141036
+Ghana,Eastern,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,October,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141036
+Ghana,Eastern,November,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,Eastern,April,2024,1,0,0,1,2.0,1.0,0.0,1.0,1726141036
+Ghana,Eastern,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Ghana,Eastern,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Eastern,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Greater Accra,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Ghana,Greater Accra,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Greater Accra,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Greater Accra,June,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141036
+Ghana,Greater Accra,July,2023,1,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Greater Accra,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Ghana,Greater Accra,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Greater Accra,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Greater Accra,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Greater Accra,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Greater Accra,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Greater Accra,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Greater Accra,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Greater Accra,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Greater Accra,May,2024,1,0,0,1,1.0,0.0,1.0,0.0,1726141036
+Ghana,Greater Accra,June,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141036
+Ghana,Greater Accra,July,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141036
+Ghana,Greater Accra,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,March,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,North East,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Ghana,North East,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,North East,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,North East,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,June,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,North East,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,North East,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Northern,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Northern,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Ghana,Northern,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Northern,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,Northern,August,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141036
+Ghana,Oti,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Oti,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Oti,January,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141036
+Ghana,Oti,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,Oti,June,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Oti,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Ghana,Savannah,April,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,June,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141036
+Ghana,Savannah,July,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Savannah,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Savannah,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,April,2023,0,0,0,0,4.0,1.0,0.0,3.0,1726141036
+Ghana,Upper East,May,2023,4,1,0,3,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Upper East,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141036
+Ghana,Upper East,October,2023,2,0,0,2,6.0,2.0,0.0,4.0,1726141036
+Ghana,Upper East,November,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141036
+Ghana,Upper East,December,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141036
+Ghana,Upper East,January,2024,2,0,0,2,4.0,0.0,0.0,4.0,1726141036
+Ghana,Upper East,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,Upper East,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper East,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Upper West,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Ghana,Upper West,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Upper West,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Upper West,June,2024,1,0,0,1,1.0,1.0,0.0,0.0,1726141036
+Ghana,Upper West,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Upper West,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Volta,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Volta,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Volta,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Ghana,Western,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Ghana,Western,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,June,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,Western,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Ghana,Western North,August,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Ghana,Western North,September,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,June,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Ghana,Western North,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Ghana,Western North,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Ghana,Ahafo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Ashanti,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730988
+Ghana,Bono,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Bono East,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Central,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730988
+Ghana,Eastern,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Greater Accra,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,North East,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Northern,September,2024,1,1,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Oti,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Savannah,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Upper East,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730988
+Ghana,Upper West,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Volta,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Western,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Western North,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ghana,Ahafo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Ahafo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Ashanti,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010282
+Ghana,Ashanti,November,2024,1,0,0,1,3.0,0.0,0.0,3.0,1734010282
+Ghana,Bono,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Bono,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010282
+Ghana,Bono East,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Bono East,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Central,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Central,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Eastern,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Eastern,November,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010282
+Ghana,Greater Accra,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Greater Accra,November,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010282
+Ghana,North East,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010282
+Ghana,North East,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010282
+Ghana,Northern,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Northern,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Oti,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Oti,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Savannah,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Savannah,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010282
+Ghana,Upper East,October,2024,1,0,0,1,4.0,3.0,0.0,1.0,1734010282
+Ghana,Upper East,November,2024,2,1,0,1,8.0,3.0,0.0,5.0,1734010282
+Ghana,Upper West,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Upper West,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Volta,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Volta,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Western,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Western,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Western North,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Western North,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Ghana,Ahafo,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033344
+Ghana,Ashanti,December,2024,3,0,0,3,2.0,0.0,0.0,2.0,1737033344
+Ghana,Bono,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033344
+Ghana,Bono East,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033344
+Ghana,Central,December,2024,0,0,0,0,2.0,1.0,0.0,1.0,1737033344
+Ghana,Eastern,December,2024,2,1,0,1,4.0,1.0,0.0,3.0,1737033344
+Ghana,Greater Accra,December,2024,2,1,0,1,7.0,1.0,0.0,6.0,1737033344
+Ghana,North East,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033344
+Ghana,Northern,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+Ghana,Oti,December,2024,0,0,0,0,3.0,0.0,0.0,3.0,1737033344
+Ghana,Savannah,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033344
+Ghana,Upper East,December,2024,8,3,0,5,3.0,3.0,0.0,0.0,1737033344
+Ghana,Upper West,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+Ghana,Volta,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+Ghana,Western,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033344
+Ghana,Western North,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+Ghana,Ahafo,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854850
+Ghana,Ashanti,January,2025,2,0,0,2,5.0,4.0,0.0,1.0,1738854850
+Ghana,Bono,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Ghana,Bono East,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854850
+Ghana,Central,January,2025,2,1,0,1,0.0,0.0,0.0,0.0,1738854850
+Ghana,Eastern,January,2025,3,1,0,2,0.0,0.0,0.0,0.0,1738854850
+Ghana,Greater Accra,January,2025,6,1,0,5,0.0,0.0,0.0,0.0,1738854850
+Ghana,North East,January,2025,1,0,0,1,2.0,0.0,0.0,2.0,1738854850
+Ghana,Northern,January,2025,0,0,0,0,2.0,2.0,0.0,0.0,1738854850
+Ghana,Oti,January,2025,2,0,0,2,0.0,0.0,0.0,0.0,1738854850
+Ghana,Savannah,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Ghana,Upper East,January,2025,4,3,0,1,3.0,2.0,0.0,1.0,1738854850
+Ghana,Upper West,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Ghana,Volta,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Ghana,Western,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854850
+Ghana,Western North,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854850
+Ghana,Ahafo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+Ghana,Ashanti,February,2025,5,4,0,1,0.0,0.0,0.0,0.0,1741266619
+Ghana,Bono,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266619
+Ghana,Bono East,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266619
+Ghana,Central,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,Eastern,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,Greater Accra,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,North East,February,2025,2,0,0,2,6.0,0.0,0.0,6.0,1741266620
+Ghana,Northern,February,2025,2,2,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,Oti,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,Savannah,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,Upper East,February,2025,3,2,0,1,2.0,1.0,0.0,1.0,1741266620
+Ghana,Upper West,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,Volta,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,Western,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Ghana,Western North,February,2025,1,1,0,0,1.0,0.0,0.0,1.0,1741266620
+Ghana,Ahafo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Ghana,Ashanti,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287543
+Ghana,Bono,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Ghana,Bono East,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Ghana,Central,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Ghana,Eastern,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Ghana,Greater Accra,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Ghana,North East,March,2025,4,0,0,4,1.0,0.0,0.0,1.0,1744287543
+Ghana,Northern,March,2025,0,0,0,0,2.0,2.0,0.0,0.0,1744287543
+Ghana,Oti,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Ghana,Savannah,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Ghana,Upper East,March,2025,2,1,0,1,6.0,1.0,0.0,5.0,1744287543
+Ghana,Upper West,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Ghana,Volta,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Ghana,Western,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Ghana,Western North,March,2025,1,0,0,1,1.0,1.0,0.0,0.0,1744287543
+Ghana,Ahafo,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702912
+Ghana,Ashanti,April,2025,2,0,0,2,3.0,0.0,0.0,3.0,1746702912
+Ghana,Bono,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ghana,Bono East,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ghana,Central,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702912
+Ghana,Eastern,April,2025,1,0,0,1,1.0,1.0,0.0,0.0,1746702912
+Ghana,Greater Accra,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ghana,North East,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702912
+Ghana,Northern,April,2025,2,2,0,0,0.0,0.0,0.0,0.0,1746702912
+Ghana,Oti,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ghana,Savannah,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ghana,Upper East,April,2025,6,1,0,5,7.0,3.0,0.0,4.0,1746702912
+Ghana,Upper West,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702912
+Ghana,Volta,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702912
+Ghana,Western,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ghana,Western North,April,2025,1,1,0,0,0.0,0.0,0.0,0.0,1746702912
+Ghana,Ahafo,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732012
+Ghana,Ashanti,May,2025,4,1,0,3,0.0,0.0,0.0,0.0,1749732012
+Ghana,Bono,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Bono East,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Central,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732012
+Ghana,Eastern,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732012
+Ghana,Greater Accra,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,North East,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Northern,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Oti,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Savannah,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Upper East,May,2025,6,2,0,4,1.0,0.0,0.0,1.0,1749732012
+Ghana,Upper West,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Volta,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Western,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Western North,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ghana,Ahafo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Ahafo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Ahafo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ghana,Ahafo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ghana,Ahafo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ghana,Ahafo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,Ahafo,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Ashanti,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Ghana,Ashanti,July,2025,1,1,0,0,3.0,0.0,0.0,3.0,1754429217
+Ghana,Ashanti,August,2025,2,0,0,2,2.0,2.0,0.0,0.0,1757596698
+Ghana,Ashanti,September,2025,2,2,0,0,0.0,0.0,0.0,0.0,1760036046
+Ghana,Ashanti,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Ghana,Ashanti,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Ghana,Ashanti,December,2025,1,0,0,1,,,,,1765375966
+Ghana,Bono,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Bono,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Bono,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Ghana,Bono,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Ghana,Bono,October,2025,0,0,0,0,2.0,2.0,0.0,0.0,1762435626
+Ghana,Bono,November,2025,2,2,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,Bono,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Bono East,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Bono East,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Bono East,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ghana,Bono East,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ghana,Bono East,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ghana,Bono East,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Ghana,Bono East,December,2025,1,0,0,1,,,,,1765375966
+Ghana,Central,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Central,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Central,August,2025,0,0,0,0,2.0,1.0,0.0,1.0,1757596698
+Ghana,Central,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Ghana,Central,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ghana,Central,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,Central,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Eastern,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Ghana,Eastern,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Eastern,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ghana,Eastern,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Ghana,Eastern,October,2025,1,0,0,1,2.0,1.0,0.0,1.0,1762435626
+Ghana,Eastern,November,2025,2,1,0,1,1.0,0.0,0.0,1.0,1765375966
+Ghana,Eastern,December,2025,1,0,0,1,,,,,1765375966
+Ghana,Greater Accra,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Ghana,Greater Accra,July,2025,1,1,0,0,1.0,0.0,0.0,1.0,1754429217
+Ghana,Greater Accra,August,2025,1,0,0,1,3.0,3.0,0.0,0.0,1757596698
+Ghana,Greater Accra,September,2025,2,2,0,0,0.0,0.0,0.0,0.0,1760036046
+Ghana,Greater Accra,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Ghana,Greater Accra,November,2025,2,0,0,2,0.0,0.0,0.0,0.0,1765375966
+Ghana,Greater Accra,December,2025,0,0,0,0,,,,,1765375966
+Ghana,North East,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,North East,July,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Ghana,North East,August,2025,2,0,0,2,0.0,0.0,0.0,0.0,1757596698
+Ghana,North East,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ghana,North East,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Ghana,North East,November,2025,1,1,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,North East,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Northern,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Northern,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Northern,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ghana,Northern,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ghana,Northern,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ghana,Northern,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,Northern,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Oti,June,2025,0,0,0,0,3.0,2.0,0.0,1.0,1754429217
+Ghana,Oti,July,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Ghana,Oti,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ghana,Oti,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Ghana,Oti,October,2025,1,0,0,1,2.0,0.0,0.0,2.0,1762435626
+Ghana,Oti,November,2025,2,0,0,2,0.0,0.0,0.0,0.0,1765375966
+Ghana,Oti,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Savannah,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Savannah,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Savannah,August,2025,0,0,0,0,5.0,3.0,0.0,2.0,1757596698
+Ghana,Savannah,September,2025,3,2,0,1,2.0,2.0,0.0,0.0,1760036046
+Ghana,Savannah,October,2025,3,2,0,1,0.0,0.0,0.0,0.0,1762435626
+Ghana,Savannah,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,Savannah,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Upper East,June,2025,1,0,0,1,1.0,1.0,0.0,0.0,1754429217
+Ghana,Upper East,July,2025,1,1,0,0,4.0,1.0,0.0,3.0,1754429217
+Ghana,Upper East,August,2025,4,1,0,3,1.0,0.0,0.0,1.0,1757596698
+Ghana,Upper East,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Ghana,Upper East,October,2025,0,0,0,0,6.0,0.0,0.0,6.0,1762435626
+Ghana,Upper East,November,2025,4,0,0,4,3.0,1.0,0.0,2.0,1765375966
+Ghana,Upper East,December,2025,3,1,0,2,,,,,1765375966
+Ghana,Upper West,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Upper West,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Upper West,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Ghana,Upper West,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Ghana,Upper West,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ghana,Upper West,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,Upper West,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Volta,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Volta,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Volta,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ghana,Volta,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ghana,Volta,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ghana,Volta,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,Volta,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Western,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Western,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Western,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ghana,Western,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Ghana,Western,October,2025,2,1,0,1,1.0,1.0,0.0,0.0,1762435626
+Ghana,Western,November,2025,1,1,0,0,0.0,0.0,0.0,0.0,1765375966
+Ghana,Western,December,2025,0,0,0,0,,,,,1765375966
+Ghana,Western North,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ghana,Western North,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Ghana,Western North,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Ghana,Western North,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ghana,Western North,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ghana,Western North,November,2025,0,0,0,0,1.0,1.0,0.0,0.0,1765375966
+Ghana,Western North,December,2025,2,1,0,1,,,,,1765375966
+Ghana,Ahafo,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Ashanti,January,2026,1,0,0,1,,,,,1765375966
+Ghana,Bono,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Bono East,January,2026,1,0,0,1,,,,,1765375966
+Ghana,Central,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Eastern,January,2026,1,0,0,1,,,,,1765375966
+Ghana,Greater Accra,January,2026,0,0,0,0,,,,,1765375966
+Ghana,North East,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Northern,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Oti,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Savannah,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Upper East,January,2026,3,1,0,2,,,,,1765375966
+Ghana,Upper West,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Volta,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Western,January,2026,0,0,0,0,,,,,1765375966
+Ghana,Western North,January,2026,2,1,0,1,,,,,1765375966
+Ghana,Ahafo,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Ashanti,February,2026,1,0,0,1,,,,,1765375966
+Ghana,Bono,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Bono East,February,2026,1,0,0,1,,,,,1765375966
+Ghana,Central,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Eastern,February,2026,1,0,0,1,,,,,1765375966
+Ghana,Greater Accra,February,2026,0,0,0,0,,,,,1765375966
+Ghana,North East,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Northern,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Oti,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Savannah,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Upper East,February,2026,3,1,0,2,,,,,1765375966
+Ghana,Upper West,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Volta,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Western,February,2026,0,0,0,0,,,,,1765375966
+Ghana,Western North,February,2026,2,1,0,1,,,,,1765375966
+Ghana,Ahafo,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Ashanti,March,2026,1,0,0,1,,,,,1765375966
+Ghana,Bono,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Bono East,March,2026,1,0,0,1,,,,,1765375966
+Ghana,Central,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Eastern,March,2026,1,0,0,1,,,,,1765375966
+Ghana,Greater Accra,March,2026,0,0,0,0,,,,,1765375966
+Ghana,North East,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Northern,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Oti,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Savannah,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Upper East,March,2026,3,1,0,2,,,,,1765375966
+Ghana,Upper West,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Volta,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Western,March,2026,0,0,0,0,,,,,1765375966
+Ghana,Western North,March,2026,2,1,0,1,,,,,1765375966
+Ghana,Ahafo,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Ashanti,April,2026,1,0,0,1,,,,,1765375966
+Ghana,Bono,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Bono East,April,2026,1,0,0,1,,,,,1765375966
+Ghana,Central,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Eastern,April,2026,1,0,0,1,,,,,1765375966
+Ghana,Greater Accra,April,2026,0,0,0,0,,,,,1765375966
+Ghana,North East,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Northern,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Oti,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Savannah,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Upper East,April,2026,3,1,0,2,,,,,1765375966
+Ghana,Upper West,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Volta,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Western,April,2026,0,0,0,0,,,,,1765375966
+Ghana,Western North,April,2026,2,1,0,1,,,,,1765375966
+Ghana,Ahafo,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Ashanti,May,2026,1,0,0,1,,,,,1765375966
+Ghana,Bono,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Bono East,May,2026,1,0,0,1,,,,,1765375966
+Ghana,Central,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Eastern,May,2026,1,0,0,1,,,,,1765375966
+Ghana,Greater Accra,May,2026,0,0,0,0,,,,,1765375966
+Ghana,North East,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Northern,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Oti,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Savannah,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Upper East,May,2026,3,1,0,2,,,,,1765375966
+Ghana,Upper West,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Volta,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Western,May,2026,0,0,0,0,,,,,1765375966
+Ghana,Western North,May,2026,2,1,0,1,,,,,1765375966

@@ -13,7 +13,7 @@ from backend.ml.data.fetch_acled import compute_acled_features
 from backend.ml.data.fetch_ucdp import compute_ucdp_features
 from backend.ml.data.fetch_world_bank import fetch_world_bank_features
 
-# --- Exact 47 feature keys (ML Guide Section 3.2) ---
+# --- 57 feature keys (expanded with governance, CAST forecasts, enriched ACLED) ---
 FEATURE_COLUMNS = [
     # GDELT (10)
     "gdelt_goldstein_mean",
@@ -26,7 +26,7 @@ FEATURE_COLUMNS = [
     "gdelt_event_acceleration",
     "gdelt_mention_weighted_tone",
     "gdelt_volatility",
-    # ACLED (10)
+    # ACLED (13) — expanded with civilian targeting, riots, state repression
     "acled_fatalities_30d",
     "acled_battle_count",
     "acled_civilian_violence",
@@ -37,13 +37,16 @@ FEATURE_COLUMNS = [
     "acled_event_acceleration",
     "acled_unique_actors",
     "acled_geographic_spread",
+    "acled_civilian_targeting",
+    "acled_riot_count",
+    "acled_state_force_events",
     # UCDP (5)
     "ucdp_total_deaths",
     "ucdp_state_conflict_years",
     "ucdp_civilian_deaths",
     "ucdp_conflict_intensity",
     "ucdp_recurrence_rate",
-    # World Bank (10)
+    # World Bank Economics (10)
     "wb_gdp_growth_latest",
     "wb_gdp_growth_trend",
     "wb_inflation_latest",
@@ -54,6 +57,17 @@ FEATURE_COLUMNS = [
     "wb_fdi_trend",
     "wb_military_spend",
     "econ_composite_score",
+    # World Bank Governance (6) — political stability, rule of law, corruption
+    "wgi_political_stability",
+    "wgi_rule_of_law",
+    "wgi_corruption_control",
+    "wgi_govt_effectiveness",
+    "wgi_voice_accountability",
+    "wgi_regulatory_quality",
+    # CAST Conflict Forecasts (3) — ACLED's ML-based violence predictions
+    "cast_total_forecast",
+    "cast_battles_forecast",
+    "cast_vac_forecast",
     # Sentiment (7)
     "finbert_negative_score",
     "finbert_positive_score",
@@ -62,10 +76,8 @@ FEATURE_COLUMNS = [
     "headline_escalatory_pct",
     "media_negativity_index",
     "sentiment_trend_7d",
-    # Derived (5)
-    "anomaly_score",
+    # Derived (3)
     "conflict_composite",
-    "political_risk_score",
     "humanitarian_score",
     "economic_stress_score",
 ]
@@ -155,6 +167,66 @@ EMPTY_SENTIMENT = {
     "sentiment_trend_7d": 0.0,
 }
 
+# --- Governance & CAST data caches (loaded once) ---
+_governance_cache: dict | None = None
+_cast_cache: dict | None = None
+
+
+def _load_governance() -> dict:
+    """Load World Bank Governance Indicators (WGI) from data/world_bank_governance/governance_all.json."""
+    global _governance_cache
+    if _governance_cache is not None:
+        return _governance_cache
+    path = _repo_root() / "data" / "world_bank_governance" / "governance_all.json"
+    if path.exists():
+        with open(path, encoding="utf-8") as f:
+            _governance_cache = json.load(f)
+    else:
+        _governance_cache = {}
+    return _governance_cache
+
+
+def _load_cast() -> dict:
+    """Load ACLED CAST conflict forecasts. Returns {country_name: {total_forecast, battles_forecast, vac_forecast}}."""
+    global _cast_cache
+    if _cast_cache is not None:
+        return _cast_cache
+    cast_path = _repo_root() / "data" / "acled_cast" / "cast_all.json"
+    if cast_path.exists():
+        with open(cast_path, encoding="utf-8") as f:
+            raw = json.load(f)
+        # Aggregate: latest forecast per country (country-level, most recent timestamp)
+        country_latest: dict[str, dict] = {}
+        for rec in raw:
+            country = rec.get("country", "")
+            admin1 = rec.get("admin1", "")
+            # Skip admin1-level records; we want country totals
+            # Country-level records typically have admin1 == "" or same as country
+            ts = rec.get("timestamp", 0)
+            if country not in country_latest or ts > country_latest[country].get("_ts", 0):
+                country_latest[country] = {
+                    "total_forecast": _safe_float(rec.get("total_forecast")),
+                    "battles_forecast": _safe_float(rec.get("battles_forecast")),
+                    "vac_forecast": _safe_float(rec.get("vac_forecast")),
+                    "_ts": ts,
+                }
+        # Sum admin1 forecasts for more accurate country totals
+        from collections import defaultdict
+        country_sums: dict[str, dict] = defaultdict(lambda: {"total_forecast": 0.0, "battles_forecast": 0.0, "vac_forecast": 0.0, "_ts": 0})
+        for rec in raw:
+            country = rec.get("country", "")
+            ts = rec.get("timestamp", 0)
+            # Only use most recent timestamp batch per country
+            if ts >= country_latest.get(country, {}).get("_ts", 0):
+                country_sums[country]["total_forecast"] += _safe_float(rec.get("total_forecast"))
+                country_sums[country]["battles_forecast"] += _safe_float(rec.get("battles_forecast"))
+                country_sums[country]["vac_forecast"] += _safe_float(rec.get("vac_forecast"))
+                country_sums[country]["_ts"] = ts
+        _cast_cache = dict(country_sums)
+    else:
+        _cast_cache = {}
+    return _cast_cache
+
 
 def _repo_root() -> Path:
     """Repo root (backend/ml/pipeline.py -> parents[2])."""
@@ -183,7 +255,7 @@ def _safe_int(x) -> int:
 
 class SentinelFeaturePipeline:
     """
-    Builds a single 47-feature vector per country from GDELT, ACLED, UCDP, World Bank, and sentiment.
+    Builds a 57-feature vector per country from GDELT, ACLED, UCDP, World Bank, WGI, CAST, and sentiment.
     """
 
     def __init__(self, country_code: str, country_name: str):
@@ -206,16 +278,16 @@ class SentinelFeaturePipeline:
         finbert_results: dict | None = None,
     ) -> dict:
         """
-        Merge all data source features into one dict with exactly 47 feature keys.
-        Replaces None with 0/0.0. Includes country_code and computed_at.
+        Merge all data source features into one dict with exactly 57 feature keys.
+        Sources: GDELT, ACLED, UCDP, World Bank, WGI governance, CAST forecasts, sentiment.
         """
         # GDELT (10) — 90 days captures recent trends and acceleration
         gdelt_features = compute_gdelt_features(gdelt_df, window_days=90)
-        # ACLED (10) — full history for full conflict picture
+        # ACLED (13) — full history for full conflict picture
         acled_features = compute_acled_features(acled_df, window_days=99999)
         # UCDP (5)
         ucdp_features = compute_ucdp_features(ucdp_df, window_years=5)
-        # World Bank (10) — already wb_-prefixed from fetch_world_bank_features
+        # World Bank Economics (10) — already wb_-prefixed from fetch_world_bank_features
         wb = dict(wb_features) if wb_features else {}
         # Sentiment (7)
         sentiment = dict(finbert_results) if finbert_results else EMPTY_SENTIMENT.copy()
@@ -223,15 +295,39 @@ class SentinelFeaturePipeline:
             if k not in sentiment or sentiment[k] is None:
                 sentiment[k] = EMPTY_SENTIMENT[k]
 
-        # Merge; only keys in FEATURE_COLUMNS
+        # World Bank Governance Indicators (6) — WGI data
+        governance = _load_governance()
+        gov = governance.get(self.iso3, {})
+        wgi_features = {
+            "wgi_political_stability": _safe_float(gov.get("political_stability")),
+            "wgi_rule_of_law": _safe_float(gov.get("rule_of_law")),
+            "wgi_corruption_control": _safe_float(gov.get("corruption_control")),
+            "wgi_govt_effectiveness": _safe_float(gov.get("govt_effectiveness")),
+            "wgi_voice_accountability": _safe_float(gov.get("voice_accountability")),
+            "wgi_regulatory_quality": _safe_float(gov.get("regulatory_quality")),
+        }
+
+        # ACLED CAST Conflict Forecasts (3)
+        cast_data = _load_cast()
+        # CAST uses country names, match via acled_name
+        cast = cast_data.get(self.acled_name, {})
+        cast_features = {
+            "cast_total_forecast": _safe_float(cast.get("total_forecast")),
+            "cast_battles_forecast": _safe_float(cast.get("battles_forecast")),
+            "cast_vac_forecast": _safe_float(cast.get("vac_forecast")),
+        }
+
+        # Merge all sources
         f = {}
         f.update(gdelt_features)
         f.update(acled_features)
         f.update(ucdp_features)
         f.update({k: wb.get(k) for k in FEATURE_COLUMNS if k.startswith("wb_") or k == "econ_composite_score"})
+        f.update(wgi_features)
+        f.update(cast_features)
         f.update({k: sentiment.get(k, EMPTY_SENTIMENT[k]) for k in EMPTY_SENTIMENT})
 
-        # Derived (5)
+        # Derived (3)
         derived = self._derived_features(f)
         f.update(derived)
 
@@ -240,7 +336,8 @@ class SentinelFeaturePipeline:
             "gdelt_event_count", "acled_battle_count", "acled_civilian_violence",
             "acled_explosion_count", "acled_protest_count", "acled_event_count_90d",
             "acled_unique_actors", "acled_geographic_spread", "ucdp_state_conflict_years",
-            "headline_volume",
+            "headline_volume", "acled_civilian_targeting", "acled_riot_count",
+            "acled_state_force_events",
         }
         out = {}
         for k in FEATURE_COLUMNS:
@@ -249,31 +346,39 @@ class SentinelFeaturePipeline:
                 v = 0 if k in int_keys else 0.0
             out[k] = _safe_int(v) if k in int_keys else _safe_float(v)
 
-        # Validation: exactly 47 keys
+        # Validation
         missing = set(FEATURE_COLUMNS) - set(out.keys())
         if missing:
             raise ValueError(f"Missing feature keys: {missing}")
 
         out["country_code"] = self.country_code
         out["computed_at"] = datetime.now(tz=timezone.utc).isoformat()
+        # Extra metadata for downstream code (not training features)
+        out["anomaly_score"] = 0.0  # overridden by anomaly detector in main.py
+        out["political_risk_score"] = out.get("conflict_composite", 0.0)
         return out
 
     def _derived_features(self, f: dict) -> dict:
-        """Five derived/composite features (ML Guide Section 4)."""
+        """Three derived composite features."""
         conflict_composite = min(
             100,
             (
-                _safe_float(f.get("acled_fatalities_30d", 0)) / 200 * 40
-                + _safe_int(f.get("acled_battle_count", 0)) / 50 * 30
-                + max(0, -_safe_float(f.get("gdelt_goldstein_mean", 0))) / 10 * 30
+                _safe_float(f.get("acled_fatalities_30d", 0)) / 200 * 30
+                + _safe_int(f.get("acled_battle_count", 0)) / 50 * 20
+                + _safe_int(f.get("acled_civilian_violence", 0)) / 100 * 20
+                + max(0, -_safe_float(f.get("gdelt_goldstein_mean", 0))) / 10 * 15
+                + _safe_float(f.get("cast_total_forecast", 0)) / 500 * 15
             ),
         )
-        humanitarian = min(100, _safe_float(f.get("ucdp_civilian_deaths", 0)) / 100 * 50)
+        humanitarian = min(
+            100,
+            _safe_float(f.get("ucdp_civilian_deaths", 0)) / 100 * 30
+            + _safe_int(f.get("acled_civilian_targeting", 0)) / 50 * 30
+            + max(0, -_safe_float(f.get("wgi_political_stability", 0))) / 2.5 * 40
+        )
         econ = _safe_float(f.get("econ_composite_score", 0))
         return {
-            "anomaly_score": 0.0,
             "conflict_composite": round(conflict_composite, 2),
-            "political_risk_score": round(conflict_composite, 2),
             "humanitarian_score": round(humanitarian, 2),
             "economic_stress_score": round(econ, 2),
         }

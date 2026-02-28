@@ -1,7 +1,7 @@
 import { memo } from "react"
 import type { Alert } from "@/types"
 import { riskColor, riskMutedColor, timeAgo } from "@/lib/risk"
-import { AlertTriangle, TrendingUp, ArrowUpRight, Activity } from "lucide-react"
+import { AlertTriangle, TrendingUp, ArrowUpRight, Activity, Skull, Ship, BarChart3, Landmark } from "lucide-react"
 
 interface AlertFeedProps {
   alerts: Alert[]
@@ -12,6 +12,10 @@ const alertIcons: Record<Alert["type"], typeof AlertTriangle> = {
   SCORE_SPIKE: TrendingUp,
   TIER_CHANGE: ArrowUpRight,
   FORECAST_SHIFT: TrendingUp,
+  FATALITY_SPIKE: Skull,
+  ROUTE_DISRUPTION: Ship,
+  FORECAST_ESCALATION: BarChart3,
+  GOVERNANCE_ALERT: Landmark,
 }
 
 export function AlertFeed({ alerts }: AlertFeedProps) {
@@ -21,10 +25,11 @@ export function AlertFeed({ alerts }: AlertFeedProps) {
 
   return (
     <div
-      className="flex min-h-0 flex-1 flex-col rounded-md border"
+      className="flex flex-col rounded-md border"
       style={{
         backgroundColor: "var(--sentinel-bg-surface)",
         borderColor: "var(--sentinel-border-subtle)",
+        maxHeight: 340,
       }}
     >
       {/* Header */}
@@ -38,14 +43,14 @@ export function AlertFeed({ alerts }: AlertFeedProps) {
             style={{ backgroundColor: "var(--risk-critical)" }}
           />
           <span
-            className="text-[10px] font-semibold uppercase tracking-wider"
+            className="text-[11px] font-semibold uppercase tracking-wider"
             style={{ color: "var(--sentinel-text-tertiary)" }}
           >
             Live Alerts
           </span>
         </div>
         <span
-          className="font-data text-[10px]"
+          className="font-data text-[11px]"
           style={{ color: "var(--sentinel-text-tertiary)" }}
         >
           {alerts.length} ACTIVE
@@ -63,7 +68,7 @@ export function AlertFeed({ alerts }: AlertFeedProps) {
 }
 
 const AlertRow = memo(function AlertRow({ alert }: { alert: Alert }) {
-  const Icon = alertIcons[alert.type]
+  const Icon = alertIcons[alert.type] ?? AlertTriangle
 
   return (
     <div
@@ -90,14 +95,14 @@ const AlertRow = memo(function AlertRow({ alert }: { alert: Alert }) {
           {alert.title}
         </span>
         <span
-          className="text-[10px] leading-tight line-clamp-2"
+          className="text-[11px] leading-tight line-clamp-2"
           style={{ color: "var(--sentinel-text-secondary)" }}
         >
           {alert.description}
         </span>
         <div className="flex items-center gap-2 mt-0.5">
           <span
-            className="rounded px-1 py-px font-data text-[8px] font-semibold"
+            className="rounded px-1 py-px font-data text-[10px] font-semibold"
             style={{
               backgroundColor: riskMutedColor[alert.severity],
               color: riskColor[alert.severity],
@@ -106,13 +111,13 @@ const AlertRow = memo(function AlertRow({ alert }: { alert: Alert }) {
             {alert.severity}
           </span>
           <span
-            className="font-data text-[10px]"
+            className="font-data text-[11px]"
             style={{ color: "var(--sentinel-text-tertiary)" }}
           >
             {alert.countryName}
           </span>
           <span
-            className="font-data text-[10px]"
+            className="font-data text-[11px]"
             style={{ color: "var(--sentinel-text-tertiary)" }}
           >
             {timeAgo(alert.timestamp)}

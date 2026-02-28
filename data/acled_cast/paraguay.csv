@@ -1,0 +1,703 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Paraguay,Alto Paraguay,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Paraguay,Alto Paraguay,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Paraguay,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Paraguay,Alto Parana,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Alto Parana,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,June,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141068
+Paraguay,Amambay,July,2023,2,2,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141068
+Paraguay,Amambay,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Amambay,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141068
+Paraguay,Asuncion,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Paraguay,Asuncion,May,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141068
+Paraguay,Asuncion,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Asuncion,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Boqueron,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caaguazu,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Paraguay,Caazapa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Caazapa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Canindeyu,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Central,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Concepcion,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Cordillera,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Guaira,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Itapua,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Misiones,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Neembucu,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Paraguari,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Presidente Hayes,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,San Pedro,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141069
+Paraguay,Alto Paraguay,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Alto Parana,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Amambay,September,2024,1,1,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Asuncion,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Boqueron,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Caaguazu,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Caazapa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Canindeyu,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Central,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Concepcion,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Cordillera,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Guaira,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Itapua,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Misiones,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Neembucu,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Paraguari,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Presidente Hayes,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,San Pedro,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Paraguay,Alto Paraguay,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Alto Paraguay,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Alto Parana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Alto Parana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Amambay,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Amambay,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Asuncion,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Asuncion,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Boqueron,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Boqueron,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Caaguazu,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Caaguazu,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Caazapa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Caazapa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Canindeyu,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Canindeyu,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Central,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Central,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Concepcion,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Concepcion,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Cordillera,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Cordillera,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Guaira,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Guaira,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Itapua,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Itapua,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Misiones,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Misiones,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Neembucu,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Neembucu,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Paraguari,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Paraguari,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Presidente Hayes,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Presidente Hayes,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,San Pedro,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,San Pedro,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Paraguay,Alto Paraguay,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Alto Parana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Amambay,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033362
+Paraguay,Asuncion,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Boqueron,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Caaguazu,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Caazapa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Canindeyu,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Central,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Concepcion,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Cordillera,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Guaira,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Itapua,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Misiones,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Neembucu,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Paraguay,Paraguari,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033363
+Paraguay,Presidente Hayes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033363
+Paraguay,San Pedro,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033363
+Paraguay,Alto Paraguay,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Alto Parana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Amambay,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Asuncion,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Boqueron,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Caaguazu,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Caazapa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Canindeyu,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Central,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Concepcion,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Cordillera,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Guaira,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Itapua,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Misiones,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Neembucu,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Paraguari,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Presidente Hayes,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,San Pedro,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854863
+Paraguay,Alto Paraguay,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Alto Parana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Amambay,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Asuncion,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Boqueron,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Caaguazu,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Caazapa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Canindeyu,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Central,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Concepcion,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Cordillera,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Guaira,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Itapua,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Misiones,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Neembucu,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Paraguari,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Presidente Hayes,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,San Pedro,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266633
+Paraguay,Alto Paraguay,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Alto Parana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Amambay,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Asuncion,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Boqueron,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Caaguazu,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Caazapa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Canindeyu,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Central,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Concepcion,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Cordillera,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Guaira,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Itapua,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Misiones,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Neembucu,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Paraguari,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Presidente Hayes,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,San Pedro,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Paraguay,Alto Paraguay,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Alto Parana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Amambay,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Asuncion,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Boqueron,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Caaguazu,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Caazapa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Canindeyu,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Central,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Concepcion,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Cordillera,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Guaira,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Itapua,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Misiones,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Neembucu,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Paraguari,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Presidente Hayes,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,San Pedro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Paraguay,Alto Paraguay,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Alto Parana,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Amambay,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Asuncion,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Boqueron,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Caaguazu,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Caazapa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Canindeyu,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Central,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Concepcion,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Cordillera,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Guaira,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Itapua,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Misiones,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Neembucu,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Paraguari,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Presidente Hayes,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,San Pedro,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732022
+Paraguay,Alto Paraguay,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Alto Paraguay,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Alto Paraguay,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Alto Paraguay,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Alto Paraguay,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Alto Paraguay,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Alto Paraguay,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Alto Parana,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Alto Parana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Alto Parana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Alto Parana,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Alto Parana,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Alto Parana,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Alto Parana,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Amambay,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Amambay,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Amambay,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Amambay,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Amambay,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Amambay,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Amambay,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Asuncion,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Asuncion,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Asuncion,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Asuncion,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Asuncion,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Asuncion,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Asuncion,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Boqueron,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Boqueron,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Boqueron,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Boqueron,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Boqueron,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Boqueron,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Boqueron,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Caaguazu,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Caaguazu,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Caaguazu,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Caaguazu,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Caaguazu,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Caaguazu,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Caaguazu,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Caazapa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Caazapa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Caazapa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Caazapa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Caazapa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Caazapa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Caazapa,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Canindeyu,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Canindeyu,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Canindeyu,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Canindeyu,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Canindeyu,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Paraguay,Canindeyu,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Canindeyu,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Central,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Central,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Central,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Central,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Central,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Central,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Central,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Concepcion,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Concepcion,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Concepcion,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Concepcion,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Concepcion,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Concepcion,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Concepcion,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Cordillera,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Cordillera,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Cordillera,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Cordillera,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Cordillera,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Cordillera,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Cordillera,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Guaira,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Guaira,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Guaira,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Guaira,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Guaira,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Guaira,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Guaira,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Itapua,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Itapua,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Itapua,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Itapua,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Itapua,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Itapua,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Itapua,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Misiones,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Misiones,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Misiones,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Misiones,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Misiones,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Misiones,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Misiones,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Neembucu,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Neembucu,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Neembucu,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Neembucu,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Neembucu,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Neembucu,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Neembucu,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Paraguari,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Paraguari,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Paraguari,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Paraguari,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Paraguari,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Paraguari,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Paraguari,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Presidente Hayes,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Presidente Hayes,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,Presidente Hayes,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,Presidente Hayes,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,Presidente Hayes,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,Presidente Hayes,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,Presidente Hayes,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,San Pedro,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,San Pedro,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Paraguay,San Pedro,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Paraguay,San Pedro,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Paraguay,San Pedro,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Paraguay,San Pedro,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Paraguay,San Pedro,December,2025,0,0,0,0,,,,,1765375966
+Paraguay,Alto Paraguay,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Parana,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Amambay,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Asuncion,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Boqueron,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caaguazu,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caazapa,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Canindeyu,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Central,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Concepcion,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Cordillera,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Guaira,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Itapua,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Misiones,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Neembucu,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Paraguari,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Presidente Hayes,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,San Pedro,January,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Paraguay,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Parana,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Amambay,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Asuncion,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Boqueron,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caaguazu,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caazapa,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Canindeyu,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Central,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Concepcion,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Cordillera,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Guaira,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Itapua,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Misiones,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Neembucu,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Paraguari,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Presidente Hayes,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,San Pedro,February,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Paraguay,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Parana,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Amambay,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Asuncion,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Boqueron,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caaguazu,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caazapa,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Canindeyu,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Central,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Concepcion,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Cordillera,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Guaira,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Itapua,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Misiones,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Neembucu,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Paraguari,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Presidente Hayes,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,San Pedro,March,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Paraguay,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Parana,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Amambay,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Asuncion,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Boqueron,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caaguazu,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caazapa,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Canindeyu,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Central,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Concepcion,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Cordillera,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Guaira,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Itapua,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Misiones,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Neembucu,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Paraguari,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Presidente Hayes,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,San Pedro,April,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Paraguay,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Alto Parana,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Amambay,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Asuncion,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Boqueron,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caaguazu,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Caazapa,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Canindeyu,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Central,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Concepcion,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Cordillera,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Guaira,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Itapua,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Misiones,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Neembucu,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Paraguari,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,Presidente Hayes,May,2026,0,0,0,0,,,,,1765375966
+Paraguay,San Pedro,May,2026,0,0,0,0,,,,,1765375966

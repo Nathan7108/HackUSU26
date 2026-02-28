@@ -85,66 +85,66 @@
 
 /* ============================================
    DARK THEME
-   Blue-slate palette built from #404D68.
-   Not too dark — readable, modern, Palantir feel.
+   Deep blue-slate palette. Darker, moodier Palantir feel
+   while keeping blue undertones and readable contrast.
    ============================================ */
 .dark {
   color-scheme: dark;
 
-  /* Sentinel tokens — blue-slate elevation scale */
-  --sentinel-bg-base: #36425A;
-  --sentinel-bg-surface: #3E4C66;
-  --sentinel-bg-elevated: #485874;
-  --sentinel-bg-overlay: #526382;
-  --sentinel-bg-muted: #303B51;
-  --sentinel-border: #566585;
-  --sentinel-border-subtle: #485874;
-  --sentinel-border-strong: #7080A0;
-  --sentinel-text-primary: #EBF0F7;
-  --sentinel-text-secondary: #A8B8D0;
-  --sentinel-text-tertiary: #7888A5;
-  --sentinel-text-inverse: #1a2030;
+  /* Sentinel tokens — deep blue-slate elevation scale */
+  --sentinel-bg-base: #1E2A3E;
+  --sentinel-bg-surface: #253248;
+  --sentinel-bg-elevated: #2D3B52;
+  --sentinel-bg-overlay: #37455E;
+  --sentinel-bg-muted: #182336;
+  --sentinel-border: #3D4E6A;
+  --sentinel-border-subtle: #2D3B52;
+  --sentinel-border-strong: #566A88;
+  --sentinel-text-primary: #E8EDF5;
+  --sentinel-text-secondary: #9BABC4;
+  --sentinel-text-tertiary: #6B7D9A;
+  --sentinel-text-inverse: #141C2B;
   --sentinel-accent: #5B9CF6;
   --sentinel-accent-hover: #7BB4F8;
-  --sentinel-accent-muted: rgba(91, 156, 246, 0.18);
+  --sentinel-accent-muted: rgba(91, 156, 246, 0.16);
 
-  /* shadcn overrides — mapped to blue-slate palette */
-  --background: #36425A;
-  --foreground: #EBF0F7;
-  --card: #3E4C66;
-  --card-foreground: #EBF0F7;
-  --popover: #485874;
-  --popover-foreground: #EBF0F7;
+  /* shadcn overrides — mapped to deep blue-slate palette */
+  --background: #1E2A3E;
+  --foreground: #E8EDF5;
+  --card: #253248;
+  --card-foreground: #E8EDF5;
+  --popover: #2D3B52;
+  --popover-foreground: #E8EDF5;
   --primary: #5B9CF6;
-  --primary-foreground: #1a2030;
-  --secondary: #485874;
-  --secondary-foreground: #EBF0F7;
-  --muted: #485874;
-  --muted-foreground: #A8B8D0;
-  --accent: #485874;
-  --accent-foreground: #EBF0F7;
+  --primary-foreground: #141C2B;
+  --secondary: #2D3B52;
+  --secondary-foreground: #E8EDF5;
+  --muted: #2D3B52;
+  --muted-foreground: #9BABC4;
+  --accent: #2D3B52;
+  --accent-foreground: #E8EDF5;
   --destructive: #ef4444;
-  --border: #566585;
-  --input: #566585;
+  --border: #3D4E6A;
+  --input: #3D4E6A;
   --ring: #5B9CF6;
   --chart-1: #5B9CF6;
   --chart-2: #22c55e;
   --chart-3: #eab308;
   --chart-4: #f97316;
   --chart-5: #ef4444;
-  --sidebar: #303B51;
-  --sidebar-foreground: #EBF0F7;
+  --sidebar: #182336;
+  --sidebar-foreground: #E8EDF5;
   --sidebar-primary: #5B9CF6;
-  --sidebar-primary-foreground: #EBF0F7;
-  --sidebar-accent: #485874;
-  --sidebar-accent-foreground: #EBF0F7;
-  --sidebar-border: #485874;
+  --sidebar-primary-foreground: #E8EDF5;
+  --sidebar-accent: #2D3B52;
+  --sidebar-accent-foreground: #E8EDF5;
+  --sidebar-border: #2D3B52;
   --sidebar-ring: #5B9CF6;
 
   /* Scrollbar */
   --sentinel-scrollbar-track: transparent;
-  --sentinel-scrollbar-thumb: #566585;
-  --sentinel-scrollbar-thumb-hover: #7080A0;
+  --sentinel-scrollbar-thumb: #3D4E6A;
+  --sentinel-scrollbar-thumb-hover: #566A88;
 }
 
 /* ============================================
@@ -154,57 +154,57 @@
 .midnight {
   color-scheme: dark;
 
-  --sentinel-bg-base: #0f1419;
-  --sentinel-bg-surface: #151b23;
-  --sentinel-bg-elevated: #1c2430;
-  --sentinel-bg-overlay: #242d3a;
-  --sentinel-bg-muted: #0d1117;
-  --sentinel-border: #2d3748;
-  --sentinel-border-subtle: #1e293b;
-  --sentinel-border-strong: #475569;
+  --sentinel-bg-base: #161e28;
+  --sentinel-bg-surface: #1c2530;
+  --sentinel-bg-elevated: #232e3b;
+  --sentinel-bg-overlay: #2b3746;
+  --sentinel-bg-muted: #111920;
+  --sentinel-border: #354259;
+  --sentinel-border-subtle: #263244;
+  --sentinel-border-strong: #536278;
   --sentinel-text-primary: #e2e8f0;
-  --sentinel-text-secondary: #94a3b8;
-  --sentinel-text-tertiary: #64748b;
+  --sentinel-text-secondary: #bfcde0;
+  --sentinel-text-tertiary: #9fb2cc;
   --sentinel-text-inverse: #0f172a;
   --sentinel-accent: #3b82f6;
   --sentinel-accent-hover: #60a5fa;
   --sentinel-accent-muted: rgba(59, 130, 246, 0.15);
 
-  --background: #0f1419;
+  --background: #161e28;
   --foreground: #e2e8f0;
-  --card: #151b23;
+  --card: #1c2530;
   --card-foreground: #e2e8f0;
-  --popover: #1c2430;
+  --popover: #232e3b;
   --popover-foreground: #e2e8f0;
   --primary: #3b82f6;
   --primary-foreground: #0f172a;
-  --secondary: #1c2430;
+  --secondary: #232e3b;
   --secondary-foreground: #e2e8f0;
-  --muted: #1c2430;
-  --muted-foreground: #94a3b8;
-  --accent: #1c2430;
+  --muted: #232e3b;
+  --muted-foreground: #bfcde0;
+  --accent: #232e3b;
   --accent-foreground: #e2e8f0;
   --destructive: #ef4444;
-  --border: #2d3748;
-  --input: #2d3748;
+  --border: #354259;
+  --input: #354259;
   --ring: #3b82f6;
   --chart-1: #3b82f6;
   --chart-2: #22c55e;
   --chart-3: #eab308;
   --chart-4: #f97316;
   --chart-5: #ef4444;
-  --sidebar: #0d1117;
+  --sidebar: #111920;
   --sidebar-foreground: #e2e8f0;
   --sidebar-primary: #3b82f6;
   --sidebar-primary-foreground: #e2e8f0;
-  --sidebar-accent: #1c2430;
+  --sidebar-accent: #232e3b;
   --sidebar-accent-foreground: #e2e8f0;
-  --sidebar-border: #1e293b;
+  --sidebar-border: #263244;
   --sidebar-ring: #3b82f6;
 
   --sentinel-scrollbar-track: transparent;
-  --sentinel-scrollbar-thumb: #2d3748;
-  --sentinel-scrollbar-thumb-hover: #475569;
+  --sentinel-scrollbar-thumb: #354259;
+  --sentinel-scrollbar-thumb-hover: #536278;
 }
 
 /* ============================================

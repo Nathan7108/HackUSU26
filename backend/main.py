@@ -5,6 +5,7 @@
 import asyncio
 import json
 import os
+import random
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -25,6 +26,8 @@ from backend.ml.pipeline import (
 )
 from backend.ml.risk_scorer import predict_risk, level_from_score
 from backend.ml.anomaly import detect_anomaly
+from backend.ml.data.fetch_gdelt import compute_gdelt_features
+from backend.ml.data.fetch_acled import compute_acled_features
 from backend.ml.sentiment import load_finbert, analyze_headlines_sentiment, record_sentiment
 from backend.ml.forecaster import forecast_risk, SEQUENCE_FEATURES, _build_daily_df_one_country
 from backend.ml.tracker import PredictionTracker
@@ -77,6 +80,11 @@ _kpi_history: list = []               # daily KPI snapshots, max 30
 _gti_history: list = []               # last 5 GTI values for trend arrow
 _activity_feed: list = []             # recent activity items, max 30
 
+# --- GPT-4o generated recommendations cache ---
+_gpt_recommendations: dict[str, dict] = {}
+_gpt_recommendations_time: float = 0
+_GPT_RECOMMENDATIONS_TTL = 1200  # 20 minutes
+
 
 def is_cache_valid(country_code: str) -> bool:
     if country_code not in _cache_ttl:
@@ -118,7 +126,19 @@ def load_wb_cache(country_code: str) -> dict:
 
 
 # --- Headlines (NewsAPI) ---
-async def fetch_headlines(country: str, max_headlines: int = 10) -> list[str]:
+_HEADLINE_EXCLUDE_SOURCES = {
+    "celebitchy.com", "tmz.com", "people.com", "eonline.com", "usmagazine.com",
+    "pagesix.com", "buzzfeed.com", "cosmopolitan.com", "glamour.com",
+}
+_HEADLINE_EXCLUDE_WORDS = {
+    "kardashian", "celebrity", "netflix", "movie", "album", "grammy",
+    "oscar", "fashion", "dating", "boyfriend", "girlfriend", "wedding",
+    "divorce", "baby bump", "red carpet", "trailer", "box office",
+}
+
+async def fetch_headlines(country: str, max_headlines: int = 10) -> list[dict]:
+    """Fetch English-language geopolitical/world news headlines for a country.
+    Returns list of {"title": str, "source": str}."""
     api_key = os.getenv("NEWS_API")
     if not api_key:
         return []
@@ -128,15 +148,32 @@ async def fetch_headlines(country: str, max_headlines: int = 10) -> list[str]:
             resp = await client.get(
                 "https://newsapi.org/v2/everything",
                 params={
-                    "q": country,
+                    "q": f"{country} AND (conflict OR military OR sanctions OR trade OR geopolitical OR crisis OR government OR economy OR security OR diplomacy)",
+                    "language": "en",
                     "sortBy": "publishedAt",
-                    "pageSize": max_headlines,
+                    "pageSize": max_headlines * 3,  # fetch extra to filter
                     "apiKey": api_key,
                 },
                 timeout=10,
             )
             data = resp.json()
-            return [a["title"] for a in data.get("articles", []) if a.get("title")]
+            results = []
+            for a in data.get("articles", []):
+                title = (a.get("title") or "").strip()
+                source = (a.get("source", {}).get("name") or "").strip()
+                if not title or title == "[Removed]":
+                    continue
+                # Skip celebrity/entertainment sources
+                if source.lower() in _HEADLINE_EXCLUDE_SOURCES:
+                    continue
+                # Skip headlines with entertainment keywords
+                title_lower = title.lower()
+                if any(kw in title_lower for kw in _HEADLINE_EXCLUDE_WORDS):
+                    continue
+                results.append({"title": title, "source": source})
+                if len(results) >= max_headlines:
+                    break
+            return results
     except Exception:
         return []
 
@@ -171,6 +208,255 @@ Return valid JSON with these fields:
 
 Return ONLY valid JSON. No markdown, no backticks, no explanation outside the JSON.
 """
+
+
+def build_recommendations_prompt(headlines_by_country: dict[str, list[dict]]) -> str:
+    """Build a single batched GPT-4o prompt for recommendations across all hotspot countries."""
+    country_blocks = []
+    for code, hotspot in CASCADE_HOTSPOTS.items():
+        scores = _country_scores.get(code, {})
+        pred = scores.get("risk_prediction", {})
+        features = scores.get("features", {})
+        facility = CASCADE_FACILITIES.get(code, {})
+        country_name = MONITORED_COUNTRIES.get(code, {}).get("name", code)
+
+        # Top drivers as human-readable names
+        top_drivers = [_FEATURE_DISPLAY_NAMES.get(d, d.replace("_", " ").title())
+                       for d in (pred.get("top_drivers") or [])[:5]]
+
+        # Key numeric features for deeper analysis
+        key_metrics = {
+            "ACLED fatalities (30d)": features.get("acled_fatalities_30d", 0),
+            "Battle events": features.get("acled_battle_count", 0),
+            "GDELT Goldstein mean": round(float(features.get("gdelt_goldstein_mean", 0) or 0), 2),
+            "Media tone": round(float(features.get("gdelt_avg_tone", 0) or 0), 2),
+            "Event acceleration": round(float(features.get("gdelt_event_acceleration", 0) or 0), 2),
+            "Conflict intensity": round(float(features.get("ucdp_conflict_intensity", 0) or 0), 2),
+            "GDP growth": round(float(features.get("wb_gdp_growth_latest", 0) or 0), 2),
+            "Inflation": round(float(features.get("wb_inflation_latest", 0) or 0), 2),
+            "FinBERT negative": round(float(features.get("finbert_negative_score", 0) or 0), 3),
+            "Escalatory headline %": round(float(features.get("headline_escalatory_pct", 0) or 0), 3),
+        }
+        metrics_text = "\n".join(f"  {k}: {v}" for k, v in key_metrics.items() if v)
+
+        # Headlines for this country
+        headlines = headlines_by_country.get(code, [])
+        headline_text = "\n".join(f"  - {h.get('title') or h.get('text', '')} ({h.get('source', '')})" for h in headlines[:5])
+        if not headline_text:
+            headline_text = "  (no recent headlines available)"
+
+        block = f"""
+===== {country_name} ({code}) =====
+SENTINEL ML ASSESSMENT:
+  Risk Score: {pred.get('risk_score', 'N/A')}/100 | Level: {pred.get('risk_level', 'N/A')} | Confidence: {pred.get('confidence', 0):.0%}
+  Anomaly Detected: {scores.get('isAnomaly', False)} (score: {scores.get('anomalyScore', 0):.2f}, severity: {scores.get('severity', 'LOW')})
+  Top Risk Drivers: {', '.join(top_drivers) if top_drivers else 'N/A'}
+KEY METRICS (ML pipeline estimates from cached ACLED/GDELT/UCDP/World Bank data — these are approximate, prefix with ~ when citing):
+{metrics_text}
+CASCADE BUSINESS EXPOSURE:
+  Exposure Value: {hotspot['exposure']}
+  Risk Source: {hotspot['risk_source']}
+  Basis: {hotspot['basis']}
+  Facility: {facility.get('facility', 'N/A')} — {facility.get('location', 'N/A')} — {facility.get('function', 'N/A')} (Value: {facility.get('value', 'N/A')})
+LIVE INTELLIGENCE FEED:
+{headline_text}
+"""
+        country_blocks.append(block)
+
+    today = datetime.utcnow().strftime("%B %d, %Y")
+    return f"""ROLE: You are a Palantir Gotham-grade geopolitical intelligence analyst embedded in the strategic risk team at Cascade Precision Industries. You write like a senior analyst at Stratfor, Eurasia Group, or the CIA's Directorate of Analysis — precise, data-driven, and operationally specific.
+
+TODAY'S DATE: {today}
+CRITICAL DATE RULE: You MUST NOT reference any date after {today}. Today is {today}. All events you cite must have occurred on or before this date. Do NOT invent or predict future events. If you are unsure of an exact date, use "late February 2026" or "this week" instead of fabricating a specific date.
+
+CLIENT PROFILE:
+  Company: Cascade Precision Industries | Revenue: $3.8B | Employees: 14,000
+  Sector: Aerospace & Defense manufacturing
+  Facilities: 8 sites across 6 countries
+  Supply Chain: Titanium casting (Portland OR) → Rare earth processing (Baotou, China) → Chip packaging (Hsinchu, Taiwan) → Assembly (Nagoya, Japan) → Distribution hubs (Singapore, Rotterdam) → Composite manufacturing (Toulouse, France) → Titanium forging (Verdi, Italy)
+  Critical Dependencies: TSMC chip packaging (100% single-source), Chinese rare earths (yttrium/scandium), Russian titanium (VSMPO-AVISMA legacy contracts), Red Sea/Suez shipping corridor (Singapore→Rotterdam)
+
+INTELLIGENCE INPUTS PER COUNTRY:
+{''.join(country_blocks)}
+
+TASK: Generate ONE strategic recommendation per country. Each must be an operationally specific supply-chain action that a VP of Supply Chain could execute tomorrow.
+
+OUTPUT SCHEMA — for each country code, return a JSON object with:
+
+1. "action" (string): Imperative verb + specific named action. Name the vendor, facility, route, or contract. Examples: "BEGIN dual-source qualification with Samsung Foundry (Pyeongtaek)", "ACCELERATE Lynas Rare Earths buffer stock procurement". Max 80 chars.
+
+2. "description" (string): MINIMUM 700 characters, 5-7 sentences of analyst-grade reasoning. This is the most important field — it is displayed prominently under "REASONING" in the UI. Structure as:
+   - Sentence 1: State the SPECIFIC threat vector — name the military unit, government agency, or actor. Include a date or timeframe. (e.g. "PLA Eastern Theater Command conducted Exercise Joint Sword-2026A on Feb 15-18, deploying 71 naval vessels within 24nm of Taiwan's median line, triggering 72-hour logistics freezes at TSMC's Fab 18 in Tainan.")
+   - Sentence 2: Quantify Cascade's SPECIFIC exposure — name the facility, its location, dollar value, what it produces, and who it supplies downstream. (e.g. "Cascade's Hsinchu chip packaging facility generates $680M annually in avionics-grade BGA packages for the F-35 Joint Strike Fighter program and Boeing 787 flight control systems.")
+   - Sentence 3: Describe the cascade/domino effect if this node fails — what downstream facilities lose input, what production lines halt, what contracts are at risk.
+   - Sentence 4-5: Detail the mitigation with NAMED alternatives — supplier name, facility location, current capacity utilization, qualification status, lead time, and why they are geographically/strategically advantaged.
+   - Sentence 6-7: Quantify risk-adjusted ROI using the Sentinel risk score, NOT made-up probabilities. (e.g. "Sentinel scores Taiwan at 78/100 HIGH risk — at a cost-to-act of $5.4M versus $680M full exposure, the risk-adjusted ROI exceeds 126:1.") Do NOT write "40% probability" or similar fabricated percentages.
+   EVERY sentence must contain at least one proper noun AND one number. No sentence should be generic filler. When citing ML pipeline metrics (fatalities, battle events, etc.), prefix with ~ since these are estimates.
+
+3. "cost" (number): Implementation cost in $M. Be precise — use decimals (e.g. 3.2, not 3).
+
+4. "riskReduction" (number): Total exposure protected in $M.
+
+5. "roi" (number): riskReduction / cost, rounded to integer.
+
+6. "leadTime" (string): Specific timeline, e.g. "14 weeks", "6-8 weeks", "Ongoing".
+
+7. "priority" (string): Exactly one of "IMMEDIATE", "SHORT_TERM", "MEDIUM_TERM".
+   - IMMEDIATE: Act within 72 hours. Active threat, confirmed intelligence.
+   - SHORT_TERM: Act within 30 days. Elevated indicators, window closing.
+   - MEDIUM_TERM: Act within 90 days. Strategic positioning, no acute threat.
+
+8. "trigger" (string): Specific, measurable condition that escalates this from recommendation to mandatory action. Include a threshold (e.g. "Taiwan risk score exceeds 78 AND PLA exercises move within 12nm of median line", "Yttrium spot price exceeds $85/kg for 5 consecutive trading days"). 1-2 sentences max.
+
+9. "costOfInaction" (number): Potential loss in $M if no action is taken and the threat materializes.
+
+10. "evidence" (string): MINIMUM 300 characters, 3-5 sentences. This field is displayed in italics as the intelligence citation — it must read like a classified intelligence digest. Structure as:
+   - Sentence 1: Lead with the most recent, specific event from the headlines above. Include the exact date and source name. (e.g. "On Feb 26, 2026, Reuters reported that China's Ministry of Commerce issued Announcement No. 4 extending export licensing to 17 rare earth elements including yttrium oxide.")
+   - Sentence 2-3: Provide corroborating data from your world knowledge — name companies affected, quantify market impact, cite industry bodies. Each sentence needs a proper noun and a number.
+   - Sentence 4-5: Historical context that demonstrates this is a pattern, not an anomaly. Reference prior incidents with dates and outcomes.
+   Write as if entering data into a Palantir Gotham intelligence graph — every claim must be attributable to a named source.
+
+QUALITY EXAMPLE — this is the MINIMUM acceptable quality level for ONE country. Match or exceed this density for ALL 9 countries:
+
+{{"CN": {{
+  "action": "ACCELERATE yttrium buffer stock procurement from Lynas Rare Earths (Kalgoorlie)",
+  "description": "China's Ministry of Commerce enacted enhanced export licensing for yttrium and scandium oxides in late February 2026, triggering a 60% spot price surge that has already forced two US aerospace manufacturers — Precision Castparts (Portland) and Howmet Aerospace (Pittsburgh) — to pause yttrium-dependent coating lines. Cascade's Baotou rare earth processing facility sources 100% of its yttrium feedstock from Chinese state-controlled processors, exposing $420M in annual scandium/yttrium coating revenue to immediate disruption. A production halt at Baotou cascades downstream within 6 weeks: the Hsinchu chip packaging line loses thermal barrier coatings, Toulouse carbon fiber structures lose oxidation-resistant surface treatments, and Portland's titanium casting division loses 40% of its advanced alloy input. Lynas Rare Earths operates the only non-Chinese heavy rare earth separation plant at Kalgoorlie, Western Australia, with ~2,500 tonnes/year of mixed rare earth oxide capacity and an announced yttrium circuit expansion completing Q2 2026. Securing a 6-month buffer stock (~180 tonnes of yttrium oxide at current consumption rates) at a $3.2M spot premium provides 26 weeks of runway to complete Lynas qualification and eliminates single-source dependency. Sentinel scores China at CRITICAL risk — at a cost-to-act of $3.2M versus a $420M full-exposure scenario, the risk-adjusted ROI exceeds 130:1.",
+  "cost": 3.2,
+  "riskReduction": 420,
+  "roi": 131,
+  "leadTime": "4 weeks",
+  "priority": "IMMEDIATE",
+  "trigger": "Yttrium oxide spot price exceeds $85/kg for 5 consecutive trading days OR China Ministry of Commerce suspends export licenses for rare earth category 1701",
+  "costOfInaction": 420,
+  "evidence": "On Feb 26, 2026, yttrium oxide (99.999%) spot prices on the Asian Metals Index surged 60% to $78/kg following China's Ministry of Commerce announcement of enhanced export licensing requirements for 17 rare earth elements. Precision Castparts Corp (a Berkshire Hathaway subsidiary) and Howmet Aerospace both confirmed temporary production pauses on Feb 27, citing inability to secure yttrium supply at viable pricing. The United States has zero domestic yttrium separation capacity — the last operational facility, Molycorp's Mountain Pass plant, ceased rare earth separation in 2020. Lynas Rare Earths (ASX: LYC) remains the only scaled non-Chinese producer, reporting 5,688 tonnes of NdPr oxide output in H1 FY2026 and confirming its Kalgoorlie heavy rare earth cracking and leaching plant is on track for Q2 2026 commissioning. China's export control escalation follows a pattern established with gallium and germanium restrictions in July 2023, suggesting sustained supply disruption rather than a temporary price spike."
+}}}}
+
+CRITICAL RULES (violations cause automatic rejection and retry):
+- TODAY IS {today}. You MUST NOT cite any date after {today}. No March 2026, no future dates. Only cite events on or before {today}. If you are unsure of the exact date of a recent event, write "in late February 2026" or "earlier this week" — NEVER invent a future date.
+- Every "description" MUST be 700+ characters (5-7 dense sentences). Count your characters. The example above is 1429 characters — aim for that density on EVERY country, not just China.
+- Every "evidence" MUST be 300+ characters (3-5 sentences) with named sources, dates, and numbers. All dates must be on or before {today}.
+- DO NOT write shorter descriptions for lower-risk countries. Japan and South Korea need the same analytical depth as Taiwan and China — analyze the specific facility, its role in the supply chain, the threat vectors, and the mitigation in detail.
+- Reference REAL headlines from the intelligence feed above — do not fabricate events, but DO enrich heavily with your world knowledge of events up to {today}.
+- ML PIPELINE NUMBERS: The KEY METRICS above (ACLED fatalities, battle events, etc.) come from cached ML pipeline data and are APPROXIMATE. When citing these numbers in your output, ALWAYS prefix them with "~" (e.g. "~1,978 fatalities" not "1,978 fatalities"). Do NOT present them as exact verified intelligence figures.
+- PROBABILITIES: Do NOT invent precise probabilities like "40% probability of disruption." You have no basis for exact percentages. Instead use qualitative risk language: "high likelihood", "elevated probability", "material risk within 60 days", or cite the ML risk score directly (e.g. "Sentinel scores this at 81/100 CRITICAL"). If you must use a number, use broad ranges like "20-40%" not "37.5%".
+- Numbers must be internally consistent (roi ≈ riskReduction / cost).
+- BANNED PHRASES (any of these will trigger rejection): "Collaborate with partners", "enhance security measures", "develop contingency plans", "ensure continuity", "mitigate risks", "facilitate smoother operations", "Immediate action is required to mitigate potential losses". These are consultant-speak, not intelligence analysis. Replace every instance with specific named actions.
+- If you write generic filler, the system will REJECT your output and FORCE a retry. Be maximally specific on the FIRST attempt to avoid wasting tokens.
+
+Return ONLY a valid JSON object mapping ALL 9 country codes to recommendation objects. No markdown fences. No commentary. Pure JSON only."""
+
+
+async def generate_gpt_recommendations() -> dict[str, dict]:
+    """Call GPT-4o with batched prompt, validate, return dict[country_code, recommendation]."""
+    from openai import AsyncOpenAI
+
+    # Gather headlines for all hotspot countries
+    headlines_by_country: dict[str, list[dict]] = {}
+    if _headlines_cache:
+        headlines_by_country = _headlines_cache
+    else:
+        tasks = {}
+        for code in CASCADE_HOTSPOTS:
+            country_name = MONITORED_COUNTRIES.get(code, {}).get("name", code)
+            tasks[code] = fetch_headlines(country_name, max_headlines=5)
+        results = await asyncio.gather(*tasks.values(), return_exceptions=True)
+        for code, result in zip(tasks.keys(), results):
+            headlines_by_country[code] = result if isinstance(result, list) else []
+
+    prompt = build_recommendations_prompt(headlines_by_country)
+    client = AsyncOpenAI()
+
+    max_retries = 3
+    for attempt in range(max_retries + 1):
+        try:
+            # Bump temperature on retries to break lazy output patterns
+            temp = 0.4 if attempt == 0 else 0.5 + (attempt * 0.1)
+            response = await client.chat.completions.create(
+                model="gpt-4o",
+                messages=[
+                    {"role": "system", "content": (
+                        "You are a Palantir Gotham-grade geopolitical intelligence analyst embedded at a $3.8B aerospace manufacturer. "
+                        f"Today's date is {datetime.utcnow().strftime('%B %d, %Y')}. "
+                        "You MUST NOT reference any event or date that has not yet occurred. No future dates. If unsure of an exact date, say 'late February 2026' or 'earlier this week'. "
+                        "You write dense, operationally specific supply-chain risk briefs like a senior CIA Directorate of Analysis officer. "
+                        "EVERY sentence must contain a proper noun (company name, person, location) AND a number (dollar figure, percentage, date). "
+                        "You NEVER write vague summaries. You write granular, actionable intelligence with named suppliers, specific facilities, exact dollar exposures, and cross-referenced source citations. "
+                        "MINIMUM LENGTHS (strictly enforced — output under these limits will be rejected and you will redo everything): "
+                        "description: 700+ characters (5-7 dense sentences). evidence: 300+ characters (3-5 sentences with dates and sources). "
+                        "Return only valid JSON — no markdown, no backticks, no commentary."
+                    )},
+                    {"role": "user", "content": prompt},
+                ],
+                temperature=temp,
+                max_tokens=8000,
+            )
+            text = response.choices[0].message.content.strip()
+            if text.startswith("```"):
+                text = text.split("\n", 1)[1].rsplit("```", 1)[0]
+            data = json.loads(text)
+
+            # Validate each country's recommendation
+            required_fields = {"action", "description", "cost", "riskReduction", "roi",
+                               "leadTime", "priority", "trigger", "costOfInaction", "evidence"}
+            valid_priorities = {"IMMEDIATE", "SHORT_TERM", "MEDIUM_TERM"}
+            validated: dict[str, dict] = {}
+            quality_failures = []
+            for code in CASCADE_HOTSPOTS:
+                rec = data.get(code)
+                if not rec or not isinstance(rec, dict):
+                    continue
+                # Check required fields exist
+                if not required_fields.issubset(rec.keys()):
+                    continue
+                # Coerce numeric types
+                for nfield in ("cost", "riskReduction", "roi", "costOfInaction"):
+                    try:
+                        rec[nfield] = float(rec[nfield])
+                    except (ValueError, TypeError):
+                        rec[nfield] = 0
+                # Validate priority
+                if rec["priority"] not in valid_priorities:
+                    rec["priority"] = "SHORT_TERM"
+                # Quality gate: reject thin descriptions/evidence
+                desc_len = len(rec.get("description", ""))
+                ev_len = len(rec.get("evidence", ""))
+                if desc_len < 600:
+                    quality_failures.append(f"{code} description too short ({desc_len} chars, need 600+)")
+                    continue
+                if ev_len < 250:
+                    quality_failures.append(f"{code} evidence too short ({ev_len} chars, need 250+)")
+                    continue
+                validated[code] = rec
+
+            if len(validated) >= 7:
+                print(f"GPT-4o recommendations generated for {len(validated)} countries (attempt {attempt + 1})")
+                if quality_failures:
+                    print(f"  Quality rejections: {', '.join(quality_failures)}")
+                return validated
+
+            print(f"GPT-4o recommendations: only {len(validated)} passed quality gate (attempt {attempt + 1})")
+            if quality_failures:
+                print(f"  Quality rejections: {', '.join(quality_failures)}")
+        except Exception as e:
+            import traceback
+            print(f"GPT-4o recommendations error (attempt {attempt + 1}): {e}")
+            traceback.print_exc()
+            if attempt < max_retries:
+                await asyncio.sleep(2)
+
+    raise RuntimeError("Failed to generate GPT-4o recommendations after all retries")
+
+
+async def get_recommendations() -> dict[str, dict]:
+    """Cache-aware wrapper: return cached if fresh, otherwise generate."""
+    global _gpt_recommendations, _gpt_recommendations_time
+    now = time.time()
+    if _gpt_recommendations and (now - _gpt_recommendations_time) < _GPT_RECOMMENDATIONS_TTL:
+        return _gpt_recommendations
+    result = await generate_gpt_recommendations()
+    _gpt_recommendations = result
+    _gpt_recommendations_time = time.time()
+    return result
 
 
 async def call_gpt4o(ml_context: str, country: str, risk_prediction: dict) -> dict | None:
@@ -301,7 +587,15 @@ CASCADE_HOTSPOTS = {
         "industries": ["Titanium Supply", "Aerospace Manufacturing", "Defense Contracting"],
         "watch": ["VSMPO-AVISMA production status", "Western titanium sponge prices", "EU/US sanctions expansion", "Alternative supplier qualification timelines"],
     },
-    "YE": {  # Red Sea / Houthi
+    "UA": {
+        "exposure": "$190M (indirect)",
+        "risk_source": "Conflict spillover — titanium & energy cascade",
+        "basis": "Russia-Ukraine war drives titanium scarcity, energy volatility, and defense budget shifts. VSMPO-AVISMA contracts frozen since 2022.",
+        "recommendation": "MONITOR ceasefire negotiations. Any escalation triggers immediate titanium spot-buy from Howmet Aerospace. Maintain 90-day strategic reserve.",
+        "industries": ["Titanium Supply", "Defense", "Energy"],
+        "watch": ["Ceasefire/peace negotiation status", "VSMPO-AVISMA sanction exemptions", "European energy prices", "NATO defense spending commitments"],
+    },
+    "YE": {
         "exposure": "$1.1B",
         "risk_source": "Houthi attacks on shipping",
         "basis": "Added $15-20B/yr to global trade. 80% of Asia-Europe rerouted in 2024.",
@@ -309,13 +603,13 @@ CASCADE_HOTSPOTS = {
         "industries": ["Maritime Shipping", "Global Logistics", "Insurance"],
         "watch": ["Houthi attack frequency in Bab el-Mandeb", "US/UK naval operations in Red Sea", "Shipping insurance premiums for Suez transit", "Alternative routing costs"],
     },
-    "EG": {
-        "exposure": "$1.1B (Suez transit)",
-        "risk_source": "Suez Canal disruption risk",
-        "basis": "Singapore→Rotterdam route transits Suez. 12% of global trade passes through. Blockages add 10-14 days via Cape.",
-        "recommendation": "MAINTAIN Cape of Good Hope contingency routing. Pre-negotiate surge capacity with Maersk and CMA CGM for emergency rerouting within 48 hours.",
-        "industries": ["Maritime Shipping", "Global Logistics", "Aerospace Supply Chain"],
-        "watch": ["Suez Canal transit volumes and delays", "Egyptian political stability", "Regional military activity near canal zone", "Alternative routing costs"],
+    "IR": {
+        "exposure": "$280M (Hormuz transit)",
+        "risk_source": "Strait of Hormuz — energy & shipping disruption",
+        "basis": "20% of global oil transits Hormuz. Closure spikes energy costs +40%, shipping insurance +300%. Iran nuclear tensions ongoing.",
+        "recommendation": "HEDGE energy exposure with 6-month forward contracts. Pre-position inventory at Singapore hub to buffer 30-day supply disruption.",
+        "industries": ["Energy", "Maritime Shipping", "Aerospace Manufacturing"],
+        "watch": ["Iran nuclear deal negotiations", "IRGC naval activity in Hormuz", "Oil tanker transit volumes", "Energy futures pricing"],
     },
     "IL": {
         "exposure": "$1.1B (Red Sea corridor)",
@@ -325,29 +619,45 @@ CASCADE_HOTSPOTS = {
         "industries": ["Defense", "Maritime Shipping", "Aerospace Supply Chain"],
         "watch": ["Israel-Gaza ceasefire status", "Lebanon/Hezbollah activity", "Houthi attack correlation with Israeli operations", "Red Sea shipping insurance rates"],
     },
-    "PH": {
-        "exposure": "$680M (SCS transit)",
-        "risk_source": "South China Sea transit risk",
-        "basis": "Hsinchu→Nagoya route transits SCS near Philippine EEZ. China-Philippines tensions over Second Thomas Shoal ongoing.",
-        "recommendation": "EVALUATE northern routing via Luzon Strait to bypass contested waters. Additional transit time: 18 hours. Cost: $1.2M/year.",
-        "industries": ["Maritime Shipping", "Aerospace Electronics", "Defense"],
-        "watch": ["China-Philippines naval incidents in SCS", "US-Philippines defense cooperation", "Freedom of navigation operations", "Shipping lane safety advisories"],
-    },
     "JP": {
         "exposure": "$290M (facility)",
-        "risk_source": "Nagoya facility operational risk",
+        "risk_source": "Nagoya assembly facility — operational & seismic risk",
         "basis": "Assembly & test facility in Nagoya. Japan-China tensions and natural disaster risk. Currently stable.",
         "recommendation": "MAINTAIN current operations. Japan facility is lowest-risk node in supply chain. Ensure earthquake preparedness protocols current.",
         "industries": ["Aerospace Manufacturing", "Subsystem Integration", "Defense"],
         "watch": ["Japan-China diplomatic relations", "Seismic activity near Nagoya", "Yen exchange rate impact on costs", "Japan defense spending trajectory"],
     },
-    "KR": {
-        "exposure": "$12M (qualification)",
-        "risk_source": "Backup source qualification — Samsung Foundry",
-        "basis": "Samsung Foundry in Pyeongtaek is primary backup for Taiwan chip packaging. Qualification in progress.",
-        "recommendation": "ACCELERATE Samsung Foundry qualification timeline. Current: 14 weeks. Target: 10 weeks with dedicated engineering team. Qualification cost: $12M.",
-        "industries": ["Semiconductors", "Aerospace Electronics", "Advanced Manufacturing"],
-        "watch": ["Samsung Foundry capacity utilization", "North Korea provocation level", "US-ROK alliance stability", "Chip packaging technology roadmap"],
+    "SG": {
+        "exposure": "$850M (transit hub)",
+        "risk_source": "APAC distribution hub — Malacca Strait chokepoint",
+        "basis": "All Asia-Europe cargo transits Singapore. Malacca Strait handles 25% of global trade. Hub processes Taiwan chips + Japan assemblies for EU delivery.",
+        "recommendation": "MAINTAIN dual-carrier contracts (Maersk + CMA CGM) with guaranteed capacity. Pre-negotiate Lombok Strait alternative routing. Additional transit: +2 days.",
+        "industries": ["Maritime Shipping", "Global Logistics", "Aerospace Supply Chain"],
+        "watch": ["Malacca Strait congestion and piracy incidents", "Singapore port capacity utilization", "China-ASEAN maritime tensions", "Shipping rate index (SCFI)"],
+    },
+    "NL": {
+        "exposure": "$720M (EU hub)",
+        "risk_source": "Rotterdam EU distribution hub — Red Sea rerouting impact",
+        "basis": "All EU-bound cargo terminates at Rotterdam. Red Sea disruption adds 10-14 days via Cape of Good Hope. Port congestion from rerouted global traffic.",
+        "recommendation": "EXPAND Rotterdam warehouse capacity by 15% to buffer extended transit times. Pre-qualify Hamburg and Antwerp as overflow ports. Cost: $2.1M/year.",
+        "industries": ["Maritime Shipping", "EU Logistics", "Aerospace Distribution"],
+        "watch": ["Rotterdam port congestion levels", "Cape routing transit times", "EU customs processing delays", "North Sea weather disruptions"],
+    },
+    "FR": {
+        "exposure": "$620M (facility)",
+        "risk_source": "Toulouse composite plant — energy & labor risk",
+        "basis": "Carbon fiber structures for wing assemblies produced near Airbus Toulouse. European energy prices volatile. French labor action risk periodic.",
+        "recommendation": "MAINTAIN 60-day composite inventory buffer at Rotterdam hub. Cross-qualify Solvay (Belgium) as backup carbon fiber source. Qualification cost: $8M.",
+        "industries": ["Aerospace Manufacturing", "Advanced Composites", "Carbon Fiber"],
+        "watch": ["French labor strike activity", "European natural gas prices", "Airbus production rate changes", "Carbon fiber global supply/demand"],
+    },
+    "IT": {
+        "exposure": "$340M (facility)",
+        "risk_source": "Verdi titanium forging — Russian titanium dependency",
+        "basis": "Precision forgings for landing gear. Italy facility historically sourced 40% titanium from VSMPO-AVISMA. Switching to Howmet + TIMET.",
+        "recommendation": "COMPLETE titanium supplier switch at Verdi facility. Current Russian dependency: 12% (down from 40%). Target: 0% by Q4. Switch cost: $3.2M.",
+        "industries": ["Titanium Supply", "Aerospace Manufacturing", "Precision Forging"],
+        "watch": ["Italian titanium import volumes from Russia", "Howmet/TIMET delivery schedules", "EU sanctions enforcement on Russian metals", "Landing gear production backlog"],
     },
 }
 
@@ -360,10 +670,7 @@ CASCADE_TRADE_ROUTE_COUNTRIES = {
     "PH": "South China Sea transit — Hsinchu→Nagoya route",
     "KR": "Samsung Foundry backup — dual-source qualification site",
     "AU": "Lynas Rare Earths — yttrium/scandium alternative supply",
-    "UA": "Conflict spillover — titanium supply disruption, defense spending shift",
-    "IR": "Strait of Hormuz — energy price impact on shipping costs",
     "SY": "Regional instability — Red Sea corridor risk amplifier",
-    "IL": "Regional conflict — Red Sea/Suez corridor disruption risk",
 }
 
 # Human-readable feature name mapping (replaces raw ML feature names in briefs)
@@ -408,6 +715,18 @@ _FEATURE_DISPLAY_NAMES = {
     "media_negativity_index": "Media negativity index",
     "headline_volume": "News headline volume",
     "anomaly_score": "Statistical anomaly detection score",
+    "acled_civilian_targeting": "Civilian targeting events",
+    "acled_riot_count": "Riot events",
+    "acled_state_force_events": "State force / law enforcement events",
+    "wgi_political_stability": "WGI political stability index",
+    "wgi_rule_of_law": "WGI rule of law index",
+    "wgi_corruption_control": "WGI corruption control index",
+    "wgi_govt_effectiveness": "WGI government effectiveness",
+    "wgi_voice_accountability": "WGI voice & accountability",
+    "wgi_regulatory_quality": "WGI regulatory quality",
+    "cast_total_forecast": "ACLED CAST violence forecast",
+    "cast_battles_forecast": "ACLED CAST battles forecast",
+    "cast_vac_forecast": "ACLED CAST civilian violence forecast",
 }
 
 # Country-specific causal chain templates
@@ -568,12 +887,12 @@ def _build_local_brief(country: str, country_code: str, risk_prediction: dict, f
 # Tier 3: Facility host countries (should score LOW/STABLE)
 # Tier 4: Conflict context
 PRIORITY_COUNTRIES = [
-    "TW", "CN", "RU", "YE",   # Tier 1: risk hotspots
-    "IR", "EG", "IL", "PH",   # Tier 2: chokepoints
-    "JP", "KR",                # Tier 3: facility/backup
-    "UA",                      # Tier 4: conflict context
+    "TW", "CN", "RU", "UA",   # Tier 1: risk hotspots (facility + conflict)
+    "YE", "IR", "IL",          # Tier 2: chokepoints (Red Sea, Hormuz, Middle East)
+    "JP", "SG", "NL",          # Tier 3: facility hosts (assembly, distribution hubs)
+    "FR", "IT",                # Tier 4: European facilities (composites, titanium forging)
 ]
-DASHBOARD_COUNTRY_LIMIT = 11
+DASHBOARD_COUNTRY_LIMIT = 12
 
 
 def _score_country(code: str, info: dict, features: dict) -> dict:
@@ -643,38 +962,39 @@ def _score_country(code: str, info: dict, features: dict) -> dict:
 # --- Sub-score dimension definitions ---
 _SUB_SCORE_DIMENSIONS = {
     "conflictIntensity": {
-        "keys": ["acled_fatalities_30d", "acled_battle_count", "ucdp_conflict_intensity"],
-        "description": "Armed conflict and battle-related fatalities",
+        "keys": ["acled_fatalities_30d", "acled_battle_count", "acled_civilian_violence", "ucdp_conflict_intensity"],
+        "description": "Armed conflict, battle fatalities, and violence against civilians",
     },
     "politicalInstability": {
-        "keys": ["political_risk_score", "gdelt_goldstein_mean", "gdelt_goldstein_std"],
-        "description": "Government instability and political risk signals",
+        "keys": ["wgi_political_stability", "gdelt_goldstein_mean", "acled_state_force_events"],
+        "description": "Government instability, state repression, and political risk",
     },
     "economicStress": {
         "keys": ["wb_gdp_growth_latest", "wb_inflation_latest", "econ_composite_score"],
         "description": "Economic deterioration and fiscal pressure",
     },
     "socialUnrest": {
-        "keys": ["gdelt_event_count", "gdelt_event_acceleration", "gdelt_avg_tone"],
-        "description": "Protest activity and social tension indicators",
+        "keys": ["acled_protest_count", "acled_riot_count", "gdelt_event_acceleration"],
+        "description": "Protest activity, riots, and social tension indicators",
     },
     "sentimentEscalation": {
-        "keys": ["finbert_negative_score", "headline_escalatory_pct", "media_negativity_index"],
-        "description": "Media sentiment and escalatory language trends",
+        "keys": ["finbert_negative_score", "headline_escalatory_pct", "cast_total_forecast"],
+        "description": "Media sentiment, escalatory language, and ACLED conflict forecasts",
     },
 }
 
 # Per-feature normalization maximums (raw value -> 0-1 scale for sub-score computation)
 _FEATURE_NORMALIZERS = {
     "acled_fatalities_30d": 200000, "acled_battle_count": 100000,
-    "ucdp_conflict_intensity": 5.0,
-    "political_risk_score": 100.0, "gdelt_goldstein_mean": 10.0, "gdelt_goldstein_std": 10.0,
+    "acled_civilian_violence": 50000, "ucdp_conflict_intensity": 5.0,
+    "wgi_political_stability": 2.5, "gdelt_goldstein_mean": 10.0,
+    "acled_state_force_events": 50000,
     "wb_gdp_growth_latest": 15.0, "wb_inflation_latest": 100.0, "econ_composite_score": 100.0,
-    "gdelt_event_count": 100000, "gdelt_event_acceleration": 5.0, "gdelt_avg_tone": 10.0,
-    "finbert_negative_score": 1.0, "headline_escalatory_pct": 1.0, "media_negativity_index": 1.0,
+    "acled_protest_count": 100000, "acled_riot_count": 10000, "gdelt_event_acceleration": 5.0,
+    "finbert_negative_score": 1.0, "headline_escalatory_pct": 1.0, "cast_total_forecast": 5000,
 }
 # Features where LOWER/negative values mean HIGHER risk
-_INVERT_FEATURES = {"gdelt_goldstein_mean", "gdelt_avg_tone", "wb_gdp_growth_latest"}
+_INVERT_FEATURES = {"gdelt_goldstein_mean", "gdelt_avg_tone", "wb_gdp_growth_latest", "wgi_political_stability"}
 
 
 def _detect_alerts(prev: dict, curr: dict, now: str) -> list[dict]:
@@ -740,160 +1060,421 @@ def _generate_activity_items(prev: dict, curr: dict, now: str) -> list[dict]:
     return items
 
 
+# --- GDELT feature keys (overlaid per-day during KPI backfill) ---
+_GDELT_FEATURE_KEYS = [
+    "gdelt_goldstein_mean", "gdelt_goldstein_std", "gdelt_goldstein_min",
+    "gdelt_event_count", "gdelt_avg_tone", "gdelt_conflict_pct",
+    "gdelt_goldstein_mean_90d", "gdelt_event_acceleration",
+    "gdelt_mention_weighted_tone", "gdelt_volatility",
+]
+
+# --- ACLED feature keys (overlaid per-day during KPI backfill) ---
+_ACLED_FEATURE_KEYS = [
+    "acled_fatalities_30d", "acled_battle_count", "acled_civilian_violence",
+    "acled_explosion_count", "acled_protest_count", "acled_fatality_rate",
+    "acled_event_count_90d", "acled_event_acceleration", "acled_unique_actors",
+    "acled_geographic_spread", "acled_civilian_targeting", "acled_riot_count",
+    "acled_state_force_events",
+]
+
+_KPI_CACHE_PATH = ROOT / "data" / "kpi_history_cache.json"
+_SCORES_CACHE_PATH = ROOT / "data" / "country_scores_cache.json"
+
+
+def _gdelt_features_fast(df: pd.DataFrame) -> dict:
+    """Compute 10 GDELT features from a DataFrame with pre-parsed 'date' column.
+    Same logic as compute_gdelt_features() raw-events branch but skips SQLDATE parsing."""
+    if df is None or df.empty:
+        return {k: 0.0 if "count" not in k else 0 for k in _GDELT_FEATURE_KEYS}
+    ref_date = df["date"].max()
+    recent = df[df["date"] > ref_date - pd.Timedelta(days=30)]
+    recent_90 = df[df["date"] > ref_date - pd.Timedelta(days=90)]
+    n_recent = len(recent)
+    n_90 = len(recent_90)
+    if n_recent == 0:
+        return {k: 0.0 if "count" not in k else 0 for k in _GDELT_FEATURE_KEYS}
+    older = max(n_90 - n_recent, 1)
+    goldstein = recent["GoldsteinScale"]
+    tone = recent["AvgTone"]
+    mentions = recent["NumMentions"]
+    sm = lambda s: float(s.mean()) if len(s) > 0 else 0.0
+    ss = lambda s: float(s.std()) if len(s) > 1 else 0.0
+    return {
+        "gdelt_goldstein_mean": sm(goldstein),
+        "gdelt_goldstein_std": ss(goldstein),
+        "gdelt_goldstein_min": float(goldstein.min()),
+        "gdelt_event_count": n_recent,
+        "gdelt_avg_tone": sm(tone),
+        "gdelt_conflict_pct": float(len(recent[goldstein < -5]) / max(n_recent, 1)),
+        "gdelt_goldstein_mean_90d": sm(recent_90["GoldsteinScale"]),
+        "gdelt_event_acceleration": float(n_recent / older),
+        "gdelt_mention_weighted_tone": float((tone * mentions).sum() / max(mentions.sum(), 1)),
+        "gdelt_volatility": ss(goldstein),
+    }
+
+
+def _preload_gdelt_data() -> dict[str, pd.DataFrame]:
+    """Load all GDELT event CSVs with pre-parsed dates. Returns {country_code: DataFrame}."""
+    gdelt_dir = ROOT / "data" / "gdelt"
+    result: dict[str, pd.DataFrame] = {}
+    for code in MONITORED_COUNTRIES:
+        csv_path = gdelt_dir / f"{code}_events.csv"
+        if not csv_path.exists():
+            continue
+        try:
+            df = pd.read_csv(csv_path, low_memory=False)
+            if df.empty:
+                continue
+            df["date"] = pd.to_datetime(df["SQLDATE"].astype(str), format="%Y%m%d", errors="coerce")
+            df = df.dropna(subset=["date"])
+            if not df.empty:
+                result[code] = df
+        except Exception:
+            continue
+    return result
+
+
+def _preload_acled_data() -> dict[str, pd.DataFrame]:
+    """Load all ACLED event CSVs with pre-parsed dates. Returns {country_code: DataFrame}."""
+    acled_dir = ROOT / "data" / "acled"
+    if not acled_dir.exists():
+        return {}
+    result: dict[str, pd.DataFrame] = {}
+    for code, info in MONITORED_COUNTRIES.items():
+        acled_name = info.get("acled_name") or info.get("name", "")
+        safe = acled_name.lower().replace(" ", "_").replace("(", "").replace(")", "").replace("'", "").replace("-", "_").replace("__", "_")
+        csv_path = acled_dir / f"{safe}.csv"
+        if not csv_path.exists():
+            continue
+        try:
+            df = pd.read_csv(csv_path, low_memory=False, usecols=lambda c: c in {
+                "event_date", "event_type", "sub_event_type", "fatalities",
+                "actor1", "admin1", "civilian_targeting", "inter1",
+            })
+            if df.empty:
+                continue
+            df["event_date"] = pd.to_datetime(df["event_date"], errors="coerce")
+            df = df.dropna(subset=["event_date"])
+            if not df.empty:
+                result[code] = df
+        except Exception:
+            continue
+    return result
+
+
+def _acled_features_fast(df: pd.DataFrame, ref_date: pd.Timestamp) -> dict:
+    """Compute 13 ACLED features relative to a reference date (for backfill)."""
+    if df is None or df.empty:
+        return {k: 0.0 if "rate" in k or "acceleration" in k else 0 for k in _ACLED_FEATURE_KEYS}
+    recent = df[df["event_date"] > ref_date - pd.Timedelta(days=30)]
+    recent_90 = df[df["event_date"] > ref_date - pd.Timedelta(days=90)]
+    recent_30 = recent
+    older_60_90 = df[
+        (df["event_date"] > ref_date - pd.Timedelta(days=90))
+        & (df["event_date"] <= ref_date - pd.Timedelta(days=30))
+    ]
+    n_recent = len(recent)
+    if n_recent == 0:
+        return {k: 0.0 if "rate" in k or "acceleration" in k else 0 for k in _ACLED_FEATURE_KEYS}
+    fatalities = pd.to_numeric(recent["fatalities"], errors="coerce").fillna(0)
+    total_fatal = float(fatalities.sum())
+    older_count = max(len(older_60_90), 1)
+    civ_target = 0
+    if "civilian_targeting" in recent.columns:
+        civ_target = int(recent["civilian_targeting"].astype(str).str.contains("Civilian", case=False, na=False).sum())
+    riot_count = int(len(recent[recent["event_type"] == "Riots"])) if "event_type" in recent.columns else 0
+    state_events = 0
+    if "inter1" in recent.columns:
+        state_events = int((recent["inter1"].astype(str).str.strip() == "State Forces").sum())
+    return {
+        "acled_fatalities_30d": total_fatal,
+        "acled_battle_count": int(len(recent[recent["event_type"] == "Battles"])) if "event_type" in recent.columns else 0,
+        "acled_civilian_violence": int(len(recent[recent["event_type"] == "Violence against civilians"])) if "event_type" in recent.columns else 0,
+        "acled_explosion_count": int(len(recent[recent["event_type"] == "Explosions/Remote violence"])) if "event_type" in recent.columns else 0,
+        "acled_protest_count": int(len(recent[recent["event_type"].isin(["Protests", "Riots"])])) if "event_type" in recent.columns else 0,
+        "acled_fatality_rate": float(total_fatal / 30),
+        "acled_event_count_90d": len(recent_90),
+        "acled_event_acceleration": float(len(recent_30) / older_count),
+        "acled_unique_actors": int(recent["actor1"].nunique()) if "actor1" in recent.columns else 0,
+        "acled_geographic_spread": int(recent["admin1"].nunique()) if "admin1" in recent.columns else 0,
+        "acled_civilian_targeting": civ_target,
+        "acled_riot_count": riot_count,
+        "acled_state_force_events": state_events,
+    }
+
+
+def _compute_daily_kpis(target_date, baseline_features: dict[str, dict], gdelt_data: dict[str, pd.DataFrame]) -> dict:
+    """Compute KPI aggregates for a single day by overlaying GDELT features onto baseline."""
+    target_ts = pd.Timestamp(target_date)
+    risk_scores: list[int] = []
+    anomaly_count = 0
+    high_plus_count = 0
+    high_crit_anomaly_count = 0
+
+    for code, base_feats in baseline_features.items():
+        features = dict(base_feats)  # copy baseline
+
+        # Overlay GDELT features filtered to this date
+        if code in gdelt_data:
+            filtered = gdelt_data[code][gdelt_data[code]["date"] <= target_ts]
+            if len(filtered) > 0:
+                gdelt_feats = compute_gdelt_features(filtered)
+                for key in _GDELT_FEATURE_KEYS:
+                    features[key] = gdelt_feats[key]
+
+        # Risk scoring
+        try:
+            pred = predict_risk(features)
+            risk_score = pred["risk_score"]
+            risk_level = pred["risk_level"]
+        except Exception:
+            risk_score = 50
+            risk_level = "MODERATE"
+
+        risk_scores.append(risk_score)
+        if risk_level in ("HIGH", "CRITICAL"):
+            high_plus_count += 1
+
+        # Anomaly detection
+        try:
+            anomaly = detect_anomaly(code, features)
+            if anomaly["is_anomaly"]:
+                anomaly_count += 1
+                if risk_level in ("HIGH", "CRITICAL"):
+                    high_crit_anomaly_count += 1
+        except Exception:
+            pass
+
+    gti = round(sum(risk_scores) / max(len(risk_scores), 1))
+    return {
+        "globalThreatIndex": gti,
+        "activeAnomalies": anomaly_count,
+        "highPlusCountries": high_plus_count,
+        "escalationAlerts24h": high_crit_anomaly_count,
+    }
+
+
 def _backfill_kpi_history() -> None:
     """
-    Backfill 30 days of KPI history from real ACLED conflict data.
-
-    Reads daily event aggregates (event counts, fatalities, event types) for
-    all priority countries, computes per-day metrics, then scales so the final
-    day matches today's live dashboard values for a seamless chart.
+    Backfill 30 days of KPI history from real ML pipeline data (GDELT + ACLED + XGBoost + IsolationForest).
+    Uses JSON cache to avoid recomputation on restart. Falls back to synthetic on error.
     """
     global _kpi_history
     if _kpi_history:
         return  # already backfilled
 
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    N = 30
+
+    # --- Try loading from JSON cache ---
     try:
-        # 1. Load ACLED data for priority countries
-        priority_acled = [
-            "taiwan", "china", "russia", "yemen", "iran",
-            "egypt", "israel", "philippines", "japan", "ukraine",
-        ]
-        frames = []
-        for name in priority_acled:
-            path = ROOT / "data" / "acled" / f"{name}.csv"
-            if not path.exists():
-                continue
-            df = pd.read_csv(path, usecols=["event_date", "event_type", "fatalities"])
-            df["country"] = name
-            df["event_date"] = pd.to_datetime(df["event_date"], errors="coerce")
-            frames.append(df)
+        if _KPI_CACHE_PATH.exists():
+            with open(_KPI_CACHE_PATH, "r") as f:
+                cached = json.load(f)
+            if cached and cached[-1].get("date") == today:
+                _kpi_history[:] = cached[-N:]
+                print(f"KPI history loaded from cache: {len(_kpi_history)} days")
+                return
+    except Exception:
+        pass  # cache corrupt or unreadable, recompute
 
-        if not frames:
-            return
+    # --- Compute from real ML pipeline data ---
+    try:
+        t0 = time.time()
 
-        all_events = pd.concat(frames, ignore_index=True)
-        all_events = all_events.dropna(subset=["event_date"])
+        # Get baseline 57-feature vectors (reuse startup cache if available)
+        baseline: dict[str, dict] = {}
+        if _country_scores:
+            for code, data in _country_scores.items():
+                feats = data.get("features")
+                if feats:
+                    baseline[code] = feats
+        if not baseline:
+            baseline = SentinelFeaturePipeline.compute_all_countries()
 
-        # Use last 30 days of available data
-        max_date = all_events["event_date"].max()
-        cutoff = max_date - pd.Timedelta(days=29)
-        window = all_events[all_events["event_date"] >= cutoff].copy()
+        # Pre-load all GDELT DataFrames with parsed dates
+        print("Loading GDELT data for KPI backfill...")
+        gdelt_data = _preload_gdelt_data()
+        print(f"  Loaded GDELT for {len(gdelt_data)} countries ({time.time() - t0:.1f}s)")
 
-        if window.empty:
-            return
-
-        # 2. Compute daily aggregates from real conflict data
-        HIGH_SEVERITY_TYPES = {"Battles", "Explosions/Remote violence", "Violence against civilians"}
-        window["is_high"] = window["event_type"].isin(HIGH_SEVERITY_TYPES)
-
-        daily = window.groupby("event_date").agg(
-            total_events=("event_type", "size"),
-            total_fatalities=("fatalities", "sum"),
-            high_events=("is_high", "sum"),
-            n_countries=("country", "nunique"),
-        ).sort_index()
-
-        # Per-country daily: which countries had "high" activity?
-        per_country_day = window.groupby(["event_date", "country"]).agg(
-            events=("event_type", "size"),
-            fatalities=("fatalities", "sum"),
-            high_events=("is_high", "sum"),
-        )
-
-        # Count countries with high activity per day (proxy for CRITICAL+HIGH)
-        country_high_per_day = per_country_day[per_country_day["high_events"] > 0].groupby("event_date").size()
-
-        # Escalation alerts proxy: days where event count > 1.5x the window average
-        avg_events = daily["total_events"].mean()
-        escalation_threshold = avg_events * 1.5
-
-        # 3. Build raw daily KPI series
-        raw_gti = []      # threat index (0-100)
-        raw_anom = []      # anomaly count
-        raw_high = []      # high-risk country count
-        raw_esc = []       # escalation alert count
-
-        # Normalize: map event intensity to 0-100 scale
-        max_events = daily["total_events"].max() or 1
-        max_fatalities = daily["total_fatalities"].max() or 1
-
-        for date, row in daily.iterrows():
-            # GTI: blend of event density + fatality severity
-            event_ratio = row["total_events"] / max_events
-            fatality_ratio = min(row["total_fatalities"] / max_fatalities, 1.0)
-            gti_raw = (event_ratio * 0.6 + fatality_ratio * 0.4) * 100
-            raw_gti.append(gti_raw)
-
-            # Anomalies: days where high-severity events spike above 2x daily mean
-            high_mean = daily["high_events"].mean() or 1
-            anom_count = 0
-            day_countries = per_country_day.loc[date] if date in per_country_day.index.get_level_values(0) else pd.DataFrame()
-            if not isinstance(day_countries, pd.DataFrame):
-                day_countries = day_countries.to_frame().T
-            for _, crow in day_countries.iterrows():
-                if crow.get("high_events", 0) > high_mean * 2:
-                    anom_count += 1
-            raw_anom.append(anom_count)
-
-            # High-risk country count
-            high_count = int(country_high_per_day.get(date, 0))
-            raw_high.append(high_count)
-
-            # Escalation alerts
-            esc = 0
-            for _, crow in day_countries.iterrows():
-                if crow.get("events", 0) > escalation_threshold / len(priority_acled):
-                    esc += 1
-            raw_esc.append(esc)
-
-        if not raw_gti:
-            return
-
-        # 4. Scale to match today's live dashboard values
-        live_gti = _dashboard_summary.get("globalThreatIndex", 70) if _dashboard_summary else 70
-        live_anom = _dashboard_summary.get("activeAnomalies", 0) if _dashboard_summary else 0
-        live_high = _dashboard_summary.get("highPlusCountries", 1) if _dashboard_summary else 1
-        live_esc = _dashboard_summary.get("escalationAlerts24h", 0) if _dashboard_summary else 0
-
-        def scale_series(raw: list, live_val: float, min_val: float = 0) -> list[int]:
-            """Scale a raw series so the last value matches live_val, preserving shape."""
-            if not raw:
-                return []
-            raw_last = raw[-1] if raw[-1] != 0 else (sum(raw) / len(raw)) or 1
-            factor = live_val / raw_last if raw_last != 0 else 1
-            return [max(int(round(min_val)), int(round(v * factor))) for v in raw]
-
-        scaled_gti = scale_series(raw_gti, live_gti)
-        scaled_anom = scale_series(raw_anom, max(live_anom, 1))
-        scaled_high = scale_series(raw_high, max(live_high, 1))
-        scaled_esc = scale_series(raw_esc, max(live_esc, 1))
-
-        # 5. Build history with real dates (re-dated to end today)
+        # Build date list (oldest → newest)
         now = datetime.utcnow()
-        n = len(scaled_gti)
-        for i in range(n):
-            day_str = (now - timedelta(days=n - 1 - i)).strftime("%Y-%m-%d")
-            _kpi_history.append({
-                "date": day_str,
-                "globalThreatIndex": min(100, scaled_gti[i]),
-                "activeAnomalies": scaled_anom[i],
-                "highPlusCountries": scaled_high[i],
-                "escalationAlerts24h": scaled_esc[i],
+        dates = [(now - timedelta(days=N - 1 - i)).strftime("%Y-%m-%d") for i in range(N)]
+
+        # Pre-compute per-country GDELT features for all 30 days (skip when event count unchanged)
+        # NOTE: ACLED features stay at baseline (full-history) values since the pipeline
+        # uses window_days=99999; date-filtering would produce artificially low values.
+        gdelt_feats_daily: dict[str, list[dict | None]] = {}
+        gdelt_calls = 0
+        for code, gdf in gdelt_data.items():
+            prev_count = -1
+            prev_feats: dict | None = None
+            daily: list[dict | None] = []
+            for date_str in dates:
+                target_ts = pd.Timestamp(date_str)
+                count = int((gdf["date"] <= target_ts).sum())
+                if count == 0:
+                    daily.append(None)
+                elif count != prev_count:
+                    prev_feats = _gdelt_features_fast(gdf[gdf["date"] <= target_ts])
+                    prev_count = count
+                    gdelt_calls += 1
+                    daily.append(prev_feats)
+                else:
+                    daily.append(prev_feats)
+            gdelt_feats_daily[code] = daily
+        print(f"  GDELT features: {gdelt_calls} unique computations ({time.time() - t0:.1f}s)")
+
+        # Pre-compute baseline scores per country (reuse startup results, avoid disk I/O)
+        base_scores: dict[str, dict] = {}
+        for code in baseline:
+            cs = _country_scores.get(code, {})
+            base_scores[code] = {
+                "risk_score": cs.get("riskScore", 50),
+                "risk_level": cs.get("riskLevel", "MODERATE"),
+                "is_anomaly": cs.get("isAnomaly", False),
+            }
+
+        # Pre-compute risk scores per day for countries with varying GDELT data
+        daily_scores_all: dict[str, list[dict | None]] = {}
+        rescore_calls = 0
+        for code in gdelt_feats_daily:
+            if code not in baseline:
+                continue
+            prev_feats_id = None
+            prev_score: dict | None = None
+            daily_scores: list[dict | None] = []
+            for day_idx in range(N):
+                gf = gdelt_feats_daily[code][day_idx]
+                if gf is None:
+                    daily_scores.append(None)
+                    continue
+                feats_id = id(gf)  # same object if skipped (unchanged)
+                if feats_id != prev_feats_id:
+                    features = dict(baseline[code])
+                    for key in _GDELT_FEATURE_KEYS:
+                        features[key] = gf[key]
+                    try:
+                        pred = predict_risk(features)
+                        prev_score = {"risk_score": pred["risk_score"], "risk_level": pred["risk_level"]}
+                    except Exception:
+                        prev_score = {"risk_score": 50, "risk_level": "MODERATE"}
+                    prev_feats_id = feats_id
+                    rescore_calls += 1
+                daily_scores.append(prev_score)
+            daily_scores_all[code] = daily_scores
+        print(f"  Risk re-scoring: {rescore_calls} calls ({time.time() - t0:.1f}s)")
+
+        # Assemble KPIs per day
+        history: list[dict] = []
+        for day_idx, date_str in enumerate(dates):
+            risk_scores: list[int] = []
+            anomaly_count = 0
+            high_plus_count = 0
+            high_crit_anomaly_count = 0
+
+            for code in baseline:
+                bs = base_scores[code]
+
+                # Use re-scored value if GDELT/ACLED changed, else baseline
+                ds = daily_scores_all.get(code)
+                if ds and ds[day_idx]:
+                    risk_score = ds[day_idx]["risk_score"]
+                    risk_level = ds[day_idx]["risk_level"]
+                else:
+                    risk_score = bs["risk_score"]
+                    risk_level = bs["risk_level"]
+
+                risk_scores.append(risk_score)
+                if risk_level in ("HIGH", "CRITICAL"):
+                    high_plus_count += 1
+                if bs["is_anomaly"]:
+                    anomaly_count += 1
+                    if risk_level in ("HIGH", "CRITICAL"):
+                        high_crit_anomaly_count += 1
+
+            gti = round(sum(risk_scores) / max(len(risk_scores), 1))
+            history.append({
+                "date": date_str,
+                "globalThreatIndex": gti,
+                "activeAnomalies": anomaly_count,
+                "highPlusCountries": high_plus_count,
+                "escalationAlerts24h": high_crit_anomaly_count,
             })
 
-        # Force last entry to match live values exactly
-        if _kpi_history:
-            _kpi_history[-1]["globalThreatIndex"] = live_gti
-            _kpi_history[-1]["activeAnomalies"] = live_anom
-            _kpi_history[-1]["highPlusCountries"] = live_high
-            _kpi_history[-1]["escalationAlerts24h"] = live_esc
+        _kpi_history[:] = history[-N:]
+        elapsed = time.time() - t0
+        print(f"KPI history backfilled from ML pipeline: {len(_kpi_history)} days ({elapsed:.1f}s)")
 
-        _kpi_history[:] = _kpi_history[-30:]
-        logger.info(f"KPI history backfilled: {len(_kpi_history)} days from real ACLED data")
+        # Write cache
+        try:
+            _KPI_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+            with open(_KPI_CACHE_PATH, "w") as f:
+                json.dump(_kpi_history, f)
+        except Exception as e:
+            print(f"KPI cache write failed (non-fatal): {e}")
 
     except Exception as e:
-        logger.warning(f"KPI backfill failed: {e}")
-        pass  # No backfill available; history starts from current run
+        print(f"ML KPI backfill failed ({e}), falling back to synthetic...")
+        _backfill_kpi_history_synthetic()
+
+
+def _backfill_kpi_history_synthetic() -> None:
+    """
+    Fallback: backfill 30 days of KPI history using mean-reverting random walks
+    that converge to today's live dashboard values.
+    """
+    global _kpi_history
+
+    try:
+        live_gti = _dashboard_summary.get("globalThreatIndex", 45) if _dashboard_summary else 45
+        live_anom = _dashboard_summary.get("activeAnomalies", 8) if _dashboard_summary else 8
+        live_high = _dashboard_summary.get("highPlusCountries", 12) if _dashboard_summary else 12
+        live_esc = _dashboard_summary.get("escalationAlerts24h", 5) if _dashboard_summary else 5
+
+        rng = random.Random(42)
+        N = 30
+
+        def random_walk(live: float, lo: float, hi: float, volatility: float, trend_strength: float = 0.15) -> list[float]:
+            start = live + rng.uniform(-volatility * 6, -volatility * 2)
+            start = max(lo, min(hi, start))
+            values = [start]
+            for i in range(1, N):
+                prev = values[-1]
+                t = i / (N - 1)
+                target = start + (live - start) * t
+                pull = (target - prev) * trend_strength
+                noise = rng.gauss(0, volatility)
+                if rng.random() < 0.10:
+                    noise += rng.choice([-1, 1]) * volatility * 2.5
+                if i >= N - 5:
+                    pull = (live - prev) * (0.3 + 0.14 * (i - (N - 5)))
+                val = prev + pull + noise
+                values.append(max(lo, min(hi, val)))
+            values[-1] = live
+            return values
+
+        gti_series = random_walk(live_gti, lo=15, hi=95, volatility=3.5, trend_strength=0.12)
+        anom_series = random_walk(live_anom, lo=0, hi=50, volatility=2.0, trend_strength=0.18)
+        high_series = random_walk(live_high, lo=2, hi=60, volatility=2.5, trend_strength=0.15)
+        esc_series = random_walk(live_esc, lo=0, hi=30, volatility=1.5, trend_strength=0.18)
+
+        now = datetime.utcnow()
+        for i in range(N):
+            day_str = (now - timedelta(days=N - 1 - i)).strftime("%Y-%m-%d")
+            _kpi_history.append({
+                "date": day_str,
+                "globalThreatIndex": round(gti_series[i]),
+                "activeAnomalies": max(0, round(anom_series[i])),
+                "highPlusCountries": max(1, round(high_series[i])),
+                "escalationAlerts24h": max(0, round(esc_series[i])),
+            })
+
+        _kpi_history[:] = _kpi_history[-30:]
+        print(f"KPI history backfilled (synthetic): {len(_kpi_history)} days")
+
+    except Exception as e:
+        print(f"Synthetic KPI backfill also failed: {e}")
 
 
 async def _send_ntfy(title: str, body: str, priority: str = "default", tags: str = "bell"):
@@ -930,6 +1511,103 @@ def _notify_alerts(alerts: list[dict]) -> None:
         loop.create_task(_send_ntfy(title, body, priority, tags))
 
 
+def _seed_startup_alerts(curr: dict, now: str) -> list[dict]:
+    """Generate rich initial alerts on first startup from current scores + features."""
+    from datetime import datetime, timedelta
+    alerts = []
+    base_time = datetime.fromisoformat(now.replace("Z", "+00:00"))
+
+    # 1) CRITICAL countries
+    for code, c in curr.items():
+        if c["riskLevel"] == "CRITICAL":
+            alerts.append({
+                "type": "TIER_CHANGE",
+                "country": c["name"],
+                "code": code,
+                "detail": f"{c['name']} at CRITICAL risk level (score {c['riskScore']})",
+                "time": (base_time - timedelta(minutes=len(alerts) * 7 + 3)).isoformat() + "Z",
+                "severity": "high",
+            })
+
+    # 2) Anomalies in HIGH+ countries
+    for code, c in curr.items():
+        if c.get("isAnomaly") and c["riskLevel"] in ("CRITICAL", "HIGH"):
+            alerts.append({
+                "type": "ANOMALY_DETECTED",
+                "country": c["name"],
+                "code": code,
+                "detail": f"Anomaly detected in {c['name']} (severity {c.get('severity', 'MEDIUM')})",
+                "time": (base_time - timedelta(minutes=len(alerts) * 7 + 5)).isoformat() + "Z",
+                "severity": c.get("severity", "medium").lower(),
+            })
+
+    # 3) Feature-driven alerts from priority watchlist countries
+    for code in PRIORITY_COUNTRIES:
+        cs = _country_scores.get(code, {})
+        feats = cs.get("features", {})
+        name = cs.get("name", code)
+        if not feats:
+            continue
+
+        # High fatality rate
+        fat = float(feats.get("acled_fatalities_30d", 0) or 0)
+        if fat > 100:
+            alerts.append({
+                "type": "FATALITY_SPIKE",
+                "country": name,
+                "code": code,
+                "detail": f"{name}: {int(fat)} conflict fatalities in last 30 days",
+                "time": (base_time - timedelta(minutes=len(alerts) * 7 + 8)).isoformat() + "Z",
+                "severity": "high" if fat > 500 else "medium",
+            })
+
+        # Shipping / exposure alert for trade route countries
+        hotspot = CASCADE_HOTSPOTS.get(code, {})
+        if hotspot and code in ("YE", "IR", "SG", "NL"):
+            alerts.append({
+                "type": "ROUTE_DISRUPTION",
+                "country": name,
+                "code": code,
+                "detail": f"{hotspot.get('risk_source', '')} — {hotspot.get('exposure', '')} exposure at risk",
+                "time": (base_time - timedelta(minutes=len(alerts) * 7 + 2)).isoformat() + "Z",
+                "severity": "high" if cs.get("riskLevel") in ("HIGH", "CRITICAL") else "medium",
+            })
+
+        # CAST forecast spike (conflict forecast elevated)
+        cast = float(feats.get("cast_total_forecast", 0) or 0)
+        if cast > 50:
+            alerts.append({
+                "type": "FORECAST_ESCALATION",
+                "country": name,
+                "code": code,
+                "detail": f"ACLED conflict forecast elevated for {name} ({int(cast)} predicted events next 4 weeks)",
+                "time": (base_time - timedelta(minutes=len(alerts) * 7 + 12)).isoformat() + "Z",
+                "severity": "medium",
+            })
+
+        # Governance instability (WGI political stability very negative)
+        wgi = float(feats.get("wgi_political_stability", 0) or 0)
+        if wgi < -1.5:
+            alerts.append({
+                "type": "GOVERNANCE_ALERT",
+                "country": name,
+                "code": code,
+                "detail": f"{name} political stability critically low (WGI: {wgi:.2f})",
+                "time": (base_time - timedelta(minutes=len(alerts) * 7 + 18)).isoformat() + "Z",
+                "severity": "medium",
+            })
+
+    # Sort by time descending (most recent first), deduplicate by country+type
+    seen = set()
+    unique = []
+    for a in sorted(alerts, key=lambda x: x["time"], reverse=True):
+        key = (a["code"], a["type"])
+        if key not in seen:
+            seen.add(key)
+            unique.append(a)
+    return unique
+
+
 def _post_rebuild_hook(country_rows: list[dict]) -> None:
     """Called at end of _rebuild_dashboard_summary(); updates all derived state."""
     global _previous_country_scores, _alerts_history, _activity_feed, _kpi_history, _gti_history
@@ -954,26 +1632,7 @@ def _post_rebuild_hook(country_rows: list[dict]) -> None:
 
     # Seed initial alerts on first startup when no previous state exists
     if not new_alerts and not _alerts_history:
-        seeded_alerts = []
-        for code, c in curr.items():
-            if c["riskLevel"] in ("CRITICAL", "HIGH") and c.get("isAnomaly", False):
-                seeded_alerts.append({
-                    "type": "ANOMALY_DETECTED",
-                    "country": c["name"],
-                    "code": code,
-                    "detail": f"Anomaly detected in {c['name']} (score {c.get('anomalyScore', 0):.2f}, severity {c.get('severity', 'LOW')})",
-                    "time": now,
-                    "severity": c.get("severity", "medium").lower(),
-                })
-            elif c["riskLevel"] == "CRITICAL":
-                seeded_alerts.append({
-                    "type": "TIER_CHANGE",
-                    "country": c["name"],
-                    "code": code,
-                    "detail": f"{c['name']} at CRITICAL risk level (score {c['riskScore']})",
-                    "time": now,
-                    "severity": "high",
-                })
+        seeded_alerts = _seed_startup_alerts(curr, now)
         _alerts_history = (seeded_alerts + _alerts_history)[:50]
         _notify_alerts(seeded_alerts)
 
@@ -981,8 +1640,16 @@ def _post_rebuild_hook(country_rows: list[dict]) -> None:
     new_items = _generate_activity_items(_previous_country_scores, curr, now)
     _activity_feed = (new_items + _activity_feed)[:30]
 
-    # Backfill KPI history on first run
-    _backfill_kpi_history()
+    # Backfill KPI history only after Phase 2 (need enough countries for meaningful GTI)
+    if len(_country_scores) >= 100:
+        if _kpi_history and _kpi_history[0].get("_partial"):
+            _kpi_history.clear()  # invalidate Phase 1 partial backfill
+        _backfill_kpi_history()
+    elif not _kpi_history:
+        # Phase 1: quick synthetic so frontend has something while Phase 2 computes
+        _backfill_kpi_history_synthetic()
+        for h in _kpi_history:
+            h["_partial"] = True  # mark for invalidation after Phase 2
 
     # Append or update today's KPI snapshot to always match live dashboard
     today = datetime.utcnow().strftime("%Y-%m-%d")
@@ -1132,6 +1799,7 @@ async def refresh_loop() -> None:
         all_codes = list(MONITORED_COUNTRIES.keys())
         rows = await loop.run_in_executor(None, _compute_batch_sync, all_codes)
         _rebuild_dashboard_summary(rows)
+        _save_scores_cache()
         await _refresh_live_sources()
         print(f"Scores refreshed at {datetime.utcnow().isoformat()}Z — {len(rows)} countries")
 
@@ -1158,22 +1826,98 @@ async def startup():
     print("Sentinel AI backend ready — API live, computing scores in background")
 
 
+def _save_scores_cache():
+    """Persist _country_scores to disk for instant restart."""
+    try:
+        # Save only serializable fields (skip DataFrames etc.)
+        cache = {}
+        for code, data in _country_scores.items():
+            cache[code] = {
+                "name": data.get("name"),
+                "riskScore": data.get("riskScore"),
+                "riskLevel": data.get("riskLevel"),
+                "isAnomaly": data.get("isAnomaly"),
+                "anomalyScore": data.get("anomalyScore"),
+                "severity": data.get("severity"),
+                "features": data.get("features"),
+                "risk_prediction": data.get("risk_prediction"),
+                "anomaly": data.get("anomaly"),
+            }
+        _SCORES_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+        with open(_SCORES_CACHE_PATH, "w") as f:
+            json.dump(cache, f)
+    except Exception as e:
+        print(f"Scores cache write failed (non-fatal): {e}")
+
+
+def _load_scores_cache() -> bool:
+    """Load cached scores from disk. Returns True if cache loaded and fresh."""
+    global _country_scores
+    try:
+        if not _SCORES_CACHE_PATH.exists():
+            return False
+        with open(_SCORES_CACHE_PATH, "r") as f:
+            cache = json.load(f)
+        if not cache or len(cache) < 50:
+            return False
+        _country_scores.update(cache)
+        # Build rows for dashboard summary
+        rows = []
+        for code, data in cache.items():
+            rows.append({
+                "code": code,
+                "name": data.get("name", code),
+                "riskScore": data.get("riskScore", 50),
+                "riskLevel": data.get("riskLevel", "MODERATE"),
+                "isAnomaly": data.get("isAnomaly", False),
+                "anomalyScore": data.get("anomalyScore", 0),
+            })
+        _rebuild_dashboard_summary(rows)
+        return True
+    except Exception as e:
+        print(f"Scores cache load failed: {e}")
+        return False
+
+
 async def _startup_compute() -> None:
-    """Run all score computation in a thread so the API stays responsive."""
+    """Load cached scores instantly, then refresh from data in background."""
     await asyncio.sleep(0.1)  # let uvicorn bind port
     loop = asyncio.get_event_loop()
 
-    # Phase 1: priority countries (in thread so API can serve requests)
+    # Try instant load from cache
+    t0 = time.perf_counter()
+    cached = await loop.run_in_executor(None, _load_scores_cache)
+    if cached:
+        print(f"Loaded {len(_country_scores)} country scores from cache in {time.perf_counter() - t0:.1f}s")
+        # GPT-4o recommendations
+        try:
+            t1 = time.perf_counter()
+            await get_recommendations()
+            print(f"GPT-4o recommendations ready in {time.perf_counter() - t1:.1f}s")
+        except Exception as e:
+            print(f"GPT-4o recommendations failed: {e}")
+        # Refresh all scores from data in background (non-blocking)
+        asyncio.create_task(_background_refresh_all())
+        asyncio.create_task(_refresh_live_sources())
+        return
+
+    # No cache — compute from scratch
+    print("No scores cache found, computing from data...")
     t0 = time.perf_counter()
     priority_rows = await loop.run_in_executor(None, _compute_batch_sync, PRIORITY_COUNTRIES)
     _rebuild_dashboard_summary(priority_rows)
-    elapsed = time.perf_counter() - t0
-    print(f"Phase 1: {len(priority_rows)} priority countries ready in {elapsed:.1f}s")
+    print(f"Priority {len(priority_rows)} countries ready in {time.perf_counter() - t0:.1f}s")
 
-    # Phase 2.5: kick off live source fetch (non-blocking)
+    # GPT-4o recommendations
+    try:
+        t1 = time.perf_counter()
+        await get_recommendations()
+        print(f"GPT-4o recommendations ready in {time.perf_counter() - t1:.1f}s")
+    except Exception as e:
+        print(f"GPT-4o recommendations failed: {e}")
+
+    # Remaining countries + live sources
     asyncio.create_task(_refresh_live_sources())
-
-    # Phase 2: remaining countries (in thread, batched)
     priority_set = set(PRIORITY_COUNTRIES)
     remaining = [c for c in MONITORED_COUNTRIES if c not in priority_set]
     if remaining:
@@ -1184,7 +1928,6 @@ async def _startup_compute() -> None:
             batch = remaining[i:i + BATCH]
             rows = await loop.run_in_executor(None, _compute_batch_sync, batch)
             all_rows.extend(rows)
-        # Rebuild with all countries
         priority_rows_fresh = [
             {"code": c, "name": _country_scores[c]["name"],
              "riskScore": _country_scores[c]["riskScore"], "riskLevel": _country_scores[c]["riskLevel"],
@@ -1192,8 +1935,27 @@ async def _startup_compute() -> None:
             for c in PRIORITY_COUNTRIES if c in _country_scores
         ]
         _rebuild_dashboard_summary(priority_rows_fresh + all_rows)
-        elapsed = time.perf_counter() - t0
-        print(f"Phase 2: {len(all_rows)} remaining countries computed in {elapsed:.1f}s")
+        print(f"Remaining {len(all_rows)} countries computed in {time.perf_counter() - t0:.1f}s")
+
+    # Save cache for next restart
+    _save_scores_cache()
+
+
+async def _background_refresh_all() -> None:
+    """Refresh all scores from raw data in background (non-blocking after cached startup)."""
+    loop = asyncio.get_event_loop()
+    t0 = time.perf_counter()
+    all_codes = list(MONITORED_COUNTRIES.keys())
+    BATCH = 30
+    all_rows = []
+    for i in range(0, len(all_codes), BATCH):
+        batch = all_codes[i:i + BATCH]
+        rows = await loop.run_in_executor(None, _compute_batch_sync, batch)
+        all_rows.extend(rows)
+        await asyncio.sleep(0)  # yield to event loop
+    _rebuild_dashboard_summary(all_rows)
+    _save_scores_cache()
+    print(f"Background refresh: {len(all_rows)} countries updated in {time.perf_counter() - t0:.1f}s")
 
 
 def _compute_batch_sync(codes: list[str]) -> list[dict]:
@@ -1251,7 +2013,7 @@ async def health():
         "uptime": uptime_str,
         "uptimeSeconds": round(uptime_seconds),
         "models": {
-            "riskScorer": {"ready": risk_model_path.exists(), "type": "XGBoost", "features": 47},
+            "riskScorer": {"ready": risk_model_path.exists(), "type": "XGBoost", "features": 57},
             "anomalyDetection": {"ready": anomaly_model_count > 0, "type": "Isolation Forest", "countryModels": anomaly_model_count},
             "forecaster": {"ready": forecaster_path.exists(), "type": "LSTM", "horizons": ["30d", "60d", "90d"]},
             "sentiment": {"type": "FinBERT", "model": "ProsusAI/finbert"},
@@ -1549,7 +2311,7 @@ async def api_dashboard_kpis():
 
 @app.get("/api/dashboard/kpis/history")
 async def api_dashboard_kpis_history():
-    """Return historical KPI data (30 days, synthetic backfill + live)."""
+    """Return historical KPI data (30 days, ML pipeline backfill + live)."""
     _backfill_kpi_history()
     gti_values = [{"date": h["date"], "value": h["globalThreatIndex"]} for h in _kpi_history]
     anomaly_values = [{"date": h["date"], "value": h["activeAnomalies"]} for h in _kpi_history]
@@ -1616,6 +2378,169 @@ async def _refresh_live_sources() -> None:
         _live_source_data = await fetch_all_live_sources()
     except Exception:
         pass  # never block the main loop
+
+
+# ── New endpoints: /api/exposure, /api/recommendations, /api/headlines ──
+
+# Pre-built trade route definitions (matches story.md)
+_CASCADE_ROUTES = [
+    {"id": "r1", "from": "CN", "to": "TW", "fromName": "Baotou", "toName": "Hsinchu", "chokepoint": "Taiwan Strait", "riskLevel": "HIGH", "annualCargo": 420},
+    {"id": "r2", "from": "TW", "to": "JP", "fromName": "Hsinchu", "toName": "Nagoya", "chokepoint": "East China Sea", "riskLevel": "ELEVATED", "annualCargo": 680},
+    {"id": "r3", "from": "JP", "to": "SG", "fromName": "Nagoya", "toName": "Singapore", "chokepoint": "South China Sea", "riskLevel": "ELEVATED", "annualCargo": 290},
+    {"id": "r4", "from": "SG", "to": "NL", "fromName": "Singapore", "toName": "Rotterdam", "chokepoint": "Malacca + Suez + Bab el-Mandeb", "riskLevel": "HIGH", "annualCargo": 1100},
+    {"id": "r5", "from": "NL", "to": "FR", "fromName": "Rotterdam", "toName": "Toulouse", "chokepoint": "European inland", "riskLevel": "LOW", "annualCargo": 620},
+    {"id": "r6", "from": "NL", "to": "US", "fromName": "Rotterdam", "toName": "Portland", "chokepoint": "Transatlantic", "riskLevel": "LOW", "annualCargo": 540},
+    {"id": "r7", "from": "IT", "to": "FR", "fromName": "Verdi", "toName": "Toulouse", "chokepoint": "European inland", "riskLevel": "LOW", "annualCargo": 340},
+    {"id": "r8", "from": "CN", "to": "US", "fromName": "Baotou", "toName": "Portland", "chokepoint": "Trans-Pacific", "riskLevel": "ELEVATED", "annualCargo": 420},
+    {"id": "r9", "from": "FR", "to": "US", "fromName": "Toulouse", "toName": "Portland", "chokepoint": "Transatlantic", "riskLevel": "LOW", "annualCargo": 620},
+]
+
+# Facility coordinates (from story.md)
+_CASCADE_FACILITY_COORDS = {
+    "US": (45.52, -122.68),
+    "FR": (43.60, 1.44),
+    "IT": (45.44, 10.99),
+    "TW": (24.80, 120.97),
+    "CN": (40.66, 109.84),
+    "JP": (35.18, 136.91),
+    "SG": (1.35, 103.82),
+    "NL": (51.92, 4.48),
+}
+
+_CASCADE_FACILITY_TYPES = {
+    "US": "hq", "FR": "manufacturing", "IT": "manufacturing",
+    "TW": "manufacturing", "CN": "processing", "JP": "assembly",
+    "SG": "distribution", "NL": "distribution",
+}
+
+
+def _parse_exposure_value(val: str) -> float:
+    """Parse '$680M' or '$1.4B' into numeric millions."""
+    val = val.strip().replace("$", "").replace(",", "")
+    if val.lower() == "hub":
+        return 0
+    if "B" in val.upper():
+        return float(val.upper().replace("B", "")) * 1000
+    if "M" in val.upper():
+        return float(val.upper().replace("M", ""))
+    return 0
+
+
+@app.get("/api/exposure")
+async def api_exposure():
+    """Cascade Precision supply chain exposure — facilities, routes, country exposure."""
+    facilities = []
+    for code, f in CASCADE_FACILITIES.items():
+        coords = _CASCADE_FACILITY_COORDS.get(code, (0, 0))
+        facilities.append({
+            "id": code.lower(),
+            "name": f["facility"],
+            "location": f["location"],
+            "lat": coords[0],
+            "lng": coords[1],
+            "type": _CASCADE_FACILITY_TYPES.get(code, "manufacturing"),
+            "function": f["function"],
+            "annualValue": _parse_exposure_value(f["value"]),
+        })
+
+    country_exposure = {}
+    for code, h in CASCADE_HOTSPOTS.items():
+        exposure_val = _parse_exposure_value(h["exposure"].split("(")[0].strip())
+        # Determine which facilities and routes are affected
+        affected_facilities = [code.lower()] if code in CASCADE_FACILITIES else []
+        affected_routes = [r["id"] for r in _CASCADE_ROUTES if r["from"] == code or r["to"] == code]
+        country_name = MONITORED_COUNTRIES.get(code, {}).get("name", code)
+        risk_level = "MODERATE"
+        if code in _country_scores:
+            risk_level = _country_scores[code].get("riskLevel", "MODERATE")
+        country_exposure[code] = {
+            "countryCode": code,
+            "countryName": country_name,
+            "totalExposure": exposure_val,
+            "riskLevel": risk_level,
+            "riskSource": h["risk_source"],
+            "affectedFacilities": affected_facilities,
+            "affectedRoutes": affected_routes,
+            "description": h["basis"],
+        }
+
+    return {
+        "company": "Cascade Precision Industries",
+        "totalRevenue": 3800,
+        "totalExposure": sum(ce["totalExposure"] for ce in country_exposure.values()),
+        "facilities": facilities,
+        "routes": _CASCADE_ROUTES,
+        "countryExposure": country_exposure,
+        "computedAt": datetime.utcnow().isoformat() + "Z",
+    }
+
+
+@app.get("/api/recommendations")
+async def api_recommendations():
+    """Strategic recommendations for all Cascade hotspot countries (GPT-4o generated)."""
+    gpt_recs = await get_recommendations()
+    recommendations = []
+    for code, rec in gpt_recs.items():
+        country_name = MONITORED_COUNTRIES.get(code, {}).get("name", code)
+        risk_score = 50
+        risk_level = "MODERATE"
+        if code in _country_scores:
+            risk_score = _country_scores[code].get("riskScore", 50)
+            risk_level = _country_scores[code].get("riskLevel", "MODERATE")
+
+        hotspot = CASCADE_HOTSPOTS.get(code, {})
+        exposure_val = _parse_exposure_value(hotspot.get("exposure", "$0").split("(")[0].strip())
+
+        recommendations.append({
+            "countryCode": code,
+            "countryName": country_name,
+            "riskScore": risk_score,
+            "riskLevel": risk_level,
+            "exposure": exposure_val,
+            "industries": hotspot.get("industries", []),
+            "watch": hotspot.get("watch", []),
+            **rec,
+        })
+
+    # Sort: IMMEDIATE first, then by exposure descending
+    priority_order = {"IMMEDIATE": 0, "SHORT_TERM": 1, "MEDIUM_TERM": 2}
+    recommendations.sort(key=lambda r: (priority_order.get(r["priority"], 9), -r["exposure"]))
+
+    return {
+        "company": "Cascade Precision Industries",
+        "totalRecommendations": len(recommendations),
+        "recommendations": recommendations,
+        "computedAt": datetime.utcnow().isoformat() + "Z",
+    }
+
+
+# --- Headlines cache for ticker (refreshed with scores) ---
+_headlines_cache: dict[str, list[dict]] = {}
+_headlines_cache_time: float = 0
+_HEADLINES_CACHE_TTL = 600  # 10 minutes
+
+
+@app.get("/api/headlines")
+async def api_headlines():
+    """Return recent news headlines for priority countries (for news ticker)."""
+    global _headlines_cache, _headlines_cache_time
+
+    now = time.time()
+    if _headlines_cache and (now - _headlines_cache_time) < _HEADLINES_CACHE_TTL:
+        return {"headlines": _headlines_cache, "cached": True, "fetchedAt": datetime.utcfromtimestamp(_headlines_cache_time).isoformat() + "Z"}
+
+    results: dict[str, list[dict]] = {}
+    for code in PRIORITY_COUNTRIES:
+        country_name = MONITORED_COUNTRIES.get(code, {}).get("name", code)
+        try:
+            raw = await fetch_headlines(country_name, max_headlines=5)
+            results[code] = [{"text": h["title"], "source": h["source"]} for h in raw]
+        except Exception:
+            results[code] = []
+
+    _headlines_cache = results
+    _headlines_cache_time = now
+    return {"headlines": results, "cached": False, "fetchedAt": datetime.utcnow().isoformat() + "Z"}
 
 
 if __name__ == "__main__":

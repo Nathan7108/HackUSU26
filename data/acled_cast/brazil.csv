@@ -1,0 +1,1054 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Brazil,Acre,March,2023,8,4,0,4,5.0,2.0,0.0,3.0,1728560725
+Brazil,Acre,April,2023,6,2,0,4,9.0,2.0,0.0,7.0,1728560725
+Brazil,Acre,May,2023,7,2,0,5,8.0,0.0,0.0,8.0,1728560725
+Brazil,Acre,June,2023,6,0,0,6,1.0,1.0,0.0,0.0,1728560725
+Brazil,Acre,July,2023,5,1,0,4,12.0,5.0,0.0,7.0,1728560725
+Brazil,Acre,August,2023,7,2,0,5,6.0,3.0,0.0,3.0,1728560725
+Brazil,Acre,September,2023,5,2,0,3,4.0,0.0,0.0,4.0,1728560725
+Brazil,Acre,October,2023,5,1,0,4,2.0,0.0,0.0,2.0,1728560725
+Brazil,Acre,November,2023,6,3,0,3,6.0,4.0,0.0,2.0,1728560725
+Brazil,Acre,December,2023,6,3,0,3,1.0,0.0,0.0,1.0,1728560725
+Brazil,Acre,January,2024,3,0,0,3,10.0,6.0,0.0,4.0,1728560725
+Brazil,Acre,February,2024,8,5,0,3,3.0,0.0,0.0,3.0,1728560725
+Brazil,Acre,March,2024,5,2,0,3,5.0,1.0,0.0,4.0,1728560725
+Brazil,Acre,April,2024,6,2,0,4,1.0,0.0,0.0,1.0,1728560725
+Brazil,Acre,May,2024,5,2,0,3,2.0,1.0,0.0,1.0,1728560725
+Brazil,Acre,June,2024,2,1,0,1,5.0,0.0,0.0,5.0,1728560725
+Brazil,Acre,July,2024,5,0,0,5,2.0,0.0,0.0,2.0,1728560725
+Brazil,Acre,August,2024,2,0,0,2,0.0,0.0,0.0,0.0,1728560725
+Brazil,Alagoas,March,2023,26,10,0,16,25.0,5.0,0.0,20.0,1728560726
+Brazil,Alagoas,April,2023,24,7,0,18,31.0,5.0,0.0,26.0,1728560726
+Brazil,Alagoas,May,2023,31,6,0,25,38.0,7.0,0.0,31.0,1728560726
+Brazil,Alagoas,June,2023,28,7,0,21,28.0,11.0,0.0,17.0,1728560726
+Brazil,Alagoas,July,2023,38,10,0,28,22.0,3.0,1.0,18.0,1728560726
+Brazil,Alagoas,August,2023,21,4,0,17,25.0,6.0,0.0,19.0,1728560726
+Brazil,Alagoas,September,2023,25,6,0,19,40.0,9.0,0.0,31.0,1728560726
+Brazil,Alagoas,October,2023,35,8,0,27,51.0,14.0,0.0,37.0,1728560726
+Brazil,Alagoas,November,2023,46,12,0,34,39.0,13.0,0.0,26.0,1728560726
+Brazil,Alagoas,December,2023,38,12,0,26,33.0,10.0,0.0,23.0,1728560726
+Brazil,Alagoas,January,2024,32,10,0,22,35.0,5.0,0.0,30.0,1728560726
+Brazil,Alagoas,February,2024,32,5,0,27,24.0,7.0,0.0,17.0,1728560726
+Brazil,Alagoas,March,2024,27,7,0,20,25.0,8.0,0.0,17.0,1728560726
+Brazil,Alagoas,April,2024,24,7,0,17,32.0,9.0,0.0,23.0,1728560726
+Brazil,Alagoas,May,2024,32,9,0,23,17.0,5.0,0.0,12.0,1728560726
+Brazil,Alagoas,June,2024,17,5,0,12,31.0,11.0,0.0,20.0,1728560726
+Brazil,Alagoas,July,2024,30,10,0,20,17.0,9.0,0.0,8.0,1728560726
+Brazil,Alagoas,August,2024,16,9,0,7,28.0,8.0,0.0,20.0,1728560726
+Brazil,Amapa,March,2023,19,8,0,11,9.0,6.0,0.0,3.0,1728560726
+Brazil,Amapa,April,2023,13,7,0,6,25.0,20.0,0.0,5.0,1728560726
+Brazil,Amapa,May,2023,23,18,0,5,23.0,14.0,0.0,9.0,1728560726
+Brazil,Amapa,June,2023,24,14,0,10,18.0,10.0,0.0,8.0,1728560726
+Brazil,Amapa,July,2023,21,10,0,11,15.0,7.0,0.0,8.0,1728560726
+Brazil,Amapa,August,2023,15,7,0,8,29.0,19.0,0.0,10.0,1728560726
+Brazil,Amapa,September,2023,28,18,0,10,32.0,18.0,0.0,14.0,1728560726
+Brazil,Amapa,October,2023,31,17,0,14,19.0,15.0,0.0,4.0,1728560727
+Brazil,Amapa,November,2023,19,13,0,6,18.0,11.0,0.0,7.0,1728560727
+Brazil,Amapa,December,2023,18,11,0,7,11.0,5.0,0.0,6.0,1728560727
+Brazil,Amapa,January,2024,12,5,0,7,23.0,12.0,0.0,11.0,1728560727
+Brazil,Amapa,February,2024,21,11,0,10,16.0,11.0,0.0,5.0,1728560727
+Brazil,Amapa,March,2024,16,9,0,7,22.0,15.0,0.0,7.0,1728560727
+Brazil,Amapa,April,2024,19,12,0,7,20.0,8.0,0.0,12.0,1728560727
+Brazil,Amapa,May,2024,19,8,0,11,13.0,5.0,0.0,8.0,1728560727
+Brazil,Amapa,June,2024,13,5,0,8,12.0,7.0,0.0,5.0,1728560727
+Brazil,Amapa,July,2024,12,6,0,6,17.0,9.0,0.0,8.0,1728560727
+Brazil,Amapa,August,2024,16,9,0,7,21.0,12.0,0.0,9.0,1728560727
+Brazil,Amazonas,March,2023,43,10,0,33,44.0,9.0,0.0,35.0,1728560727
+Brazil,Amazonas,April,2023,46,10,0,36,51.0,16.0,0.0,35.0,1728560727
+Brazil,Amazonas,May,2023,52,16,0,36,58.0,15.0,1.0,42.0,1728560727
+Brazil,Amazonas,June,2023,54,15,1,38,50.0,14.0,0.0,36.0,1728560727
+Brazil,Amazonas,July,2023,48,14,0,34,66.0,19.0,0.0,47.0,1728560727
+Brazil,Amazonas,August,2023,62,17,0,45,57.0,11.0,0.0,46.0,1728560727
+Brazil,Amazonas,September,2023,56,11,0,45,38.0,9.0,0.0,29.0,1728560727
+Brazil,Amazonas,October,2023,39,10,0,29,41.0,11.0,0.0,30.0,1728560727
+Brazil,Amazonas,November,2023,41,12,0,29,46.0,9.0,0.0,37.0,1728560727
+Brazil,Amazonas,December,2023,45,10,0,35,40.0,10.0,0.0,30.0,1728560727
+Brazil,Amazonas,January,2024,42,10,0,32,30.0,13.0,0.0,17.0,1728560727
+Brazil,Amazonas,February,2024,35,13,0,22,29.0,5.0,0.0,24.0,1728560727
+Brazil,Amazonas,March,2024,29,5,0,24,41.0,10.0,0.0,31.0,1728560727
+Brazil,Amazonas,April,2024,39,10,0,29,21.0,3.0,0.0,18.0,1728560727
+Brazil,Amazonas,May,2024,30,8,0,22,28.0,6.0,0.0,22.0,1728560727
+Brazil,Amazonas,June,2024,27,6,0,21,30.0,9.0,0.0,21.0,1728560727
+Brazil,Amazonas,July,2024,30,8,0,22,32.0,7.0,0.0,25.0,1728560727
+Brazil,Amazonas,August,2024,30,7,0,23,34.0,5.0,0.0,29.0,1728560727
+Brazil,Bahia,March,2023,29,16,1,12,33.0,18.0,0.0,15.0,1728560728
+Brazil,Bahia,April,2023,34,19,0,15,24.0,13.0,0.0,11.0,1728560728
+Brazil,Bahia,May,2023,26,14,0,12,46.0,26.0,0.0,20.0,1728560728
+Brazil,Bahia,June,2023,38,24,0,15,43.0,26.0,0.0,17.0,1728560728
+Brazil,Bahia,July,2023,43,24,0,18,8.0,4.0,0.0,4.0,1728560728
+Brazil,Bahia,August,2023,12,7,0,5,37.0,15.0,0.0,22.0,1728560728
+Brazil,Bahia,September,2023,36,14,0,22,60.0,30.0,1.0,29.0,1728560728
+Brazil,Bahia,October,2023,52,26,0,26,48.0,27.0,0.0,21.0,1728560728
+Brazil,Bahia,November,2023,45,24,0,21,40.0,16.0,1.0,23.0,1728560728
+Brazil,Bahia,December,2023,38,16,1,21,44.0,23.0,1.0,20.0,1728560728
+Brazil,Bahia,January,2024,41,21,0,20,37.0,17.0,0.0,20.0,1728560728
+Brazil,Bahia,February,2024,36,16,0,20,33.0,14.0,0.0,19.0,1728560728
+Brazil,Bahia,March,2024,32,13,0,19,30.0,14.0,0.0,16.0,1728560728
+Brazil,Bahia,April,2024,35,17,0,18,34.0,21.0,0.0,13.0,1728560728
+Brazil,Bahia,May,2024,33,18,0,15,29.0,14.0,0.0,15.0,1728560728
+Brazil,Bahia,June,2024,29,14,0,15,26.0,16.0,0.0,10.0,1728560728
+Brazil,Bahia,July,2024,28,15,0,13,29.0,14.0,0.0,15.0,1728560728
+Brazil,Bahia,August,2024,27,13,0,14,37.0,18.0,0.0,19.0,1728560728
+Brazil,Ceara,March,2023,8,4,0,4,8.0,6.0,0.0,2.0,1728560728
+Brazil,Ceara,April,2023,8,5,0,3,6.0,1.0,0.0,5.0,1728560728
+Brazil,Ceara,May,2023,6,1,0,5,16.0,5.0,0.0,11.0,1728560728
+Brazil,Ceara,June,2023,10,5,0,5,4.0,1.0,0.0,3.0,1728560728
+Brazil,Ceara,July,2023,6,2,0,4,6.0,2.0,0.0,4.0,1728560728
+Brazil,Ceara,August,2023,6,2,0,4,17.0,7.0,1.0,9.0,1728560728
+Brazil,Ceara,September,2023,15,6,0,9,10.0,5.0,0.0,5.0,1728560728
+Brazil,Ceara,October,2023,9,4,0,5,12.0,5.0,0.0,7.0,1728560729
+Brazil,Ceara,November,2023,11,4,0,7,11.0,4.0,0.0,7.0,1728560729
+Brazil,Ceara,December,2023,9,3,0,6,6.0,2.0,0.0,4.0,1728560729
+Brazil,Ceara,January,2024,9,3,0,6,10.0,5.0,0.0,5.0,1728560729
+Brazil,Ceara,February,2024,10,5,0,5,10.0,5.0,0.0,5.0,1728560729
+Brazil,Ceara,March,2024,10,5,0,5,11.0,7.0,0.0,4.0,1728560729
+Brazil,Ceara,April,2024,10,5,0,5,11.0,3.0,0.0,8.0,1728560729
+Brazil,Ceara,May,2024,12,4,0,8,17.0,6.0,0.0,11.0,1728560729
+Brazil,Ceara,June,2024,15,6,0,9,15.0,7.0,0.0,8.0,1728560729
+Brazil,Ceara,July,2024,15,7,0,8,16.0,8.0,0.0,8.0,1728560729
+Brazil,Ceara,August,2024,15,8,0,7,8.0,3.0,0.0,5.0,1728560729
+Brazil,Distrito Federal,March,2023,5,4,0,1,2.0,2.0,0.0,0.0,1728560729
+Brazil,Distrito Federal,April,2023,3,2,0,1,3.0,2.0,0.0,1.0,1728560729
+Brazil,Distrito Federal,May,2023,4,2,0,2,2.0,1.0,0.0,1.0,1728560729
+Brazil,Distrito Federal,June,2023,4,1,0,3,0.0,0.0,0.0,0.0,1728560729
+Brazil,Distrito Federal,July,2023,4,0,0,3,1.0,0.0,0.0,1.0,1728560729
+Brazil,Distrito Federal,August,2023,2,1,0,1,4.0,2.0,0.0,2.0,1728560729
+Brazil,Distrito Federal,September,2023,3,1,0,2,0.0,0.0,0.0,0.0,1728560729
+Brazil,Distrito Federal,October,2023,0,0,0,0,4.0,0.0,0.0,4.0,1728560729
+Brazil,Distrito Federal,November,2023,6,3,0,3,2.0,1.0,0.0,1.0,1728560729
+Brazil,Distrito Federal,December,2023,3,1,0,2,0.0,0.0,0.0,0.0,1728560729
+Brazil,Distrito Federal,January,2024,1,0,0,1,1.0,1.0,0.0,0.0,1728560729
+Brazil,Distrito Federal,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560729
+Brazil,Distrito Federal,March,2024,1,1,0,0,4.0,0.0,0.0,4.0,1728560729
+Brazil,Distrito Federal,April,2024,4,1,0,3,0.0,0.0,0.0,0.0,1728560729
+Brazil,Distrito Federal,May,2024,2,1,0,1,3.0,1.0,0.0,2.0,1728560729
+Brazil,Distrito Federal,June,2024,3,1,0,2,4.0,3.0,0.0,1.0,1728560729
+Brazil,Distrito Federal,July,2024,3,2,0,1,2.0,0.0,0.0,2.0,1728560729
+Brazil,Distrito Federal,August,2024,2,0,0,2,1.0,0.0,0.0,1.0,1728560729
+Brazil,Espirito Santo,March,2023,19,6,0,13,24.0,7.0,0.0,17.0,1728560730
+Brazil,Espirito Santo,April,2023,23,7,0,15,15.0,4.0,0.0,11.0,1728560730
+Brazil,Espirito Santo,May,2023,16,5,0,11,8.0,5.0,0.0,3.0,1728560730
+Brazil,Espirito Santo,June,2023,14,5,0,8,11.0,2.0,0.0,9.0,1728560730
+Brazil,Espirito Santo,July,2023,10,3,0,7,17.0,6.0,0.0,11.0,1728560730
+Brazil,Espirito Santo,August,2023,15,5,0,10,23.0,12.0,0.0,11.0,1728560730
+Brazil,Espirito Santo,September,2023,23,12,0,11,17.0,11.0,0.0,6.0,1728560730
+Brazil,Espirito Santo,October,2023,16,10,0,6,25.0,12.0,0.0,13.0,1728560730
+Brazil,Espirito Santo,November,2023,21,10,0,11,20.0,8.0,0.0,12.0,1728560730
+Brazil,Espirito Santo,December,2023,17,7,0,10,23.0,13.0,0.0,10.0,1728560730
+Brazil,Espirito Santo,January,2024,22,12,0,10,23.0,9.0,0.0,14.0,1728560730
+Brazil,Espirito Santo,February,2024,23,9,0,14,12.0,6.0,0.0,6.0,1728560730
+Brazil,Espirito Santo,March,2024,15,6,0,9,21.0,9.0,0.0,12.0,1728560730
+Brazil,Espirito Santo,April,2024,17,7,0,10,14.0,8.0,0.0,6.0,1728560730
+Brazil,Espirito Santo,May,2024,17,9,0,8,19.0,10.0,0.0,9.0,1728560730
+Brazil,Espirito Santo,June,2024,18,9,0,9,8.0,4.0,0.0,4.0,1728560730
+Brazil,Espirito Santo,July,2024,10,4,0,6,18.0,6.0,0.0,12.0,1728560730
+Brazil,Espirito Santo,August,2024,16,5,0,11,18.0,7.0,0.0,11.0,1728560730
+Brazil,Goias,March,2023,6,4,0,2,4.0,2.0,0.0,2.0,1728560730
+Brazil,Goias,April,2023,5,2,0,3,4.0,3.0,0.0,1.0,1728560730
+Brazil,Goias,May,2023,5,3,0,2,6.0,3.0,0.0,3.0,1728560730
+Brazil,Goias,June,2023,7,3,0,4,8.0,6.0,0.0,2.0,1728560730
+Brazil,Goias,July,2023,8,5,0,3,9.0,4.0,0.0,5.0,1728560730
+Brazil,Goias,August,2023,7,3,0,4,6.0,5.0,0.0,1.0,1728560730
+Brazil,Goias,September,2023,5,4,0,1,4.0,1.0,0.0,3.0,1728560730
+Brazil,Goias,October,2023,4,1,0,3,4.0,2.0,0.0,2.0,1728560730
+Brazil,Goias,November,2023,5,3,0,2,7.0,2.0,0.0,5.0,1728560731
+Brazil,Goias,December,2023,6,2,0,4,2.0,1.0,0.0,1.0,1728560731
+Brazil,Goias,January,2024,4,1,0,3,4.0,2.0,0.0,2.0,1728560731
+Brazil,Goias,February,2024,6,3,0,3,4.0,0.0,0.0,4.0,1728560731
+Brazil,Goias,March,2024,6,2,0,4,7.0,6.0,0.0,1.0,1728560731
+Brazil,Goias,April,2024,5,3,0,2,1.0,0.0,0.0,1.0,1728560731
+Brazil,Goias,May,2024,5,2,0,3,1.0,0.0,0.0,1.0,1728560731
+Brazil,Goias,June,2024,1,0,0,1,2.0,1.0,0.0,1.0,1728560731
+Brazil,Goias,July,2024,3,1,0,2,5.0,1.0,0.0,4.0,1728560731
+Brazil,Goias,August,2024,4,1,0,3,5.0,1.0,0.0,4.0,1728560731
+Brazil,Maranhao,March,2023,10,4,0,6,10.0,5.0,0.0,5.0,1728560731
+Brazil,Maranhao,April,2023,10,4,0,6,5.0,0.0,1.0,4.0,1728560731
+Brazil,Maranhao,May,2023,6,1,1,5,6.0,3.0,0.0,3.0,1728560731
+Brazil,Maranhao,June,2023,8,3,0,5,3.0,1.0,0.0,2.0,1728560731
+Brazil,Maranhao,July,2023,5,2,0,3,8.0,2.0,0.0,6.0,1728560731
+Brazil,Maranhao,August,2023,7,2,0,5,3.0,1.0,0.0,2.0,1728560731
+Brazil,Maranhao,September,2023,3,1,0,2,10.0,2.0,0.0,8.0,1728560731
+Brazil,Maranhao,October,2023,9,2,0,7,5.0,0.0,0.0,5.0,1728560731
+Brazil,Maranhao,November,2023,8,3,0,5,10.0,5.0,0.0,5.0,1728560731
+Brazil,Maranhao,December,2023,8,3,0,5,12.0,4.0,0.0,8.0,1728560731
+Brazil,Maranhao,January,2024,11,3,0,8,11.0,4.0,1.0,6.0,1728560731
+Brazil,Maranhao,February,2024,12,4,1,7,7.0,3.0,0.0,4.0,1728560731
+Brazil,Maranhao,March,2024,11,6,0,5,8.0,2.0,0.0,6.0,1728560731
+Brazil,Maranhao,April,2024,7,2,0,5,3.0,2.0,0.0,1.0,1728560731
+Brazil,Maranhao,May,2024,5,2,0,3,7.0,2.0,1.0,4.0,1728560731
+Brazil,Maranhao,June,2024,7,2,1,4,8.0,2.0,1.0,5.0,1728560731
+Brazil,Maranhao,July,2024,7,2,0,5,10.0,3.0,2.0,5.0,1728560731
+Brazil,Maranhao,August,2024,8,3,1,4,11.0,3.0,0.0,8.0,1728560731
+Brazil,Mato Grosso,March,2023,35,10,0,25,22.0,7.0,0.0,15.0,1728560732
+Brazil,Mato Grosso,April,2023,25,8,0,16,30.0,6.0,0.0,24.0,1728560732
+Brazil,Mato Grosso,May,2023,30,7,0,23,29.0,8.0,0.0,21.0,1728560732
+Brazil,Mato Grosso,June,2023,28,8,0,20,24.0,8.0,0.0,16.0,1728560732
+Brazil,Mato Grosso,July,2023,26,8,0,18,31.0,9.0,0.0,22.0,1728560732
+Brazil,Mato Grosso,August,2023,29,8,0,21,39.0,9.0,0.0,30.0,1728560732
+Brazil,Mato Grosso,September,2023,38,9,0,29,31.0,9.0,0.0,22.0,1728560732
+Brazil,Mato Grosso,October,2023,30,9,0,21,44.0,17.0,0.0,27.0,1728560732
+Brazil,Mato Grosso,November,2023,36,11,0,25,23.0,5.0,0.0,18.0,1728560732
+Brazil,Mato Grosso,December,2023,22,5,0,17,35.0,7.0,0.0,28.0,1728560732
+Brazil,Mato Grosso,January,2024,32,7,0,25,43.0,15.0,0.0,28.0,1728560732
+Brazil,Mato Grosso,February,2024,40,14,0,26,37.0,8.0,0.0,29.0,1728560732
+Brazil,Mato Grosso,March,2024,35,8,0,27,38.0,11.0,1.0,26.0,1728560732
+Brazil,Mato Grosso,April,2024,38,12,1,25,16.0,5.0,0.0,11.0,1728560732
+Brazil,Mato Grosso,May,2024,22,7,0,15,37.0,10.0,0.0,27.0,1728560732
+Brazil,Mato Grosso,June,2024,35,9,0,26,45.0,16.0,0.0,29.0,1728560732
+Brazil,Mato Grosso,July,2024,43,15,0,28,36.0,14.0,0.0,22.0,1728560732
+Brazil,Mato Grosso,August,2024,33,13,0,20,47.0,14.0,0.0,33.0,1728560732
+Brazil,Mato Grosso do Sul,March,2023,19,6,0,13,15.0,3.0,0.0,12.0,1728560732
+Brazil,Mato Grosso do Sul,April,2023,16,4,0,12,19.0,8.0,0.0,11.0,1728560732
+Brazil,Mato Grosso do Sul,May,2023,18,8,0,10,12.0,5.0,0.0,7.0,1728560732
+Brazil,Mato Grosso do Sul,June,2023,16,5,0,11,12.0,8.0,0.0,4.0,1728560732
+Brazil,Mato Grosso do Sul,July,2023,15,8,0,7,16.0,6.0,0.0,10.0,1728560732
+Brazil,Mato Grosso do Sul,August,2023,16,7,0,9,18.0,6.0,0.0,12.0,1728560732
+Brazil,Mato Grosso do Sul,September,2023,18,6,0,12,10.0,6.0,0.0,4.0,1728560732
+Brazil,Mato Grosso do Sul,October,2023,9,5,0,4,18.0,8.0,0.0,10.0,1728560732
+Brazil,Mato Grosso do Sul,November,2023,15,5,0,10,12.0,6.0,0.0,6.0,1728560732
+Brazil,Mato Grosso do Sul,December,2023,12,6,0,6,22.0,14.0,0.0,8.0,1728560732
+Brazil,Mato Grosso do Sul,January,2024,21,12,0,9,22.0,6.0,0.0,16.0,1728560732
+Brazil,Mato Grosso do Sul,February,2024,20,6,0,14,13.0,5.0,0.0,8.0,1728560732
+Brazil,Mato Grosso do Sul,March,2024,15,6,0,9,26.0,11.0,0.0,15.0,1728560732
+Brazil,Mato Grosso do Sul,April,2024,17,6,0,11,22.0,7.0,0.0,15.0,1728560732
+Brazil,Mato Grosso do Sul,May,2024,22,8,0,14,12.0,5.0,0.0,7.0,1728560732
+Brazil,Mato Grosso do Sul,June,2024,12,5,0,7,10.0,4.0,0.0,6.0,1728560732
+Brazil,Mato Grosso do Sul,July,2024,11,4,0,7,7.0,2.0,0.0,5.0,1728560732
+Brazil,Mato Grosso do Sul,August,2024,6,2,0,4,20.0,9.0,0.0,11.0,1728560732
+Brazil,Minas Gerais,March,2023,33,10,0,23,39.0,15.0,0.0,24.0,1728560733
+Brazil,Minas Gerais,April,2023,38,14,0,24,34.0,7.0,0.0,27.0,1728560733
+Brazil,Minas Gerais,May,2023,34,8,0,26,63.0,16.0,0.0,47.0,1728560733
+Brazil,Minas Gerais,June,2023,46,16,0,31,20.0,12.0,0.0,8.0,1728560733
+Brazil,Minas Gerais,July,2023,44,13,0,31,57.0,26.0,0.0,31.0,1728560733
+Brazil,Minas Gerais,August,2023,53,23,0,30,54.0,25.0,0.0,29.0,1728560733
+Brazil,Minas Gerais,September,2023,51,23,0,28,39.0,11.0,0.0,28.0,1728560733
+Brazil,Minas Gerais,October,2023,38,11,0,27,59.0,37.0,0.0,22.0,1728560733
+Brazil,Minas Gerais,November,2023,40,17,0,23,46.0,27.0,0.0,19.0,1728560733
+Brazil,Minas Gerais,December,2023,41,24,0,17,34.0,15.0,0.0,19.0,1728560733
+Brazil,Minas Gerais,January,2024,34,14,0,20,29.0,19.0,0.0,10.0,1728560733
+Brazil,Minas Gerais,February,2024,31,18,0,13,33.0,13.0,0.0,20.0,1728560733
+Brazil,Minas Gerais,March,2024,35,15,0,20,51.0,26.0,0.0,25.0,1728560733
+Brazil,Minas Gerais,April,2024,44,21,0,23,67.0,36.0,0.0,31.0,1728560733
+Brazil,Minas Gerais,May,2024,61,32,0,29,54.0,21.0,1.0,32.0,1728560733
+Brazil,Minas Gerais,June,2024,52,20,1,31,61.0,25.0,0.0,36.0,1728560733
+Brazil,Minas Gerais,July,2024,58,23,0,35,49.0,26.0,0.0,23.0,1728560733
+Brazil,Minas Gerais,August,2024,42,23,0,19,56.0,23.0,0.0,33.0,1728560733
+Brazil,Para,March,2023,26,10,0,16,31.0,12.0,0.0,19.0,1728560733
+Brazil,Para,April,2023,31,12,0,19,44.0,14.0,0.0,30.0,1728560733
+Brazil,Para,May,2023,41,14,0,27,37.0,9.0,0.0,28.0,1728560734
+Brazil,Para,June,2023,38,10,0,29,32.0,14.0,0.0,18.0,1728560734
+Brazil,Para,July,2023,38,13,0,25,34.0,15.0,0.0,19.0,1728560734
+Brazil,Para,August,2023,34,14,0,20,47.0,19.0,0.0,28.0,1728560734
+Brazil,Para,September,2023,45,18,0,27,37.0,19.0,0.0,18.0,1728560734
+Brazil,Para,October,2023,35,18,0,17,37.0,12.0,0.0,25.0,1728560734
+Brazil,Para,November,2023,37,14,0,23,24.0,7.0,0.0,17.0,1728560734
+Brazil,Para,December,2023,26,9,0,17,27.0,15.0,0.0,12.0,1728560734
+Brazil,Para,January,2024,29,12,0,17,42.0,14.0,0.0,28.0,1728560734
+Brazil,Para,February,2024,37,13,0,24,36.0,10.0,0.0,26.0,1728560734
+Brazil,Para,March,2024,36,10,0,26,42.0,22.0,0.0,20.0,1728560734
+Brazil,Para,April,2024,39,17,0,22,41.0,18.0,0.0,23.0,1728560734
+Brazil,Para,May,2024,40,16,0,24,29.0,15.0,0.0,14.0,1728560734
+Brazil,Para,June,2024,29,15,0,14,36.0,8.0,0.0,28.0,1728560734
+Brazil,Para,July,2024,35,8,0,27,33.0,15.0,0.0,18.0,1728560734
+Brazil,Para,August,2024,31,14,0,17,52.0,20.0,0.0,32.0,1728560734
+Brazil,Paraiba,March,2023,14,6,0,8,19.0,6.0,0.0,13.0,1728560734
+Brazil,Paraiba,April,2023,17,6,0,11,8.0,2.0,0.0,6.0,1728560734
+Brazil,Paraiba,May,2023,10,2,0,8,12.0,3.0,0.0,9.0,1728560734
+Brazil,Paraiba,June,2023,11,3,0,8,14.0,2.0,0.0,12.0,1728560734
+Brazil,Paraiba,July,2023,9,3,0,7,20.0,4.0,0.0,16.0,1728560734
+Brazil,Paraiba,August,2023,19,4,0,15,14.0,6.0,0.0,8.0,1728560734
+Brazil,Paraiba,September,2023,13,5,0,8,11.0,3.0,0.0,8.0,1728560734
+Brazil,Paraiba,October,2023,11,3,0,8,22.0,5.0,1.0,16.0,1728560734
+Brazil,Paraiba,November,2023,17,3,1,13,20.0,4.0,0.0,16.0,1728560734
+Brazil,Paraiba,December,2023,18,4,0,14,21.0,6.0,0.0,15.0,1728560734
+Brazil,Paraiba,January,2024,19,6,0,13,23.0,2.0,1.0,20.0,1728560734
+Brazil,Paraiba,February,2024,19,2,1,16,21.0,7.0,0.0,14.0,1728560734
+Brazil,Paraiba,March,2024,20,6,0,14,24.0,4.0,0.0,20.0,1728560735
+Brazil,Paraiba,April,2024,21,5,0,16,15.0,4.0,0.0,11.0,1728560735
+Brazil,Paraiba,May,2024,17,4,0,13,17.0,5.0,1.0,11.0,1728560735
+Brazil,Paraiba,June,2024,17,5,1,11,15.0,4.0,1.0,10.0,1728560735
+Brazil,Paraiba,July,2024,15,4,0,11,12.0,1.0,0.0,11.0,1728560735
+Brazil,Paraiba,August,2024,11,1,0,10,23.0,4.0,0.0,19.0,1728560735
+Brazil,Parana,March,2023,9,4,0,5,4.0,0.0,1.0,3.0,1728560735
+Brazil,Parana,April,2023,6,1,0,4,7.0,1.0,2.0,4.0,1728560735
+Brazil,Parana,May,2023,7,1,1,5,7.0,2.0,1.0,4.0,1728560735
+Brazil,Parana,June,2023,8,2,1,5,5.0,2.0,2.0,1.0,1728560735
+Brazil,Parana,July,2023,8,2,2,4,3.0,3.0,0.0,0.0,1728560735
+Brazil,Parana,August,2023,4,3,0,1,8.0,2.0,0.0,6.0,1728560735
+Brazil,Parana,September,2023,7,2,0,5,8.0,3.0,2.0,3.0,1728560735
+Brazil,Parana,October,2023,8,3,1,4,9.0,2.0,0.0,7.0,1728560735
+Brazil,Parana,November,2023,10,3,0,7,5.0,2.0,0.0,3.0,1728560735
+Brazil,Parana,December,2023,6,2,0,4,6.0,5.0,1.0,0.0,1728560735
+Brazil,Parana,January,2024,7,4,0,3,10.0,4.0,1.0,5.0,1728560735
+Brazil,Parana,February,2024,10,4,1,5,7.0,4.0,0.0,3.0,1728560735
+Brazil,Parana,March,2024,8,4,1,3,3.0,1.0,0.0,2.0,1728560735
+Brazil,Parana,April,2024,5,2,0,3,5.0,2.0,0.0,3.0,1728560735
+Brazil,Parana,May,2024,6,2,0,4,6.0,5.0,0.0,1.0,1728560735
+Brazil,Parana,June,2024,5,4,0,1,4.0,2.0,0.0,2.0,1728560735
+Brazil,Parana,July,2024,4,2,0,2,5.0,2.0,0.0,3.0,1728560735
+Brazil,Parana,August,2024,5,2,0,3,5.0,1.0,0.0,4.0,1728560735
+Brazil,Pernambuco,March,2023,16,10,0,6,12.0,6.0,1.0,5.0,1728560736
+Brazil,Pernambuco,April,2023,17,7,0,9,2.0,1.0,0.0,1.0,1728560736
+Brazil,Pernambuco,May,2023,5,2,0,3,15.0,3.0,0.0,12.0,1728560736
+Brazil,Pernambuco,June,2023,25,4,0,21,9.0,2.0,0.0,7.0,1728560736
+Brazil,Pernambuco,July,2023,25,5,0,20,5.0,2.0,0.0,3.0,1728560736
+Brazil,Pernambuco,August,2023,8,4,0,4,7.0,0.0,0.0,7.0,1728560736
+Brazil,Pernambuco,September,2023,7,0,0,7,5.0,2.0,0.0,3.0,1728560736
+Brazil,Pernambuco,October,2023,5,2,0,3,5.0,1.0,0.0,4.0,1728560736
+Brazil,Pernambuco,November,2023,10,3,0,7,17.0,7.0,0.0,10.0,1728560736
+Brazil,Pernambuco,December,2023,12,5,0,7,10.0,1.0,0.0,9.0,1728560736
+Brazil,Pernambuco,January,2024,14,2,0,12,9.0,2.0,0.0,7.0,1728560736
+Brazil,Pernambuco,February,2024,11,2,0,9,6.0,1.0,1.0,4.0,1728560736
+Brazil,Pernambuco,March,2024,11,2,0,9,6.0,1.0,0.0,5.0,1728560736
+Brazil,Pernambuco,April,2024,10,3,0,7,2.0,1.0,0.0,1.0,1728560736
+Brazil,Pernambuco,May,2024,5,2,0,3,5.0,1.0,0.0,4.0,1728560736
+Brazil,Pernambuco,June,2024,5,1,0,4,4.0,1.0,0.0,3.0,1728560736
+Brazil,Pernambuco,July,2024,5,1,0,4,12.0,3.0,1.0,8.0,1728560736
+Brazil,Pernambuco,August,2024,11,3,1,7,13.0,1.0,0.0,12.0,1728560736
+Brazil,Piaui,March,2023,15,6,0,9,17.0,5.0,0.0,12.0,1728560736
+Brazil,Piaui,April,2023,17,5,0,12,9.0,3.0,0.0,6.0,1728560736
+Brazil,Piaui,May,2023,12,3,0,9,6.0,1.0,0.0,5.0,1728560736
+Brazil,Piaui,June,2023,9,2,0,7,10.0,4.0,0.0,6.0,1728560736
+Brazil,Piaui,July,2023,10,4,0,6,6.0,2.0,0.0,4.0,1728560736
+Brazil,Piaui,August,2023,7,3,0,4,11.0,2.0,0.0,9.0,1728560736
+Brazil,Piaui,September,2023,11,2,0,9,10.0,1.0,0.0,9.0,1728560736
+Brazil,Piaui,October,2023,10,1,0,9,18.0,5.0,0.0,13.0,1728560736
+Brazil,Piaui,November,2023,14,3,0,11,18.0,6.0,0.0,12.0,1728560736
+Brazil,Piaui,December,2023,15,5,0,10,16.0,7.0,0.0,9.0,1728560737
+Brazil,Piaui,January,2024,16,6,0,10,19.0,2.0,0.0,17.0,1728560737
+Brazil,Piaui,February,2024,19,4,0,15,10.0,5.0,0.0,5.0,1728560737
+Brazil,Piaui,March,2024,13,5,0,8,5.0,2.0,0.0,3.0,1728560737
+Brazil,Piaui,April,2024,10,5,0,5,17.0,4.0,0.0,13.0,1728560737
+Brazil,Piaui,May,2024,12,2,0,10,13.0,5.0,0.0,8.0,1728560737
+Brazil,Piaui,June,2024,13,5,0,8,16.0,4.0,0.0,12.0,1728560737
+Brazil,Piaui,July,2024,16,4,0,12,18.0,6.0,0.0,12.0,1728560737
+Brazil,Piaui,August,2024,16,5,0,11,24.0,5.0,0.0,19.0,1728560737
+Brazil,Rio Grande do Norte,March,2023,7,4,0,3,16.0,12.0,1.0,3.0,1728560737
+Brazil,Rio Grande do Norte,April,2023,13,9,1,4,1.0,0.0,0.0,1.0,1728560737
+Brazil,Rio Grande do Norte,May,2023,3,1,0,2,2.0,0.0,0.0,2.0,1728560737
+Brazil,Rio Grande do Norte,June,2023,4,1,0,4,7.0,3.0,0.0,4.0,1728560737
+Brazil,Rio Grande do Norte,July,2023,6,2,0,3,5.0,3.0,0.0,2.0,1728560737
+Brazil,Rio Grande do Norte,August,2023,4,2,0,2,10.0,4.0,0.0,6.0,1728560737
+Brazil,Rio Grande do Norte,September,2023,9,3,0,6,4.0,0.0,0.0,4.0,1728560737
+Brazil,Rio Grande do Norte,October,2023,4,0,0,4,11.0,3.0,1.0,7.0,1728560737
+Brazil,Rio Grande do Norte,November,2023,10,3,1,6,8.0,2.0,0.0,6.0,1728560737
+Brazil,Rio Grande do Norte,December,2023,7,2,0,5,7.0,2.0,0.0,5.0,1728560737
+Brazil,Rio Grande do Norte,January,2024,8,2,0,6,11.0,3.0,0.0,8.0,1728560737
+Brazil,Rio Grande do Norte,February,2024,10,3,0,7,3.0,0.0,0.0,3.0,1728560737
+Brazil,Rio Grande do Norte,March,2024,6,2,0,4,2.0,0.0,0.0,2.0,1728560737
+Brazil,Rio Grande do Norte,April,2024,5,2,0,3,1.0,0.0,0.0,1.0,1728560737
+Brazil,Rio Grande do Norte,May,2024,5,2,0,3,3.0,0.0,0.0,3.0,1728560737
+Brazil,Rio Grande do Norte,June,2024,3,0,0,3,4.0,1.0,0.0,3.0,1728560738
+Brazil,Rio Grande do Norte,July,2024,4,1,0,3,5.0,1.0,0.0,4.0,1728560738
+Brazil,Rio Grande do Norte,August,2024,5,1,0,4,6.0,3.0,0.0,3.0,1728560738
+Brazil,Rio Grande do Sul,March,2023,15,6,0,9,19.0,10.0,0.0,9.0,1728560738
+Brazil,Rio Grande do Sul,April,2023,18,8,0,9,14.0,4.0,0.0,10.0,1728560738
+Brazil,Rio Grande do Sul,May,2023,14,4,0,10,15.0,9.0,0.0,6.0,1728560738
+Brazil,Rio Grande do Sul,June,2023,17,8,0,8,22.0,10.0,0.0,12.0,1728560738
+Brazil,Rio Grande do Sul,July,2023,16,9,0,7,16.0,12.0,0.0,4.0,1728560738
+Brazil,Rio Grande do Sul,August,2023,13,9,0,4,7.0,2.0,0.0,5.0,1728560738
+Brazil,Rio Grande do Sul,September,2023,8,2,0,6,13.0,12.0,0.0,1.0,1728560738
+Brazil,Rio Grande do Sul,October,2023,12,11,0,1,15.0,8.0,0.0,7.0,1728560738
+Brazil,Rio Grande do Sul,November,2023,16,9,0,7,7.0,4.0,0.0,3.0,1728560738
+Brazil,Rio Grande do Sul,December,2023,6,3,0,3,1.0,0.0,0.0,1.0,1728560738
+Brazil,Rio Grande do Sul,January,2024,4,0,0,4,18.0,11.0,0.0,7.0,1728560738
+Brazil,Rio Grande do Sul,February,2024,16,10,0,6,13.0,8.0,0.0,5.0,1728560738
+Brazil,Rio Grande do Sul,March,2024,13,7,0,6,3.0,2.0,0.0,1.0,1728560738
+Brazil,Rio Grande do Sul,April,2024,8,4,0,4,12.0,4.0,0.0,8.0,1728560738
+Brazil,Rio Grande do Sul,May,2024,11,4,0,7,2.0,1.0,0.0,1.0,1728560738
+Brazil,Rio Grande do Sul,June,2024,2,1,0,1,4.0,2.0,0.0,2.0,1728560738
+Brazil,Rio Grande do Sul,July,2024,6,3,0,3,4.0,2.0,0.0,2.0,1728560738
+Brazil,Rio Grande do Sul,August,2024,4,2,0,2,9.0,6.0,0.0,3.0,1728560738
+Brazil,Rio de Janeiro,March,2023,168,144,0,24,224.0,192.0,0.0,32.0,1728560738
+Brazil,Rio de Janeiro,April,2023,218,189,0,30,209.0,169.0,1.0,39.0,1728560738
+Brazil,Rio de Janeiro,May,2023,211,171,1,39,188.0,164.0,0.0,24.0,1728560738
+Brazil,Rio de Janeiro,June,2023,199,167,0,32,203.0,167.0,0.0,36.0,1728560738
+Brazil,Rio de Janeiro,July,2023,221,195,0,25,166.0,138.0,0.0,28.0,1728560739
+Brazil,Rio de Janeiro,August,2023,165,137,0,28,141.0,106.0,0.0,35.0,1728560739
+Brazil,Rio de Janeiro,September,2023,138,103,0,35,173.0,139.0,0.0,34.0,1728560739
+Brazil,Rio de Janeiro,October,2023,160,127,0,33,144.0,116.0,0.0,28.0,1728560739
+Brazil,Rio de Janeiro,November,2023,144,114,0,30,100.0,85.0,0.0,15.0,1728560739
+Brazil,Rio de Janeiro,December,2023,96,79,0,17,102.0,84.0,0.0,18.0,1728560739
+Brazil,Rio de Janeiro,January,2024,97,78,0,19,143.0,128.0,0.0,15.0,1728560739
+Brazil,Rio de Janeiro,February,2024,130,112,0,18,145.0,122.0,0.0,23.0,1728560739
+Brazil,Rio de Janeiro,March,2024,145,122,0,23,153.0,129.0,0.0,24.0,1728560739
+Brazil,Rio de Janeiro,April,2024,149,126,0,23,141.0,123.0,0.0,18.0,1728560739
+Brazil,Rio de Janeiro,May,2024,145,125,0,20,139.0,121.0,0.0,18.0,1728560739
+Brazil,Rio de Janeiro,June,2024,133,116,0,17,146.0,114.0,0.0,32.0,1728560739
+Brazil,Rio de Janeiro,July,2024,139,109,0,30,140.0,121.0,0.0,19.0,1728560739
+Brazil,Rio de Janeiro,August,2024,134,116,0,18,132.0,113.0,0.0,19.0,1728560739
+Brazil,Rondonia,March,2023,9,4,0,5,9.0,2.0,0.0,7.0,1728560739
+Brazil,Rondonia,April,2023,9,2,0,7,7.0,1.0,0.0,6.0,1728560739
+Brazil,Rondonia,May,2023,7,1,0,6,9.0,2.0,0.0,7.0,1728560739
+Brazil,Rondonia,June,2023,10,2,0,8,6.0,3.0,0.0,3.0,1728560739
+Brazil,Rondonia,July,2023,8,3,0,5,7.0,1.0,0.0,6.0,1728560739
+Brazil,Rondonia,August,2023,8,3,0,5,4.0,0.0,0.0,4.0,1728560739
+Brazil,Rondonia,September,2023,3,0,0,3,10.0,2.0,0.0,8.0,1728560739
+Brazil,Rondonia,October,2023,9,2,0,7,0.0,0.0,0.0,0.0,1728560739
+Brazil,Rondonia,November,2023,4,3,0,1,4.0,0.0,0.0,4.0,1728560739
+Brazil,Rondonia,December,2023,5,1,0,4,4.0,0.0,0.0,4.0,1728560739
+Brazil,Rondonia,January,2024,4,0,0,4,6.0,3.0,0.0,3.0,1728560739
+Brazil,Rondonia,February,2024,6,3,0,3,7.0,0.0,0.0,7.0,1728560739
+Brazil,Rondonia,March,2024,8,2,0,6,6.0,1.0,0.0,5.0,1728560739
+Brazil,Rondonia,April,2024,7,2,0,5,4.0,0.0,0.0,4.0,1728560739
+Brazil,Rondonia,May,2024,6,1,0,5,3.0,0.0,0.0,3.0,1728560739
+Brazil,Rondonia,June,2024,3,0,0,3,9.0,1.0,0.0,8.0,1728560739
+Brazil,Rondonia,July,2024,8,1,0,7,7.0,0.0,0.0,7.0,1728560739
+Brazil,Rondonia,August,2024,7,0,0,7,9.0,0.0,0.0,9.0,1728560739
+Brazil,Roraima,March,2023,9,4,0,5,2.0,1.0,0.0,1.0,1728560740
+Brazil,Roraima,April,2023,4,1,0,2,5.0,2.0,0.0,3.0,1728560740
+Brazil,Roraima,May,2023,6,2,0,4,9.0,4.0,0.0,5.0,1728560740
+Brazil,Roraima,June,2023,7,4,0,3,0.0,0.0,0.0,0.0,1728560740
+Brazil,Roraima,July,2023,4,1,0,3,9.0,2.0,0.0,7.0,1728560740
+Brazil,Roraima,August,2023,8,2,0,6,7.0,2.0,0.0,5.0,1728560740
+Brazil,Roraima,September,2023,6,2,0,4,7.0,2.0,0.0,5.0,1728560740
+Brazil,Roraima,October,2023,6,2,0,4,8.0,4.0,0.0,4.0,1728560740
+Brazil,Roraima,November,2023,7,3,0,4,1.0,0.0,0.0,1.0,1728560740
+Brazil,Roraima,December,2023,4,1,0,3,5.0,4.0,0.0,1.0,1728560740
+Brazil,Roraima,January,2024,7,4,0,3,5.0,4.0,0.0,1.0,1728560740
+Brazil,Roraima,February,2024,5,3,0,2,4.0,0.0,0.0,4.0,1728560740
+Brazil,Roraima,March,2024,6,3,0,3,1.0,0.0,0.0,1.0,1728560740
+Brazil,Roraima,April,2024,4,2,0,2,3.0,0.0,0.0,3.0,1728560740
+Brazil,Roraima,May,2024,6,2,0,4,1.0,0.0,0.0,1.0,1728560740
+Brazil,Roraima,June,2024,1,0,0,1,2.0,1.0,0.0,1.0,1728560740
+Brazil,Roraima,July,2024,3,1,0,2,0.0,0.0,0.0,0.0,1728560740
+Brazil,Roraima,August,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560740
+Brazil,Santa Catarina,March,2023,6,4,0,2,7.0,1.0,0.0,6.0,1728560740
+Brazil,Santa Catarina,April,2023,6,1,0,5,2.0,0.0,0.0,2.0,1728560740
+Brazil,Santa Catarina,May,2023,4,0,0,4,4.0,1.0,0.0,3.0,1728560740
+Brazil,Santa Catarina,June,2023,5,1,0,4,6.0,1.0,0.0,5.0,1728560740
+Brazil,Santa Catarina,July,2023,5,1,0,4,5.0,4.0,0.0,1.0,1728560740
+Brazil,Santa Catarina,August,2023,4,2,0,2,10.0,5.0,0.0,5.0,1728560740
+Brazil,Santa Catarina,September,2023,8,4,0,4,3.0,0.0,0.0,3.0,1728560741
+Brazil,Santa Catarina,October,2023,3,0,0,3,5.0,2.0,0.0,3.0,1728560741
+Brazil,Santa Catarina,November,2023,6,3,0,3,6.0,1.0,0.0,5.0,1728560741
+Brazil,Santa Catarina,December,2023,6,2,0,4,5.0,3.0,0.0,2.0,1728560741
+Brazil,Santa Catarina,January,2024,6,3,0,3,11.0,3.0,0.0,8.0,1728560741
+Brazil,Santa Catarina,February,2024,9,3,0,6,8.0,2.0,0.0,6.0,1728560741
+Brazil,Santa Catarina,March,2024,11,5,0,6,16.0,3.0,0.0,13.0,1728560741
+Brazil,Santa Catarina,April,2024,12,3,0,9,13.0,5.0,0.0,8.0,1728560741
+Brazil,Santa Catarina,May,2024,12,4,0,8,12.0,3.0,0.0,9.0,1728560741
+Brazil,Santa Catarina,June,2024,10,3,0,7,4.0,1.0,0.0,3.0,1728560741
+Brazil,Santa Catarina,July,2024,5,1,0,4,4.0,3.0,0.0,1.0,1728560741
+Brazil,Santa Catarina,August,2024,5,3,0,2,9.0,4.0,0.0,5.0,1728560741
+Brazil,Sao Paulo,March,2023,48,10,0,38,33.0,5.0,1.0,27.0,1728560741
+Brazil,Sao Paulo,April,2023,38,7,1,30,35.0,11.0,0.0,24.0,1728560741
+Brazil,Sao Paulo,May,2023,37,11,0,25,37.0,11.0,1.0,25.0,1728560741
+Brazil,Sao Paulo,June,2023,36,11,1,24,33.0,12.0,1.0,20.0,1728560741
+Brazil,Sao Paulo,July,2023,35,13,1,21,34.0,12.0,1.0,21.0,1728560741
+Brazil,Sao Paulo,August,2023,33,12,0,21,53.0,16.0,1.0,36.0,1728560741
+Brazil,Sao Paulo,September,2023,52,16,1,35,31.0,11.0,2.0,18.0,1728560741
+Brazil,Sao Paulo,October,2023,30,10,2,18,14.0,7.0,3.0,4.0,1728560741
+Brazil,Sao Paulo,November,2023,21,10,2,9,16.0,5.0,1.0,10.0,1728560741
+Brazil,Sao Paulo,December,2023,14,5,1,8,25.0,10.0,1.0,14.0,1728560741
+Brazil,Sao Paulo,January,2024,26,10,1,15,15.0,10.0,0.0,5.0,1728560741
+Brazil,Sao Paulo,February,2024,19,10,0,9,36.0,30.0,0.0,6.0,1728560741
+Brazil,Sao Paulo,March,2024,35,27,0,8,32.0,18.0,0.0,14.0,1728560741
+Brazil,Sao Paulo,April,2024,32,18,0,14,16.0,8.0,1.0,7.0,1728560741
+Brazil,Sao Paulo,May,2024,21,10,1,10,34.0,19.0,0.0,15.0,1728560741
+Brazil,Sao Paulo,June,2024,31,17,0,14,29.0,11.0,0.0,18.0,1728560741
+Brazil,Sao Paulo,July,2024,29,11,0,18,35.0,13.0,0.0,22.0,1728560741
+Brazil,Sao Paulo,August,2024,32,12,0,20,42.0,20.0,0.0,22.0,1728560741
+Brazil,Sergipe,March,2023,5,4,0,1,11.0,9.0,0.0,2.0,1728560742
+Brazil,Sergipe,April,2023,8,6,0,2,4.0,3.0,0.0,1.0,1728560742
+Brazil,Sergipe,May,2023,6,3,0,3,5.0,0.0,0.0,5.0,1728560742
+Brazil,Sergipe,June,2023,4,1,0,3,1.0,0.0,0.0,1.0,1728560742
+Brazil,Sergipe,July,2023,5,1,0,4,0.0,0.0,0.0,0.0,1728560742
+Brazil,Sergipe,August,2023,1,1,0,0,3.0,2.0,0.0,1.0,1728560742
+Brazil,Sergipe,September,2023,3,2,0,1,3.0,2.0,0.0,1.0,1728560742
+Brazil,Sergipe,October,2023,4,2,0,2,6.0,3.0,0.0,3.0,1728560742
+Brazil,Sergipe,November,2023,6,3,0,3,5.0,5.0,0.0,0.0,1728560742
+Brazil,Sergipe,December,2023,4,3,0,1,6.0,5.0,0.0,1.0,1728560742
+Brazil,Sergipe,January,2024,6,4,0,2,4.0,1.0,0.0,3.0,1728560742
+Brazil,Sergipe,February,2024,5,2,0,3,6.0,6.0,0.0,0.0,1728560742
+Brazil,Sergipe,March,2024,7,6,0,1,4.0,1.0,0.0,3.0,1728560742
+Brazil,Sergipe,April,2024,6,3,0,3,4.0,2.0,0.0,2.0,1728560742
+Brazil,Sergipe,May,2024,5,2,0,3,0.0,0.0,0.0,0.0,1728560742
+Brazil,Sergipe,June,2024,0,0,0,0,5.0,2.0,0.0,3.0,1728560742
+Brazil,Sergipe,July,2024,5,2,0,3,6.0,4.0,0.0,2.0,1728560742
+Brazil,Sergipe,August,2024,6,4,0,2,1.0,1.0,0.0,0.0,1728560742
+Brazil,Tocantins,March,2023,12,4,0,8,4.0,1.0,0.0,3.0,1728560742
+Brazil,Tocantins,April,2023,6,1,0,4,11.0,6.0,0.0,5.0,1728560742
+Brazil,Tocantins,May,2023,9,5,0,4,21.0,7.0,0.0,14.0,1728560742
+Brazil,Tocantins,June,2023,12,6,0,6,5.0,1.0,0.0,4.0,1728560742
+Brazil,Tocantins,July,2023,7,3,0,5,3.0,2.0,0.0,1.0,1728560742
+Brazil,Tocantins,August,2023,4,2,0,2,5.0,4.0,0.0,1.0,1728560742
+Brazil,Tocantins,September,2023,4,3,0,1,8.0,4.0,0.0,4.0,1728560742
+Brazil,Tocantins,October,2023,7,3,0,4,3.0,1.0,0.0,2.0,1728560742
+Brazil,Tocantins,November,2023,6,3,0,3,5.0,3.0,0.0,2.0,1728560742
+Brazil,Tocantins,December,2023,5,3,0,2,2.0,2.0,0.0,0.0,1728560742
+Brazil,Tocantins,January,2024,5,2,0,3,3.0,1.0,1.0,1.0,1728560743
+Brazil,Tocantins,February,2024,4,1,1,2,2.0,1.0,0.0,1.0,1728560743
+Brazil,Tocantins,March,2024,3,2,0,1,3.0,2.0,0.0,1.0,1728560743
+Brazil,Tocantins,April,2024,5,3,0,2,3.0,2.0,0.0,1.0,1728560743
+Brazil,Tocantins,May,2024,4,2,0,2,5.0,3.0,0.0,2.0,1728560743
+Brazil,Tocantins,June,2024,5,3,0,2,2.0,1.0,0.0,1.0,1728560743
+Brazil,Tocantins,July,2024,2,1,0,1,3.0,2.0,0.0,1.0,1728560743
+Brazil,Tocantins,August,2024,3,2,0,1,6.0,1.0,0.0,5.0,1728560743
+Brazil,Acre,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730982
+Brazil,Alagoas,September,2024,25,8,0,17,34.0,3.0,0.0,31.0,1730730982
+Brazil,Amapa,September,2024,20,11,0,9,14.0,9.0,0.0,5.0,1730730982
+Brazil,Amazonas,September,2024,29,6,0,23,35.0,12.0,0.0,23.0,1730730982
+Brazil,Bahia,September,2024,34,17,0,17,35.0,14.0,0.0,21.0,1730730982
+Brazil,Ceara,September,2024,10,3,0,7,12.0,3.0,0.0,9.0,1730730982
+Brazil,Distrito Federal,September,2024,2,0,0,2,0.0,0.0,0.0,0.0,1730730982
+Brazil,Espirito Santo,September,2024,18,7,0,11,22.0,11.0,0.0,11.0,1730730982
+Brazil,Goias,September,2024,6,2,0,4,5.0,2.0,0.0,3.0,1730730982
+Brazil,Maranhao,September,2024,9,2,0,7,9.0,3.0,0.0,6.0,1730730982
+Brazil,Mato Grosso,September,2024,37,13,0,24,46.0,9.0,0.0,37.0,1730730982
+Brazil,Mato Grosso do Sul,September,2024,17,8,0,9,20.0,10.0,0.0,10.0,1730730982
+Brazil,Minas Gerais,September,2024,46,22,0,24,51.0,16.0,0.0,35.0,1730730982
+Brazil,Para,September,2024,41,19,0,22,50.0,20.0,0.0,30.0,1730730982
+Brazil,Paraiba,September,2024,18,4,0,14,23.0,1.0,1.0,21.0,1730730982
+Brazil,Parana,September,2024,4,1,0,3,5.0,0.0,0.0,5.0,1730730982
+Brazil,Pernambuco,September,2024,14,2,0,12,9.0,1.0,0.0,8.0,1730730982
+Brazil,Piaui,September,2024,18,5,0,13,19.0,4.0,0.0,15.0,1730730982
+Brazil,Rio Grande do Norte,September,2024,5,2,0,3,1.0,1.0,0.0,0.0,1730730982
+Brazil,Rio Grande do Sul,September,2024,10,6,0,4,11.0,5.0,0.0,6.0,1730730982
+Brazil,Rio de Janeiro,September,2024,140,119,0,21,142.0,116.0,0.0,26.0,1730730982
+Brazil,Rondonia,September,2024,7,0,0,7,6.0,1.0,0.0,5.0,1730730982
+Brazil,Roraima,September,2024,2,0,0,2,4.0,3.0,0.0,1.0,1730730982
+Brazil,Santa Catarina,September,2024,7,3,0,4,12.0,3.0,0.0,9.0,1730730982
+Brazil,Sao Paulo,September,2024,39,19,0,20,36.0,15.0,0.0,21.0,1730730982
+Brazil,Sergipe,September,2024,2,1,0,1,6.0,5.0,0.0,1.0,1730730982
+Brazil,Tocantins,September,2024,4,1,0,3,5.0,1.0,0.0,4.0,1730730982
+Brazil,Acre,October,2024,3,1,0,2,2.0,0.0,0.0,2.0,1734010269
+Brazil,Acre,November,2024,4,1,0,3,8.0,3.0,0.0,5.0,1734010269
+Brazil,Alagoas,October,2024,25,5,0,20,22.0,5.0,0.0,17.0,1734010269
+Brazil,Alagoas,November,2024,25,6,0,19,21.0,2.0,0.0,19.0,1734010269
+Brazil,Amapa,October,2024,19,10,0,9,12.0,6.0,0.0,6.0,1734010269
+Brazil,Amapa,November,2024,13,7,0,6,12.0,6.0,0.0,6.0,1734010269
+Brazil,Amazonas,October,2024,34,11,0,23,26.0,2.0,0.0,24.0,1734010269
+Brazil,Amazonas,November,2024,26,4,0,22,32.0,6.0,0.0,26.0,1734010269
+Brazil,Bahia,October,2024,34,14,0,20,132.0,69.0,0.0,63.0,1734010269
+Brazil,Bahia,November,2024,122,63,0,59,70.0,38.0,0.0,32.0,1734010269
+Brazil,Ceara,October,2024,10,3,0,7,10.0,3.0,0.0,7.0,1734010269
+Brazil,Ceara,November,2024,10,3,0,7,15.0,7.0,0.0,8.0,1734010269
+Brazil,Distrito Federal,October,2024,3,1,0,2,1.0,0.0,0.0,1.0,1734010269
+Brazil,Distrito Federal,November,2024,3,1,0,2,2.0,0.0,1.0,1.0,1734010269
+Brazil,Espirito Santo,October,2024,19,10,0,9,30.0,11.0,0.0,19.0,1734010269
+Brazil,Espirito Santo,November,2024,24,10,0,14,18.0,10.0,0.0,8.0,1734010269
+Brazil,Goias,October,2024,5,2,0,3,2.0,1.0,0.0,1.0,1734010269
+Brazil,Goias,November,2024,5,2,0,3,1.0,0.0,0.0,1.0,1734010269
+Brazil,Maranhao,October,2024,9,3,0,6,3.0,0.0,0.0,3.0,1734010269
+Brazil,Maranhao,November,2024,6,1,0,5,7.0,2.0,0.0,5.0,1734010269
+Brazil,Mato Grosso,October,2024,42,12,0,30,39.0,11.0,0.0,28.0,1734010269
+Brazil,Mato Grosso,November,2024,40,11,0,29,30.0,12.0,0.0,18.0,1734010269
+Brazil,Mato Grosso do Sul,October,2024,18,9,0,9,13.0,3.0,0.0,10.0,1734010269
+Brazil,Mato Grosso do Sul,November,2024,15,5,0,10,20.0,7.0,0.0,13.0,1734010269
+Brazil,Minas Gerais,October,2024,48,20,0,28,51.0,19.0,0.0,32.0,1734010269
+Brazil,Minas Gerais,November,2024,51,20,0,31,46.0,18.0,0.0,28.0,1734010269
+Brazil,Para,October,2024,47,19,0,28,31.0,18.0,0.0,13.0,1734010269
+Brazil,Para,November,2024,32,18,0,14,48.0,23.0,0.0,25.0,1734010269
+Brazil,Paraiba,October,2024,19,2,1,16,23.0,6.0,0.0,17.0,1734010269
+Brazil,Paraiba,November,2024,22,6,0,16,24.0,6.0,0.0,18.0,1734010269
+Brazil,Parana,October,2024,5,2,0,3,4.0,2.0,0.0,2.0,1734010269
+Brazil,Parana,November,2024,6,2,0,4,3.0,1.0,0.0,2.0,1734010269
+Brazil,Pernambuco,October,2024,16,2,0,14,9.0,2.0,0.0,7.0,1734010269
+Brazil,Pernambuco,November,2024,11,3,0,8,7.0,3.0,0.0,4.0,1734010269
+Brazil,Piaui,October,2024,20,5,0,15,21.0,8.0,0.0,13.0,1734010269
+Brazil,Piaui,November,2024,20,7,0,13,24.0,6.0,0.0,18.0,1734010269
+Brazil,Rio Grande do Norte,October,2024,5,2,0,3,2.0,1.0,0.0,1.0,1734010269
+Brazil,Rio Grande do Norte,November,2024,4,1,0,3,9.0,3.0,0.0,6.0,1734010269
+Brazil,Rio Grande do Sul,October,2024,7,4,0,3,13.0,8.0,0.0,5.0,1734010269
+Brazil,Rio Grande do Sul,November,2024,12,7,0,5,11.0,8.0,0.0,3.0,1734010269
+Brazil,Rio de Janeiro,October,2024,120,98,0,22,175.0,150.0,0.0,25.0,1734010269
+Brazil,Rio de Janeiro,November,2024,165,139,0,26,196.0,167.0,0.0,29.0,1734010269
+Brazil,Rondonia,October,2024,6,1,0,5,7.0,1.0,0.0,6.0,1734010269
+Brazil,Rondonia,November,2024,5,1,0,4,8.0,1.0,0.0,7.0,1734010269
+Brazil,Roraima,October,2024,3,1,0,2,4.0,1.0,0.0,3.0,1734010270
+Brazil,Roraima,November,2024,4,1,0,3,3.0,1.0,0.0,2.0,1734010270
+Brazil,Santa Catarina,October,2024,8,3,0,5,10.0,5.0,0.0,5.0,1734010270
+Brazil,Santa Catarina,November,2024,9,4,0,5,5.0,2.0,0.0,3.0,1734010270
+Brazil,Sao Paulo,October,2024,37,15,0,22,32.0,17.0,0.0,15.0,1734010270
+Brazil,Sao Paulo,November,2024,34,17,0,17,23.0,12.0,0.0,11.0,1734010270
+Brazil,Sergipe,October,2024,4,2,0,2,4.0,0.0,0.0,4.0,1734010270
+Brazil,Sergipe,November,2024,4,1,0,3,2.0,0.0,0.0,2.0,1734010270
+Brazil,Tocantins,October,2024,5,2,0,3,6.0,3.0,0.0,3.0,1734010270
+Brazil,Tocantins,November,2024,6,3,0,3,2.0,0.0,0.0,2.0,1734010270
+Brazil,Acre,December,2024,4,2,0,2,4.0,0.0,0.0,4.0,1737033334
+Brazil,Alagoas,December,2024,20,2,0,18,28.0,8.0,0.0,20.0,1737033334
+Brazil,Amapa,December,2024,13,6,0,7,10.0,6.0,0.0,4.0,1737033334
+Brazil,Amazonas,December,2024,28,6,0,22,20.0,3.0,0.0,17.0,1737033334
+Brazil,Bahia,December,2024,76,42,0,34,67.0,34.0,0.0,33.0,1737033334
+Brazil,Ceara,December,2024,14,6,0,8,25.0,11.0,0.0,14.0,1737033334
+Brazil,Distrito Federal,December,2024,2,0,0,2,3.0,2.0,0.0,1.0,1737033334
+Brazil,Espirito Santo,December,2024,24,10,0,14,12.0,4.0,0.0,8.0,1737033334
+Brazil,Goias,December,2024,2,0,0,2,2.0,1.0,0.0,1.0,1737033334
+Brazil,Maranhao,December,2024,6,2,0,4,3.0,1.0,0.0,2.0,1737033334
+Brazil,Mato Grosso,December,2024,32,12,0,20,35.0,11.0,0.0,24.0,1737033334
+Brazil,Mato Grosso do Sul,December,2024,16,7,0,9,11.0,5.0,0.0,6.0,1737033334
+Brazil,Minas Gerais,December,2024,49,18,0,31,46.0,24.0,0.0,22.0,1737033334
+Brazil,Para,December,2024,42,22,0,20,35.0,9.0,0.0,26.0,1737033334
+Brazil,Paraiba,December,2024,22,6,0,16,23.0,2.0,0.0,21.0,1737033334
+Brazil,Parana,December,2024,4,1,0,3,9.0,1.0,0.0,8.0,1737033334
+Brazil,Pernambuco,December,2024,12,3,0,9,10.0,3.0,0.0,7.0,1737033334
+Brazil,Piaui,December,2024,21,6,0,15,15.0,2.0,0.0,13.0,1737033334
+Brazil,Rio Grande do Norte,December,2024,6,3,0,3,3.0,3.0,0.0,0.0,1737033334
+Brazil,Rio Grande do Sul,December,2024,13,8,0,5,12.0,5.0,0.0,7.0,1737033334
+Brazil,Rio de Janeiro,December,2024,188,163,0,25,194.0,151.0,0.0,43.0,1737033334
+Brazil,Rondonia,December,2024,6,1,0,5,8.0,1.0,0.0,7.0,1737033334
+Brazil,Roraima,December,2024,3,1,0,2,3.0,1.0,0.0,2.0,1737033334
+Brazil,Santa Catarina,December,2024,7,2,0,5,6.0,3.0,0.0,3.0,1737033334
+Brazil,Sao Paulo,December,2024,28,12,0,16,34.0,10.0,0.0,24.0,1737033334
+Brazil,Sergipe,December,2024,2,0,0,2,4.0,4.0,0.0,0.0,1737033334
+Brazil,Tocantins,December,2024,3,0,0,3,1.0,1.0,0.0,0.0,1737033334
+Brazil,Acre,January,2025,5,1,0,4,7.0,1.0,0.0,6.0,1738854840
+Brazil,Alagoas,January,2025,28,8,0,20,36.0,12.0,1.0,23.0,1738854840
+Brazil,Amapa,January,2025,13,7,0,6,22.0,15.0,0.0,7.0,1738854840
+Brazil,Amazonas,January,2025,23,4,0,19,28.0,2.0,0.0,26.0,1738854840
+Brazil,Bahia,January,2025,73,38,0,35,75.0,46.0,0.0,29.0,1738854840
+Brazil,Ceara,January,2025,21,9,0,12,22.0,8.0,0.0,14.0,1738854840
+Brazil,Distrito Federal,January,2025,3,2,0,1,3.0,1.0,0.0,2.0,1738854840
+Brazil,Espirito Santo,January,2025,14,5,0,9,21.0,9.0,0.0,12.0,1738854840
+Brazil,Goias,January,2025,2,1,0,1,2.0,0.0,0.0,2.0,1738854840
+Brazil,Maranhao,January,2025,6,2,0,4,9.0,5.0,0.0,4.0,1738854840
+Brazil,Mato Grosso,January,2025,35,11,0,24,42.0,11.0,0.0,31.0,1738854840
+Brazil,Mato Grosso do Sul,January,2025,14,6,0,8,13.0,5.0,0.0,8.0,1738854840
+Brazil,Minas Gerais,January,2025,47,23,0,24,32.0,12.0,0.0,20.0,1738854840
+Brazil,Para,January,2025,37,11,0,26,40.0,15.0,0.0,25.0,1738854840
+Brazil,Paraiba,January,2025,22,3,0,19,27.0,6.0,0.0,21.0,1738854840
+Brazil,Parana,January,2025,8,2,0,6,7.0,4.0,0.0,3.0,1738854840
+Brazil,Pernambuco,January,2025,15,5,0,10,9.0,3.0,0.0,6.0,1738854840
+Brazil,Piaui,January,2025,17,3,0,14,18.0,4.0,0.0,14.0,1738854841
+Brazil,Rio Grande do Norte,January,2025,5,3,0,2,3.0,1.0,0.0,2.0,1738854841
+Brazil,Rio Grande do Sul,January,2025,11,5,0,6,12.0,6.0,0.0,6.0,1738854841
+Brazil,Rio de Janeiro,January,2025,191,152,0,39,206.0,175.0,0.0,31.0,1738854841
+Brazil,Rondonia,January,2025,8,1,0,7,13.0,6.0,0.0,7.0,1738854841
+Brazil,Roraima,January,2025,4,2,0,2,4.0,0.0,0.0,4.0,1738854841
+Brazil,Santa Catarina,January,2025,7,3,0,4,9.0,3.0,0.0,6.0,1738854841
+Brazil,Sao Paulo,January,2025,32,10,0,22,27.0,10.0,0.0,17.0,1738854841
+Brazil,Sergipe,January,2025,4,3,0,1,6.0,3.0,0.0,3.0,1738854841
+Brazil,Tocantins,January,2025,3,2,0,1,5.0,0.0,0.0,5.0,1738854841
+Brazil,Acre,February,2025,6,1,0,5,2.0,0.0,0.0,2.0,1741266610
+Brazil,Alagoas,February,2025,33,11,0,22,30.0,4.0,0.0,26.0,1741266610
+Brazil,Amapa,February,2025,19,12,0,7,12.0,8.0,0.0,4.0,1741266610
+Brazil,Amazonas,February,2025,28,4,0,24,23.0,7.0,1.0,15.0,1741266610
+Brazil,Bahia,February,2025,77,44,0,33,67.0,44.0,0.0,23.0,1741266610
+Brazil,Ceara,February,2025,21,8,0,13,10.0,7.0,0.0,3.0,1741266610
+Brazil,Distrito Federal,February,2025,3,1,0,2,1.0,0.0,0.0,1.0,1741266610
+Brazil,Espirito Santo,February,2025,20,9,0,11,18.0,6.0,0.0,12.0,1741266610
+Brazil,Goias,February,2025,3,1,0,2,5.0,4.0,0.0,1.0,1741266610
+Brazil,Maranhao,February,2025,8,4,0,4,8.0,3.0,0.0,5.0,1741266610
+Brazil,Mato Grosso,February,2025,40,12,0,28,22.0,5.0,0.0,17.0,1741266610
+Brazil,Mato Grosso do Sul,February,2025,15,7,0,8,16.0,8.0,0.0,8.0,1741266610
+Brazil,Minas Gerais,February,2025,34,13,0,21,47.0,22.0,0.0,25.0,1741266610
+Brazil,Para,February,2025,38,14,0,24,29.0,14.0,0.0,15.0,1741266610
+Brazil,Paraiba,February,2025,25,6,0,19,29.0,5.0,0.0,24.0,1741266610
+Brazil,Parana,February,2025,8,4,0,4,5.0,2.0,0.0,3.0,1741266610
+Brazil,Pernambuco,February,2025,12,4,0,8,14.0,4.0,0.0,10.0,1741266610
+Brazil,Piaui,February,2025,17,4,0,13,14.0,2.0,0.0,12.0,1741266610
+Brazil,Rio Grande do Norte,February,2025,3,1,0,2,2.0,0.0,0.0,2.0,1741266610
+Brazil,Rio Grande do Sul,February,2025,13,7,0,6,7.0,5.0,0.0,2.0,1741266610
+Brazil,Rio de Janeiro,February,2025,197,165,0,32,169.0,146.0,0.0,23.0,1741266610
+Brazil,Rondonia,February,2025,11,4,0,7,2.0,0.0,0.0,2.0,1741266610
+Brazil,Roraima,February,2025,4,1,0,3,0.0,0.0,0.0,0.0,1741266610
+Brazil,Santa Catarina,February,2025,9,3,0,6,7.0,5.0,0.0,2.0,1741266610
+Brazil,Sao Paulo,February,2025,31,13,0,18,30.0,10.0,0.0,20.0,1741266610
+Brazil,Sergipe,February,2025,6,3,0,3,3.0,1.0,0.0,2.0,1741266610
+Brazil,Tocantins,February,2025,5,1,0,4,3.0,0.0,0.0,3.0,1741266610
+Brazil,Acre,March,2025,3,0,0,3,5.0,0.0,0.0,5.0,1744287540
+Brazil,Alagoas,March,2025,30,5,0,25,22.0,9.0,0.0,13.0,1744287540
+Brazil,Amapa,March,2025,14,8,0,6,12.0,11.0,0.0,1.0,1744287540
+Brazil,Amazonas,March,2025,25,7,0,18,23.0,8.0,0.0,15.0,1744287540
+Brazil,Bahia,March,2025,82,49,0,33,70.0,38.0,0.0,32.0,1744287540
+Brazil,Ceara,March,2025,14,7,0,7,12.0,2.0,0.0,10.0,1744287540
+Brazil,Distrito Federal,March,2025,1,0,0,1,3.0,0.0,0.0,3.0,1744287540
+Brazil,Espirito Santo,March,2025,18,6,0,12,21.0,11.0,0.0,10.0,1744287540
+Brazil,Goias,March,2025,5,4,0,1,2.0,0.0,0.0,2.0,1744287540
+Brazil,Maranhao,March,2025,8,3,0,5,7.0,3.0,1.0,3.0,1744287540
+Brazil,Mato Grosso,March,2025,27,7,0,20,17.0,6.0,0.0,11.0,1744287540
+Brazil,Mato Grosso do Sul,March,2025,16,8,0,8,14.0,6.0,0.0,8.0,1744287540
+Brazil,Minas Gerais,March,2025,46,22,0,24,37.0,14.0,0.0,23.0,1744287540
+Brazil,Para,March,2025,34,15,0,19,32.0,8.0,0.0,24.0,1744287540
+Brazil,Paraiba,March,2025,28,5,0,23,23.0,3.0,0.0,20.0,1744287540
+Brazil,Parana,March,2025,5,2,0,3,1.0,0.0,0.0,1.0,1744287540
+Brazil,Pernambuco,March,2025,24,5,0,19,11.0,2.0,0.0,9.0,1744287540
+Brazil,Piaui,March,2025,16,3,0,13,21.0,4.0,0.0,17.0,1744287540
+Brazil,Rio Grande do Norte,March,2025,2,0,0,2,8.0,5.0,0.0,3.0,1744287540
+Brazil,Rio Grande do Sul,March,2025,8,5,0,3,10.0,3.0,0.0,7.0,1744287540
+Brazil,Rio de Janeiro,March,2025,175,149,0,26,186.0,161.0,0.0,25.0,1744287540
+Brazil,Rondonia,March,2025,5,1,0,4,4.0,1.0,0.0,3.0,1744287540
+Brazil,Roraima,March,2025,1,0,0,1,4.0,1.0,0.0,3.0,1744287540
+Brazil,Santa Catarina,March,2025,9,5,0,4,5.0,4.0,0.0,1.0,1744287540
+Brazil,Sao Paulo,March,2025,30,10,0,20,36.0,21.0,0.0,15.0,1744287540
+Brazil,Sergipe,March,2025,3,1,0,2,2.0,2.0,0.0,0.0,1744287540
+Brazil,Tocantins,March,2025,3,0,0,3,0.0,0.0,0.0,0.0,1744287540
+Brazil,Acre,April,2025,6,2,0,4,8.0,0.0,0.0,8.0,1746702909
+Brazil,Alagoas,April,2025,23,7,0,16,32.0,11.0,0.0,21.0,1746702909
+Brazil,Amapa,April,2025,9,6,0,3,18.0,9.0,0.0,9.0,1746702909
+Brazil,Amazonas,April,2025,22,6,0,16,14.0,0.0,0.0,14.0,1746702909
+Brazil,Bahia,April,2025,66,33,0,33,73.0,36.0,0.0,37.0,1746702909
+Brazil,Ceara,April,2025,14,4,0,10,5.0,0.0,0.0,5.0,1746702909
+Brazil,Distrito Federal,April,2025,4,2,0,2,4.0,3.0,0.0,1.0,1746702909
+Brazil,Espirito Santo,April,2025,15,5,0,10,10.0,5.0,0.0,5.0,1746702909
+Brazil,Goias,April,2025,4,2,0,2,2.0,0.0,0.0,2.0,1746702909
+Brazil,Maranhao,April,2025,7,3,0,4,8.0,2.0,0.0,6.0,1746702909
+Brazil,Mato Grosso,April,2025,20,6,0,14,17.0,7.0,0.0,10.0,1746702909
+Brazil,Mato Grosso do Sul,April,2025,16,8,0,8,11.0,5.0,0.0,6.0,1746702909
+Brazil,Minas Gerais,April,2025,41,17,0,24,39.0,13.0,0.0,26.0,1746702909
+Brazil,Para,April,2025,35,11,0,24,39.0,21.0,0.0,18.0,1746702909
+Brazil,Paraiba,April,2025,27,7,0,20,27.0,4.0,0.0,23.0,1746702909
+Brazil,Parana,April,2025,4,2,0,2,3.0,2.0,0.0,1.0,1746702909
+Brazil,Pernambuco,April,2025,15,4,0,11,5.0,1.0,0.0,4.0,1746702909
+Brazil,Piaui,April,2025,20,4,0,16,11.0,3.0,0.0,8.0,1746702909
+Brazil,Rio Grande do Norte,April,2025,5,2,0,3,3.0,2.0,0.0,1.0,1746702909
+Brazil,Rio Grande do Sul,April,2025,11,4,0,7,7.0,3.0,0.0,4.0,1746702909
+Brazil,Rio de Janeiro,April,2025,180,154,0,26,179.0,156.0,1.0,22.0,1746702909
+Brazil,Rondonia,April,2025,6,2,0,4,4.0,2.0,0.0,2.0,1746702909
+Brazil,Roraima,April,2025,5,2,0,3,3.0,0.0,0.0,3.0,1746702909
+Brazil,Santa Catarina,April,2025,6,4,0,2,10.0,5.0,0.0,5.0,1746702909
+Brazil,Sao Paulo,April,2025,30,13,0,17,29.0,11.0,0.0,18.0,1746702909
+Brazil,Sergipe,April,2025,3,2,0,1,12.0,6.0,0.0,6.0,1746702909
+Brazil,Tocantins,April,2025,2,2,0,0,1.0,1.0,0.0,0.0,1746702909
+Brazil,Acre,May,2025,7,0,0,7,9.0,3.0,0.0,6.0,1749732004
+Brazil,Alagoas,May,2025,30,10,0,20,28.0,6.0,0.0,22.0,1749732004
+Brazil,Amapa,May,2025,17,9,0,8,10.0,9.0,0.0,1.0,1749732004
+Brazil,Amazonas,May,2025,18,3,0,15,23.0,6.0,0.0,17.0,1749732004
+Brazil,Bahia,May,2025,76,39,0,37,68.0,41.0,0.0,27.0,1749732004
+Brazil,Ceara,May,2025,8,2,0,6,18.0,6.0,0.0,12.0,1749732004
+Brazil,Distrito Federal,May,2025,3,2,0,1,1.0,0.0,0.0,1.0,1749732004
+Brazil,Espirito Santo,May,2025,14,7,0,7,22.0,8.0,0.0,14.0,1749732004
+Brazil,Goias,May,2025,3,1,0,2,2.0,0.0,0.0,2.0,1749732004
+Brazil,Maranhao,May,2025,8,2,0,6,13.0,4.0,1.0,8.0,1749732004
+Brazil,Mato Grosso,May,2025,18,7,0,11,45.0,16.0,0.0,29.0,1749732004
+Brazil,Mato Grosso do Sul,May,2025,14,7,0,7,13.0,2.0,0.0,11.0,1749732004
+Brazil,Minas Gerais,May,2025,41,15,0,26,38.0,17.0,0.0,21.0,1749732004
+Brazil,Para,May,2025,38,20,0,18,32.0,17.0,0.0,15.0,1749732004
+Brazil,Paraiba,May,2025,26,4,0,22,23.0,7.0,0.0,16.0,1749732004
+Brazil,Parana,May,2025,4,2,0,2,2.0,2.0,0.0,0.0,1749732004
+Brazil,Pernambuco,May,2025,10,3,0,7,3.0,1.0,0.0,2.0,1749732004
+Brazil,Piaui,May,2025,14,4,0,10,14.0,4.0,0.0,10.0,1749732004
+Brazil,Rio Grande do Norte,May,2025,3,2,0,1,4.0,1.0,0.0,3.0,1749732005
+Brazil,Rio Grande do Sul,May,2025,8,4,0,4,14.0,10.0,0.0,4.0,1749732005
+Brazil,Rio de Janeiro,May,2025,180,156,0,24,199.0,175.0,0.0,24.0,1749732005
+Brazil,Rondonia,May,2025,5,2,0,3,6.0,1.0,0.0,5.0,1749732005
+Brazil,Roraima,May,2025,3,0,0,3,4.0,2.0,0.0,2.0,1749732005
+Brazil,Santa Catarina,May,2025,9,4,0,5,7.0,4.0,0.0,3.0,1749732005
+Brazil,Sao Paulo,May,2025,30,12,0,18,33.0,23.0,0.0,10.0,1749732005
+Brazil,Sergipe,May,2025,10,5,0,5,8.0,6.0,0.0,2.0,1749732005
+Brazil,Tocantins,May,2025,2,1,0,1,2.0,0.0,0.0,2.0,1749732005
+Brazil,Acre,June,2025,9,3,0,6,2.0,0.0,0.0,2.0,1754429217
+Brazil,Acre,July,2025,7,3,0,4,5.0,1.0,0.0,4.0,1754429217
+Brazil,Acre,August,2025,5,1,0,4,4.0,2.0,0.0,2.0,1757596698
+Brazil,Acre,September,2025,5,2,0,3,4.0,1.0,0.0,3.0,1760036046
+Brazil,Acre,October,2025,5,1,0,4,5.0,1.0,0.0,4.0,1762435626
+Brazil,Acre,November,2025,6,2,0,4,11.0,2.0,0.0,9.0,1765375966
+Brazil,Acre,December,2025,9,2,0,7,,,,,1765375966
+Brazil,Alagoas,June,2025,32,10,0,22,24.0,11.0,0.0,13.0,1754429217
+Brazil,Alagoas,July,2025,25,8,0,17,34.0,9.0,0.0,25.0,1754429217
+Brazil,Alagoas,August,2025,32,9,0,23,34.0,13.0,0.0,21.0,1757596698
+Brazil,Alagoas,September,2025,34,12,0,22,38.0,13.0,0.0,25.0,1760036046
+Brazil,Alagoas,October,2025,36,12,0,24,32.0,9.0,0.0,23.0,1762435626
+Brazil,Alagoas,November,2025,33,10,0,23,30.0,5.0,0.0,25.0,1765375966
+Brazil,Alagoas,December,2025,30,6,0,24,,,,,1765375966
+Brazil,Amapa,June,2025,10,7,0,3,7.0,5.0,0.0,2.0,1754429217
+Brazil,Amapa,July,2025,11,7,0,4,23.0,17.0,0.0,6.0,1754429217
+Brazil,Amapa,August,2025,21,15,0,6,8.0,4.0,0.0,4.0,1757596698
+Brazil,Amapa,September,2025,9,4,0,5,14.0,8.0,0.0,6.0,1760036046
+Brazil,Amapa,October,2025,13,7,0,6,16.0,12.0,0.0,4.0,1762435626
+Brazil,Amapa,November,2025,15,10,0,5,8.0,4.0,0.0,4.0,1765375966
+Brazil,Amapa,December,2025,9,5,0,4,,,,,1765375966
+Brazil,Amazonas,June,2025,22,5,0,17,23.0,5.0,0.0,18.0,1754429217
+Brazil,Amazonas,July,2025,23,5,0,18,30.0,6.0,0.0,24.0,1754429217
+Brazil,Amazonas,August,2025,29,6,0,23,21.0,5.0,0.0,16.0,1757596698
+Brazil,Amazonas,September,2025,24,6,0,18,18.0,2.0,0.0,16.0,1760036046
+Brazil,Amazonas,October,2025,18,2,0,16,23.0,6.0,0.0,17.0,1762435626
+Brazil,Amazonas,November,2025,22,4,0,18,16.0,3.0,0.0,13.0,1765375966
+Brazil,Amazonas,December,2025,18,4,0,14,,,,,1765375966
+Brazil,Bahia,June,2025,63,34,0,29,74.0,39.0,0.0,35.0,1754429217
+Brazil,Bahia,July,2025,78,40,0,38,62.0,31.0,0.0,31.0,1754429217
+Brazil,Bahia,August,2025,65,31,0,34,83.0,53.0,0.0,30.0,1757596698
+Brazil,Bahia,September,2025,86,53,0,33,68.0,37.0,0.0,31.0,1760036046
+Brazil,Bahia,October,2025,71,37,0,34,51.0,28.0,0.0,23.0,1762435626
+Brazil,Bahia,November,2025,51,22,0,29,66.0,30.0,0.0,36.0,1765375966
+Brazil,Bahia,December,2025,64,28,0,36,,,,,1765375966
+Brazil,Ceara,June,2025,17,6,0,11,12.0,4.0,0.0,8.0,1754429217
+Brazil,Ceara,July,2025,15,5,0,10,20.0,11.0,0.0,9.0,1754429217
+Brazil,Ceara,August,2025,17,8,0,9,12.0,4.0,0.0,8.0,1757596698
+Brazil,Ceara,September,2025,13,4,0,9,20.0,10.0,0.0,10.0,1760036046
+Brazil,Ceara,October,2025,19,9,0,10,19.0,9.0,0.0,10.0,1762435626
+Brazil,Ceara,November,2025,20,9,0,11,14.0,6.0,0.0,8.0,1765375966
+Brazil,Ceara,December,2025,14,5,0,9,,,,,1765375966
+Brazil,Distrito Federal,June,2025,4,3,0,1,1.0,1.0,0.0,0.0,1754429217
+Brazil,Distrito Federal,July,2025,3,2,0,1,6.0,1.0,0.0,5.0,1754429217
+Brazil,Distrito Federal,August,2025,5,1,0,4,6.0,1.0,0.0,5.0,1757596698
+Brazil,Distrito Federal,September,2025,6,1,0,5,3.0,1.0,0.0,2.0,1760036046
+Brazil,Distrito Federal,October,2025,4,1,0,3,4.0,0.0,0.0,4.0,1762435626
+Brazil,Distrito Federal,November,2025,6,2,0,4,5.0,1.0,0.0,4.0,1765375966
+Brazil,Distrito Federal,December,2025,5,1,0,4,,,,,1765375966
+Brazil,Espirito Santo,June,2025,18,5,0,13,15.0,6.0,0.0,9.0,1754429217
+Brazil,Espirito Santo,July,2025,19,7,0,12,33.0,19.0,0.0,14.0,1754429217
+Brazil,Espirito Santo,August,2025,29,16,0,13,40.0,16.0,0.0,24.0,1757596698
+Brazil,Espirito Santo,September,2025,38,16,0,22,30.0,18.0,1.0,11.0,1760036046
+Brazil,Espirito Santo,October,2025,31,18,0,13,37.0,15.0,0.0,22.0,1762435626
+Brazil,Espirito Santo,November,2025,35,15,0,20,34.0,17.0,0.0,17.0,1765375966
+Brazil,Espirito Santo,December,2025,35,17,0,18,,,,,1765375966
+Brazil,Goias,June,2025,5,3,0,2,1.0,0.0,0.0,1.0,1754429217
+Brazil,Goias,July,2025,5,2,0,3,4.0,1.0,0.0,3.0,1754429217
+Brazil,Goias,August,2025,4,1,0,3,1.0,0.0,0.0,1.0,1757596698
+Brazil,Goias,September,2025,2,0,0,2,5.0,2.0,0.0,3.0,1760036046
+Brazil,Goias,October,2025,5,2,0,3,1.0,0.0,0.0,1.0,1762435626
+Brazil,Goias,November,2025,6,2,0,4,6.0,4.0,0.0,2.0,1765375966
+Brazil,Goias,December,2025,4,2,0,2,,,,,1765375966
+Brazil,Maranhao,June,2025,10,3,0,7,7.0,1.0,0.0,6.0,1754429217
+Brazil,Maranhao,July,2025,10,3,0,7,12.0,3.0,0.0,9.0,1754429217
+Brazil,Maranhao,August,2025,11,3,0,8,23.0,5.0,1.0,17.0,1757596698
+Brazil,Maranhao,September,2025,18,5,0,13,14.0,4.0,0.0,10.0,1760036046
+Brazil,Maranhao,October,2025,14,4,0,10,16.0,3.0,0.0,13.0,1762435626
+Brazil,Maranhao,November,2025,15,4,0,11,12.0,5.0,0.0,7.0,1765375966
+Brazil,Maranhao,December,2025,13,5,0,8,,,,,1765375966
+Brazil,Mato Grosso,June,2025,38,12,0,26,33.0,11.0,0.0,22.0,1754429217
+Brazil,Mato Grosso,July,2025,35,12,0,23,40.0,10.0,0.0,30.0,1754429217
+Brazil,Mato Grosso,August,2025,39,10,0,29,56.0,14.0,0.0,42.0,1757596698
+Brazil,Mato Grosso,September,2025,50,14,0,36,49.0,18.0,0.0,31.0,1760036046
+Brazil,Mato Grosso,October,2025,48,18,0,30,48.0,11.0,0.0,37.0,1762435626
+Brazil,Mato Grosso,November,2025,47,13,0,34,53.0,20.0,0.0,33.0,1765375966
+Brazil,Mato Grosso,December,2025,51,18,0,33,,,,,1765375966
+Brazil,Mato Grosso do Sul,June,2025,15,5,0,10,8.0,6.0,0.0,2.0,1754429217
+Brazil,Mato Grosso do Sul,July,2025,11,5,0,6,19.0,4.0,0.0,15.0,1754429217
+Brazil,Mato Grosso do Sul,August,2025,18,5,0,13,26.0,9.0,0.0,17.0,1757596698
+Brazil,Mato Grosso do Sul,September,2025,24,9,0,15,22.0,3.0,0.0,19.0,1760036046
+Brazil,Mato Grosso do Sul,October,2025,20,3,0,17,19.0,3.0,0.0,16.0,1762435626
+Brazil,Mato Grosso do Sul,November,2025,22,5,0,17,18.0,5.0,0.0,13.0,1765375966
+Brazil,Mato Grosso do Sul,December,2025,18,5,0,13,,,,,1765375966
+Brazil,Minas Gerais,June,2025,35,14,0,21,46.0,17.0,0.0,29.0,1754429217
+Brazil,Minas Gerais,July,2025,46,19,0,27,59.0,25.0,0.0,34.0,1754429217
+Brazil,Minas Gerais,August,2025,56,24,0,32,49.0,17.0,0.0,32.0,1757596698
+Brazil,Minas Gerais,September,2025,49,17,0,32,69.0,23.0,0.0,46.0,1760036046
+Brazil,Minas Gerais,October,2025,62,22,0,40,75.0,30.0,0.0,45.0,1762435626
+Brazil,Minas Gerais,November,2025,67,27,0,40,68.0,21.0,1.0,46.0,1765375966
+Brazil,Minas Gerais,December,2025,70,25,0,45,,,,,1765375966
+Brazil,Para,June,2025,27,10,0,17,34.0,15.0,0.0,19.0,1754429217
+Brazil,Para,July,2025,34,13,0,21,29.0,11.0,1.0,17.0,1754429217
+Brazil,Para,August,2025,32,12,0,20,47.0,17.0,0.0,30.0,1757596698
+Brazil,Para,September,2025,44,17,0,27,37.0,9.0,0.0,28.0,1760036046
+Brazil,Para,October,2025,35,9,0,26,36.0,14.0,0.0,22.0,1762435626
+Brazil,Para,November,2025,36,14,0,22,46.0,28.0,0.0,18.0,1765375966
+Brazil,Para,December,2025,41,22,0,19,,,,,1765375966
+Brazil,Paraiba,June,2025,22,5,0,17,15.0,3.0,0.0,12.0,1754429217
+Brazil,Paraiba,July,2025,18,5,0,13,31.0,8.0,0.0,23.0,1754429217
+Brazil,Paraiba,August,2025,27,7,0,20,28.0,5.0,0.0,23.0,1757596698
+Brazil,Paraiba,September,2025,27,5,0,22,23.0,5.0,0.0,18.0,1760036046
+Brazil,Paraiba,October,2025,23,5,0,18,25.0,3.0,0.0,22.0,1762435626
+Brazil,Paraiba,November,2025,24,5,0,19,27.0,9.0,0.0,18.0,1765375966
+Brazil,Paraiba,December,2025,25,7,0,18,,,,,1765375966
+Brazil,Parana,June,2025,4,3,0,1,4.0,1.0,0.0,3.0,1754429217
+Brazil,Parana,July,2025,5,2,0,3,3.0,1.0,0.0,2.0,1754429217
+Brazil,Parana,August,2025,4,1,0,3,7.0,1.0,0.0,6.0,1757596698
+Brazil,Parana,September,2025,6,1,0,5,4.0,1.0,0.0,3.0,1760036046
+Brazil,Parana,October,2025,5,1,0,4,5.0,3.0,0.0,2.0,1762435626
+Brazil,Parana,November,2025,5,2,0,3,6.0,3.0,0.0,3.0,1765375966
+Brazil,Parana,December,2025,6,3,0,3,,,,,1765375966
+Brazil,Pernambuco,June,2025,19,12,0,7,9.0,3.0,0.0,6.0,1754429217
+Brazil,Pernambuco,July,2025,27,11,0,16,13.0,4.0,0.0,9.0,1754429217
+Brazil,Pernambuco,August,2025,18,6,0,12,13.0,3.0,0.0,10.0,1757596698
+Brazil,Pernambuco,September,2025,14,3,0,11,14.0,4.0,0.0,10.0,1760036046
+Brazil,Pernambuco,October,2025,15,4,0,11,8.0,5.0,0.0,3.0,1762435626
+Brazil,Pernambuco,November,2025,13,5,0,8,8.0,1.0,0.0,7.0,1765375966
+Brazil,Pernambuco,December,2025,14,3,0,11,,,,,1765375966
+Brazil,Piaui,June,2025,15,5,0,10,15.0,4.0,0.0,11.0,1754429217
+Brazil,Piaui,July,2025,16,5,0,11,21.0,6.0,0.0,15.0,1754429217
+Brazil,Piaui,August,2025,20,6,0,14,23.0,7.0,0.0,16.0,1757596698
+Brazil,Piaui,September,2025,22,7,0,15,21.0,13.0,0.0,8.0,1760036046
+Brazil,Piaui,October,2025,22,12,0,10,17.0,8.0,0.0,9.0,1762435626
+Brazil,Piaui,November,2025,19,8,0,11,17.0,5.0,0.0,12.0,1765375966
+Brazil,Piaui,December,2025,17,5,0,12,,,,,1765375966
+Brazil,Rio Grande do Norte,June,2025,6,3,0,3,5.0,3.0,0.0,2.0,1754429217
+Brazil,Rio Grande do Norte,July,2025,5,2,0,3,9.0,3.0,0.0,6.0,1754429217
+Brazil,Rio Grande do Norte,August,2025,8,3,0,5,10.0,3.0,0.0,7.0,1757596698
+Brazil,Rio Grande do Norte,September,2025,9,3,0,6,8.0,4.0,0.0,4.0,1760036046
+Brazil,Rio Grande do Norte,October,2025,8,4,0,4,6.0,4.0,0.0,2.0,1762435626
+Brazil,Rio Grande do Norte,November,2025,8,4,0,4,12.0,6.0,0.0,6.0,1765375966
+Brazil,Rio Grande do Norte,December,2025,8,3,0,5,,,,,1765375966
+Brazil,Rio Grande do Sul,June,2025,9,5,0,4,8.0,5.0,0.0,3.0,1754429217
+Brazil,Rio Grande do Sul,July,2025,12,7,0,5,19.0,6.0,0.0,13.0,1754429217
+Brazil,Rio Grande do Sul,August,2025,16,6,0,10,17.0,6.0,0.0,11.0,1757596698
+Brazil,Rio Grande do Sul,September,2025,17,6,0,11,22.0,9.0,0.0,13.0,1760036046
+Brazil,Rio Grande do Sul,October,2025,21,9,0,12,20.0,11.0,0.0,9.0,1762435626
+Brazil,Rio Grande do Sul,November,2025,19,9,0,10,14.0,5.0,0.0,9.0,1765375966
+Brazil,Rio Grande do Sul,December,2025,13,4,0,9,,,,,1765375966
+Brazil,Rio de Janeiro,June,2025,199,174,0,25,233.0,202.0,1.0,30.0,1754429217
+Brazil,Rio de Janeiro,July,2025,220,192,0,28,222.0,194.0,1.0,27.0,1754429217
+Brazil,Rio de Janeiro,August,2025,220,191,1,28,198.0,161.0,1.0,36.0,1757596698
+Brazil,Rio de Janeiro,September,2025,195,160,1,34,195.0,153.0,2.0,40.0,1760036046
+Brazil,Rio de Janeiro,October,2025,189,150,1,38,215.0,178.0,0.0,37.0,1762435626
+Brazil,Rio de Janeiro,November,2025,204,168,0,36,195.0,167.0,0.0,28.0,1765375966
+Brazil,Rio de Janeiro,December,2025,197,166,0,31,,,,,1765375966
+Brazil,Rondonia,June,2025,8,3,0,5,14.0,3.0,0.0,11.0,1754429217
+Brazil,Rondonia,July,2025,10,2,0,8,18.0,5.0,0.0,13.0,1754429217
+Brazil,Rondonia,August,2025,16,5,0,11,5.0,1.0,0.0,4.0,1757596698
+Brazil,Rondonia,September,2025,7,1,0,6,11.0,2.0,0.0,9.0,1760036046
+Brazil,Rondonia,October,2025,10,2,0,8,3.0,1.0,0.0,2.0,1762435626
+Brazil,Rondonia,November,2025,7,3,0,4,6.0,0.0,0.0,6.0,1765375966
+Brazil,Rondonia,December,2025,7,1,0,6,,,,,1765375966
+Brazil,Roraima,June,2025,5,3,0,2,1.0,0.0,0.0,1.0,1754429217
+Brazil,Roraima,July,2025,4,2,0,2,7.0,0.0,0.0,7.0,1754429217
+Brazil,Roraima,August,2025,6,1,0,5,10.0,3.0,0.0,7.0,1757596698
+Brazil,Roraima,September,2025,9,3,0,6,9.0,2.0,0.0,7.0,1760036046
+Brazil,Roraima,October,2025,8,2,0,6,9.0,2.0,0.0,7.0,1762435626
+Brazil,Roraima,November,2025,9,3,0,6,9.0,2.0,1.0,6.0,1765375966
+Brazil,Roraima,December,2025,8,2,0,6,,,,,1765375966
+Brazil,Santa Catarina,June,2025,6,3,0,3,5.0,4.0,0.0,1.0,1754429217
+Brazil,Santa Catarina,July,2025,6,3,0,3,4.0,2.0,0.0,2.0,1754429217
+Brazil,Santa Catarina,August,2025,5,2,0,3,9.0,2.0,0.0,7.0,1757596698
+Brazil,Santa Catarina,September,2025,8,2,0,6,10.0,4.0,0.0,6.0,1760036046
+Brazil,Santa Catarina,October,2025,9,4,0,5,8.0,3.0,0.0,5.0,1762435626
+Brazil,Santa Catarina,November,2025,9,4,0,5,8.0,3.0,0.0,5.0,1765375966
+Brazil,Santa Catarina,December,2025,8,3,0,5,,,,,1765375966
+Brazil,Sao Paulo,June,2025,26,14,0,12,40.0,22.0,0.0,18.0,1754429217
+Brazil,Sao Paulo,July,2025,36,17,0,19,35.0,16.0,0.0,19.0,1754429217
+Brazil,Sao Paulo,August,2025,36,16,0,20,42.0,20.0,0.0,22.0,1757596698
+Brazil,Sao Paulo,September,2025,42,20,0,22,30.0,9.0,0.0,21.0,1760036046
+Brazil,Sao Paulo,October,2025,29,8,0,21,48.0,30.0,0.0,18.0,1762435626
+Brazil,Sao Paulo,November,2025,42,23,0,19,52.0,27.0,0.0,25.0,1765375966
+Brazil,Sao Paulo,December,2025,51,26,0,25,,,,,1765375966
+Brazil,Sergipe,June,2025,5,3,0,2,3.0,1.0,0.0,2.0,1754429217
+Brazil,Sergipe,July,2025,6,2,0,4,4.0,3.0,0.0,1.0,1754429217
+Brazil,Sergipe,August,2025,5,3,0,2,6.0,4.0,0.0,2.0,1757596698
+Brazil,Sergipe,September,2025,6,4,0,2,5.0,3.0,0.0,2.0,1760036046
+Brazil,Sergipe,October,2025,5,3,0,2,14.0,9.0,0.0,5.0,1762435626
+Brazil,Sergipe,November,2025,8,3,0,5,9.0,5.0,0.0,4.0,1765375966
+Brazil,Sergipe,December,2025,9,5,0,4,,,,,1765375966
+Brazil,Tocantins,June,2025,5,3,0,2,4.0,0.0,0.0,4.0,1754429217
+Brazil,Tocantins,July,2025,5,2,0,3,1.0,0.0,0.0,1.0,1754429217
+Brazil,Tocantins,August,2025,3,1,0,2,3.0,1.0,0.0,2.0,1757596698
+Brazil,Tocantins,September,2025,3,1,0,2,7.0,1.0,0.0,6.0,1760036046
+Brazil,Tocantins,October,2025,5,1,0,4,6.0,4.0,0.0,2.0,1762435626
+Brazil,Tocantins,November,2025,5,2,0,3,4.0,1.0,0.0,3.0,1765375966
+Brazil,Tocantins,December,2025,5,2,0,3,,,,,1765375966
+Brazil,Acre,January,2026,9,2,0,7,,,,,1765375966
+Brazil,Alagoas,January,2026,32,8,0,24,,,,,1765375966
+Brazil,Amapa,January,2026,11,6,0,5,,,,,1765375966
+Brazil,Amazonas,January,2026,19,4,0,15,,,,,1765375966
+Brazil,Bahia,January,2026,66,30,0,36,,,,,1765375966
+Brazil,Ceara,January,2026,16,7,0,9,,,,,1765375966
+Brazil,Distrito Federal,January,2026,5,1,0,4,,,,,1765375966
+Brazil,Espirito Santo,January,2026,35,17,0,18,,,,,1765375966
+Brazil,Goias,January,2026,5,3,0,2,,,,,1765375966
+Brazil,Maranhao,January,2026,14,5,0,9,,,,,1765375966
+Brazil,Mato Grosso,January,2026,51,19,0,32,,,,,1765375966
+Brazil,Mato Grosso do Sul,January,2026,18,5,0,13,,,,,1765375966
+Brazil,Minas Gerais,January,2026,71,26,0,45,,,,,1765375966
+Brazil,Para,January,2026,41,22,0,19,,,,,1765375966
+Brazil,Paraiba,January,2026,25,7,0,18,,,,,1765375966
+Brazil,Parana,January,2026,6,3,0,3,,,,,1765375966
+Brazil,Pernambuco,January,2026,16,4,0,12,,,,,1765375966
+Brazil,Piaui,January,2026,18,6,0,12,,,,,1765375966
+Brazil,Rio Grande do Norte,January,2026,9,4,0,5,,,,,1765375966
+Brazil,Rio Grande do Sul,January,2026,15,6,0,9,,,,,1765375966
+Brazil,Rio de Janeiro,January,2026,197,166,0,31,,,,,1765375966
+Brazil,Rondonia,January,2026,9,2,0,7,,,,,1765375966
+Brazil,Roraima,January,2026,9,3,0,6,,,,,1765375966
+Brazil,Santa Catarina,January,2026,8,3,0,5,,,,,1765375966
+Brazil,Sao Paulo,January,2026,51,26,0,25,,,,,1765375966
+Brazil,Sergipe,January,2026,11,6,0,5,,,,,1765375966
+Brazil,Tocantins,January,2026,5,2,0,3,,,,,1765375966
+Brazil,Acre,February,2026,9,2,0,7,,,,,1765375966
+Brazil,Alagoas,February,2026,29,5,0,24,,,,,1765375966
+Brazil,Amapa,February,2026,10,5,0,5,,,,,1765375966
+Brazil,Amazonas,February,2026,18,4,0,14,,,,,1765375966
+Brazil,Bahia,February,2026,66,30,0,36,,,,,1765375966
+Brazil,Ceara,February,2026,15,6,0,9,,,,,1765375966
+Brazil,Distrito Federal,February,2026,5,1,0,4,,,,,1765375966
+Brazil,Espirito Santo,February,2026,35,17,0,18,,,,,1765375966
+Brazil,Goias,February,2026,5,3,0,2,,,,,1765375966
+Brazil,Maranhao,February,2026,13,5,0,8,,,,,1765375966
+Brazil,Mato Grosso,February,2026,47,15,0,32,,,,,1765375966
+Brazil,Mato Grosso do Sul,February,2026,18,5,0,13,,,,,1765375966
+Brazil,Minas Gerais,February,2026,69,25,0,44,,,,,1765375966
+Brazil,Para,February,2026,39,20,0,19,,,,,1765375966
+Brazil,Paraiba,February,2026,25,7,0,18,,,,,1765375966
+Brazil,Parana,February,2026,6,3,0,3,,,,,1765375966
+Brazil,Pernambuco,February,2026,15,3,0,12,,,,,1765375966
+Brazil,Piaui,February,2026,16,5,0,11,,,,,1765375966
+Brazil,Rio Grande do Norte,February,2026,9,4,0,5,,,,,1765375966
+Brazil,Rio Grande do Sul,February,2026,14,5,0,9,,,,,1765375966
+Brazil,Rio de Janeiro,February,2026,197,166,0,31,,,,,1765375966
+Brazil,Rondonia,February,2026,8,1,0,7,,,,,1765375966
+Brazil,Roraima,February,2026,8,2,0,6,,,,,1765375966
+Brazil,Santa Catarina,February,2026,8,3,0,5,,,,,1765375966
+Brazil,Sao Paulo,February,2026,51,26,0,25,,,,,1765375966
+Brazil,Sergipe,February,2026,9,5,0,4,,,,,1765375966
+Brazil,Tocantins,February,2026,5,2,0,3,,,,,1765375966
+Brazil,Acre,March,2026,9,2,0,7,,,,,1765375966
+Brazil,Alagoas,March,2026,31,7,0,24,,,,,1765375966
+Brazil,Amapa,March,2026,9,5,0,4,,,,,1765375966
+Brazil,Amazonas,March,2026,18,4,0,14,,,,,1765375966
+Brazil,Bahia,March,2026,65,28,0,37,,,,,1765375966
+Brazil,Ceara,March,2026,15,6,0,9,,,,,1765375966
+Brazil,Distrito Federal,March,2026,5,1,0,4,,,,,1765375966
+Brazil,Espirito Santo,March,2026,35,17,0,18,,,,,1765375966
+Brazil,Goias,March,2026,5,3,0,2,,,,,1765375966
+Brazil,Maranhao,March,2026,14,5,0,9,,,,,1765375966
+Brazil,Mato Grosso,March,2026,52,19,0,33,,,,,1765375966
+Brazil,Mato Grosso do Sul,March,2026,18,5,0,13,,,,,1765375966
+Brazil,Minas Gerais,March,2026,71,26,0,45,,,,,1765375966
+Brazil,Para,March,2026,41,22,0,19,,,,,1765375966
+Brazil,Paraiba,March,2026,25,7,0,18,,,,,1765375966
+Brazil,Parana,March,2026,6,3,0,3,,,,,1765375966
+Brazil,Pernambuco,March,2026,15,3,0,12,,,,,1765375966
+Brazil,Piaui,March,2026,17,5,0,12,,,,,1765375966
+Brazil,Rio Grande do Norte,March,2026,9,4,0,5,,,,,1765375966
+Brazil,Rio Grande do Sul,March,2026,14,5,0,9,,,,,1765375966
+Brazil,Rio de Janeiro,March,2026,197,166,0,31,,,,,1765375966
+Brazil,Rondonia,March,2026,8,1,0,7,,,,,1765375966
+Brazil,Roraima,March,2026,8,2,0,6,,,,,1765375966
+Brazil,Santa Catarina,March,2026,8,3,0,5,,,,,1765375966
+Brazil,Sao Paulo,March,2026,50,25,0,25,,,,,1765375966
+Brazil,Sergipe,March,2026,9,5,0,4,,,,,1765375966
+Brazil,Tocantins,March,2026,5,2,0,3,,,,,1765375966
+Brazil,Acre,April,2026,9,2,0,7,,,,,1765375966
+Brazil,Alagoas,April,2026,29,6,0,23,,,,,1765375966
+Brazil,Amapa,April,2026,10,5,0,5,,,,,1765375966
+Brazil,Amazonas,April,2026,17,3,0,14,,,,,1765375966
+Brazil,Bahia,April,2026,66,30,0,36,,,,,1765375966
+Brazil,Ceara,April,2026,14,5,0,9,,,,,1765375966
+Brazil,Distrito Federal,April,2026,5,2,0,3,,,,,1765375966
+Brazil,Espirito Santo,April,2026,31,13,0,18,,,,,1765375966
+Brazil,Goias,April,2026,5,3,0,2,,,,,1765375966
+Brazil,Maranhao,April,2026,12,4,0,8,,,,,1765375966
+Brazil,Mato Grosso,April,2026,50,18,0,32,,,,,1765375966
+Brazil,Mato Grosso do Sul,April,2026,17,4,0,13,,,,,1765375966
+Brazil,Minas Gerais,April,2026,67,22,0,45,,,,,1765375966
+Brazil,Para,April,2026,40,21,0,19,,,,,1765375966
+Brazil,Paraiba,April,2026,25,7,0,18,,,,,1765375966
+Brazil,Parana,April,2026,6,3,0,3,,,,,1765375966
+Brazil,Pernambuco,April,2026,14,2,0,12,,,,,1765375966
+Brazil,Piaui,April,2026,15,4,0,11,,,,,1765375966
+Brazil,Rio Grande do Norte,April,2026,9,4,0,5,,,,,1765375966
+Brazil,Rio Grande do Sul,April,2026,14,5,0,9,,,,,1765375966
+Brazil,Rio de Janeiro,April,2026,197,166,0,31,,,,,1765375966
+Brazil,Rondonia,April,2026,8,1,0,7,,,,,1765375966
+Brazil,Roraima,April,2026,8,2,0,6,,,,,1765375966
+Brazil,Santa Catarina,April,2026,8,3,0,5,,,,,1765375966
+Brazil,Sao Paulo,April,2026,50,26,0,24,,,,,1765375966
+Brazil,Sergipe,April,2026,10,5,0,5,,,,,1765375966
+Brazil,Tocantins,April,2026,5,2,0,3,,,,,1765375966
+Brazil,Acre,May,2026,9,2,0,7,,,,,1765375966
+Brazil,Alagoas,May,2026,30,7,0,23,,,,,1765375966
+Brazil,Amapa,May,2026,10,5,0,5,,,,,1765375966
+Brazil,Amazonas,May,2026,18,4,0,14,,,,,1765375966
+Brazil,Bahia,May,2026,66,30,0,36,,,,,1765375966
+Brazil,Ceara,May,2026,16,7,0,9,,,,,1765375966
+Brazil,Distrito Federal,May,2026,5,2,0,3,,,,,1765375966
+Brazil,Espirito Santo,May,2026,33,15,0,18,,,,,1765375966
+Brazil,Goias,May,2026,5,3,0,2,,,,,1765375966
+Brazil,Maranhao,May,2026,14,5,0,9,,,,,1765375966
+Brazil,Mato Grosso,May,2026,51,19,0,32,,,,,1765375966
+Brazil,Mato Grosso do Sul,May,2026,18,5,0,13,,,,,1765375966
+Brazil,Minas Gerais,May,2026,67,22,0,45,,,,,1765375966
+Brazil,Para,May,2026,41,22,0,19,,,,,1765375966
+Brazil,Paraiba,May,2026,26,8,0,18,,,,,1765375966
+Brazil,Parana,May,2026,6,3,0,3,,,,,1765375966
+Brazil,Pernambuco,May,2026,17,5,0,12,,,,,1765375966
+Brazil,Piaui,May,2026,18,7,0,11,,,,,1765375966
+Brazil,Rio Grande do Norte,May,2026,9,4,0,5,,,,,1765375966
+Brazil,Rio Grande do Sul,May,2026,14,5,0,9,,,,,1765375966
+Brazil,Rio de Janeiro,May,2026,197,166,0,31,,,,,1765375966
+Brazil,Rondonia,May,2026,9,2,0,7,,,,,1765375966
+Brazil,Roraima,May,2026,8,2,0,6,,,,,1765375966
+Brazil,Santa Catarina,May,2026,8,3,0,5,,,,,1765375966
+Brazil,Sao Paulo,May,2026,50,26,0,24,,,,,1765375966
+Brazil,Sergipe,May,2026,12,7,0,5,,,,,1765375966
+Brazil,Tocantins,May,2026,5,2,0,3,,,,,1765375966

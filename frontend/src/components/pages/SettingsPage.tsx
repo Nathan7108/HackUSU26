@@ -5,7 +5,7 @@ export function SettingsPage() {
   const { theme, setTheme } = useThemeStore()
 
   return (
-    <div className="flex h-full flex-col overflow-y-auto">
+    <div className="flex h-full flex-col overflow-y-auto p-4">
       {/* Header */}
       <div className="flex flex-col mb-6">
         <h1
@@ -15,7 +15,7 @@ export function SettingsPage() {
           Settings
         </h1>
         <span
-          className="font-data text-[10px]"
+          className="font-data text-[11px]"
           style={{ color: "var(--sentinel-text-tertiary)" }}
         >
           SENTINEL AI — CONFIGURATION
@@ -108,7 +108,7 @@ function SettingsSection({
       >
         <Icon size={14} style={{ color: "var(--sentinel-text-tertiary)" }} />
         <span
-          className="font-data text-[10px] font-bold tracking-widest"
+          className="font-data text-[11px] font-bold tracking-widest"
           style={{ color: "var(--sentinel-text-tertiary)" }}
         >
           {title}

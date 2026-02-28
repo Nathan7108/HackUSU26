@@ -1,0 +1,313 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Greece,Aegean,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Greece,Aegean,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Greece,Aegean,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,November,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Greece,Aegean,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Aegean,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Greece,Aegean,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Greece,Athonite State,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Athonite State,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Attica,March,2023,1,0,1,0,3.0,0.0,2.0,1.0,1726141036
+Greece,Attica,April,2023,3,0,2,1,1.0,0.0,1.0,0.0,1726141036
+Greece,Attica,May,2023,2,0,1,1,4.0,0.0,2.0,2.0,1726141036
+Greece,Attica,June,2023,4,0,2,2,2.0,0.0,1.0,1.0,1726141036
+Greece,Attica,July,2023,3,0,2,1,3.0,0.0,2.0,1.0,1726141036
+Greece,Attica,August,2023,2,0,1,1,1.0,0.0,0.0,1.0,1726141036
+Greece,Attica,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Greece,Attica,October,2023,0,0,0,0,2.0,0.0,1.0,1.0,1726141036
+Greece,Attica,November,2023,2,0,1,1,2.0,0.0,2.0,0.0,1726141036
+Greece,Attica,December,2023,3,0,2,1,2.0,0.0,1.0,1.0,1726141036
+Greece,Attica,January,2024,2,0,1,1,2.0,0.0,2.0,0.0,1726141036
+Greece,Attica,February,2024,2,0,2,0,2.0,0.0,2.0,0.0,1726141036
+Greece,Attica,March,2024,3,0,2,1,2.0,0.0,1.0,1.0,1726141036
+Greece,Attica,April,2024,2,0,1,1,4.0,0.0,1.0,3.0,1726141036
+Greece,Attica,May,2024,4,0,1,3,4.0,0.0,1.0,3.0,1726141036
+Greece,Attica,June,2024,4,0,1,3,2.0,0.0,0.0,2.0,1726141036
+Greece,Attica,July,2024,2,0,0,2,3.0,0.0,0.0,3.0,1726141036
+Greece,Attica,August,2024,3,0,0,3,1.0,0.0,1.0,0.0,1726141036
+Greece,Crete,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Greece,Crete,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141036
+Greece,Crete,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Crete,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Epirus-Western Macedonia,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141036
+Greece,Macedonia-Thrace,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,June,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Greece,Macedonia-Thrace,July,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,August,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Greece,Macedonia-Thrace,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,April,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141036
+Greece,Macedonia-Thrace,May,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141036
+Greece,Macedonia-Thrace,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Peloponnese-Western Greece-Ionian Islands,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Greece,Thessaly-Central Greece,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Greece,Thessaly-Central Greece,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Greece,Thessaly-Central Greece,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141037
+Greece,Thessaly-Central Greece,October,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141037
+Greece,Thessaly-Central Greece,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Greece,Thessaly-Central Greece,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Greece,Thessaly-Central Greece,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Thessaly-Central Greece,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Greece,Aegean,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Greece,Athonite State,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Greece,Attica,September,2024,2,0,1,1,1.0,0.0,0.0,1.0,1730730988
+Greece,Crete,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730988
+Greece,Epirus-Western Macedonia,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Greece,Macedonia-Thrace,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Greece,Peloponnese-Western Greece-Ionian Islands,September,2024,0,0,0,0,1.0,0.0,1.0,0.0,1730730988
+Greece,Thessaly-Central Greece,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Greece,Aegean,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Aegean,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010282
+Greece,Athonite State,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Athonite State,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Attica,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010282
+Greece,Attica,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Crete,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010282
+Greece,Crete,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Epirus-Western Macedonia,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Epirus-Western Macedonia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Macedonia-Thrace,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010282
+Greece,Macedonia-Thrace,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010282
+Greece,Peloponnese-Western Greece-Ionian Islands,October,2024,2,0,1,1,2.0,0.0,2.0,0.0,1734010282
+Greece,Peloponnese-Western Greece-Ionian Islands,November,2024,2,0,2,0,2.0,0.0,1.0,1.0,1734010282
+Greece,Thessaly-Central Greece,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Thessaly-Central Greece,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Greece,Aegean,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033345
+Greece,Athonite State,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Greece,Attica,December,2024,0,0,0,0,3.0,0.0,1.0,2.0,1737033345
+Greece,Crete,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Greece,Epirus-Western Macedonia,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Greece,Macedonia-Thrace,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Greece,Peloponnese-Western Greece-Ionian Islands,December,2024,2,0,1,1,0.0,0.0,0.0,0.0,1737033345
+Greece,Thessaly-Central Greece,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Greece,Aegean,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Greece,Athonite State,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Greece,Attica,January,2025,3,0,1,2,2.0,0.0,1.0,1.0,1738854850
+Greece,Crete,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Greece,Epirus-Western Macedonia,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Greece,Macedonia-Thrace,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Greece,Peloponnese-Western Greece-Ionian Islands,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Greece,Thessaly-Central Greece,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Greece,Aegean,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Greece,Athonite State,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Greece,Attica,February,2025,3,0,1,2,1.0,0.0,1.0,0.0,1741266620
+Greece,Crete,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266620
+Greece,Epirus-Western Macedonia,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Greece,Macedonia-Thrace,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Greece,Peloponnese-Western Greece-Ionian Islands,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Greece,Thessaly-Central Greece,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266620
+Greece,Aegean,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Greece,Athonite State,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Greece,Attica,March,2025,1,0,1,0,0.0,0.0,0.0,0.0,1744287543
+Greece,Crete,March,2025,1,0,0,1,1.0,0.0,0.0,1.0,1744287543
+Greece,Epirus-Western Macedonia,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Greece,Macedonia-Thrace,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Greece,Peloponnese-Western Greece-Ionian Islands,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Greece,Thessaly-Central Greece,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Greece,Aegean,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702912
+Greece,Athonite State,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Greece,Attica,April,2025,0,0,0,0,3.0,0.0,1.0,2.0,1746702912
+Greece,Crete,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702912
+Greece,Epirus-Western Macedonia,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Greece,Macedonia-Thrace,April,2025,0,0,0,0,2.0,0.0,1.0,1.0,1746702912
+Greece,Peloponnese-Western Greece-Ionian Islands,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Greece,Thessaly-Central Greece,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Greece,Aegean,May,2025,1,1,0,0,2.0,0.0,0.0,2.0,1749732012
+Greece,Athonite State,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732012
+Greece,Attica,May,2025,3,0,1,2,4.0,0.0,3.0,1.0,1749732012
+Greece,Crete,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Greece,Epirus-Western Macedonia,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Greece,Macedonia-Thrace,May,2025,2,0,1,1,0.0,0.0,0.0,0.0,1749732012
+Greece,Peloponnese-Western Greece-Ionian Islands,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Greece,Thessaly-Central Greece,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Greece,Aegean,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Greece,Aegean,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Aegean,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Greece,Aegean,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Greece,Aegean,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Greece,Aegean,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Greece,Aegean,December,2025,0,0,0,0,,,,,1765375966
+Greece,Athonite State,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Greece,Athonite State,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Athonite State,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Greece,Athonite State,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Greece,Athonite State,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Greece,Athonite State,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Greece,Athonite State,December,2025,0,0,0,0,,,,,1765375966
+Greece,Attica,June,2025,3,0,2,1,0.0,0.0,0.0,0.0,1754429217
+Greece,Attica,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Greece,Attica,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Greece,Attica,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Greece,Attica,October,2025,1,0,0,1,2.0,0.0,2.0,0.0,1762435626
+Greece,Attica,November,2025,2,0,2,0,4.0,0.0,2.0,2.0,1765375966
+Greece,Attica,December,2025,4,0,2,2,,,,,1765375966
+Greece,Crete,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Crete,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Crete,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Greece,Crete,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Greece,Crete,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Greece,Crete,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Greece,Crete,December,2025,0,0,0,0,,,,,1765375966
+Greece,Epirus-Western Macedonia,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Epirus-Western Macedonia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Epirus-Western Macedonia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Greece,Epirus-Western Macedonia,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Greece,Epirus-Western Macedonia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Greece,Epirus-Western Macedonia,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Greece,Epirus-Western Macedonia,December,2025,0,0,0,0,,,,,1765375966
+Greece,Macedonia-Thrace,June,2025,0,0,0,0,1.0,0.0,1.0,0.0,1754429217
+Greece,Macedonia-Thrace,July,2025,1,0,1,0,1.0,0.0,1.0,0.0,1754429217
+Greece,Macedonia-Thrace,August,2025,1,0,1,0,0.0,0.0,0.0,0.0,1757596698
+Greece,Macedonia-Thrace,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Greece,Macedonia-Thrace,October,2025,2,0,0,2,1.0,0.0,0.0,1.0,1762435626
+Greece,Macedonia-Thrace,November,2025,1,0,0,1,1.0,0.0,1.0,0.0,1765375966
+Greece,Macedonia-Thrace,December,2025,1,0,1,0,,,,,1765375966
+Greece,Peloponnese-Western Greece-Ionian Islands,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Peloponnese-Western Greece-Ionian Islands,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Greece,Peloponnese-Western Greece-Ionian Islands,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Greece,Peloponnese-Western Greece-Ionian Islands,September,2025,0,0,0,0,1.0,0.0,1.0,0.0,1760036046
+Greece,Peloponnese-Western Greece-Ionian Islands,October,2025,1,0,1,0,0.0,0.0,0.0,0.0,1762435626
+Greece,Peloponnese-Western Greece-Ionian Islands,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Greece,Peloponnese-Western Greece-Ionian Islands,December,2025,0,0,0,0,,,,,1765375966
+Greece,Thessaly-Central Greece,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Thessaly-Central Greece,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Greece,Thessaly-Central Greece,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Greece,Thessaly-Central Greece,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Greece,Thessaly-Central Greece,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Greece,Thessaly-Central Greece,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Greece,Thessaly-Central Greece,December,2025,1,0,0,1,,,,,1765375966
+Greece,Aegean,January,2026,0,0,0,0,,,,,1765375966
+Greece,Athonite State,January,2026,0,0,0,0,,,,,1765375966
+Greece,Attica,January,2026,4,0,2,2,,,,,1765375966
+Greece,Crete,January,2026,0,0,0,0,,,,,1765375966
+Greece,Epirus-Western Macedonia,January,2026,0,0,0,0,,,,,1765375966
+Greece,Macedonia-Thrace,January,2026,1,0,1,0,,,,,1765375966
+Greece,Peloponnese-Western Greece-Ionian Islands,January,2026,0,0,0,0,,,,,1765375966
+Greece,Thessaly-Central Greece,January,2026,1,0,0,1,,,,,1765375966
+Greece,Aegean,February,2026,0,0,0,0,,,,,1765375966
+Greece,Athonite State,February,2026,0,0,0,0,,,,,1765375966
+Greece,Attica,February,2026,4,0,2,2,,,,,1765375966
+Greece,Crete,February,2026,0,0,0,0,,,,,1765375966
+Greece,Epirus-Western Macedonia,February,2026,0,0,0,0,,,,,1765375966
+Greece,Macedonia-Thrace,February,2026,1,0,1,0,,,,,1765375966
+Greece,Peloponnese-Western Greece-Ionian Islands,February,2026,0,0,0,0,,,,,1765375966
+Greece,Thessaly-Central Greece,February,2026,1,0,0,1,,,,,1765375966
+Greece,Aegean,March,2026,0,0,0,0,,,,,1765375966
+Greece,Athonite State,March,2026,0,0,0,0,,,,,1765375966
+Greece,Attica,March,2026,4,0,2,2,,,,,1765375966
+Greece,Crete,March,2026,0,0,0,0,,,,,1765375966
+Greece,Epirus-Western Macedonia,March,2026,0,0,0,0,,,,,1765375966
+Greece,Macedonia-Thrace,March,2026,1,0,1,0,,,,,1765375966
+Greece,Peloponnese-Western Greece-Ionian Islands,March,2026,0,0,0,0,,,,,1765375966
+Greece,Thessaly-Central Greece,March,2026,1,0,0,1,,,,,1765375966
+Greece,Aegean,April,2026,0,0,0,0,,,,,1765375966
+Greece,Athonite State,April,2026,0,0,0,0,,,,,1765375966
+Greece,Attica,April,2026,4,0,2,2,,,,,1765375966
+Greece,Crete,April,2026,0,0,0,0,,,,,1765375966
+Greece,Epirus-Western Macedonia,April,2026,0,0,0,0,,,,,1765375966
+Greece,Macedonia-Thrace,April,2026,1,0,1,0,,,,,1765375966
+Greece,Peloponnese-Western Greece-Ionian Islands,April,2026,0,0,0,0,,,,,1765375966
+Greece,Thessaly-Central Greece,April,2026,1,0,0,1,,,,,1765375966
+Greece,Aegean,May,2026,0,0,0,0,,,,,1765375966
+Greece,Athonite State,May,2026,0,0,0,0,,,,,1765375966
+Greece,Attica,May,2026,4,0,2,2,,,,,1765375966
+Greece,Crete,May,2026,0,0,0,0,,,,,1765375966
+Greece,Epirus-Western Macedonia,May,2026,0,0,0,0,,,,,1765375966
+Greece,Macedonia-Thrace,May,2026,1,0,1,0,,,,,1765375966
+Greece,Peloponnese-Western Greece-Ionian Islands,May,2026,0,0,0,0,,,,,1765375966
+Greece,Thessaly-Central Greece,May,2026,1,0,0,1,,,,,1765375966

@@ -1,0 +1,301 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Serbia,Belgrade,June,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Serbia,Belgrade,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Serbia,Belgrade,August,2025,0,0,0,0,5.0,0.0,0.0,5.0,1757596698
+Serbia,Belgrade,September,2025,4,0,0,4,1.0,0.0,0.0,1.0,1760036046
+Serbia,Belgrade,October,2025,2,0,0,2,4.0,0.0,1.0,3.0,1762435626
+Serbia,Belgrade,November,2025,4,0,1,3,4.0,1.0,0.0,3.0,1765375966
+Serbia,Belgrade,December,2025,3,0,0,3,,,,,1765375966
+Serbia,Bor,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Bor,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Bor,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Bor,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Bor,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Bor,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Serbia,Bor,December,2025,1,0,0,1,,,,,1765375966
+Serbia,Branicevo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Branicevo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Branicevo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Branicevo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Branicevo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Branicevo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Branicevo,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Central Banat,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Serbia,Central Banat,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Serbia,Central Banat,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Central Banat,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Serbia,Central Banat,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Serbia,Central Banat,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Central Banat,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Jablanica,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Serbia,Jablanica,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Jablanica,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Jablanica,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Jablanica,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Jablanica,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Jablanica,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Kolubara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Kolubara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Kolubara,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Serbia,Kolubara,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Serbia,Kolubara,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Kolubara,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Serbia,Kolubara,December,2025,2,0,0,2,,,,,1765375966
+Serbia,Macva,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Macva,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Macva,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Macva,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Macva,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Macva,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Macva,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Moravica,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Moravica,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Moravica,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Moravica,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Moravica,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Moravica,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Serbia,Moravica,December,2025,1,0,0,1,,,,,1765375966
+Serbia,Nisava,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Serbia,Nisava,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Nisava,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Nisava,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Nisava,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Nisava,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Nisava,December,2025,0,0,0,0,,,,,1765375966
+Serbia,North Backa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,North Backa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,North Backa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,North Backa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,North Backa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,North Backa,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Serbia,North Backa,December,2025,1,0,0,1,,,,,1765375966
+Serbia,North Banat,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,North Banat,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,North Banat,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,North Banat,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,North Banat,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,North Banat,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,North Banat,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Pcinja,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Pcinja,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Pcinja,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Pcinja,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Pcinja,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Serbia,Pcinja,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Serbia,Pcinja,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Pirot,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Pirot,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Pirot,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Pirot,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Pirot,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Pirot,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Pirot,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Podunavlje,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Podunavlje,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Podunavlje,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Podunavlje,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Podunavlje,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Podunavlje,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Podunavlje,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Pomoravlje,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Pomoravlje,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Pomoravlje,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Pomoravlje,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Pomoravlje,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Pomoravlje,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Pomoravlje,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Rasina,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Rasina,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Rasina,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Rasina,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Rasina,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Rasina,November,2025,0,0,0,0,1.0,1.0,0.0,0.0,1765375966
+Serbia,Rasina,December,2025,1,1,0,0,,,,,1765375966
+Serbia,Raska,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Raska,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Serbia,Raska,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Serbia,Raska,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Raska,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Raska,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Serbia,Raska,December,2025,1,0,0,1,,,,,1765375966
+Serbia,South Backa,June,2025,2,0,0,2,2.0,0.0,0.0,2.0,1754429217
+Serbia,South Backa,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Serbia,South Backa,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Serbia,South Backa,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Serbia,South Backa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,South Backa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,South Backa,December,2025,0,0,0,0,,,,,1765375966
+Serbia,South Banat,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,South Banat,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,South Banat,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,South Banat,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,South Banat,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,South Banat,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,South Banat,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Srem,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Srem,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Srem,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Srem,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Srem,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Srem,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Srem,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Sumadija,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Sumadija,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Sumadija,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Sumadija,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Sumadija,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Sumadija,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Serbia,Sumadija,December,2025,1,0,0,1,,,,,1765375966
+Serbia,Toplica,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Toplica,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Toplica,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Toplica,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Toplica,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Toplica,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Toplica,December,2025,0,0,0,0,,,,,1765375966
+Serbia,West Backa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,West Backa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,West Backa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,West Backa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,West Backa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,West Backa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,West Backa,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Zajecar,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Serbia,Zajecar,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Serbia,Zajecar,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Zajecar,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Serbia,Zajecar,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Serbia,Zajecar,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Zajecar,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Zlatibor,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Serbia,Zlatibor,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Serbia,Zlatibor,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Serbia,Zlatibor,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Serbia,Zlatibor,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Serbia,Zlatibor,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Serbia,Zlatibor,December,2025,0,0,0,0,,,,,1765375966
+Serbia,Belgrade,January,2026,3,0,0,3,,,,,1765375966
+Serbia,Bor,January,2026,1,0,0,1,,,,,1765375966
+Serbia,Branicevo,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Central Banat,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Jablanica,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Kolubara,January,2026,2,0,0,2,,,,,1765375966
+Serbia,Macva,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Moravica,January,2026,1,0,0,1,,,,,1765375966
+Serbia,Nisava,January,2026,0,0,0,0,,,,,1765375966
+Serbia,North Backa,January,2026,1,0,0,1,,,,,1765375966
+Serbia,North Banat,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Pcinja,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Pirot,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Podunavlje,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Pomoravlje,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Rasina,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Raska,January,2026,1,0,0,1,,,,,1765375966
+Serbia,South Backa,January,2026,0,0,0,0,,,,,1765375966
+Serbia,South Banat,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Srem,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Sumadija,January,2026,1,0,0,1,,,,,1765375966
+Serbia,Toplica,January,2026,0,0,0,0,,,,,1765375966
+Serbia,West Backa,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Zajecar,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Zlatibor,January,2026,0,0,0,0,,,,,1765375966
+Serbia,Belgrade,February,2026,3,0,0,3,,,,,1765375966
+Serbia,Bor,February,2026,1,0,0,1,,,,,1765375966
+Serbia,Branicevo,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Central Banat,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Jablanica,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Kolubara,February,2026,2,0,0,2,,,,,1765375966
+Serbia,Macva,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Moravica,February,2026,1,0,0,1,,,,,1765375966
+Serbia,Nisava,February,2026,0,0,0,0,,,,,1765375966
+Serbia,North Backa,February,2026,1,0,0,1,,,,,1765375966
+Serbia,North Banat,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Pcinja,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Pirot,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Podunavlje,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Pomoravlje,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Rasina,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Raska,February,2026,1,0,0,1,,,,,1765375966
+Serbia,South Backa,February,2026,0,0,0,0,,,,,1765375966
+Serbia,South Banat,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Srem,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Sumadija,February,2026,1,0,0,1,,,,,1765375966
+Serbia,Toplica,February,2026,0,0,0,0,,,,,1765375966
+Serbia,West Backa,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Zajecar,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Zlatibor,February,2026,0,0,0,0,,,,,1765375966
+Serbia,Belgrade,March,2026,3,0,0,3,,,,,1765375966
+Serbia,Bor,March,2026,1,0,0,1,,,,,1765375966
+Serbia,Branicevo,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Central Banat,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Jablanica,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Kolubara,March,2026,2,0,0,2,,,,,1765375966
+Serbia,Macva,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Moravica,March,2026,1,0,0,1,,,,,1765375966
+Serbia,Nisava,March,2026,0,0,0,0,,,,,1765375966
+Serbia,North Backa,March,2026,1,0,0,1,,,,,1765375966
+Serbia,North Banat,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Pcinja,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Pirot,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Podunavlje,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Pomoravlje,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Rasina,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Raska,March,2026,1,0,0,1,,,,,1765375966
+Serbia,South Backa,March,2026,0,0,0,0,,,,,1765375966
+Serbia,South Banat,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Srem,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Sumadija,March,2026,1,0,0,1,,,,,1765375966
+Serbia,Toplica,March,2026,0,0,0,0,,,,,1765375966
+Serbia,West Backa,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Zajecar,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Zlatibor,March,2026,0,0,0,0,,,,,1765375966
+Serbia,Belgrade,April,2026,3,0,0,3,,,,,1765375966
+Serbia,Bor,April,2026,1,0,0,1,,,,,1765375966
+Serbia,Branicevo,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Central Banat,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Jablanica,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Kolubara,April,2026,2,0,0,2,,,,,1765375966
+Serbia,Macva,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Moravica,April,2026,1,0,0,1,,,,,1765375966
+Serbia,Nisava,April,2026,0,0,0,0,,,,,1765375966
+Serbia,North Backa,April,2026,1,0,0,1,,,,,1765375966
+Serbia,North Banat,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Pcinja,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Pirot,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Podunavlje,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Pomoravlje,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Rasina,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Raska,April,2026,1,0,0,1,,,,,1765375966
+Serbia,South Backa,April,2026,0,0,0,0,,,,,1765375966
+Serbia,South Banat,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Srem,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Sumadija,April,2026,1,0,0,1,,,,,1765375966
+Serbia,Toplica,April,2026,0,0,0,0,,,,,1765375966
+Serbia,West Backa,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Zajecar,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Zlatibor,April,2026,0,0,0,0,,,,,1765375966
+Serbia,Belgrade,May,2026,3,0,0,3,,,,,1765375966
+Serbia,Bor,May,2026,1,0,0,1,,,,,1765375966
+Serbia,Branicevo,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Central Banat,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Jablanica,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Kolubara,May,2026,2,0,0,2,,,,,1765375966
+Serbia,Macva,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Moravica,May,2026,1,0,0,1,,,,,1765375966
+Serbia,Nisava,May,2026,0,0,0,0,,,,,1765375966
+Serbia,North Backa,May,2026,1,0,0,1,,,,,1765375966
+Serbia,North Banat,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Pcinja,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Pirot,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Podunavlje,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Pomoravlje,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Rasina,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Raska,May,2026,1,0,0,1,,,,,1765375966
+Serbia,South Backa,May,2026,0,0,0,0,,,,,1765375966
+Serbia,South Banat,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Srem,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Sumadija,May,2026,1,0,0,1,,,,,1765375966
+Serbia,Toplica,May,2026,0,0,0,0,,,,,1765375966
+Serbia,West Backa,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Zajecar,May,2026,0,0,0,0,,,,,1765375966
+Serbia,Zlatibor,May,2026,0,0,0,0,,,,,1765375966

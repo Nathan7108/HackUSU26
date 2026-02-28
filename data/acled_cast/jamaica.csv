@@ -1,0 +1,547 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Jamaica,Clarendon,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141048
+Jamaica,Clarendon,April,2023,1,0,0,1,3.0,1.0,0.0,2.0,1726141048
+Jamaica,Clarendon,May,2023,2,0,0,2,1.0,1.0,0.0,0.0,1726141048
+Jamaica,Clarendon,June,2023,1,1,0,1,1.0,0.0,0.0,1.0,1726141048
+Jamaica,Clarendon,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141048
+Jamaica,Clarendon,August,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141048
+Jamaica,Clarendon,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141048
+Jamaica,Clarendon,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141048
+Jamaica,Clarendon,November,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141048
+Jamaica,Clarendon,December,2023,2,1,0,1,2.0,0.0,0.0,2.0,1726141048
+Jamaica,Clarendon,January,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141048
+Jamaica,Clarendon,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141048
+Jamaica,Clarendon,March,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141048
+Jamaica,Clarendon,April,2024,1,0,0,1,2.0,1.0,0.0,1.0,1726141048
+Jamaica,Clarendon,May,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141048
+Jamaica,Clarendon,June,2024,1,0,0,1,3.0,2.0,0.0,1.0,1726141048
+Jamaica,Clarendon,July,2024,2,1,0,1,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Clarendon,August,2024,2,1,0,1,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Hanover,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Hanover,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Hanover,May,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141049
+Jamaica,Hanover,June,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Hanover,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Hanover,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Hanover,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Hanover,October,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Hanover,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Hanover,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Hanover,January,2024,1,0,0,1,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Hanover,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Hanover,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Hanover,April,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Hanover,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Hanover,June,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Hanover,July,2024,1,0,0,1,3.0,2.0,0.0,1.0,1726141049
+Jamaica,Hanover,August,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Kingston,March,2023,9,3,0,6,11.0,1.0,0.0,10.0,1726141049
+Jamaica,Kingston,April,2023,10,1,0,8,12.0,6.0,0.0,6.0,1726141049
+Jamaica,Kingston,May,2023,10,4,0,7,4.0,1.0,0.0,3.0,1726141049
+Jamaica,Kingston,June,2023,6,1,0,4,10.0,5.0,0.0,5.0,1726141049
+Jamaica,Kingston,July,2023,10,4,0,6,6.0,1.0,0.0,5.0,1726141049
+Jamaica,Kingston,August,2023,8,2,0,6,7.0,0.0,0.0,7.0,1726141049
+Jamaica,Kingston,September,2023,9,2,0,7,11.0,2.0,0.0,9.0,1726141049
+Jamaica,Kingston,October,2023,9,2,0,7,10.0,2.0,0.0,8.0,1726141049
+Jamaica,Kingston,November,2023,8,1,0,7,7.0,2.0,0.0,5.0,1726141049
+Jamaica,Kingston,December,2023,9,2,0,7,5.0,1.0,0.0,4.0,1726141049
+Jamaica,Kingston,January,2024,7,1,0,6,9.0,3.0,0.0,6.0,1726141049
+Jamaica,Kingston,February,2024,8,2,0,6,10.0,4.0,0.0,6.0,1726141049
+Jamaica,Kingston,March,2024,10,3,0,7,5.0,1.0,0.0,4.0,1726141049
+Jamaica,Kingston,April,2024,8,2,0,6,6.0,1.0,0.0,5.0,1726141049
+Jamaica,Kingston,May,2024,7,1,0,6,14.0,7.0,0.0,7.0,1726141049
+Jamaica,Kingston,June,2024,12,6,0,6,4.0,2.0,0.0,2.0,1726141049
+Jamaica,Kingston,July,2024,6,1,0,5,3.0,1.0,0.0,2.0,1726141049
+Jamaica,Kingston,August,2024,3,1,0,2,12.0,4.0,0.0,8.0,1726141049
+Jamaica,Manchester,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Manchester,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Manchester,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Manchester,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Manchester,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Manchester,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Manchester,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Manchester,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Manchester,November,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Manchester,December,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Manchester,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Manchester,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Manchester,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Manchester,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Manchester,May,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Manchester,June,2024,2,1,0,1,5.0,2.0,0.0,3.0,1726141049
+Jamaica,Manchester,July,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Manchester,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Portland,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Portland,October,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Portland,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Portland,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Portland,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Andrew,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Andrew,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Ann,March,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Ann,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Saint Ann,May,2023,2,0,0,2,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint Ann,June,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,July,2023,1,0,0,1,3.0,1.0,0.0,2.0,1726141049
+Jamaica,Saint Ann,August,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,September,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Saint Ann,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,January,2024,2,0,0,2,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Ann,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Ann,May,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141049
+Jamaica,Saint Ann,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Ann,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Catherine,March,2023,4,1,0,3,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Catherine,April,2023,1,0,0,1,5.0,2.0,0.0,3.0,1726141049
+Jamaica,Saint Catherine,May,2023,5,2,0,3,3.0,1.0,0.0,2.0,1726141049
+Jamaica,Saint Catherine,June,2023,4,2,0,3,9.0,3.0,0.0,6.0,1726141049
+Jamaica,Saint Catherine,July,2023,7,2,0,4,11.0,3.0,0.0,8.0,1726141049
+Jamaica,Saint Catherine,August,2023,11,3,0,8,3.0,0.0,0.0,3.0,1726141049
+Jamaica,Saint Catherine,September,2023,4,1,0,3,12.0,5.0,0.0,7.0,1726141049
+Jamaica,Saint Catherine,October,2023,7,4,0,3,8.0,2.0,0.0,6.0,1726141049
+Jamaica,Saint Catherine,November,2023,8,2,0,6,4.0,1.0,0.0,3.0,1726141049
+Jamaica,Saint Catherine,December,2023,6,1,0,5,7.0,2.0,0.0,5.0,1726141049
+Jamaica,Saint Catherine,January,2024,7,2,0,5,3.0,1.0,0.0,2.0,1726141049
+Jamaica,Saint Catherine,February,2024,5,2,0,3,3.0,0.0,0.0,3.0,1726141049
+Jamaica,Saint Catherine,March,2024,3,0,0,3,10.0,5.0,0.0,5.0,1726141049
+Jamaica,Saint Catherine,April,2024,8,5,0,3,4.0,3.0,0.0,1.0,1726141049
+Jamaica,Saint Catherine,May,2024,6,3,0,3,5.0,1.0,0.0,4.0,1726141049
+Jamaica,Saint Catherine,June,2024,4,1,0,3,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Saint Catherine,July,2024,4,1,0,3,5.0,2.0,0.0,3.0,1726141049
+Jamaica,Saint Catherine,August,2024,3,1,0,2,7.0,5.0,0.0,2.0,1726141049
+Jamaica,Saint Elizabeth,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Elizabeth,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Elizabeth,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Elizabeth,July,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,August,2023,1,1,0,0,4.0,3.0,0.0,1.0,1726141049
+Jamaica,Saint Elizabeth,September,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Saint Elizabeth,October,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Elizabeth,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,December,2023,0,0,0,0,4.0,2.0,0.0,2.0,1726141049
+Jamaica,Saint Elizabeth,January,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,May,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Elizabeth,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint James,March,2023,5,2,0,3,4.0,2.0,0.0,2.0,1726141049
+Jamaica,Saint James,April,2023,4,1,0,2,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Saint James,May,2023,3,1,0,1,12.0,2.0,0.0,10.0,1726141049
+Jamaica,Saint James,June,2023,9,2,0,7,5.0,2.0,0.0,3.0,1726141049
+Jamaica,Saint James,July,2023,5,2,0,3,7.0,3.0,0.0,4.0,1726141049
+Jamaica,Saint James,August,2023,7,3,0,4,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint James,September,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint James,October,2023,3,0,0,3,4.0,1.0,0.0,3.0,1726141049
+Jamaica,Saint James,November,2023,5,1,0,4,3.0,3.0,0.0,0.0,1726141049
+Jamaica,Saint James,December,2023,7,3,0,4,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint James,January,2024,5,1,0,4,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint James,February,2024,3,1,0,2,4.0,2.0,0.0,2.0,1726141049
+Jamaica,Saint James,March,2024,3,2,0,1,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint James,April,2024,3,1,0,2,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Saint James,May,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint James,June,2024,2,0,0,2,5.0,4.0,0.0,1.0,1726141049
+Jamaica,Saint James,July,2024,3,2,0,1,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint James,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Mary,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Mary,May,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Mary,August,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Saint Mary,September,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Mary,November,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,January,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Mary,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Mary,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Saint Mary,July,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Saint Mary,August,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Saint Thomas,August,2024,1,1,0,0,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Trelawny,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Trelawny,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Trelawny,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Trelawny,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Trelawny,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Trelawny,May,2024,1,0,0,1,2.0,1.0,0.0,1.0,1726141049
+Jamaica,Trelawny,June,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Trelawny,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Westmoreland,March,2023,3,1,0,2,6.0,0.0,0.0,6.0,1726141049
+Jamaica,Westmoreland,April,2023,4,0,0,4,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Westmoreland,May,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Westmoreland,June,2023,2,1,0,1,3.0,1.0,0.0,2.0,1726141049
+Jamaica,Westmoreland,July,2023,3,1,0,2,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Westmoreland,August,2023,2,1,0,1,3.0,1.0,0.0,2.0,1726141049
+Jamaica,Westmoreland,September,2023,2,0,0,2,5.0,1.0,0.0,4.0,1726141049
+Jamaica,Westmoreland,October,2023,4,1,0,3,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Westmoreland,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141049
+Jamaica,Westmoreland,December,2023,1,0,0,1,7.0,3.0,0.0,4.0,1726141049
+Jamaica,Westmoreland,January,2024,3,1,0,2,2.0,0.0,0.0,2.0,1726141049
+Jamaica,Westmoreland,February,2024,3,1,0,2,3.0,1.0,0.0,2.0,1726141049
+Jamaica,Westmoreland,March,2024,3,1,0,2,11.0,3.0,0.0,8.0,1726141049
+Jamaica,Westmoreland,April,2024,6,3,0,3,4.0,1.0,0.0,3.0,1726141049
+Jamaica,Westmoreland,May,2024,4,1,0,3,4.0,1.0,0.0,3.0,1726141049
+Jamaica,Westmoreland,June,2024,4,1,0,3,3.0,1.0,0.0,2.0,1726141049
+Jamaica,Westmoreland,July,2024,4,1,0,3,1.0,1.0,0.0,0.0,1726141049
+Jamaica,Westmoreland,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141049
+Jamaica,Clarendon,September,2024,2,1,0,1,0.0,0.0,0.0,0.0,1730730992
+Jamaica,Hanover,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730992
+Jamaica,Kingston,September,2024,9,4,0,5,2.0,1.0,0.0,1.0,1730730992
+Jamaica,Manchester,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730992
+Jamaica,Portland,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730992
+Jamaica,Saint Andrew,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jamaica,Saint Ann,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jamaica,Saint Catherine,September,2024,7,4,0,3,7.0,5.0,0.0,2.0,1730730992
+Jamaica,Saint Elizabeth,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jamaica,Saint James,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730992
+Jamaica,Saint Mary,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730992
+Jamaica,Saint Thomas,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730992
+Jamaica,Trelawny,September,2024,2,1,0,1,0.0,0.0,0.0,0.0,1730730992
+Jamaica,Westmoreland,September,2024,1,0,0,1,2.0,0.0,0.0,2.0,1730730992
+Jamaica,Clarendon,October,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010288
+Jamaica,Clarendon,November,2024,2,1,0,1,1.0,0.0,0.0,1.0,1734010288
+Jamaica,Hanover,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010288
+Jamaica,Hanover,November,2024,1,0,0,1,2.0,1.0,0.0,1.0,1734010288
+Jamaica,Kingston,October,2024,2,1,0,1,7.0,2.0,0.0,5.0,1734010288
+Jamaica,Kingston,November,2024,6,2,0,4,8.0,2.0,0.0,6.0,1734010288
+Jamaica,Manchester,October,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010288
+Jamaica,Manchester,November,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010288
+Jamaica,Portland,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010288
+Jamaica,Portland,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010288
+Jamaica,Saint Andrew,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Saint Andrew,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Saint Ann,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Saint Ann,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Saint Catherine,October,2024,7,5,0,2,6.0,3.0,0.0,3.0,1734010289
+Jamaica,Saint Catherine,November,2024,5,3,0,2,2.0,0.0,0.0,2.0,1734010289
+Jamaica,Saint Elizabeth,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Saint Elizabeth,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Saint James,October,2024,1,0,0,1,3.0,0.0,0.0,3.0,1734010289
+Jamaica,Saint James,November,2024,1,0,0,1,2.0,1.0,0.0,1.0,1734010289
+Jamaica,Saint Mary,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010289
+Jamaica,Saint Mary,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Saint Thomas,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Saint Thomas,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Trelawny,October,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010289
+Jamaica,Trelawny,November,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Westmoreland,October,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Westmoreland,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jamaica,Clarendon,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033351
+Jamaica,Hanover,December,2024,2,1,0,1,0.0,0.0,0.0,0.0,1737033351
+Jamaica,Kingston,December,2024,6,2,0,4,7.0,4.0,0.0,3.0,1737033351
+Jamaica,Manchester,December,2024,1,0,0,1,1.0,1.0,0.0,0.0,1737033351
+Jamaica,Portland,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jamaica,Saint Andrew,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jamaica,Saint Ann,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jamaica,Saint Catherine,December,2024,3,1,0,2,6.0,4.0,0.0,2.0,1737033351
+Jamaica,Saint Elizabeth,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jamaica,Saint James,December,2024,2,1,0,1,2.0,1.0,0.0,1.0,1737033351
+Jamaica,Saint Mary,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033351
+Jamaica,Saint Thomas,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jamaica,Trelawny,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033351
+Jamaica,Westmoreland,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jamaica,Clarendon,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854855
+Jamaica,Hanover,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854855
+Jamaica,Kingston,January,2025,7,4,0,3,13.0,6.0,0.0,7.0,1738854855
+Jamaica,Manchester,January,2025,2,1,0,1,1.0,1.0,0.0,0.0,1738854855
+Jamaica,Portland,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854855
+Jamaica,Saint Andrew,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854855
+Jamaica,Saint Ann,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854855
+Jamaica,Saint Catherine,January,2025,6,4,0,2,8.0,1.0,0.0,7.0,1738854856
+Jamaica,Saint Elizabeth,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jamaica,Saint James,January,2025,2,1,0,1,0.0,0.0,0.0,0.0,1738854856
+Jamaica,Saint Mary,January,2025,1,0,0,1,3.0,2.0,0.0,1.0,1738854856
+Jamaica,Saint Thomas,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jamaica,Trelawny,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854856
+Jamaica,Westmoreland,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jamaica,Clarendon,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266625
+Jamaica,Hanover,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266625
+Jamaica,Kingston,February,2025,11,6,0,5,5.0,3.0,0.0,2.0,1741266625
+Jamaica,Manchester,February,2025,2,1,0,1,1.0,1.0,0.0,0.0,1741266625
+Jamaica,Portland,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Jamaica,Saint Andrew,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Jamaica,Saint Ann,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Jamaica,Saint Catherine,February,2025,5,1,0,4,9.0,5.0,0.0,4.0,1741266626
+Jamaica,Saint Elizabeth,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266626
+Jamaica,Saint James,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266626
+Jamaica,Saint Mary,February,2025,3,2,0,1,1.0,0.0,0.0,1.0,1741266626
+Jamaica,Saint Thomas,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266626
+Jamaica,Trelawny,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266626
+Jamaica,Westmoreland,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266626
+Jamaica,Clarendon,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Jamaica,Hanover,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287544
+Jamaica,Kingston,March,2025,6,3,0,3,7.0,3.0,0.0,4.0,1744287544
+Jamaica,Manchester,March,2025,2,1,0,1,2.0,1.0,0.0,1.0,1744287544
+Jamaica,Portland,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287544
+Jamaica,Saint Andrew,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Jamaica,Saint Ann,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Jamaica,Saint Catherine,March,2025,9,5,0,4,6.0,3.0,0.0,3.0,1744287544
+Jamaica,Saint Elizabeth,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287544
+Jamaica,Saint James,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Jamaica,Saint Mary,March,2025,1,0,0,1,2.0,1.0,0.0,1.0,1744287544
+Jamaica,Saint Thomas,March,2025,2,1,0,1,1.0,0.0,0.0,1.0,1744287544
+Jamaica,Trelawny,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287544
+Jamaica,Westmoreland,March,2025,2,1,0,1,0.0,0.0,0.0,0.0,1744287544
+Jamaica,Clarendon,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702914
+Jamaica,Hanover,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Jamaica,Kingston,April,2025,6,3,0,3,14.0,7.0,0.0,7.0,1746702914
+Jamaica,Manchester,April,2025,2,1,0,1,0.0,0.0,0.0,0.0,1746702914
+Jamaica,Portland,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702914
+Jamaica,Saint Andrew,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702914
+Jamaica,Saint Ann,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702914
+Jamaica,Saint Catherine,April,2025,6,3,0,3,5.0,3.0,0.0,2.0,1746702914
+Jamaica,Saint Elizabeth,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702914
+Jamaica,Saint James,April,2025,0,0,0,0,5.0,3.0,0.0,2.0,1746702914
+Jamaica,Saint Mary,April,2025,2,1,0,1,0.0,0.0,0.0,0.0,1746702914
+Jamaica,Saint Thomas,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702914
+Jamaica,Trelawny,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702914
+Jamaica,Westmoreland,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702914
+Jamaica,Clarendon,May,2025,1,0,0,1,1.0,0.0,0.0,1.0,1749732016
+Jamaica,Hanover,May,2025,0,0,0,0,2.0,2.0,0.0,0.0,1749732016
+Jamaica,Kingston,May,2025,11,6,0,5,9.0,6.0,0.0,3.0,1749732016
+Jamaica,Manchester,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Jamaica,Portland,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Jamaica,Saint Andrew,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Jamaica,Saint Ann,May,2025,1,0,0,1,2.0,1.0,0.0,1.0,1749732016
+Jamaica,Saint Catherine,May,2025,6,3,0,3,9.0,7.0,0.0,2.0,1749732016
+Jamaica,Saint Elizabeth,May,2025,2,1,0,1,0.0,0.0,0.0,0.0,1749732016
+Jamaica,Saint James,May,2025,3,2,0,1,0.0,0.0,0.0,0.0,1749732016
+Jamaica,Saint Mary,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Jamaica,Saint Thomas,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732016
+Jamaica,Trelawny,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732016
+Jamaica,Westmoreland,May,2025,2,1,0,1,1.0,0.0,0.0,1.0,1749732017
+Jamaica,Clarendon,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Jamaica,Clarendon,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Clarendon,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Clarendon,September,2025,0,0,0,0,3.0,0.0,0.0,3.0,1760036046
+Jamaica,Clarendon,October,2025,2,0,0,2,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Clarendon,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Clarendon,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Hanover,June,2025,1,1,0,0,1.0,1.0,0.0,0.0,1754429217
+Jamaica,Hanover,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Hanover,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Hanover,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Jamaica,Hanover,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Hanover,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Hanover,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Kingston,June,2025,8,5,0,3,4.0,4.0,0.0,0.0,1754429217
+Jamaica,Kingston,July,2025,4,4,0,0,6.0,5.0,0.0,1.0,1754429217
+Jamaica,Kingston,August,2025,7,5,0,2,4.0,2.0,0.0,2.0,1757596698
+Jamaica,Kingston,September,2025,3,2,0,1,6.0,2.0,0.0,4.0,1760036046
+Jamaica,Kingston,October,2025,6,2,0,4,6.0,3.0,0.0,3.0,1762435626
+Jamaica,Kingston,November,2025,5,3,0,2,7.0,3.0,0.0,4.0,1765375966
+Jamaica,Kingston,December,2025,7,3,0,4,,,,,1765375966
+Jamaica,Manchester,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Jamaica,Manchester,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Jamaica,Manchester,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Manchester,September,2025,0,0,0,0,2.0,1.0,0.0,1.0,1760036046
+Jamaica,Manchester,October,2025,2,1,0,1,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Manchester,November,2025,0,0,0,0,1.0,1.0,0.0,0.0,1765375966
+Jamaica,Manchester,December,2025,1,1,0,0,,,,,1765375966
+Jamaica,Portland,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Portland,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Portland,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Portland,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Jamaica,Portland,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Portland,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Portland,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Saint Andrew,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Saint Andrew,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Saint Andrew,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Saint Andrew,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Jamaica,Saint Andrew,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Saint Andrew,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Saint Andrew,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Saint Ann,June,2025,2,1,0,1,2.0,1.0,0.0,1.0,1754429217
+Jamaica,Saint Ann,July,2025,2,1,0,1,1.0,1.0,0.0,0.0,1754429217
+Jamaica,Saint Ann,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Saint Ann,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Jamaica,Saint Ann,October,2025,2,0,0,2,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Saint Ann,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Saint Ann,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Saint Catherine,June,2025,6,4,0,2,7.0,5.0,0.0,2.0,1754429217
+Jamaica,Saint Catherine,July,2025,6,4,0,2,2.0,2.0,0.0,0.0,1754429217
+Jamaica,Saint Catherine,August,2025,4,3,0,1,3.0,2.0,0.0,1.0,1757596698
+Jamaica,Saint Catherine,September,2025,3,2,0,1,8.0,3.0,0.0,5.0,1760036046
+Jamaica,Saint Catherine,October,2025,7,3,0,4,11.0,9.0,0.0,2.0,1762435626
+Jamaica,Saint Catherine,November,2025,9,7,0,2,7.0,5.0,0.0,2.0,1765375966
+Jamaica,Saint Catherine,December,2025,7,5,0,2,,,,,1765375966
+Jamaica,Saint Elizabeth,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Saint Elizabeth,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Jamaica,Saint Elizabeth,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Saint Elizabeth,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Jamaica,Saint Elizabeth,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Saint Elizabeth,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Saint Elizabeth,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Saint James,June,2025,1,1,0,0,1.0,0.0,0.0,1.0,1754429217
+Jamaica,Saint James,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Saint James,August,2025,0,0,0,0,4.0,3.0,0.0,1.0,1757596698
+Jamaica,Saint James,September,2025,3,2,0,1,0.0,0.0,0.0,0.0,1760036046
+Jamaica,Saint James,October,2025,0,0,0,0,2.0,2.0,0.0,0.0,1762435626
+Jamaica,Saint James,November,2025,2,2,0,0,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Saint James,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Saint Mary,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Jamaica,Saint Mary,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Saint Mary,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Saint Mary,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Jamaica,Saint Mary,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Jamaica,Saint Mary,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Saint Mary,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Saint Thomas,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Saint Thomas,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Saint Thomas,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Saint Thomas,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Jamaica,Saint Thomas,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Saint Thomas,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Jamaica,Saint Thomas,December,2025,1,0,0,1,,,,,1765375966
+Jamaica,Trelawny,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Trelawny,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Jamaica,Trelawny,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Jamaica,Trelawny,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Jamaica,Trelawny,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Trelawny,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Jamaica,Trelawny,December,2025,0,0,0,0,,,,,1765375966
+Jamaica,Westmoreland,June,2025,1,0,0,1,3.0,2.0,0.0,1.0,1754429217
+Jamaica,Westmoreland,July,2025,2,1,0,1,2.0,1.0,0.0,1.0,1754429217
+Jamaica,Westmoreland,August,2025,2,1,0,1,2.0,2.0,0.0,0.0,1757596698
+Jamaica,Westmoreland,September,2025,2,2,0,0,1.0,0.0,0.0,1.0,1760036046
+Jamaica,Westmoreland,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Jamaica,Westmoreland,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Jamaica,Westmoreland,December,2025,1,0,0,1,,,,,1765375966
+Jamaica,Clarendon,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Hanover,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Kingston,January,2026,7,3,0,4,,,,,1765375966
+Jamaica,Manchester,January,2026,1,1,0,0,,,,,1765375966
+Jamaica,Portland,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Andrew,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Ann,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Catherine,January,2026,6,4,0,2,,,,,1765375966
+Jamaica,Saint Elizabeth,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint James,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Mary,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Thomas,January,2026,1,0,0,1,,,,,1765375966
+Jamaica,Trelawny,January,2026,0,0,0,0,,,,,1765375966
+Jamaica,Westmoreland,January,2026,1,0,0,1,,,,,1765375966
+Jamaica,Clarendon,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Hanover,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Kingston,February,2026,7,3,0,4,,,,,1765375966
+Jamaica,Manchester,February,2026,1,1,0,0,,,,,1765375966
+Jamaica,Portland,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Andrew,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Ann,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Catherine,February,2026,6,4,0,2,,,,,1765375966
+Jamaica,Saint Elizabeth,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint James,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Mary,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Thomas,February,2026,1,0,0,1,,,,,1765375966
+Jamaica,Trelawny,February,2026,0,0,0,0,,,,,1765375966
+Jamaica,Westmoreland,February,2026,1,0,0,1,,,,,1765375966
+Jamaica,Clarendon,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Hanover,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Kingston,March,2026,7,3,0,4,,,,,1765375966
+Jamaica,Manchester,March,2026,1,1,0,0,,,,,1765375966
+Jamaica,Portland,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Andrew,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Ann,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Catherine,March,2026,6,4,0,2,,,,,1765375966
+Jamaica,Saint Elizabeth,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint James,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Mary,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Thomas,March,2026,1,0,0,1,,,,,1765375966
+Jamaica,Trelawny,March,2026,0,0,0,0,,,,,1765375966
+Jamaica,Westmoreland,March,2026,1,0,0,1,,,,,1765375966
+Jamaica,Clarendon,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Hanover,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Kingston,April,2026,7,3,0,4,,,,,1765375966
+Jamaica,Manchester,April,2026,1,1,0,0,,,,,1765375966
+Jamaica,Portland,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Andrew,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Ann,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Catherine,April,2026,6,4,0,2,,,,,1765375966
+Jamaica,Saint Elizabeth,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint James,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Mary,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Thomas,April,2026,1,0,0,1,,,,,1765375966
+Jamaica,Trelawny,April,2026,0,0,0,0,,,,,1765375966
+Jamaica,Westmoreland,April,2026,1,0,0,1,,,,,1765375966
+Jamaica,Clarendon,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Hanover,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Kingston,May,2026,8,4,0,4,,,,,1765375966
+Jamaica,Manchester,May,2026,1,1,0,0,,,,,1765375966
+Jamaica,Portland,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Andrew,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Ann,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Catherine,May,2026,7,5,0,2,,,,,1765375966
+Jamaica,Saint Elizabeth,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint James,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Mary,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Saint Thomas,May,2026,1,0,0,1,,,,,1765375966
+Jamaica,Trelawny,May,2026,0,0,0,0,,,,,1765375966
+Jamaica,Westmoreland,May,2026,1,0,0,1,,,,,1765375966

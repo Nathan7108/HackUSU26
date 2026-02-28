@@ -1,0 +1,846 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Papua New Guinea,Bougainville,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,April,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Bougainville,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Central,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141071
+Papua New Guinea,Chimbu,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Chimbu,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141071
+Papua New Guinea,East New Britain,May,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Papua New Guinea,East New Britain,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East New Britain,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141071
+Papua New Guinea,East Sepik,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141071
+Papua New Guinea,East Sepik,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,November,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141071
+Papua New Guinea,East Sepik,December,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,East Sepik,July,2024,0,0,0,0,3.0,0.0,0.0,3.0,1726141071
+Papua New Guinea,East Sepik,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141071
+Papua New Guinea,Eastern Highlands,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,January,2024,2,1,0,1,2.0,2.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,February,2024,2,2,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Eastern Highlands,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,March,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141072
+Papua New Guinea,Enga,April,2023,2,0,0,1,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,May,2023,1,1,0,1,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Enga,June,2023,2,1,0,1,2.0,2.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,July,2023,2,1,0,1,4.0,1.0,0.0,3.0,1726141072
+Papua New Guinea,Enga,August,2023,3,1,0,2,2.0,1.0,0.0,1.0,1726141072
+Papua New Guinea,Enga,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,November,2023,0,0,0,0,4.0,2.0,0.0,2.0,1726141072
+Papua New Guinea,Enga,December,2023,4,2,0,2,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Enga,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,March,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Enga,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Gulf,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Hela,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,July,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,September,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141072
+Papua New Guinea,Hela,October,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,December,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,January,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,February,2024,1,1,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Hela,March,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Hela,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Jiwaka,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Jiwaka,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Madang,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Madang,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,May,2024,2,2,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Madang,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Madang,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Madang,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Manus,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Manus,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Manus,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Manus,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Manus,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Milne Bay,April,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,October,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,November,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Milne Bay,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,July,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141072
+Papua New Guinea,Morobe,August,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Morobe,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,April,2024,0,0,0,0,5.0,5.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,May,2024,3,3,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Morobe,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,May,2023,1,1,0,1,1.0,1.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,June,2023,1,1,0,0,2.0,0.0,0.0,2.0,1726141072
+Papua New Guinea,National Capital District,July,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,National Capital District,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,National Capital District,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,National Capital District,February,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141072
+Papua New Guinea,National Capital District,March,2024,3,1,0,2,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,National Capital District,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,New Ireland,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Oro,April,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Oro,June,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Oro,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Sandaun,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Southern Highlands,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Southern Highlands,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,April,2023,0,0,0,0,4.0,2.0,0.0,2.0,1726141072
+Papua New Guinea,West New Britain,May,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,West New Britain,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,West New Britain,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Western,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Western Highlands,June,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141072
+Papua New Guinea,Western Highlands,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Western Highlands,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141072
+Papua New Guinea,Bougainville,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Central,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Chimbu,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,East New Britain,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,East Sepik,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Eastern Highlands,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Enga,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Gulf,September,2024,1,1,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Hela,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Jiwaka,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Madang,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Manus,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Milne Bay,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Morobe,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,National Capital District,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730999
+Papua New Guinea,New Ireland,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Oro,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Sandaun,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Southern Highlands,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,West New Britain,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Western,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Western Highlands,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730999
+Papua New Guinea,Bougainville,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Bougainville,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Central,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Central,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Chimbu,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Chimbu,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,East New Britain,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,East New Britain,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,East Sepik,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,East Sepik,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Eastern Highlands,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Eastern Highlands,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Enga,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Enga,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Gulf,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Gulf,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Hela,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Hela,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Jiwaka,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Jiwaka,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Madang,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Madang,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Manus,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Manus,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Milne Bay,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Milne Bay,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Morobe,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Morobe,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,National Capital District,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,National Capital District,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,New Ireland,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,New Ireland,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Oro,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Oro,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Sandaun,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Sandaun,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Southern Highlands,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Southern Highlands,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,West New Britain,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,West New Britain,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Western,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Western,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Western Highlands,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Western Highlands,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010301
+Papua New Guinea,Bougainville,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033364
+Papua New Guinea,Central,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033364
+Papua New Guinea,Chimbu,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,East New Britain,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,East Sepik,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Eastern Highlands,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Enga,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Gulf,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Hela,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Jiwaka,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Madang,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Manus,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033365
+Papua New Guinea,Milne Bay,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Morobe,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,National Capital District,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,New Ireland,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Oro,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Sandaun,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Southern Highlands,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,West New Britain,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Western,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Western Highlands,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033365
+Papua New Guinea,Bougainville,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Papua New Guinea,Central,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Papua New Guinea,Chimbu,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Papua New Guinea,East New Britain,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Papua New Guinea,East Sepik,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Papua New Guinea,Eastern Highlands,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Papua New Guinea,Enga,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Papua New Guinea,Gulf,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854864
+Papua New Guinea,Hela,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Jiwaka,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Madang,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Manus,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Milne Bay,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Morobe,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854865
+Papua New Guinea,National Capital District,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,New Ireland,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Oro,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Sandaun,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Southern Highlands,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,West New Britain,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Western,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Western Highlands,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854865
+Papua New Guinea,Bougainville,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Central,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Chimbu,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,East New Britain,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,East Sepik,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Eastern Highlands,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Enga,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Gulf,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Hela,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Jiwaka,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Madang,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266635
+Papua New Guinea,Manus,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Milne Bay,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Morobe,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,National Capital District,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,New Ireland,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Oro,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Sandaun,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Southern Highlands,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,West New Britain,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Western,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Western Highlands,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266635
+Papua New Guinea,Bougainville,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Central,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Chimbu,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,East New Britain,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,East Sepik,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Eastern Highlands,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Enga,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Gulf,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Hela,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Jiwaka,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Madang,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Manus,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Milne Bay,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Morobe,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,National Capital District,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,New Ireland,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Oro,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Sandaun,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Southern Highlands,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,West New Britain,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Western,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Western Highlands,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287547
+Papua New Guinea,Bougainville,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Central,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Chimbu,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,East New Britain,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,East Sepik,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Eastern Highlands,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Enga,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Gulf,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Hela,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Jiwaka,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702916
+Papua New Guinea,Madang,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Manus,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Milne Bay,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Morobe,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,National Capital District,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,New Ireland,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702916
+Papua New Guinea,Oro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Sandaun,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Southern Highlands,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,West New Britain,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Western,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702916
+Papua New Guinea,Western Highlands,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702917
+Papua New Guinea,Bougainville,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Central,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Chimbu,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,East New Britain,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,East Sepik,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Eastern Highlands,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Enga,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Gulf,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Hela,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Jiwaka,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Madang,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Manus,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Milne Bay,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Morobe,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,National Capital District,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,New Ireland,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Oro,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Sandaun,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,Southern Highlands,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732023
+Papua New Guinea,West New Britain,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732024
+Papua New Guinea,Western,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732024
+Papua New Guinea,Western Highlands,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732024
+Papua New Guinea,Bougainville,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Bougainville,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Bougainville,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Bougainville,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Bougainville,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Bougainville,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Bougainville,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Central,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Central,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Central,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Central,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Central,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Central,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Central,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Chimbu,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Chimbu,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Chimbu,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Chimbu,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Chimbu,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Chimbu,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Chimbu,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,East New Britain,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,East New Britain,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,East New Britain,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,East New Britain,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,East New Britain,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,East New Britain,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,East New Britain,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,East Sepik,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,East Sepik,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,East Sepik,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,East Sepik,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,East Sepik,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,East Sepik,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,East Sepik,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Eastern Highlands,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Eastern Highlands,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Eastern Highlands,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Eastern Highlands,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Eastern Highlands,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Eastern Highlands,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Eastern Highlands,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Enga,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Enga,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Enga,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Enga,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Enga,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Enga,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Enga,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Gulf,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Gulf,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Gulf,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Gulf,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Gulf,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Gulf,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Gulf,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Hela,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Hela,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Hela,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Hela,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Hela,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Hela,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Hela,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Jiwaka,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Jiwaka,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Jiwaka,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Jiwaka,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Jiwaka,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Jiwaka,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Jiwaka,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Madang,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Madang,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Madang,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Madang,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Madang,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Madang,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Madang,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Manus,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Manus,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Manus,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Manus,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Manus,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Manus,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Manus,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Milne Bay,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Milne Bay,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Milne Bay,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Milne Bay,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Milne Bay,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Milne Bay,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Milne Bay,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Morobe,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Morobe,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Morobe,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Morobe,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Papua New Guinea,Morobe,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Morobe,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Morobe,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,National Capital District,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Papua New Guinea,National Capital District,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,National Capital District,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,National Capital District,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,National Capital District,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,National Capital District,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,National Capital District,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,New Ireland,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,New Ireland,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,New Ireland,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,New Ireland,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,New Ireland,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,New Ireland,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,New Ireland,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Oro,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Oro,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Oro,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Oro,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Oro,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Oro,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Oro,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Sandaun,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Sandaun,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Sandaun,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Sandaun,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Sandaun,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Sandaun,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Sandaun,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Southern Highlands,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Southern Highlands,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Southern Highlands,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Southern Highlands,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Southern Highlands,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Southern Highlands,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Southern Highlands,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,West New Britain,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,West New Britain,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,West New Britain,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,West New Britain,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,West New Britain,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,West New Britain,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,West New Britain,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Western,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Western,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Western,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Western,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Western,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Western,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western Highlands,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Western Highlands,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Papua New Guinea,Western Highlands,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Papua New Guinea,Western Highlands,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Papua New Guinea,Western Highlands,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Papua New Guinea,Western Highlands,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Papua New Guinea,Western Highlands,December,2025,0,0,0,0,,,,,1765375966
+Papua New Guinea,Bougainville,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Central,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Chimbu,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East New Britain,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East Sepik,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Eastern Highlands,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Enga,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Gulf,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Hela,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Jiwaka,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Madang,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Manus,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Milne Bay,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Morobe,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,National Capital District,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,New Ireland,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Oro,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Sandaun,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Southern Highlands,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,West New Britain,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western Highlands,January,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Bougainville,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Central,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Chimbu,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East New Britain,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East Sepik,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Eastern Highlands,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Enga,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Gulf,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Hela,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Jiwaka,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Madang,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Manus,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Milne Bay,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Morobe,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,National Capital District,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,New Ireland,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Oro,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Sandaun,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Southern Highlands,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,West New Britain,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western Highlands,February,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Bougainville,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Central,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Chimbu,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East New Britain,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East Sepik,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Eastern Highlands,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Enga,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Gulf,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Hela,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Jiwaka,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Madang,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Manus,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Milne Bay,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Morobe,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,National Capital District,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,New Ireland,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Oro,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Sandaun,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Southern Highlands,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,West New Britain,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western Highlands,March,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Bougainville,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Central,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Chimbu,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East New Britain,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East Sepik,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Eastern Highlands,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Enga,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Gulf,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Hela,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Jiwaka,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Madang,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Manus,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Milne Bay,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Morobe,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,National Capital District,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,New Ireland,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Oro,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Sandaun,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Southern Highlands,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,West New Britain,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western Highlands,April,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Bougainville,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Central,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Chimbu,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East New Britain,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,East Sepik,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Eastern Highlands,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Enga,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Gulf,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Hela,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Jiwaka,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Madang,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Manus,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Milne Bay,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Morobe,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,National Capital District,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,New Ireland,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Oro,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Sandaun,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Southern Highlands,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,West New Britain,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western,May,2026,0,0,0,0,,,,,1765375966
+Papua New Guinea,Western Highlands,May,2026,0,0,0,0,,,,,1765375966

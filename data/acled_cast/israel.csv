@@ -1,0 +1,235 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Israel,HaDarom,March,2023,3,0,2,1,3.0,0.0,3.0,0.0,1726141048
+Israel,HaDarom,April,2023,2,0,1,0,7.0,0.0,5.0,2.0,1726141048
+Israel,HaDarom,May,2023,6,0,5,1,34.0,0.0,34.0,0.0,1726141048
+Israel,HaDarom,June,2023,25,0,24,0,1.0,1.0,0.0,0.0,1726141048
+Israel,HaDarom,July,2023,3,1,2,0,0.0,0.0,0.0,0.0,1726141048
+Israel,HaDarom,August,2023,2,0,2,0,0.0,0.0,0.0,0.0,1726141048
+Israel,HaDarom,September,2023,0,0,0,0,5.0,0.0,5.0,0.0,1726141048
+Israel,HaDarom,October,2023,3,0,2,1,253.0,81.0,149.0,23.0,1726141048
+Israel,HaDarom,November,2023,122,41,71,10,27.0,1.0,26.0,0.0,1726141048
+Israel,HaDarom,December,2023,32,6,25,1,19.0,0.0,19.0,0.0,1726141048
+Israel,HaDarom,January,2024,24,3,21,0,12.0,0.0,12.0,0.0,1726141048
+Israel,HaDarom,February,2024,13,0,12,1,9.0,0.0,9.0,0.0,1726141048
+Israel,HaDarom,March,2024,13,4,8,1,11.0,2.0,9.0,0.0,1726141048
+Israel,HaDarom,April,2024,18,3,14,1,23.0,0.0,23.0,0.0,1726141048
+Israel,HaDarom,May,2024,23,2,21,0,33.0,0.0,33.0,0.0,1726141048
+Israel,HaDarom,June,2024,27,0,26,1,22.0,0.0,22.0,0.0,1726141048
+Israel,HaDarom,July,2024,21,0,21,0,17.0,3.0,14.0,0.0,1726141048
+Israel,HaDarom,August,2024,17,2,15,0,18.0,0.0,18.0,0.0,1726141048
+Israel,HaMerkaz,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141048
+Israel,HaMerkaz,April,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141048
+Israel,HaMerkaz,May,2023,2,1,0,1,5.0,0.0,4.0,1.0,1726141048
+Israel,HaMerkaz,June,2023,3,0,3,1,1.0,0.0,0.0,1.0,1726141048
+Israel,HaMerkaz,July,2023,2,0,1,1,1.0,1.0,0.0,0.0,1726141048
+Israel,HaMerkaz,August,2023,2,1,1,0,2.0,0.0,0.0,2.0,1726141048
+Israel,HaMerkaz,September,2023,2,0,0,2,2.0,0.0,0.0,2.0,1726141048
+Israel,HaMerkaz,October,2023,2,0,1,1,61.0,1.0,58.0,2.0,1726141048
+Israel,HaMerkaz,November,2023,46,2,40,4,24.0,5.0,19.0,0.0,1726141048
+Israel,HaMerkaz,December,2023,23,3,19,1,5.0,0.0,5.0,0.0,1726141048
+Israel,HaMerkaz,January,2024,11,1,10,0,7.0,0.0,6.0,1.0,1726141048
+Israel,HaMerkaz,February,2024,6,0,6,0,1.0,0.0,0.0,1.0,1726141048
+Israel,HaMerkaz,March,2024,3,1,2,0,2.0,0.0,0.0,2.0,1726141048
+Israel,HaMerkaz,April,2024,3,0,2,1,3.0,1.0,0.0,2.0,1726141048
+Israel,HaMerkaz,May,2024,3,1,1,1,8.0,0.0,4.0,4.0,1726141048
+Israel,HaMerkaz,June,2024,4,0,3,1,4.0,0.0,2.0,2.0,1726141048
+Israel,HaMerkaz,July,2024,3,0,2,1,2.0,1.0,0.0,1.0,1726141048
+Israel,HaMerkaz,August,2024,3,1,0,2,7.0,2.0,2.0,3.0,1726141048
+Israel,HaZafon,March,2023,0,0,0,0,3.0,0.0,2.0,1.0,1726141048
+Israel,HaZafon,April,2023,2,0,1,1,3.0,0.0,2.0,1.0,1726141048
+Israel,HaZafon,May,2023,3,0,2,1,2.0,0.0,0.0,2.0,1726141048
+Israel,HaZafon,June,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141048
+Israel,HaZafon,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141048
+Israel,HaZafon,August,2023,2,0,1,1,1.0,1.0,0.0,0.0,1726141048
+Israel,HaZafon,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,HaZafon,October,2023,0,0,0,0,101.0,22.0,70.0,9.0,1726141048
+Israel,HaZafon,November,2023,52,7,40,5,107.0,3.0,104.0,0.0,1726141048
+Israel,HaZafon,December,2023,105,3,101,1,153.0,45.0,108.0,0.0,1726141048
+Israel,HaZafon,January,2024,122,19,103,0,130.0,58.0,72.0,0.0,1726141048
+Israel,HaZafon,February,2024,127,57,70,0,135.0,52.0,82.0,1.0,1726141048
+Israel,HaZafon,March,2024,122,43,79,0,139.0,67.0,71.0,1.0,1726141048
+Israel,HaZafon,April,2024,133,63,69,1,131.0,45.0,79.0,7.0,1726141048
+Israel,HaZafon,May,2024,129,50,78,1,148.0,48.0,95.0,5.0,1726141048
+Israel,HaZafon,June,2024,140,48,91,1,116.0,18.0,96.0,2.0,1726141048
+Israel,HaZafon,July,2024,114,18,95,1,182.0,65.0,113.0,4.0,1726141048
+Israel,HaZafon,August,2024,155,50,101,4,187.0,4.0,181.0,2.0,1726141048
+Israel,Haifa,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141048
+Israel,Haifa,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,October,2023,0,0,0,0,9.0,0.0,8.0,1.0,1726141048
+Israel,Haifa,November,2023,43,2,40,1,1.0,0.0,1.0,0.0,1726141048
+Israel,Haifa,December,2023,3,0,1,2,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,January,2024,5,1,4,0,1.0,1.0,0.0,0.0,1726141048
+Israel,Haifa,February,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,April,2024,2,0,2,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Haifa,August,2024,2,0,2,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141048
+Israel,Jerusalem,May,2023,2,0,1,1,1.0,0.0,1.0,0.0,1726141048
+Israel,Jerusalem,June,2023,1,0,1,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141048
+Israel,Jerusalem,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,October,2023,0,0,0,0,13.0,0.0,13.0,0.0,1726141048
+Israel,Jerusalem,November,2023,42,1,40,1,1.0,0.0,0.0,1.0,1726141048
+Israel,Jerusalem,December,2023,1,0,0,1,2.0,0.0,2.0,0.0,1726141048
+Israel,Jerusalem,January,2024,2,0,2,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,April,2024,2,0,2,0,1.0,0.0,0.0,1.0,1726141048
+Israel,Jerusalem,May,2024,2,0,1,1,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Jerusalem,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Tel Aviv,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141048
+Israel,Tel Aviv,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141048
+Israel,Tel Aviv,May,2023,1,0,0,1,2.0,0.0,2.0,0.0,1726141048
+Israel,Tel Aviv,June,2023,2,0,1,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Tel Aviv,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141048
+Israel,Tel Aviv,August,2023,3,0,1,2,1.0,1.0,0.0,0.0,1726141048
+Israel,Tel Aviv,September,2023,1,1,0,0,1.0,0.0,1.0,0.0,1726141048
+Israel,Tel Aviv,October,2023,2,0,1,1,31.0,0.0,31.0,0.0,1726141048
+Israel,Tel Aviv,November,2023,42,0,40,2,11.0,0.0,11.0,0.0,1726141048
+Israel,Tel Aviv,December,2023,12,0,11,1,11.0,0.0,11.0,0.0,1726141048
+Israel,Tel Aviv,January,2024,13,0,13,0,3.0,0.0,3.0,0.0,1726141048
+Israel,Tel Aviv,February,2024,3,0,3,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Tel Aviv,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Tel Aviv,April,2024,2,0,2,0,0.0,0.0,0.0,0.0,1726141048
+Israel,Tel Aviv,May,2024,0,0,0,0,2.0,0.0,2.0,0.0,1726141048
+Israel,Tel Aviv,June,2024,2,0,1,1,0.0,0.0,0.0,0.0,1726141048
+Israel,Tel Aviv,July,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141048
+Israel,Tel Aviv,August,2024,1,0,1,0,3.0,0.0,2.0,1.0,1726141048
+Israel,HaDarom,September,2024,18,0,18,0,7.0,1.0,5.0,1.0,1730730992
+Israel,HaMerkaz,September,2024,5,1,2,2,3.0,0.0,3.0,0.0,1730730992
+Israel,HaZafon,September,2024,181,6,172,3,277.0,0.0,277.0,0.0,1730730992
+Israel,Haifa,September,2024,1,0,0,1,22.0,0.0,22.0,0.0,1730730992
+Israel,Jerusalem,September,2024,0,0,0,0,1.0,0.0,1.0,0.0,1730730992
+Israel,Tel Aviv,September,2024,3,0,2,1,1.0,0.0,1.0,0.0,1730730992
+Israel,HaDarom,October,2024,43,1,39,3,11.0,1.0,9.0,1.0,1734010288
+Israel,HaDarom,November,2024,16,1,14,1,7.0,0.0,7.0,0.0,1734010288
+Israel,HaMerkaz,October,2024,26,1,24,1,12.0,0.0,11.0,1.0,1734010288
+Israel,HaMerkaz,November,2024,10,0,9,1,12.0,0.0,12.0,0.0,1734010288
+Israel,HaZafon,October,2024,260,2,255,3,240.0,0.0,237.0,3.0,1734010288
+Israel,HaZafon,November,2024,227,0,226,1,113.0,2.0,107.0,4.0,1734010288
+Israel,Haifa,October,2024,29,1,27,1,47.0,0.0,46.0,1.0,1734010288
+Israel,Haifa,November,2024,37,0,36,1,35.0,0.0,35.0,0.0,1734010288
+Israel,Jerusalem,October,2024,26,1,24,1,0.0,0.0,0.0,0.0,1734010288
+Israel,Jerusalem,November,2024,1,0,1,0,1.0,0.0,1.0,0.0,1734010288
+Israel,Tel Aviv,October,2024,26,1,24,1,17.0,0.0,15.0,2.0,1734010288
+Israel,Tel Aviv,November,2024,12,0,11,1,3.0,0.0,3.0,0.0,1734010288
+Israel,HaDarom,December,2024,9,1,8,0,11.0,0.0,11.0,0.0,1737033350
+Israel,HaMerkaz,December,2024,13,1,12,0,3.0,0.0,3.0,0.0,1737033350
+Israel,HaZafon,December,2024,121,1,119,1,3.0,1.0,1.0,1.0,1737033350
+Israel,Haifa,December,2024,37,1,36,0,0.0,0.0,0.0,0.0,1737033351
+Israel,Jerusalem,December,2024,2,1,1,0,0.0,0.0,0.0,0.0,1737033351
+Israel,Tel Aviv,December,2024,5,1,4,0,10.0,0.0,8.0,2.0,1737033351
+Israel,HaDarom,January,2025,12,0,12,0,5.0,0.0,5.0,0.0,1738854855
+Israel,HaMerkaz,January,2025,4,0,4,0,0.0,0.0,0.0,0.0,1738854855
+Israel,HaZafon,January,2025,34,1,32,1,0.0,0.0,0.0,0.0,1738854855
+Israel,Haifa,January,2025,3,0,3,0,0.0,0.0,0.0,0.0,1738854855
+Israel,Jerusalem,January,2025,0,0,0,0,2.0,0.0,2.0,0.0,1738854855
+Israel,Tel Aviv,January,2025,8,0,7,1,2.0,1.0,0.0,1.0,1738854855
+Israel,HaDarom,February,2025,5,0,5,0,0.0,0.0,0.0,0.0,1741266625
+Israel,HaMerkaz,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266625
+Israel,HaZafon,February,2025,1,0,1,0,0.0,0.0,0.0,0.0,1741266625
+Israel,Haifa,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266625
+Israel,Jerusalem,February,2025,2,0,2,0,0.0,0.0,0.0,0.0,1741266625
+Israel,Tel Aviv,February,2025,2,1,0,1,1.0,0.0,1.0,0.0,1741266625
+Israel,HaDarom,March,2025,2,0,2,0,2.0,0.0,1.0,1.0,1744287544
+Israel,HaMerkaz,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287544
+Israel,HaZafon,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287544
+Israel,Haifa,March,2025,1,0,0,1,1.0,0.0,0.0,1.0,1744287544
+Israel,Jerusalem,March,2025,0,0,0,0,3.0,0.0,3.0,0.0,1744287544
+Israel,Tel Aviv,March,2025,1,0,1,0,1.0,0.0,1.0,0.0,1744287544
+Israel,HaDarom,April,2025,4,0,3,1,2.0,0.0,2.0,0.0,1746702914
+Israel,HaMerkaz,April,2025,0,0,0,0,1.0,0.0,1.0,0.0,1746702914
+Israel,HaZafon,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702914
+Israel,Haifa,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702914
+Israel,Jerusalem,April,2025,4,0,3,1,1.0,0.0,1.0,0.0,1746702914
+Israel,Tel Aviv,April,2025,2,0,1,1,0.0,0.0,0.0,0.0,1746702914
+Israel,HaDarom,May,2025,4,1,3,0,3.0,0.0,3.0,0.0,1749732016
+Israel,HaMerkaz,May,2025,3,0,3,0,1.0,0.0,1.0,0.0,1749732016
+Israel,HaZafon,May,2025,3,0,3,0,0.0,0.0,0.0,0.0,1749732016
+Israel,Haifa,May,2025,3,0,3,0,0.0,0.0,0.0,0.0,1749732016
+Israel,Jerusalem,May,2025,3,0,3,0,1.0,0.0,0.0,1.0,1749732016
+Israel,Tel Aviv,May,2025,3,0,3,0,0.0,0.0,0.0,0.0,1749732016
+Israel,HaDarom,June,2025,4,0,4,0,17.0,0.0,17.0,0.0,1754429217
+Israel,HaDarom,July,2025,12,0,12,0,2.0,0.0,2.0,0.0,1754429217
+Israel,HaDarom,August,2025,3,0,3,0,2.0,1.0,1.0,0.0,1757596698
+Israel,HaDarom,September,2025,2,1,1,0,5.0,0.0,5.0,0.0,1760036046
+Israel,HaDarom,October,2025,29,0,28,1,4.0,1.0,2.0,1.0,1762435626
+Israel,HaDarom,November,2025,2,0,2,0,0.0,0.0,0.0,0.0,1765375966
+Israel,HaDarom,December,2025,0,0,0,0,,,,,1765375966
+Israel,HaMerkaz,June,2025,4,0,4,0,13.0,0.0,13.0,0.0,1754429217
+Israel,HaMerkaz,July,2025,13,0,13,0,1.0,1.0,0.0,0.0,1754429217
+Israel,HaMerkaz,August,2025,4,1,3,0,1.0,0.0,1.0,0.0,1757596698
+Israel,HaMerkaz,September,2025,1,0,1,0,0.0,0.0,0.0,0.0,1760036046
+Israel,HaMerkaz,October,2025,30,1,28,1,0.0,0.0,0.0,0.0,1762435626
+Israel,HaMerkaz,November,2025,1,0,1,0,1.0,0.0,0.0,1.0,1765375966
+Israel,HaMerkaz,December,2025,1,0,0,1,,,,,1765375966
+Israel,HaZafon,June,2025,3,0,3,0,11.0,0.0,11.0,0.0,1754429217
+Israel,HaZafon,July,2025,10,0,10,0,0.0,0.0,0.0,0.0,1754429217
+Israel,HaZafon,August,2025,3,0,3,0,0.0,0.0,0.0,0.0,1757596698
+Israel,HaZafon,September,2025,1,0,1,0,0.0,0.0,0.0,0.0,1760036046
+Israel,HaZafon,October,2025,31,1,28,2,0.0,0.0,0.0,0.0,1762435626
+Israel,HaZafon,November,2025,1,0,1,0,0.0,0.0,0.0,0.0,1765375966
+Israel,HaZafon,December,2025,0,0,0,0,,,,,1765375966
+Israel,Haifa,June,2025,3,0,3,0,13.0,0.0,13.0,0.0,1754429217
+Israel,Haifa,July,2025,13,0,13,0,0.0,0.0,0.0,0.0,1754429217
+Israel,Haifa,August,2025,3,0,3,0,1.0,1.0,0.0,0.0,1757596698
+Israel,Haifa,September,2025,3,1,2,0,0.0,0.0,0.0,0.0,1760036046
+Israel,Haifa,October,2025,30,1,28,1,0.0,0.0,0.0,0.0,1762435626
+Israel,Haifa,November,2025,1,0,1,0,0.0,0.0,0.0,0.0,1765375966
+Israel,Haifa,December,2025,0,0,0,0,,,,,1765375966
+Israel,Jerusalem,June,2025,5,0,4,1,1.0,0.0,1.0,0.0,1754429217
+Israel,Jerusalem,July,2025,1,0,1,0,0.0,0.0,0.0,0.0,1754429217
+Israel,Jerusalem,August,2025,3,0,3,0,0.0,0.0,0.0,0.0,1757596698
+Israel,Jerusalem,September,2025,1,0,1,0,1.0,0.0,0.0,1.0,1760036046
+Israel,Jerusalem,October,2025,29,0,28,1,1.0,0.0,0.0,1.0,1762435626
+Israel,Jerusalem,November,2025,2,0,1,1,0.0,0.0,0.0,0.0,1765375966
+Israel,Jerusalem,December,2025,0,0,0,0,,,,,1765375966
+Israel,Tel Aviv,June,2025,0,0,0,0,25.0,0.0,25.0,0.0,1754429217
+Israel,Tel Aviv,July,2025,19,0,19,0,0.0,0.0,0.0,0.0,1754429217
+Israel,Tel Aviv,August,2025,3,0,3,0,1.0,0.0,1.0,0.0,1757596698
+Israel,Tel Aviv,September,2025,2,0,2,0,0.0,0.0,0.0,0.0,1760036046
+Israel,Tel Aviv,October,2025,30,1,28,1,0.0,0.0,0.0,0.0,1762435626
+Israel,Tel Aviv,November,2025,1,0,1,0,0.0,0.0,0.0,0.0,1765375966
+Israel,Tel Aviv,December,2025,0,0,0,0,,,,,1765375966
+Israel,HaDarom,January,2026,0,0,0,0,,,,,1765375966
+Israel,HaMerkaz,January,2026,1,0,0,1,,,,,1765375966
+Israel,HaZafon,January,2026,0,0,0,0,,,,,1765375966
+Israel,Haifa,January,2026,0,0,0,0,,,,,1765375966
+Israel,Jerusalem,January,2026,0,0,0,0,,,,,1765375966
+Israel,Tel Aviv,January,2026,0,0,0,0,,,,,1765375966
+Israel,HaDarom,February,2026,0,0,0,0,,,,,1765375966
+Israel,HaMerkaz,February,2026,1,0,0,1,,,,,1765375966
+Israel,HaZafon,February,2026,0,0,0,0,,,,,1765375966
+Israel,Haifa,February,2026,0,0,0,0,,,,,1765375966
+Israel,Jerusalem,February,2026,0,0,0,0,,,,,1765375966
+Israel,Tel Aviv,February,2026,0,0,0,0,,,,,1765375966
+Israel,HaDarom,March,2026,0,0,0,0,,,,,1765375966
+Israel,HaMerkaz,March,2026,2,0,1,1,,,,,1765375966
+Israel,HaZafon,March,2026,1,0,1,0,,,,,1765375966
+Israel,Haifa,March,2026,1,0,1,0,,,,,1765375966
+Israel,Jerusalem,March,2026,1,0,1,0,,,,,1765375966
+Israel,Tel Aviv,March,2026,1,0,1,0,,,,,1765375966
+Israel,HaDarom,April,2026,0,0,0,0,,,,,1765375966
+Israel,HaMerkaz,April,2026,1,0,0,1,,,,,1765375966
+Israel,HaZafon,April,2026,0,0,0,0,,,,,1765375966
+Israel,Haifa,April,2026,0,0,0,0,,,,,1765375966
+Israel,Jerusalem,April,2026,0,0,0,0,,,,,1765375966
+Israel,Tel Aviv,April,2026,0,0,0,0,,,,,1765375966
+Israel,HaDarom,May,2026,0,0,0,0,,,,,1765375966
+Israel,HaMerkaz,May,2026,1,0,0,1,,,,,1765375966
+Israel,HaZafon,May,2026,0,0,0,0,,,,,1765375966
+Israel,Haifa,May,2026,0,0,0,0,,,,,1765375966
+Israel,Jerusalem,May,2026,0,0,0,0,,,,,1765375966
+Israel,Tel Aviv,May,2026,0,0,0,0,,,,,1765375966

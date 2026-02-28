@@ -17,15 +17,6 @@ import {
   type ChartConfig,
 } from "@/components/ui/chart"
 
-// ── Colors per KPI ──────────────────────────────────────────────
-
-const kpiColors: Record<string, string> = {
-  "Global Threat Index": "var(--risk-high)",
-  "Active Anomalies": "var(--risk-critical)",
-  "CRITICAL + HIGH": "var(--risk-high)",
-  "Escalation Alerts": "var(--risk-elevated)",
-}
-
 // ── Components ───────────────────────────────────────────────────
 
 interface KpiStripProps {
@@ -46,8 +37,7 @@ export function KpiStrip({ kpis }: KpiStripProps) {
 
 function KpiChartCard({ kpi }: { kpi: KPI }) {
   const chartData = kpi.chartData ?? []
-  const color = kpi.chartColor ?? kpiColors[kpi.label] ?? "var(--chart-1)"
-  const isThreaty = kpi.label === "Global Threat Index"
+  const color = kpi.chartColor ?? "var(--chart-1)"
 
   const chartConfig = useMemo(
     () =>
@@ -72,7 +62,7 @@ function KpiChartCard({ kpi }: { kpi: KPI }) {
         <div className="flex flex-1 items-center gap-3 px-4 py-3">
           <div className="flex flex-col gap-0.5">
             <CardDescription
-              className="text-[10px] font-medium uppercase tracking-wider"
+              className="text-[11px] font-medium uppercase tracking-wider"
               style={{ color: "var(--sentinel-text-tertiary)" }}
             >
               {kpi.label}
@@ -80,19 +70,13 @@ function KpiChartCard({ kpi }: { kpi: KPI }) {
             <CardTitle className="flex items-baseline gap-1.5">
               <span
                 className="font-data text-2xl font-bold leading-none tabular-nums"
-                style={{
-                  color: isThreaty
-                    ? kpi.value >= 70
-                      ? "var(--risk-high)"
-                      : "var(--risk-elevated)"
-                    : "var(--sentinel-text-primary)",
-                }}
+                style={{ color }}
               >
                 <NumberFlow value={kpi.value} trend={1} />
               </span>
               {kpi.unit && (
                 <span
-                  className="text-[10px]"
+                  className="text-[11px]"
                   style={{ color: "var(--sentinel-text-tertiary)" }}
                 >
                   {kpi.unit}

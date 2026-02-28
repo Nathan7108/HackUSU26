@@ -1,0 +1,703 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Burundi,Bubanza,March,2023,1,0,0,1,2.0,0.0,0.0,2.0,1728560743
+Burundi,Bubanza,April,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560743
+Burundi,Bubanza,May,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560743
+Burundi,Bubanza,June,2023,2,0,0,2,2.0,1.0,0.0,1.0,1728560743
+Burundi,Bubanza,July,2023,2,1,0,2,0.0,0.0,0.0,0.0,1728560743
+Burundi,Bubanza,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560743
+Burundi,Bubanza,September,2023,0,0,0,0,4.0,0.0,0.0,4.0,1728560743
+Burundi,Bubanza,October,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560743
+Burundi,Bubanza,November,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560743
+Burundi,Bubanza,December,2023,2,0,0,2,3.0,1.0,0.0,2.0,1728560743
+Burundi,Bubanza,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560743
+Burundi,Bubanza,February,2024,1,0,0,1,5.0,1.0,0.0,4.0,1728560743
+Burundi,Bubanza,March,2024,1,0,0,1,3.0,2.0,0.0,1.0,1728560743
+Burundi,Bubanza,April,2024,3,1,0,2,1.0,0.0,0.0,1.0,1728560743
+Burundi,Bubanza,May,2024,2,0,0,2,1.0,0.0,0.0,1.0,1728560743
+Burundi,Bubanza,June,2024,2,0,0,2,1.0,0.0,0.0,1.0,1728560743
+Burundi,Bubanza,July,2024,2,0,0,2,0.0,0.0,0.0,0.0,1728560743
+Burundi,Bubanza,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560743
+Burundi,Bujumbura Mairie,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560743
+Burundi,Bujumbura Mairie,April,2023,1,0,0,1,5.0,0.0,0.0,5.0,1728560743
+Burundi,Bujumbura Mairie,May,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560743
+Burundi,Bujumbura Mairie,June,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560743
+Burundi,Bujumbura Mairie,July,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560743
+Burundi,Bujumbura Mairie,August,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560743
+Burundi,Bujumbura Mairie,September,2023,2,0,0,2,4.0,0.0,0.0,4.0,1728560743
+Burundi,Bujumbura Mairie,October,2023,2,0,0,2,4.0,0.0,0.0,4.0,1728560743
+Burundi,Bujumbura Mairie,November,2023,3,0,0,3,3.0,0.0,0.0,3.0,1728560743
+Burundi,Bujumbura Mairie,December,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bujumbura Mairie,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560744
+Burundi,Bujumbura Mairie,February,2024,2,0,0,2,3.0,0.0,0.0,3.0,1728560744
+Burundi,Bujumbura Mairie,March,2024,2,0,0,2,5.0,0.0,0.0,5.0,1728560744
+Burundi,Bujumbura Mairie,April,2024,3,0,0,3,4.0,0.0,1.0,3.0,1728560744
+Burundi,Bujumbura Mairie,May,2024,3,0,1,2,10.0,0.0,3.0,7.0,1728560744
+Burundi,Bujumbura Mairie,June,2024,7,0,2,5,3.0,0.0,0.0,3.0,1728560744
+Burundi,Bujumbura Mairie,July,2024,3,0,0,3,1.0,0.0,0.0,1.0,1728560744
+Burundi,Bujumbura Mairie,August,2024,3,0,0,3,3.0,0.0,0.0,3.0,1728560744
+Burundi,Bujumbura Rural,March,2023,1,0,0,1,4.0,1.0,0.0,3.0,1728560744
+Burundi,Bujumbura Rural,April,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560744
+Burundi,Bujumbura Rural,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bujumbura Rural,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bujumbura Rural,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bujumbura Rural,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560744
+Burundi,Bujumbura Rural,September,2023,2,0,0,2,3.0,0.0,0.0,3.0,1728560744
+Burundi,Bujumbura Rural,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bujumbura Rural,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bujumbura Rural,December,2023,0,0,0,0,2.0,1.0,0.0,1.0,1728560744
+Burundi,Bujumbura Rural,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560744
+Burundi,Bujumbura Rural,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560744
+Burundi,Bujumbura Rural,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bujumbura Rural,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560744
+Burundi,Bujumbura Rural,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bujumbura Rural,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560744
+Burundi,Bujumbura Rural,July,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560744
+Burundi,Bujumbura Rural,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bururi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bururi,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560744
+Burundi,Bururi,May,2023,2,0,0,2,4.0,0.0,0.0,4.0,1728560744
+Burundi,Bururi,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bururi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560744
+Burundi,Bururi,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560745
+Burundi,Bururi,September,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560745
+Burundi,Bururi,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560745
+Burundi,Bururi,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560745
+Burundi,Bururi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Bururi,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560745
+Burundi,Bururi,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560745
+Burundi,Bururi,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560745
+Burundi,Bururi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Bururi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Bururi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Bururi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Bururi,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560745
+Burundi,Cankuzo,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560745
+Burundi,Cankuzo,April,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560745
+Burundi,Cankuzo,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560745
+Burundi,Cankuzo,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,March,2024,0,0,0,0,5.0,0.0,4.0,1.0,1728560745
+Burundi,Cankuzo,April,2024,2,0,1,1,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560745
+Burundi,Cankuzo,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cankuzo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560745
+Burundi,Cibitoke,March,2023,4,1,0,3,0.0,0.0,0.0,0.0,1728560746
+Burundi,Cibitoke,April,2023,2,1,0,1,3.0,1.0,0.0,2.0,1728560746
+Burundi,Cibitoke,May,2023,3,1,0,2,2.0,1.0,0.0,1.0,1728560746
+Burundi,Cibitoke,June,2023,3,1,0,2,1.0,1.0,0.0,0.0,1728560746
+Burundi,Cibitoke,July,2023,3,1,0,2,5.0,3.0,0.0,2.0,1728560746
+Burundi,Cibitoke,August,2023,4,2,0,2,4.0,1.0,0.0,3.0,1728560746
+Burundi,Cibitoke,September,2023,3,1,0,2,1.0,1.0,0.0,0.0,1728560746
+Burundi,Cibitoke,October,2023,2,1,0,1,1.0,0.0,0.0,1.0,1728560746
+Burundi,Cibitoke,November,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560746
+Burundi,Cibitoke,December,2023,2,0,0,2,5.0,3.0,0.0,2.0,1728560746
+Burundi,Cibitoke,January,2024,3,1,0,2,3.0,1.0,0.0,2.0,1728560746
+Burundi,Cibitoke,February,2024,3,1,0,2,3.0,0.0,0.0,3.0,1728560746
+Burundi,Cibitoke,March,2024,3,1,0,2,3.0,0.0,0.0,3.0,1728560746
+Burundi,Cibitoke,April,2024,3,1,0,2,3.0,0.0,0.0,3.0,1728560746
+Burundi,Cibitoke,May,2024,3,1,0,2,4.0,1.0,0.0,3.0,1728560746
+Burundi,Cibitoke,June,2024,4,1,0,3,3.0,0.0,0.0,3.0,1728560746
+Burundi,Cibitoke,July,2024,4,1,0,3,10.0,1.0,0.0,9.0,1728560746
+Burundi,Cibitoke,August,2024,4,1,0,3,3.0,0.0,1.0,2.0,1728560746
+Burundi,Gitega,March,2023,1,0,0,1,2.0,0.0,1.0,1.0,1728560746
+Burundi,Gitega,April,2023,2,0,1,2,1.0,1.0,0.0,0.0,1728560746
+Burundi,Gitega,May,2023,2,0,0,2,3.0,0.0,0.0,3.0,1728560746
+Burundi,Gitega,June,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560746
+Burundi,Gitega,July,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560746
+Burundi,Gitega,August,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560746
+Burundi,Gitega,September,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560746
+Burundi,Gitega,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560746
+Burundi,Gitega,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Gitega,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560747
+Burundi,Gitega,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560747
+Burundi,Gitega,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560747
+Burundi,Gitega,March,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560747
+Burundi,Gitega,April,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560747
+Burundi,Gitega,May,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560747
+Burundi,Gitega,June,2024,1,0,0,1,3.0,0.0,0.0,3.0,1728560747
+Burundi,Gitega,July,2024,2,0,0,2,0.0,0.0,0.0,0.0,1728560747
+Burundi,Gitega,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560747
+Burundi,Karuzi,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560747
+Burundi,Karuzi,April,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560747
+Burundi,Karuzi,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560747
+Burundi,Karuzi,September,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560747
+Burundi,Karuzi,October,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560747
+Burundi,Karuzi,November,2023,1,0,0,1,2.0,0.0,0.0,2.0,1728560747
+Burundi,Karuzi,December,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560747
+Burundi,Karuzi,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Karuzi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560747
+Burundi,Kayanza,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kayanza,July,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560748
+Burundi,Kayanza,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kayanza,December,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kayanza,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,March,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560748
+Burundi,Kayanza,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,May,2024,0,0,0,0,3.0,0.0,0.0,3.0,1728560748
+Burundi,Kayanza,June,2024,2,0,0,2,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kayanza,July,2024,2,0,0,2,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kayanza,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kirundo,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kirundo,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560748
+Burundi,Kirundo,May,2023,2,0,0,2,3.0,1.0,0.0,2.0,1728560748
+Burundi,Kirundo,June,2023,2,1,0,2,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kirundo,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kirundo,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kirundo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kirundo,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kirundo,November,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560748
+Burundi,Kirundo,December,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kirundo,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kirundo,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kirundo,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kirundo,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kirundo,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560748
+Burundi,Kirundo,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kirundo,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560748
+Burundi,Kirundo,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560748
+Burundi,Makamba,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Makamba,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560749
+Burundi,Makamba,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,July,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,August,2023,2,0,0,2,2.0,1.0,0.0,1.0,1728560749
+Burundi,Makamba,September,2023,3,1,0,2,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,October,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,December,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560749
+Burundi,Makamba,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Makamba,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560749
+Burundi,Makamba,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560749
+Burundi,Makamba,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Makamba,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Muramvya,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Muramvya,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Muramvya,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560749
+Burundi,Muramvya,June,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560749
+Burundi,Muramvya,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muramvya,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560749
+Burundi,Muyinga,March,2023,0,0,0,0,3.0,0.0,0.0,3.0,1728560750
+Burundi,Muyinga,April,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,May,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560750
+Burundi,Muyinga,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560750
+Burundi,Muyinga,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560750
+Burundi,Muyinga,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,February,2024,0,0,0,0,1.0,0.0,1.0,0.0,1728560750
+Burundi,Muyinga,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560750
+Burundi,Muyinga,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,June,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560750
+Burundi,Muyinga,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560750
+Burundi,Muyinga,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560750
+Burundi,Mwaro,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560750
+Burundi,Mwaro,August,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560750
+Burundi,Mwaro,September,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560750
+Burundi,Mwaro,December,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560750
+Burundi,Mwaro,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Mwaro,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Mwaro,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Ngozi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Ngozi,April,2023,0,0,0,0,7.0,2.0,0.0,5.0,1728560751
+Burundi,Ngozi,May,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560751
+Burundi,Ngozi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Ngozi,July,2023,0,0,0,0,4.0,0.0,0.0,4.0,1728560751
+Burundi,Ngozi,August,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560751
+Burundi,Ngozi,September,2023,2,0,0,2,2.0,0.0,1.0,1.0,1728560751
+Burundi,Ngozi,October,2023,2,0,0,2,2.0,0.0,0.0,2.0,1728560751
+Burundi,Ngozi,November,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560751
+Burundi,Ngozi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Ngozi,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560751
+Burundi,Ngozi,February,2024,1,0,0,1,1.0,0.0,1.0,0.0,1728560751
+Burundi,Ngozi,March,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560751
+Burundi,Ngozi,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560751
+Burundi,Ngozi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Ngozi,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560751
+Burundi,Ngozi,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560751
+Burundi,Ngozi,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560751
+Burundi,Rumonge,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Rumonge,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Rumonge,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560751
+Burundi,Rumonge,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560751
+Burundi,Rumonge,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Rumonge,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Rumonge,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560751
+Burundi,Rumonge,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rumonge,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rumonge,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560752
+Burundi,Rumonge,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560752
+Burundi,Rumonge,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rumonge,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560752
+Burundi,Rumonge,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560752
+Burundi,Rumonge,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560752
+Burundi,Rumonge,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rumonge,July,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560752
+Burundi,Rumonge,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560752
+Burundi,Rutana,April,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,May,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560752
+Burundi,Rutana,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560752
+Burundi,Rutana,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,December,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560752
+Burundi,Rutana,January,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560752
+Burundi,Rutana,February,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560752
+Burundi,Rutana,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560752
+Burundi,Rutana,May,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560752
+Burundi,Rutana,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560752
+Burundi,Rutana,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560752
+Burundi,Ruyigi,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560753
+Burundi,Ruyigi,April,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560753
+Burundi,Ruyigi,May,2023,2,0,0,2,1.0,0.0,0.0,1.0,1728560753
+Burundi,Ruyigi,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560753
+Burundi,Ruyigi,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560753
+Burundi,Ruyigi,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,April,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560753
+Burundi,Ruyigi,May,2024,1,0,0,1,3.0,0.0,0.0,3.0,1728560753
+Burundi,Ruyigi,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560753
+Burundi,Ruyigi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560753
+Burundi,Bubanza,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730730982
+Burundi,Bujumbura Mairie,September,2024,3,0,0,3,0.0,0.0,0.0,0.0,1730730982
+Burundi,Bujumbura Rural,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Burundi,Bururi,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730730982
+Burundi,Cankuzo,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730983
+Burundi,Cibitoke,September,2024,5,1,1,3,3.0,0.0,0.0,3.0,1730730983
+Burundi,Gitega,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730730983
+Burundi,Karuzi,September,2024,0,0,0,0,2.0,0.0,0.0,2.0,1730730983
+Burundi,Kayanza,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Burundi,Kirundo,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730983
+Burundi,Makamba,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Burundi,Muramvya,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730983
+Burundi,Muyinga,September,2024,1,0,0,1,2.0,0.0,0.0,2.0,1730730983
+Burundi,Mwaro,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Burundi,Ngozi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Burundi,Rumonge,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Burundi,Rutana,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730983
+Burundi,Ruyigi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730983
+Burundi,Bubanza,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Bubanza,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010270
+Burundi,Bujumbura Mairie,October,2024,0,0,0,0,3.0,0.0,0.0,3.0,1734010270
+Burundi,Bujumbura Mairie,November,2024,3,0,0,3,5.0,0.0,0.0,5.0,1734010270
+Burundi,Bujumbura Rural,October,2024,0,0,0,0,1.0,0.0,1.0,0.0,1734010270
+Burundi,Bujumbura Rural,November,2024,2,0,1,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Bururi,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Bururi,November,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010270
+Burundi,Cankuzo,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010270
+Burundi,Cankuzo,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Cibitoke,October,2024,3,0,0,3,3.0,1.0,0.0,2.0,1734010270
+Burundi,Cibitoke,November,2024,4,1,0,3,4.0,1.0,0.0,3.0,1734010270
+Burundi,Gitega,October,2024,1,0,0,1,3.0,0.0,0.0,3.0,1734010270
+Burundi,Gitega,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Karuzi,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Karuzi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Kayanza,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Kayanza,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010270
+Burundi,Kirundo,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010270
+Burundi,Kirundo,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010270
+Burundi,Makamba,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Makamba,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Muramvya,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Muramvya,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Muyinga,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Muyinga,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010270
+Burundi,Mwaro,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Mwaro,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Ngozi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Ngozi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Rumonge,October,2024,0,0,0,0,3.0,0.0,0.0,3.0,1734010270
+Burundi,Rumonge,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Rutana,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Rutana,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010270
+Burundi,Ruyigi,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010270
+Burundi,Ruyigi,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010270
+Burundi,Bubanza,December,2024,1,0,0,1,3.0,0.0,0.0,3.0,1737033334
+Burundi,Bujumbura Mairie,December,2024,3,0,0,3,3.0,0.0,0.0,3.0,1737033334
+Burundi,Bujumbura Rural,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033334
+Burundi,Bururi,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033334
+Burundi,Cankuzo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033334
+Burundi,Cibitoke,December,2024,4,1,0,3,4.0,0.0,0.0,4.0,1737033334
+Burundi,Gitega,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033335
+Burundi,Karuzi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033335
+Burundi,Kayanza,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033335
+Burundi,Kirundo,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033335
+Burundi,Makamba,December,2024,0,0,0,0,1.0,0.0,1.0,0.0,1737033335
+Burundi,Muramvya,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033335
+Burundi,Muyinga,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033335
+Burundi,Mwaro,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033335
+Burundi,Ngozi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033335
+Burundi,Rumonge,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033335
+Burundi,Rutana,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033335
+Burundi,Ruyigi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033335
+Burundi,Bubanza,January,2025,2,0,0,2,0.0,0.0,0.0,0.0,1738854841
+Burundi,Bujumbura Mairie,January,2025,3,0,0,3,2.0,0.0,0.0,2.0,1738854841
+Burundi,Bujumbura Rural,January,2025,0,0,0,0,3.0,0.0,0.0,3.0,1738854841
+Burundi,Bururi,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854841
+Burundi,Cankuzo,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854841
+Burundi,Cibitoke,January,2025,6,2,0,4,7.0,0.0,0.0,7.0,1738854841
+Burundi,Gitega,January,2025,1,0,0,1,4.0,0.0,0.0,4.0,1738854841
+Burundi,Karuzi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854841
+Burundi,Kayanza,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854841
+Burundi,Kirundo,January,2025,1,0,0,1,2.0,0.0,0.0,2.0,1738854841
+Burundi,Makamba,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854841
+Burundi,Muramvya,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854841
+Burundi,Muyinga,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854841
+Burundi,Mwaro,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854841
+Burundi,Ngozi,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854841
+Burundi,Rumonge,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854841
+Burundi,Rutana,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854842
+Burundi,Ruyigi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854842
+Burundi,Bubanza,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266610
+Burundi,Bujumbura Mairie,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266610
+Burundi,Bujumbura Rural,February,2025,3,0,0,3,0.0,0.0,0.0,0.0,1741266610
+Burundi,Bururi,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266611
+Burundi,Cankuzo,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266611
+Burundi,Cibitoke,February,2025,7,0,0,7,2.0,0.0,0.0,2.0,1741266611
+Burundi,Gitega,February,2025,4,0,0,4,0.0,0.0,0.0,0.0,1741266611
+Burundi,Karuzi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266611
+Burundi,Kayanza,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266611
+Burundi,Kirundo,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266611
+Burundi,Makamba,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266611
+Burundi,Muramvya,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266611
+Burundi,Muyinga,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266611
+Burundi,Mwaro,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266611
+Burundi,Ngozi,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266611
+Burundi,Rumonge,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266611
+Burundi,Rutana,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266611
+Burundi,Ruyigi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266611
+Burundi,Bubanza,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Burundi,Bujumbura Mairie,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287540
+Burundi,Bujumbura Rural,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287540
+Burundi,Bururi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Burundi,Cankuzo,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287540
+Burundi,Cibitoke,March,2025,2,0,0,2,6.0,3.0,0.0,3.0,1744287540
+Burundi,Gitega,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287540
+Burundi,Karuzi,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287540
+Burundi,Kayanza,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Burundi,Kirundo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Burundi,Makamba,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287540
+Burundi,Muramvya,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Burundi,Muyinga,March,2025,0,0,0,0,3.0,0.0,0.0,3.0,1744287540
+Burundi,Mwaro,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Burundi,Ngozi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Burundi,Rumonge,March,2025,0,0,0,0,3.0,0.0,0.0,3.0,1744287540
+Burundi,Rutana,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Burundi,Ruyigi,March,2025,0,0,0,0,3.0,0.0,0.0,3.0,1744287540
+Burundi,Bubanza,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Burundi,Bujumbura Mairie,April,2025,1,0,0,1,5.0,0.0,0.0,5.0,1746702909
+Burundi,Bujumbura Rural,April,2025,1,0,0,1,2.0,0.0,0.0,2.0,1746702909
+Burundi,Bururi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Burundi,Cankuzo,April,2025,1,0,0,1,1.0,0.0,0.0,1.0,1746702909
+Burundi,Cibitoke,April,2025,5,2,0,3,1.0,0.0,0.0,1.0,1746702909
+Burundi,Gitega,April,2025,2,0,0,2,1.0,0.0,0.0,1.0,1746702909
+Burundi,Karuzi,April,2025,1,0,0,1,1.0,0.0,0.0,1.0,1746702909
+Burundi,Kayanza,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Burundi,Kirundo,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702909
+Burundi,Makamba,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702909
+Burundi,Muramvya,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Burundi,Muyinga,April,2025,3,0,0,3,1.0,0.0,0.0,1.0,1746702909
+Burundi,Mwaro,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Burundi,Ngozi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Burundi,Rumonge,April,2025,3,0,0,3,1.0,0.0,0.0,1.0,1746702909
+Burundi,Rutana,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Burundi,Ruyigi,April,2025,4,1,0,3,1.0,0.0,0.0,1.0,1746702909
+Burundi,Bubanza,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732005
+Burundi,Bujumbura Mairie,May,2025,5,0,0,5,6.0,0.0,0.0,6.0,1749732005
+Burundi,Bujumbura Rural,May,2025,2,0,0,2,0.0,0.0,0.0,0.0,1749732005
+Burundi,Bururi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732005
+Burundi,Cankuzo,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732005
+Burundi,Cibitoke,May,2025,1,0,0,1,5.0,2.0,0.0,3.0,1749732005
+Burundi,Gitega,May,2025,1,0,0,1,1.0,0.0,0.0,1.0,1749732005
+Burundi,Karuzi,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732005
+Burundi,Kayanza,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732005
+Burundi,Kirundo,May,2025,1,0,0,1,2.0,0.0,0.0,2.0,1749732005
+Burundi,Makamba,May,2025,1,0,0,1,1.0,0.0,0.0,1.0,1749732005
+Burundi,Muramvya,May,2025,0,0,0,0,3.0,0.0,0.0,3.0,1749732005
+Burundi,Muyinga,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732005
+Burundi,Mwaro,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732005
+Burundi,Ngozi,May,2025,0,0,0,0,3.0,0.0,0.0,3.0,1749732005
+Burundi,Rumonge,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732005
+Burundi,Rutana,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732005
+Burundi,Ruyigi,May,2025,1,0,0,1,1.0,0.0,0.0,1.0,1749732005
+Burundi,Bubanza,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Burundi,Bubanza,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Burundi,Bubanza,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Burundi,Bubanza,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Burundi,Bubanza,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Burundi,Bubanza,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Burundi,Bubanza,December,2025,1,0,0,1,,,,,1765375966
+Burundi,Bujumbura Mairie,June,2025,6,0,0,6,3.0,0.0,0.0,3.0,1754429217
+Burundi,Bujumbura Mairie,July,2025,3,0,0,3,0.0,0.0,0.0,0.0,1754429217
+Burundi,Bujumbura Mairie,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Burundi,Bujumbura Mairie,September,2025,1,0,0,1,2.0,0.0,0.0,2.0,1760036046
+Burundi,Bujumbura Mairie,October,2025,3,0,0,3,1.0,0.0,0.0,1.0,1762435626
+Burundi,Bujumbura Mairie,November,2025,2,0,0,2,2.0,0.0,0.0,2.0,1765375966
+Burundi,Bujumbura Mairie,December,2025,2,0,0,2,,,,,1765375966
+Burundi,Bujumbura Rural,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Burundi,Bujumbura Rural,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Burundi,Bujumbura Rural,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Burundi,Bujumbura Rural,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Burundi,Bujumbura Rural,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Burundi,Bujumbura Rural,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Burundi,Bujumbura Rural,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Bururi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Bururi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Bururi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Bururi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Burundi,Bururi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Burundi,Bururi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Bururi,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Cankuzo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Cankuzo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Cankuzo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Cankuzo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Burundi,Cankuzo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Burundi,Cankuzo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Cankuzo,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Cibitoke,June,2025,4,1,0,3,3.0,0.0,0.0,3.0,1754429217
+Burundi,Cibitoke,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Burundi,Cibitoke,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Cibitoke,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Burundi,Cibitoke,October,2025,3,1,0,2,1.0,0.0,0.0,1.0,1762435626
+Burundi,Cibitoke,November,2025,1,0,0,1,1.0,0.0,1.0,0.0,1765375966
+Burundi,Cibitoke,December,2025,1,0,0,1,,,,,1765375966
+Burundi,Gitega,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Burundi,Gitega,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Gitega,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Gitega,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Burundi,Gitega,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Burundi,Gitega,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Gitega,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Karuzi,June,2025,0,0,0,0,3.0,0.0,0.0,3.0,1754429217
+Burundi,Karuzi,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Burundi,Karuzi,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+Burundi,Karuzi,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Burundi,Karuzi,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Burundi,Karuzi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Karuzi,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Kayanza,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Kayanza,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Burundi,Kayanza,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Burundi,Kayanza,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Burundi,Kayanza,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Burundi,Kayanza,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Burundi,Kayanza,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Kirundo,June,2025,2,0,0,2,2.0,0.0,0.0,2.0,1754429217
+Burundi,Kirundo,July,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Burundi,Kirundo,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Burundi,Kirundo,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Burundi,Kirundo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Burundi,Kirundo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Kirundo,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Makamba,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Burundi,Makamba,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Burundi,Makamba,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Makamba,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Burundi,Makamba,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Burundi,Makamba,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Burundi,Makamba,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Muramvya,June,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Burundi,Muramvya,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Burundi,Muramvya,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Muramvya,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Burundi,Muramvya,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Burundi,Muramvya,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Muramvya,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Muyinga,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Muyinga,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Muyinga,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Muyinga,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Burundi,Muyinga,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Burundi,Muyinga,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Muyinga,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Mwaro,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Mwaro,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Mwaro,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Mwaro,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Burundi,Mwaro,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Burundi,Mwaro,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Mwaro,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Ngozi,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Burundi,Ngozi,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Burundi,Ngozi,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Burundi,Ngozi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Burundi,Ngozi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Burundi,Ngozi,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Burundi,Ngozi,December,2025,1,0,0,1,,,,,1765375966
+Burundi,Rumonge,June,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Burundi,Rumonge,July,2025,2,0,0,2,1.0,0.0,0.0,1.0,1754429217
+Burundi,Rumonge,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Burundi,Rumonge,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Burundi,Rumonge,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Burundi,Rumonge,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Burundi,Rumonge,December,2025,2,0,0,2,,,,,1765375966
+Burundi,Rutana,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Rutana,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Rutana,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Burundi,Rutana,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Burundi,Rutana,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Burundi,Rutana,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Burundi,Rutana,December,2025,0,0,0,0,,,,,1765375966
+Burundi,Ruyigi,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Burundi,Ruyigi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Burundi,Ruyigi,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Burundi,Ruyigi,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Burundi,Ruyigi,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Burundi,Ruyigi,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Burundi,Ruyigi,December,2025,1,0,0,1,,,,,1765375966
+Burundi,Bubanza,January,2026,1,0,0,1,,,,,1765375966
+Burundi,Bujumbura Mairie,January,2026,3,0,0,3,,,,,1765375966
+Burundi,Bujumbura Rural,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Bururi,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Cankuzo,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Cibitoke,January,2026,2,0,0,2,,,,,1765375966
+Burundi,Gitega,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Karuzi,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Kayanza,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Kirundo,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Makamba,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Muramvya,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Muyinga,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Mwaro,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Ngozi,January,2026,1,0,0,1,,,,,1765375966
+Burundi,Rumonge,January,2026,2,0,0,2,,,,,1765375966
+Burundi,Rutana,January,2026,0,0,0,0,,,,,1765375966
+Burundi,Ruyigi,January,2026,1,0,0,1,,,,,1765375966
+Burundi,Bubanza,February,2026,1,0,0,1,,,,,1765375966
+Burundi,Bujumbura Mairie,February,2026,2,0,0,2,,,,,1765375966
+Burundi,Bujumbura Rural,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Bururi,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Cankuzo,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Cibitoke,February,2026,1,0,0,1,,,,,1765375966
+Burundi,Gitega,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Karuzi,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Kayanza,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Kirundo,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Makamba,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Muramvya,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Muyinga,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Mwaro,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Ngozi,February,2026,1,0,0,1,,,,,1765375966
+Burundi,Rumonge,February,2026,2,0,0,2,,,,,1765375966
+Burundi,Rutana,February,2026,0,0,0,0,,,,,1765375966
+Burundi,Ruyigi,February,2026,1,0,0,1,,,,,1765375966
+Burundi,Bubanza,March,2026,1,0,0,1,,,,,1765375966
+Burundi,Bujumbura Mairie,March,2026,2,0,0,2,,,,,1765375966
+Burundi,Bujumbura Rural,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Bururi,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Cankuzo,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Cibitoke,March,2026,1,0,0,1,,,,,1765375966
+Burundi,Gitega,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Karuzi,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Kayanza,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Kirundo,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Makamba,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Muramvya,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Muyinga,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Mwaro,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Ngozi,March,2026,1,0,0,1,,,,,1765375966
+Burundi,Rumonge,March,2026,2,0,0,2,,,,,1765375966
+Burundi,Rutana,March,2026,0,0,0,0,,,,,1765375966
+Burundi,Ruyigi,March,2026,1,0,0,1,,,,,1765375966
+Burundi,Bubanza,April,2026,1,0,0,1,,,,,1765375966
+Burundi,Bujumbura Mairie,April,2026,3,0,0,3,,,,,1765375966
+Burundi,Bujumbura Rural,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Bururi,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Cankuzo,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Cibitoke,April,2026,2,0,0,2,,,,,1765375966
+Burundi,Gitega,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Karuzi,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Kayanza,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Kirundo,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Makamba,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Muramvya,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Muyinga,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Mwaro,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Ngozi,April,2026,1,0,0,1,,,,,1765375966
+Burundi,Rumonge,April,2026,2,0,0,2,,,,,1765375966
+Burundi,Rutana,April,2026,0,0,0,0,,,,,1765375966
+Burundi,Ruyigi,April,2026,1,0,0,1,,,,,1765375966
+Burundi,Bubanza,May,2026,1,0,0,1,,,,,1765375966
+Burundi,Bujumbura Mairie,May,2026,2,0,0,2,,,,,1765375966
+Burundi,Bujumbura Rural,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Bururi,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Cankuzo,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Cibitoke,May,2026,1,0,0,1,,,,,1765375966
+Burundi,Gitega,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Karuzi,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Kayanza,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Kirundo,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Makamba,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Muramvya,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Muyinga,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Mwaro,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Ngozi,May,2026,1,0,0,1,,,,,1765375966
+Burundi,Rumonge,May,2026,2,0,0,2,,,,,1765375966
+Burundi,Rutana,May,2026,0,0,0,0,,,,,1765375966
+Burundi,Ruyigi,May,2026,1,0,0,1,,,,,1765375966

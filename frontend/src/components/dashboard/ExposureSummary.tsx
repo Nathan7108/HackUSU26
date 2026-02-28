@@ -1,27 +1,21 @@
-import type { Country } from "@/types"
-import { riskColor, riskMutedColor, formatMoney } from "@/lib/risk"
-import { facilities, tradeRoutes } from "@/data"
+import { riskColor, formatMoney } from "@/lib/risk"
+import { useExposure } from "@/hooks/use-dashboard"
+import { flagFromAlpha2 } from "@/lib/country-codes"
 import { ShieldAlert, Route, Factory } from "lucide-react"
+import type { RiskLevel } from "@/types"
 
-interface ExposureSummaryProps {
-  countries: Country[]
-}
+export function ExposureSummary() {
+  const { data: exposure } = useExposure()
 
-export function ExposureSummary({ countries }: ExposureSummaryProps) {
-  const totalExposure = countries.reduce(
-    (sum, c) => sum + (c.exposure?.totalExposure ?? 0),
-    0,
-  )
+  if (!exposure) return null
 
-  const affectedFacilityIds = new Set(
-    countries.flatMap((c) => c.exposure?.affectedFacilities ?? []),
-  )
+  const entries = Object.values(exposure.countryExposure)
+    .filter((e) => e.totalExposure > 0)
+    .sort((a, b) => b.totalExposure - a.totalExposure)
 
-  const affectedRouteIds = new Set(
-    countries.flatMap((c) => c.exposure?.affectedRoutes ?? []),
-  )
-
-  const highRiskRoutes = tradeRoutes.filter(
+  const totalExposure = exposure.totalExposure
+  const maxExposure = Math.max(...entries.map((e) => e.totalExposure), 1)
+  const highRiskRoutes = exposure.routes.filter(
     (r) => r.riskLevel === "HIGH" || r.riskLevel === "CRITICAL",
   )
 
@@ -39,7 +33,7 @@ export function ExposureSummary({ countries }: ExposureSummaryProps) {
         style={{ borderColor: "var(--sentinel-border-subtle)" }}
       >
         <span
-          className="text-[10px] font-semibold uppercase tracking-wider"
+          className="text-[11px] font-semibold uppercase tracking-wider"
           style={{ color: "var(--sentinel-text-tertiary)" }}
         >
           Cascade Exposure
@@ -63,7 +57,7 @@ export function ExposureSummary({ countries }: ExposureSummaryProps) {
         <StatCell
           icon={Factory}
           label="Facilities"
-          value={`${affectedFacilityIds.size}/${facilities.length}`}
+          value={`${exposure.facilities.filter((f) => f.annualValue > 0).length}/${exposure.facilities.length}`}
           color="var(--risk-elevated)"
         />
         <StatCell
@@ -76,44 +70,40 @@ export function ExposureSummary({ countries }: ExposureSummaryProps) {
 
       {/* Top exposure items */}
       <div className="flex flex-col">
-        {countries
-          .filter((c) => c.exposure && c.exposure.totalExposure > 0)
-          .sort((a, b) => (b.exposure?.totalExposure ?? 0) - (a.exposure?.totalExposure ?? 0))
-          .slice(0, 4)
-          .map((country) => (
-            <div
-              key={country.code}
-              className="flex items-center gap-2 border-t px-3 py-1.5"
-              style={{ borderColor: "var(--sentinel-border-subtle)" }}
+        {entries.slice(0, 4).map((entry) => (
+          <div
+            key={entry.countryCode}
+            className="flex items-center gap-2 border-t px-3 py-1.5"
+            style={{ borderColor: "var(--sentinel-border-subtle)" }}
+          >
+            <span className="text-xs">{flagFromAlpha2(entry.countryCode)}</span>
+            <span
+              className="flex-1 text-[12px] truncate"
+              style={{ color: "var(--sentinel-text-secondary)" }}
             >
-              <span className="text-xs">{country.flag}</span>
-              <span
-                className="flex-1 text-[11px] truncate"
-                style={{ color: "var(--sentinel-text-secondary)" }}
-              >
-                {country.name}
-              </span>
-              <span
-                className="font-data text-[11px] font-semibold"
-                style={{ color: riskColor[country.riskLevel] }}
-              >
-                {formatMoney(country.exposure!.totalExposure)}
-              </span>
-              {/* Exposure bar */}
+              {entry.countryName}
+            </span>
+            <span
+              className="font-data text-[12px] font-semibold"
+              style={{ color: riskColor[entry.riskLevel as RiskLevel] ?? "var(--sentinel-text-primary)" }}
+            >
+              {formatMoney(entry.totalExposure)}
+            </span>
+            {/* Exposure bar */}
+            <div
+              className="h-1.5 w-16 rounded-full overflow-hidden"
+              style={{ backgroundColor: "var(--sentinel-bg-overlay)" }}
+            >
               <div
-                className="h-1.5 w-16 rounded-full overflow-hidden"
-                style={{ backgroundColor: "var(--sentinel-bg-overlay)" }}
-              >
-                <div
-                  className="h-full rounded-full"
-                  style={{
-                    width: `${Math.min(100, (country.exposure!.totalExposure / 700) * 100)}%`,
-                    backgroundColor: riskColor[country.riskLevel],
-                  }}
-                />
-              </div>
+                className="h-full rounded-full"
+                style={{
+                  width: `${Math.min(100, (entry.totalExposure / maxExposure) * 100)}%`,
+                  backgroundColor: riskColor[entry.riskLevel as RiskLevel] ?? "var(--risk-moderate)",
+                }}
+              />
             </div>
-          ))}
+          </div>
+        ))}
       </div>
     </div>
   )
@@ -140,7 +130,7 @@ function StatCell({
         {value}
       </span>
       <span
-        className="text-[9px] uppercase tracking-wider"
+        className="text-[10px] uppercase tracking-wider"
         style={{ color: "var(--sentinel-text-tertiary)" }}
       >
         {label}

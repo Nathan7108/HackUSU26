@@ -1,6 +1,6 @@
 # Sentinel AI — XGBoost risk scorer (S2-02)
-# 47 features -> 5 risk levels (LOW/MODERATE/ELEVATED/HIGH/CRITICAL) with confidence.
-# See GitHub Issue #16.
+# 57 features -> 5 risk levels (LOW/MODERATE/ELEVATED/HIGH/CRITICAL) with confidence.
+# Expanded with WGI governance, ACLED CAST forecasts, enriched ACLED event features.
 
 import json
 import math
@@ -80,27 +80,37 @@ def _safe_acled_name(name: str) -> str:
 
 def _acled_features_from_group(group: pd.DataFrame, window_days: int = 30) -> dict:
     """
-    Compute 10 ACLED features from a single group (e.g. one month of events).
+    Compute 13 ACLED features from a single group (e.g. one month of events).
     Used for training data where we don't have 'now' relative windows.
     """
+    empty = {
+        "acled_fatalities_30d": 0.0, "acled_battle_count": 0, "acled_civilian_violence": 0,
+        "acled_explosion_count": 0, "acled_protest_count": 0, "acled_fatality_rate": 0.0,
+        "acled_event_count_90d": 0, "acled_event_acceleration": 0.0,
+        "acled_unique_actors": 0, "acled_geographic_spread": 0,
+        "acled_civilian_targeting": 0, "acled_riot_count": 0, "acled_state_force_events": 0,
+    }
     if group is None or group.empty:
-        return {
-            "acled_fatalities_30d": 0.0,
-            "acled_battle_count": 0,
-            "acled_civilian_violence": 0,
-            "acled_explosion_count": 0,
-            "acled_protest_count": 0,
-            "acled_fatality_rate": 0.0,
-            "acled_event_count_90d": 0,
-            "acled_event_acceleration": 0.0,
-            "acled_unique_actors": 0,
-            "acled_geographic_spread": 0,
-        }
+        return empty
     fatalities = pd.to_numeric(group.get("fatalities", pd.Series(dtype=float)), errors="coerce").fillna(0)
     total_fatal = float(fatalities.sum())
     n = len(group)
-    event_type = group.get("event_type", pd.Series(dtype=object))
-    event_type = event_type.astype(str)
+    event_type = group.get("event_type", pd.Series(dtype=object)).astype(str)
+
+    # Civilian targeting
+    civ_target = 0
+    if "civilian_targeting" in group.columns:
+        civ_target = int(group["civilian_targeting"].astype(str).str.contains("Civilian", case=False, na=False).sum())
+
+    # State force events
+    state_events = 0
+    if "inter1" in group.columns:
+        state_events = int((group["inter1"].astype(str).str.strip() == "State Forces").sum())
+    elif "actor1" in group.columns:
+        state_events = int(group["actor1"].astype(str).str.contains(
+            r"Police|Military|Government|Armed Forces|Army|National Guard|ICE|Border",
+            case=False, na=False).sum())
+
     return {
         "acled_fatalities_30d": total_fatal,
         "acled_battle_count": int((event_type == "Battles").sum()),
@@ -112,12 +122,15 @@ def _acled_features_from_group(group: pd.DataFrame, window_days: int = 30) -> di
         "acled_event_acceleration": 1.0,
         "acled_unique_actors": int(group["actor1"].nunique()) if "actor1" in group.columns else 0,
         "acled_geographic_spread": int(group["admin1"].nunique()) if "admin1" in group.columns else 0,
+        "acled_civilian_targeting": civ_target,
+        "acled_riot_count": int((event_type == "Riots").sum()),
+        "acled_state_force_events": state_events,
     }
 
 
 def _acled_features_from_period(full_df: pd.DataFrame, period, window_days: int = 30) -> dict:
     """
-    Compute ACLED features for a given period using full country DataFrame for proper 90-day windows.
+    Compute 13 ACLED features for a given period using full country DataFrame for proper 90-day windows.
     """
     month_end = period.to_timestamp() + pd.offsets.MonthEnd(0)
     month_start = period.to_timestamp()
@@ -126,26 +139,31 @@ def _acled_features_from_period(full_df: pd.DataFrame, period, window_days: int 
     recent_90 = full_df[(full_df["event_date"] > month_end - pd.Timedelta(days=90)) & (full_df["event_date"] <= month_end)]
     older_60 = full_df[(full_df["event_date"] > month_end - pd.Timedelta(days=90)) & (full_df["event_date"] <= month_end - pd.Timedelta(days=30))]
 
-    # Current month group
     current = full_df[(full_df["event_date"] >= month_start) & (full_df["event_date"] <= month_end)]
+    accel = float(len(recent_30) / max(len(older_60), 1))
 
     if current.empty:
         return {
-            "acled_fatalities_30d": 0.0,
-            "acled_battle_count": 0,
-            "acled_civilian_violence": 0,
-            "acled_explosion_count": 0,
-            "acled_protest_count": 0,
-            "acled_fatality_rate": 0.0,
-            "acled_event_count_90d": len(recent_90),
-            "acled_event_acceleration": float(len(recent_30) / max(len(older_60), 1)),
-            "acled_unique_actors": 0,
-            "acled_geographic_spread": 0,
+            "acled_fatalities_30d": 0.0, "acled_battle_count": 0, "acled_civilian_violence": 0,
+            "acled_explosion_count": 0, "acled_protest_count": 0, "acled_fatality_rate": 0.0,
+            "acled_event_count_90d": len(recent_90), "acled_event_acceleration": accel,
+            "acled_unique_actors": 0, "acled_geographic_spread": 0,
+            "acled_civilian_targeting": 0, "acled_riot_count": 0, "acled_state_force_events": 0,
         }
 
     fatalities = pd.to_numeric(current["fatalities"], errors="coerce").fillna(0)
     total_fatal = float(fatalities.sum())
     event_type = current["event_type"].astype(str)
+
+    civ_target = 0
+    if "civilian_targeting" in current.columns:
+        civ_target = int(current["civilian_targeting"].astype(str).str.contains("Civilian", case=False, na=False).sum())
+    state_events = 0
+    if "inter1" in current.columns:
+        state_events = int((current["inter1"].astype(str).str.strip() == "State Forces").sum())
+    elif "actor1" in current.columns:
+        state_events = int(current["actor1"].astype(str).str.contains(
+            r"Police|Military|Government|Armed Forces|Army", case=False, na=False).sum())
 
     return {
         "acled_fatalities_30d": total_fatal,
@@ -155,9 +173,12 @@ def _acled_features_from_period(full_df: pd.DataFrame, period, window_days: int 
         "acled_protest_count": int(event_type.isin(["Protests", "Riots"]).sum()),
         "acled_fatality_rate": total_fatal / max(window_days, 1),
         "acled_event_count_90d": len(recent_90),
-        "acled_event_acceleration": float(len(recent_30) / max(len(older_60), 1)),
+        "acled_event_acceleration": accel,
         "acled_unique_actors": int(current["actor1"].nunique()) if "actor1" in current.columns else 0,
         "acled_geographic_spread": int(current["admin1"].nunique()) if "admin1" in current.columns else 0,
+        "acled_civilian_targeting": civ_target,
+        "acled_riot_count": int((event_type == "Riots").sum()),
+        "acled_state_force_events": state_events,
     }
 
 
@@ -228,6 +249,39 @@ def _load_country_auxiliary_features(root: Path, code: str, info: dict) -> dict:
                 )
             except Exception:
                 pass
+
+    # World Bank Governance Indicators (WGI)
+    gov_path = root / "data" / "world_bank_governance" / "governance_all.json"
+    if gov_path.exists():
+        try:
+            with open(gov_path, encoding="utf-8") as f:
+                gov_all = json.load(f)
+            gov = gov_all.get(iso3, {})
+            out["wgi_political_stability"] = float(gov.get("political_stability", 0) or 0)
+            out["wgi_rule_of_law"] = float(gov.get("rule_of_law", 0) or 0)
+            out["wgi_corruption_control"] = float(gov.get("corruption_control", 0) or 0)
+            out["wgi_govt_effectiveness"] = float(gov.get("govt_effectiveness", 0) or 0)
+            out["wgi_voice_accountability"] = float(gov.get("voice_accountability", 0) or 0)
+            out["wgi_regulatory_quality"] = float(gov.get("regulatory_quality", 0) or 0)
+        except Exception:
+            pass
+
+    # ACLED CAST Conflict Forecasts
+    cast_path = root / "data" / "acled_cast"
+    safe_acled = _safe_acled_name(acled_name) + ".csv"
+    cast_file = cast_path / safe_acled
+    if cast_file.exists():
+        try:
+            cast_df = pd.read_csv(cast_file)
+            # Use the most recent forecast row
+            if not cast_df.empty:
+                latest = cast_df.sort_values("timestamp", ascending=False).iloc[0]
+                out["cast_total_forecast"] = float(latest.get("total_forecast", 0) or 0)
+                out["cast_battles_forecast"] = float(latest.get("battles_forecast", 0) or 0)
+                out["cast_vac_forecast"] = float(latest.get("vac_forecast", 0) or 0)
+        except Exception:
+            pass
+
     return out
 
 
@@ -312,6 +366,9 @@ def build_training_dataset() -> pd.DataFrame:
         "acled_event_count_90d",
         "acled_unique_actors",
         "acled_geographic_spread",
+        "acled_civilian_targeting",
+        "acled_riot_count",
+        "acled_state_force_events",
         "ucdp_state_conflict_years",
         "headline_volume",
     }
@@ -401,7 +458,7 @@ def train_risk_scorer(training_df: pd.DataFrame):
 
 def predict_risk(features: dict) -> dict:
     """
-    Load trained model and predict risk from a 47-feature dict (e.g. from SentinelFeaturePipeline.compute()).
+    Load trained model and predict risk from a 57-feature dict (e.g. from SentinelFeaturePipeline.compute()).
     Returns dict with risk_level, risk_score (0-100), confidence, probabilities, top_drivers (5 names).
     risk_level is always derived from risk_score thresholds so they never contradict.
     """
@@ -432,35 +489,43 @@ def predict_risk(features: dict) -> dict:
     xgb_score = score_from_probabilities(probabilities.tolist(), labels)
 
     # --- Feature-based heuristic score for blending (prevents all-100 clustering) ---
-    # NOTE: ACLED features are cumulative all-time (window_days=99999 in pipeline),
-    # so we use log-scale normalization to compress wide ranges properly.
     fatalities_raw = max(float(features.get("acled_fatalities_30d", 0) or 0), 0)
     battles_raw = max(float(features.get("acled_battle_count", 0) or 0), 0)
     explosions_raw = max(float(features.get("acled_explosion_count", 0) or 0), 0)
     protests_raw = max(float(features.get("acled_protest_count", 0) or 0), 0)
+    civ_violence = max(float(features.get("acled_civilian_violence", 0) or 0), 0)
+    civ_targeting = max(float(features.get("acled_civilian_targeting", 0) or 0), 0)
+    state_force = max(float(features.get("acled_state_force_events", 0) or 0), 0)
     goldstein = float(features.get("gdelt_goldstein_mean", 0) or 0)
     conflict_pct = float(features.get("gdelt_conflict_pct", 0) or 0)
     inflation = float(features.get("wb_inflation_latest", 0) or 0)
     ucdp_deaths = float(features.get("ucdp_total_deaths", 0) or 0)
+    pol_stab = float(features.get("wgi_political_stability", 0) or 0)
+    cast_total = float(features.get("cast_total_forecast", 0) or 0)
 
     # Sqrt-scale normalization: sqrt(x)/sqrt(max) maps [0, max] -> [0, 1]
-    # Sqrt gives much better differentiation than log for cumulative data:
-    # 50K fatalities = 0.50, 10K = 0.22, 1K = 0.07, 100 = 0.02
     fat_n = min(1.0, math.sqrt(fatalities_raw) / math.sqrt(200000))
     bat_n = min(1.0, math.sqrt(battles_raw) / math.sqrt(100000))
     exp_n = min(1.0, math.sqrt(explosions_raw) / math.sqrt(50000))
     pro_n = min(1.0, math.sqrt(protests_raw) / math.sqrt(100000))
+    civ_n = min(1.0, math.sqrt(civ_violence) / math.sqrt(50000))
     ucdp_n = min(1.0, math.sqrt(ucdp_deaths) / math.sqrt(500000))
+    cast_n = min(1.0, math.sqrt(cast_total) / math.sqrt(5000))
+    # Political instability: WGI ranges -2.5 (unstable) to +2.5 (stable); invert
+    instab_n = max(0, min(1.0, (2.5 - pol_stab) / 5.0))
 
     heuristic = min(100, (
-        fat_n * 30
-        + bat_n * 20
-        + exp_n * 15
-        + pro_n * 10
-        + max(0, -goldstein) * 3
-        + conflict_pct * 20
-        + min(inflation, 50) * 0.3
-        + ucdp_n * 15
+        fat_n * 22
+        + bat_n * 15
+        + exp_n * 10
+        + civ_n * 10
+        + pro_n * 5
+        + max(0, -goldstein) * 2
+        + conflict_pct * 12
+        + min(inflation, 50) * 0.2
+        + ucdp_n * 10
+        + instab_n * 8
+        + cast_n * 6
     ))
 
     # Blend: 50% XGBoost, 50% heuristic — balanced between ML and feature-grounded scoring

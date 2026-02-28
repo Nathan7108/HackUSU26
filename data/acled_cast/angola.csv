@@ -1,0 +1,703 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Angola,Bengo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Bengo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Angola,Benguela,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Benguela,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Bie,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560648
+Angola,Cabinda,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560649
+Angola,Cabinda,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560649
+Angola,Cabinda,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,February,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560649
+Angola,Cabinda,March,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cabinda,April,2024,0,0,0,0,2.0,1.0,0.0,1.0,1728560649
+Angola,Cabinda,May,2024,2,1,0,1,2.0,2.0,0.0,0.0,1728560649
+Angola,Cabinda,June,2024,1,1,0,0,1.0,0.0,0.0,1.0,1728560649
+Angola,Cabinda,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560649
+Angola,Cabinda,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,April,2023,0,0,0,0,1.0,0.0,1.0,0.0,1728560649
+Angola,Cuando Cubango,May,2023,1,0,1,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuando Cubango,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560649
+Angola,Cuanza Norte,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Norte,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,April,2023,0,0,0,0,1.0,0.0,1.0,0.0,1728560650
+Angola,Cuanza Sul,May,2023,1,0,1,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560650
+Angola,Cuanza Sul,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cuanza Sul,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cuanza Sul,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cuanza Sul,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Cunene,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,September,2023,0,0,0,0,1.0,0.0,1.0,0.0,1728560651
+Angola,Huambo,October,2023,2,0,1,1,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560651
+Angola,Huambo,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560651
+Angola,Huambo,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560652
+Angola,Huambo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huambo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,March,2023,0,0,0,0,1.0,0.0,1.0,0.0,1728560652
+Angola,Huila,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Huila,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560652
+Angola,Luanda,May,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560652
+Angola,Luanda,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1728560652
+Angola,Luanda,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,September,2023,0,0,0,0,3.0,0.0,0.0,3.0,1728560652
+Angola,Luanda,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560652
+Angola,Luanda,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,April,2024,0,0,0,0,2.0,0.0,0.0,2.0,1728560652
+Angola,Luanda,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560652
+Angola,Luanda,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560652
+Angola,Luanda,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560652
+Angola,Luanda,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1728560652
+Angola,Lunda Norte,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560653
+Angola,Lunda Norte,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,August,2023,0,0,0,0,2.0,1.0,0.0,1.0,1728560653
+Angola,Lunda Norte,September,2023,2,1,0,1,1.0,0.0,0.0,1.0,1728560653
+Angola,Lunda Norte,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560653
+Angola,Lunda Norte,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560653
+Angola,Lunda Norte,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Norte,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560653
+Angola,Lunda Sul,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Lunda Sul,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560653
+Angola,Malanje,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Malanje,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Malanje,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Malanje,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Malanje,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Malanje,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Malanje,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Malanje,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560654
+Angola,Moxico,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560654
+Angola,Moxico,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Moxico,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Namibe,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560654
+Angola,Uige,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Uige,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560655
+Angola,Uige,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560655
+Angola,Uige,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Uige,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Uige,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Uige,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Uige,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Uige,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Zaire,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560655
+Angola,Bengo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Benguela,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Bie,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Cabinda,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Cuando Cubango,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Cuanza Norte,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Cuanza Sul,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Cunene,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Huambo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Huila,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Luanda,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730979
+Angola,Lunda Norte,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Lunda Sul,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Malanje,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Moxico,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Namibe,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Uige,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Zaire,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Angola,Bengo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Bengo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Benguela,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Benguela,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Bie,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Bie,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Cabinda,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Cabinda,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Cuando Cubango,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Cuando Cubango,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Cuanza Norte,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Cuanza Norte,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Angola,Cuanza Sul,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Cuanza Sul,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Cunene,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Cunene,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Huambo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Huambo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Huila,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Huila,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Luanda,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Luanda,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Lunda Norte,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Lunda Norte,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Lunda Sul,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Lunda Sul,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Malanje,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Malanje,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Moxico,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Moxico,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Namibe,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Namibe,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Uige,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Uige,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Zaire,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Zaire,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010263
+Angola,Bengo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Benguela,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Bie,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Cabinda,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Cuando Cubango,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Cuanza Norte,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Cuanza Sul,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Cunene,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Huambo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Huila,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Luanda,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Lunda Norte,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033329
+Angola,Lunda Sul,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Malanje,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Moxico,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Namibe,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Angola,Uige,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Angola,Zaire,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033330
+Angola,Bengo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Benguela,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Bie,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Cabinda,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Cuando Cubango,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Cuanza Norte,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Cuanza Sul,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Cunene,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Huambo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Huila,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Luanda,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Lunda Norte,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854836
+Angola,Lunda Sul,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Malanje,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Moxico,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Namibe,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854836
+Angola,Uige,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Zaire,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Angola,Bengo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Angola,Benguela,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Angola,Bie,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Angola,Cabinda,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266604
+Angola,Cuando Cubango,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Angola,Cuanza Norte,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Angola,Cuanza Sul,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Cunene,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Huambo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Huila,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Luanda,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Lunda Norte,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Lunda Sul,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Malanje,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Moxico,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Namibe,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266605
+Angola,Uige,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Zaire,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266605
+Angola,Bengo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Benguela,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Bie,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Cabinda,March,2025,1,0,0,1,3.0,2.0,0.0,1.0,1744287539
+Angola,Cuando Cubango,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Cuanza Norte,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Cuanza Sul,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Cunene,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Huambo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Huila,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Luanda,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Lunda Norte,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287539
+Angola,Lunda Sul,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Malanje,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Moxico,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Namibe,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Uige,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Zaire,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Angola,Bengo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Angola,Benguela,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Angola,Bie,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Angola,Cabinda,April,2025,2,1,0,1,0.0,0.0,0.0,0.0,1746702907
+Angola,Cuando Cubango,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Angola,Cuanza Norte,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Angola,Cuanza Sul,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Cunene,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Huambo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Huila,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Luanda,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702908
+Angola,Lunda Norte,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702908
+Angola,Lunda Sul,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Malanje,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Moxico,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Namibe,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Uige,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Zaire,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702908
+Angola,Bengo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Benguela,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Bie,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Cabinda,May,2025,0,0,0,0,3.0,2.0,0.0,1.0,1749732001
+Angola,Cuando Cubango,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Cuanza Norte,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Cuanza Sul,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Cunene,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Huambo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Huila,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Luanda,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732001
+Angola,Lunda Norte,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Lunda Sul,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Malanje,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Moxico,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Namibe,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Uige,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Zaire,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Angola,Bengo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Bengo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Bengo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Bengo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Bengo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Bengo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Bengo,December,2025,0,0,0,0,,,,,1765375966
+Angola,Benguela,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Benguela,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Benguela,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Benguela,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Benguela,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Benguela,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Benguela,December,2025,0,0,0,0,,,,,1765375966
+Angola,Bie,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Bie,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Bie,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Bie,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Bie,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Bie,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Bie,December,2025,0,0,0,0,,,,,1765375966
+Angola,Cabinda,June,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Angola,Cabinda,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cabinda,August,2025,1,1,0,0,1.0,1.0,0.0,0.0,1757596698
+Angola,Cabinda,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Angola,Cabinda,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Cabinda,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Cabinda,December,2025,0,0,0,0,,,,,1765375966
+Angola,Cuando Cubango,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cuando Cubango,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cuando Cubango,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Cuando Cubango,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Cuando Cubango,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Cuando Cubango,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Cuando Cubango,December,2025,0,0,0,0,,,,,1765375966
+Angola,Cuanza Norte,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cuanza Norte,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cuanza Norte,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Cuanza Norte,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Cuanza Norte,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Cuanza Norte,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Cuanza Norte,December,2025,0,0,0,0,,,,,1765375966
+Angola,Cuanza Sul,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cuanza Sul,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cuanza Sul,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Cuanza Sul,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Cuanza Sul,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Cuanza Sul,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Cuanza Sul,December,2025,0,0,0,0,,,,,1765375966
+Angola,Cunene,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cunene,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Cunene,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Cunene,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Cunene,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Cunene,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Cunene,December,2025,0,0,0,0,,,,,1765375966
+Angola,Huambo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Huambo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Huambo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Huambo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Huambo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Huambo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Huambo,December,2025,0,0,0,0,,,,,1765375966
+Angola,Huila,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Huila,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Huila,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Huila,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Huila,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Huila,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Huila,December,2025,0,0,0,0,,,,,1765375966
+Angola,Luanda,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Luanda,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Angola,Luanda,August,2025,1,0,0,1,2.0,0.0,0.0,2.0,1757596698
+Angola,Luanda,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Angola,Luanda,October,2025,1,0,0,1,3.0,0.0,1.0,2.0,1762435626
+Angola,Luanda,November,2025,2,0,1,1,2.0,0.0,0.0,2.0,1765375966
+Angola,Luanda,December,2025,2,0,0,2,,,,,1765375966
+Angola,Lunda Norte,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Lunda Norte,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Lunda Norte,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Angola,Lunda Norte,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Angola,Lunda Norte,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Angola,Lunda Norte,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Lunda Norte,December,2025,0,0,0,0,,,,,1765375966
+Angola,Lunda Sul,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Lunda Sul,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Lunda Sul,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Lunda Sul,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Lunda Sul,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Lunda Sul,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Lunda Sul,December,2025,0,0,0,0,,,,,1765375966
+Angola,Malanje,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Malanje,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Malanje,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Malanje,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Malanje,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Malanje,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Malanje,December,2025,0,0,0,0,,,,,1765375966
+Angola,Moxico,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Moxico,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Moxico,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Moxico,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Moxico,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Moxico,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Moxico,December,2025,0,0,0,0,,,,,1765375966
+Angola,Namibe,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Namibe,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Namibe,August,2025,0,0,0,0,2.0,2.0,0.0,0.0,1757596698
+Angola,Namibe,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Angola,Namibe,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Namibe,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Namibe,December,2025,0,0,0,0,,,,,1765375966
+Angola,Uige,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Uige,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Uige,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Uige,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Uige,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Uige,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Uige,December,2025,0,0,0,0,,,,,1765375966
+Angola,Zaire,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Zaire,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Angola,Zaire,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Angola,Zaire,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Angola,Zaire,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Angola,Zaire,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Angola,Zaire,December,2025,0,0,0,0,,,,,1765375966
+Angola,Bengo,January,2026,0,0,0,0,,,,,1765375966
+Angola,Benguela,January,2026,0,0,0,0,,,,,1765375966
+Angola,Bie,January,2026,0,0,0,0,,,,,1765375966
+Angola,Cabinda,January,2026,0,0,0,0,,,,,1765375966
+Angola,Cuando Cubango,January,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Norte,January,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Sul,January,2026,0,0,0,0,,,,,1765375966
+Angola,Cunene,January,2026,0,0,0,0,,,,,1765375966
+Angola,Huambo,January,2026,0,0,0,0,,,,,1765375966
+Angola,Huila,January,2026,0,0,0,0,,,,,1765375966
+Angola,Luanda,January,2026,2,0,0,2,,,,,1765375966
+Angola,Lunda Norte,January,2026,0,0,0,0,,,,,1765375966
+Angola,Lunda Sul,January,2026,0,0,0,0,,,,,1765375966
+Angola,Malanje,January,2026,0,0,0,0,,,,,1765375966
+Angola,Moxico,January,2026,0,0,0,0,,,,,1765375966
+Angola,Namibe,January,2026,0,0,0,0,,,,,1765375966
+Angola,Uige,January,2026,0,0,0,0,,,,,1765375966
+Angola,Zaire,January,2026,0,0,0,0,,,,,1765375966
+Angola,Bengo,February,2026,0,0,0,0,,,,,1765375966
+Angola,Benguela,February,2026,0,0,0,0,,,,,1765375966
+Angola,Bie,February,2026,0,0,0,0,,,,,1765375966
+Angola,Cabinda,February,2026,0,0,0,0,,,,,1765375966
+Angola,Cuando Cubango,February,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Norte,February,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Sul,February,2026,0,0,0,0,,,,,1765375966
+Angola,Cunene,February,2026,0,0,0,0,,,,,1765375966
+Angola,Huambo,February,2026,0,0,0,0,,,,,1765375966
+Angola,Huila,February,2026,0,0,0,0,,,,,1765375966
+Angola,Luanda,February,2026,2,0,0,2,,,,,1765375966
+Angola,Lunda Norte,February,2026,0,0,0,0,,,,,1765375966
+Angola,Lunda Sul,February,2026,0,0,0,0,,,,,1765375966
+Angola,Malanje,February,2026,0,0,0,0,,,,,1765375966
+Angola,Moxico,February,2026,0,0,0,0,,,,,1765375966
+Angola,Namibe,February,2026,0,0,0,0,,,,,1765375966
+Angola,Uige,February,2026,0,0,0,0,,,,,1765375966
+Angola,Zaire,February,2026,0,0,0,0,,,,,1765375966
+Angola,Bengo,March,2026,0,0,0,0,,,,,1765375966
+Angola,Benguela,March,2026,0,0,0,0,,,,,1765375966
+Angola,Bie,March,2026,0,0,0,0,,,,,1765375966
+Angola,Cabinda,March,2026,0,0,0,0,,,,,1765375966
+Angola,Cuando Cubango,March,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Norte,March,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Sul,March,2026,0,0,0,0,,,,,1765375966
+Angola,Cunene,March,2026,0,0,0,0,,,,,1765375966
+Angola,Huambo,March,2026,0,0,0,0,,,,,1765375966
+Angola,Huila,March,2026,0,0,0,0,,,,,1765375966
+Angola,Luanda,March,2026,2,0,0,2,,,,,1765375966
+Angola,Lunda Norte,March,2026,0,0,0,0,,,,,1765375966
+Angola,Lunda Sul,March,2026,0,0,0,0,,,,,1765375966
+Angola,Malanje,March,2026,0,0,0,0,,,,,1765375966
+Angola,Moxico,March,2026,0,0,0,0,,,,,1765375966
+Angola,Namibe,March,2026,0,0,0,0,,,,,1765375966
+Angola,Uige,March,2026,0,0,0,0,,,,,1765375966
+Angola,Zaire,March,2026,0,0,0,0,,,,,1765375966
+Angola,Bengo,April,2026,0,0,0,0,,,,,1765375966
+Angola,Benguela,April,2026,0,0,0,0,,,,,1765375966
+Angola,Bie,April,2026,0,0,0,0,,,,,1765375966
+Angola,Cabinda,April,2026,0,0,0,0,,,,,1765375966
+Angola,Cuando Cubango,April,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Norte,April,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Sul,April,2026,0,0,0,0,,,,,1765375966
+Angola,Cunene,April,2026,0,0,0,0,,,,,1765375966
+Angola,Huambo,April,2026,0,0,0,0,,,,,1765375966
+Angola,Huila,April,2026,0,0,0,0,,,,,1765375966
+Angola,Luanda,April,2026,2,0,0,2,,,,,1765375966
+Angola,Lunda Norte,April,2026,0,0,0,0,,,,,1765375966
+Angola,Lunda Sul,April,2026,0,0,0,0,,,,,1765375966
+Angola,Malanje,April,2026,0,0,0,0,,,,,1765375966
+Angola,Moxico,April,2026,0,0,0,0,,,,,1765375966
+Angola,Namibe,April,2026,0,0,0,0,,,,,1765375966
+Angola,Uige,April,2026,0,0,0,0,,,,,1765375966
+Angola,Zaire,April,2026,0,0,0,0,,,,,1765375966
+Angola,Bengo,May,2026,0,0,0,0,,,,,1765375966
+Angola,Benguela,May,2026,0,0,0,0,,,,,1765375966
+Angola,Bie,May,2026,0,0,0,0,,,,,1765375966
+Angola,Cabinda,May,2026,0,0,0,0,,,,,1765375966
+Angola,Cuando Cubango,May,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Norte,May,2026,0,0,0,0,,,,,1765375966
+Angola,Cuanza Sul,May,2026,0,0,0,0,,,,,1765375966
+Angola,Cunene,May,2026,0,0,0,0,,,,,1765375966
+Angola,Huambo,May,2026,0,0,0,0,,,,,1765375966
+Angola,Huila,May,2026,0,0,0,0,,,,,1765375966
+Angola,Luanda,May,2026,2,0,0,2,,,,,1765375966
+Angola,Lunda Norte,May,2026,0,0,0,0,,,,,1765375966
+Angola,Lunda Sul,May,2026,0,0,0,0,,,,,1765375966
+Angola,Malanje,May,2026,0,0,0,0,,,,,1765375966
+Angola,Moxico,May,2026,0,0,0,0,,,,,1765375966
+Angola,Namibe,May,2026,0,0,0,0,,,,,1765375966
+Angola,Uige,May,2026,0,0,0,0,,,,,1765375966
+Angola,Zaire,May,2026,0,0,0,0,,,,,1765375966

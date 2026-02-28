@@ -1,0 +1,5 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Bahrain,Capital,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560716
+Bahrain,Muharraq,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560716
+Bahrain,Northern,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560716
+Bahrain,Southern,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560716

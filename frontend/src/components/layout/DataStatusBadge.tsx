@@ -6,7 +6,7 @@ export function DataStatusBadge() {
   if (isLoading) {
     return (
       <div
-        className="flex items-center gap-1.5 rounded-md px-2.5 py-1 font-data text-[10px] font-bold tracking-wider"
+        className="flex items-center gap-1.5 rounded-md px-2.5 py-1 font-data text-[11px] font-bold tracking-wider"
         style={{
           backgroundColor: "rgba(148,163,184,0.12)",
           color: "var(--sentinel-text-tertiary)",
@@ -24,7 +24,7 @@ export function DataStatusBadge() {
 
   return (
     <div
-      className="flex items-center gap-1.5 rounded-md px-2.5 py-1 font-data text-[10px] font-bold tracking-wider"
+      className="flex items-center gap-1.5 rounded-md px-2.5 py-1 font-data text-[11px] font-bold tracking-wider"
       style={{
         backgroundColor: isLive ? "rgba(34,197,94,0.12)" : "rgba(234,179,8,0.12)",
         color: isLive ? "var(--risk-low)" : "var(--risk-elevated)",

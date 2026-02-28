@@ -1,0 +1,547 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Ethiopia,Addis Ababa,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141033
+Ethiopia,Addis Ababa,April,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,May,2023,1,1,0,0,2.0,0.0,0.0,2.0,1726141033
+Ethiopia,Addis Ababa,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,July,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141033
+Ethiopia,Addis Ababa,August,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141033
+Ethiopia,Addis Ababa,October,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,May,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,July,2024,1,1,0,0,1.0,1.0,0.0,0.0,1726141033
+Ethiopia,Addis Ababa,August,2024,1,0,0,1,2.0,0.0,2.0,0.0,1726141033
+Ethiopia,Afar,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141033
+Ethiopia,Afar,July,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141033
+Ethiopia,Afar,August,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,December,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141033
+Ethiopia,Afar,January,2024,1,1,0,0,1.0,0.0,0.0,1.0,1726141033
+Ethiopia,Afar,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,March,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141033
+Ethiopia,Afar,April,2024,2,2,0,0,4.0,4.0,0.0,0.0,1726141033
+Ethiopia,Afar,May,2024,3,3,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Afar,June,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141033
+Ethiopia,Afar,July,2024,1,1,0,0,2.0,0.0,0.0,2.0,1726141033
+Ethiopia,Afar,August,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Amhara,March,2023,8,7,0,1,3.0,1.0,0.0,2.0,1726141033
+Ethiopia,Amhara,April,2023,7,5,0,2,21.0,14.0,2.0,5.0,1726141033
+Ethiopia,Amhara,May,2023,13,9,0,4,19.0,14.0,3.0,2.0,1726141033
+Ethiopia,Amhara,June,2023,21,15,2,4,14.0,6.0,0.0,8.0,1726141033
+Ethiopia,Amhara,July,2023,21,11,2,8,51.0,40.0,0.0,11.0,1726141033
+Ethiopia,Amhara,August,2023,43,32,0,11,102.0,88.0,4.0,10.0,1726141033
+Ethiopia,Amhara,September,2023,84,71,3,10,106.0,77.0,14.0,15.0,1726141033
+Ethiopia,Amhara,October,2023,89,64,11,14,62.0,42.0,5.0,15.0,1726141033
+Ethiopia,Amhara,November,2023,67,47,4,16,96.0,69.0,17.0,10.0,1726141033
+Ethiopia,Amhara,December,2023,75,54,10,11,54.0,36.0,4.0,14.0,1726141033
+Ethiopia,Amhara,January,2024,66,49,4,13,66.0,53.0,4.0,9.0,1726141033
+Ethiopia,Amhara,February,2024,63,48,4,11,93.0,74.0,5.0,14.0,1726141033
+Ethiopia,Amhara,March,2024,88,70,5,13,80.0,72.0,1.0,7.0,1726141033
+Ethiopia,Amhara,April,2024,79,70,1,8,70.0,51.0,2.0,17.0,1726141033
+Ethiopia,Amhara,May,2024,80,62,2,16,109.0,82.0,8.0,19.0,1726141033
+Ethiopia,Amhara,June,2024,110,84,6,20,117.0,92.0,4.0,21.0,1726141033
+Ethiopia,Amhara,July,2024,106,83,4,19,127.0,96.0,8.0,23.0,1726141033
+Ethiopia,Amhara,August,2024,127,97,8,22,141.0,119.0,5.0,17.0,1726141033
+Ethiopia,Benshangul/Gumuz,March,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Benshangul/Gumuz,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Benshangul/Gumuz,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141033
+Ethiopia,Benshangul/Gumuz,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141033
+Ethiopia,Benshangul/Gumuz,July,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141034
+Ethiopia,Benshangul/Gumuz,August,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Benshangul/Gumuz,September,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Benshangul/Gumuz,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Benshangul/Gumuz,November,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Benshangul/Gumuz,December,2023,1,1,0,0,4.0,4.0,0.0,0.0,1726141034
+Ethiopia,Benshangul/Gumuz,January,2024,4,3,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Benshangul/Gumuz,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Benshangul/Gumuz,March,2024,0,0,0,0,3.0,0.0,1.0,2.0,1726141034
+Ethiopia,Benshangul/Gumuz,April,2024,4,1,1,2,3.0,0.0,0.0,3.0,1726141034
+Ethiopia,Benshangul/Gumuz,May,2024,3,0,0,3,6.0,1.0,0.0,5.0,1726141034
+Ethiopia,Benshangul/Gumuz,June,2024,6,1,0,5,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Benshangul/Gumuz,July,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Benshangul/Gumuz,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Central Ethiopia,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Central Ethiopia,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Central Ethiopia,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Central Ethiopia,June,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Central Ethiopia,July,2023,3,1,0,2,6.0,0.0,0.0,6.0,1726141034
+Ethiopia,Central Ethiopia,August,2023,6,1,0,5,3.0,1.0,0.0,2.0,1726141034
+Ethiopia,Central Ethiopia,September,2023,4,2,0,2,4.0,3.0,0.0,1.0,1726141034
+Ethiopia,Central Ethiopia,October,2023,5,3,0,2,6.0,4.0,0.0,2.0,1726141034
+Ethiopia,Central Ethiopia,November,2023,5,3,0,2,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Central Ethiopia,December,2023,2,1,0,1,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Central Ethiopia,January,2024,3,1,0,2,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Central Ethiopia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Central Ethiopia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Central Ethiopia,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Central Ethiopia,May,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Central Ethiopia,June,2024,3,1,0,2,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Central Ethiopia,July,2024,3,1,0,2,4.0,0.0,0.0,4.0,1726141034
+Ethiopia,Central Ethiopia,August,2024,3,1,0,2,8.0,4.0,0.0,4.0,1726141034
+Ethiopia,Dire Dawa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,July,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Dire Dawa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Gambela,March,2023,5,2,0,3,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Gambela,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Gambela,May,2023,0,0,0,0,5.0,3.0,0.0,2.0,1726141034
+Ethiopia,Gambela,June,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Gambela,July,2023,0,0,0,0,13.0,10.0,0.0,3.0,1726141034
+Ethiopia,Gambela,August,2023,7,4,0,3,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Gambela,September,2023,2,2,0,0,4.0,0.0,0.0,4.0,1726141034
+Ethiopia,Gambela,October,2023,5,1,0,4,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Gambela,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141034
+Ethiopia,Gambela,December,2023,1,1,0,0,3.0,0.0,0.0,3.0,1726141034
+Ethiopia,Gambela,January,2024,3,1,0,2,3.0,0.0,0.0,3.0,1726141034
+Ethiopia,Gambela,February,2024,4,1,0,3,2.0,1.0,0.0,1.0,1726141034
+Ethiopia,Gambela,March,2024,4,2,0,2,5.0,2.0,0.0,3.0,1726141034
+Ethiopia,Gambela,April,2024,5,2,0,3,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Gambela,May,2024,3,1,0,2,3.0,3.0,0.0,0.0,1726141034
+Ethiopia,Gambela,June,2024,4,3,0,1,2.0,2.0,0.0,0.0,1726141034
+Ethiopia,Gambela,July,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Gambela,August,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,December,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Harari,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,July,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Harari,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Oromia,March,2023,29,15,0,14,32.0,10.0,0.0,22.0,1726141034
+Ethiopia,Oromia,April,2023,35,13,0,22,8.0,0.0,1.0,7.0,1726141034
+Ethiopia,Oromia,May,2023,11,4,0,7,58.0,29.0,1.0,28.0,1726141034
+Ethiopia,Oromia,June,2023,39,20,0,19,54.0,14.0,1.0,39.0,1726141034
+Ethiopia,Oromia,July,2023,57,19,0,38,9.0,5.0,0.0,4.0,1726141034
+Ethiopia,Oromia,August,2023,16,12,0,4,60.0,33.0,0.0,27.0,1726141034
+Ethiopia,Oromia,September,2023,54,28,0,26,42.0,16.0,0.0,26.0,1726141034
+Ethiopia,Oromia,October,2023,45,17,2,26,104.0,70.0,1.0,33.0,1726141034
+Ethiopia,Oromia,November,2023,85,50,1,34,74.0,46.0,1.0,27.0,1726141034
+Ethiopia,Oromia,December,2023,75,47,1,27,62.0,37.0,3.0,22.0,1726141034
+Ethiopia,Oromia,January,2024,62,37,1,24,37.0,15.0,5.0,17.0,1726141034
+Ethiopia,Oromia,February,2024,44,22,5,17,51.0,35.0,0.0,16.0,1726141034
+Ethiopia,Oromia,March,2024,54,35,0,19,61.0,30.0,2.0,29.0,1726141034
+Ethiopia,Oromia,April,2024,62,32,2,28,72.0,46.0,1.0,25.0,1726141034
+Ethiopia,Oromia,May,2024,71,45,1,25,77.0,56.0,2.0,19.0,1726141034
+Ethiopia,Oromia,June,2024,75,49,2,24,70.0,37.0,3.0,30.0,1726141034
+Ethiopia,Oromia,July,2024,73,42,3,28,74.0,48.0,0.0,26.0,1726141034
+Ethiopia,Oromia,August,2024,78,50,0,28,69.0,37.0,0.0,32.0,1726141034
+Ethiopia,Sidama,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Sidama,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Sidama,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,July,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Sidama,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,March,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,April,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141034
+Ethiopia,Somali,May,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Somali,July,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Somali,August,2023,2,1,0,1,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Somali,September,2023,2,0,0,2,3.0,1.0,0.0,2.0,1726141034
+Ethiopia,Somali,October,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141034
+Ethiopia,Somali,April,2024,1,1,0,0,1.0,1.0,0.0,0.0,1726141034
+Ethiopia,Somali,May,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,June,2024,0,0,0,0,8.0,8.0,0.0,0.0,1726141034
+Ethiopia,Somali,July,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Somali,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,March,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,April,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141034
+Ethiopia,South Ethiopia Region,May,2023,3,1,0,2,1.0,0.0,1.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,June,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,South Ethiopia Region,July,2023,3,2,0,1,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,South Ethiopia Region,August,2023,2,1,0,1,3.0,3.0,0.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,September,2023,2,2,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,South Ethiopia Region,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,South Ethiopia Region,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,January,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141034
+Ethiopia,South Ethiopia Region,February,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,April,2024,0,0,0,0,4.0,0.0,0.0,4.0,1726141034
+Ethiopia,South Ethiopia Region,May,2024,3,0,0,3,5.0,3.0,0.0,2.0,1726141034
+Ethiopia,South Ethiopia Region,June,2024,5,3,0,2,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,South Ethiopia Region,July,2024,5,3,0,2,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South Ethiopia Region,August,2024,2,1,0,1,4.0,2.0,0.0,2.0,1726141034
+Ethiopia,South West,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,June,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141034
+Ethiopia,South West,July,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,July,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,South West,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Tigray,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Tigray,April,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Tigray,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Tigray,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141034
+Ethiopia,Tigray,July,2023,3,2,0,1,2.0,2.0,0.0,0.0,1726141034
+Ethiopia,Tigray,August,2023,2,2,0,0,2.0,0.0,1.0,1.0,1726141034
+Ethiopia,Tigray,September,2023,3,1,1,1,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Tigray,October,2023,5,2,1,2,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Tigray,November,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141034
+Ethiopia,Tigray,December,2023,2,1,1,0,0.0,0.0,0.0,0.0,1726141034
+Ethiopia,Tigray,January,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Tigray,February,2024,2,0,0,2,10.0,7.0,0.0,3.0,1726141034
+Ethiopia,Tigray,March,2024,7,5,0,2,3.0,3.0,0.0,0.0,1726141034
+Ethiopia,Tigray,April,2024,3,3,0,0,24.0,20.0,0.0,4.0,1726141034
+Ethiopia,Tigray,May,2024,15,12,0,3,8.0,3.0,1.0,4.0,1726141034
+Ethiopia,Tigray,June,2024,9,4,1,4,6.0,0.0,0.0,6.0,1726141034
+Ethiopia,Tigray,July,2024,7,2,0,5,2.0,1.0,0.0,1.0,1726141034
+Ethiopia,Tigray,August,2024,2,1,0,1,2.0,0.0,0.0,2.0,1726141034
+Ethiopia,Addis Ababa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ethiopia,Afar,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730987
+Ethiopia,Amhara,September,2024,139,117,5,17,101.0,82.0,6.0,13.0,1730730987
+Ethiopia,Benshangul/Gumuz,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ethiopia,Central Ethiopia,September,2024,8,4,0,4,3.0,1.0,0.0,2.0,1730730988
+Ethiopia,Dire Dawa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ethiopia,Gambela,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ethiopia,Harari,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ethiopia,Oromia,September,2024,69,37,0,32,43.0,23.0,0.0,20.0,1730730988
+Ethiopia,Sidama,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ethiopia,Somali,September,2024,1,1,0,0,1.0,0.0,0.0,1.0,1730730988
+Ethiopia,South Ethiopia Region,September,2024,4,2,0,2,2.0,1.0,0.0,1.0,1730730988
+Ethiopia,South West,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Ethiopia,Tigray,September,2024,2,0,0,2,1.0,0.0,0.0,1.0,1730730988
+Ethiopia,Addis Ababa,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Addis Ababa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Afar,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Afar,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Amhara,October,2024,102,83,6,13,139.0,108.0,16.0,15.0,1734010281
+Ethiopia,Amhara,November,2024,136,108,13,15,133.0,112.0,14.0,7.0,1734010281
+Ethiopia,Benshangul/Gumuz,October,2024,1,1,0,0,2.0,2.0,0.0,0.0,1734010281
+Ethiopia,Benshangul/Gumuz,November,2024,2,2,0,0,2.0,2.0,0.0,0.0,1734010281
+Ethiopia,Central Ethiopia,October,2024,3,1,0,2,2.0,0.0,0.0,2.0,1734010281
+Ethiopia,Central Ethiopia,November,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Dire Dawa,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Dire Dawa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Gambela,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Gambela,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Harari,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Harari,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Oromia,October,2024,45,25,0,20,56.0,30.0,0.0,26.0,1734010281
+Ethiopia,Oromia,November,2024,57,29,1,27,86.0,46.0,13.0,27.0,1734010281
+Ethiopia,Sidama,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Sidama,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Somali,October,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,Somali,November,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010281
+Ethiopia,South Ethiopia Region,October,2024,2,1,0,1,7.0,0.0,0.0,7.0,1734010281
+Ethiopia,South Ethiopia Region,November,2024,5,0,0,5,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,South West,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010281
+Ethiopia,South West,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010281
+Ethiopia,Tigray,October,2024,2,1,0,1,1.0,1.0,0.0,0.0,1734010281
+Ethiopia,Tigray,November,2024,2,1,0,1,2.0,0.0,0.0,2.0,1734010281
+Ethiopia,Addis Ababa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033343
+Ethiopia,Afar,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033343
+Ethiopia,Amhara,December,2024,138,111,12,15,88.0,65.0,16.0,7.0,1737033343
+Ethiopia,Benshangul/Gumuz,December,2024,3,2,0,1,0.0,0.0,0.0,0.0,1737033343
+Ethiopia,Central Ethiopia,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033343
+Ethiopia,Dire Dawa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033343
+Ethiopia,Gambela,December,2024,0,0,0,0,3.0,2.0,0.0,1.0,1737033343
+Ethiopia,Harari,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+Ethiopia,Oromia,December,2024,82,46,9,27,36.0,19.0,1.0,16.0,1737033344
+Ethiopia,Sidama,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033344
+Ethiopia,Somali,December,2024,2,1,0,1,3.0,2.0,0.0,1.0,1737033344
+Ethiopia,South Ethiopia Region,December,2024,0,0,0,0,2.0,1.0,0.0,1.0,1737033344
+Ethiopia,South West,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033344
+Ethiopia,Tigray,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033344
+Ethiopia,Addis Ababa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+Ethiopia,Afar,January,2025,0,0,0,0,1.0,0.0,1.0,0.0,1738854849
+Ethiopia,Amhara,January,2025,82,61,14,7,79.0,69.0,3.0,7.0,1738854849
+Ethiopia,Benshangul/Gumuz,January,2025,0,0,0,0,2.0,1.0,0.0,1.0,1738854849
+Ethiopia,Central Ethiopia,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854849
+Ethiopia,Dire Dawa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+Ethiopia,Gambela,January,2025,3,2,0,1,0.0,0.0,0.0,0.0,1738854849
+Ethiopia,Harari,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+Ethiopia,Oromia,January,2025,31,17,1,13,25.0,13.0,0.0,12.0,1738854849
+Ethiopia,Sidama,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+Ethiopia,Somali,January,2025,3,2,0,1,0.0,0.0,0.0,0.0,1738854849
+Ethiopia,South Ethiopia Region,January,2025,2,1,0,1,2.0,0.0,0.0,2.0,1738854849
+Ethiopia,South West,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854849
+Ethiopia,Tigray,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854849
+Ethiopia,Addis Ababa,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,Afar,February,2025,2,1,1,0,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,Amhara,February,2025,82,72,3,7,68.0,51.0,3.0,14.0,1741266619
+Ethiopia,Benshangul/Gumuz,February,2025,2,1,0,1,2.0,0.0,0.0,2.0,1741266619
+Ethiopia,Central Ethiopia,February,2025,2,1,0,1,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,Dire Dawa,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,Gambela,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,Harari,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,Oromia,February,2025,31,17,0,14,29.0,21.0,0.0,8.0,1741266619
+Ethiopia,Sidama,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,Somali,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,South Ethiopia Region,February,2025,3,1,0,2,6.0,5.0,0.0,1.0,1741266619
+Ethiopia,South West,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266619
+Ethiopia,Tigray,February,2025,1,1,0,0,2.0,0.0,1.0,1.0,1741266619
+Ethiopia,Addis Ababa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,Afar,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,Amhara,March,2025,75,57,3,15,180.0,162.0,8.0,10.0,1744287542
+Ethiopia,Benshangul/Gumuz,March,2025,1,0,0,1,3.0,1.0,0.0,2.0,1744287542
+Ethiopia,Central Ethiopia,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,Dire Dawa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,Gambela,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,Harari,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,Oromia,March,2025,32,21,0,11,34.0,23.0,2.0,9.0,1744287542
+Ethiopia,Sidama,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,Somali,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,South Ethiopia Region,March,2025,4,3,0,1,10.0,4.0,0.0,6.0,1744287542
+Ethiopia,South West,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287542
+Ethiopia,Tigray,March,2025,2,0,1,1,9.0,1.0,0.0,8.0,1744287542
+Ethiopia,Addis Ababa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Afar,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Amhara,April,2025,160,139,8,13,84.0,64.0,7.0,13.0,1746702912
+Ethiopia,Benshangul/Gumuz,April,2025,3,1,0,2,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Central Ethiopia,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Dire Dawa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Gambela,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Harari,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Oromia,April,2025,34,24,2,8,43.0,25.0,0.0,18.0,1746702912
+Ethiopia,Sidama,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Somali,April,2025,0,0,0,0,2.0,0.0,0.0,2.0,1746702912
+Ethiopia,South Ethiopia Region,April,2025,10,4,0,6,1.0,0.0,0.0,1.0,1746702912
+Ethiopia,South West,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Ethiopia,Tigray,April,2025,9,2,0,7,4.0,2.0,0.0,2.0,1746702912
+Ethiopia,Addis Ababa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732011
+Ethiopia,Afar,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732011
+Ethiopia,Amhara,May,2025,85,65,7,13,34.0,27.0,3.0,4.0,1749732011
+Ethiopia,Benshangul/Gumuz,May,2025,0,0,0,0,2.0,1.0,0.0,1.0,1749732011
+Ethiopia,Central Ethiopia,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732011
+Ethiopia,Dire Dawa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732011
+Ethiopia,Gambela,May,2025,0,0,0,0,5.0,3.0,0.0,2.0,1749732011
+Ethiopia,Harari,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732011
+Ethiopia,Oromia,May,2025,42,25,0,17,36.0,20.0,2.0,14.0,1749732011
+Ethiopia,Sidama,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732011
+Ethiopia,Somali,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732011
+Ethiopia,South Ethiopia Region,May,2025,2,0,0,2,6.0,3.0,0.0,3.0,1749732011
+Ethiopia,South West,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Ethiopia,Tigray,May,2025,5,2,0,3,3.0,1.0,0.0,2.0,1749732012
+Ethiopia,Addis Ababa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Addis Ababa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Addis Ababa,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Ethiopia,Addis Ababa,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Ethiopia,Addis Ababa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ethiopia,Addis Ababa,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ethiopia,Addis Ababa,December,2025,0,0,0,0,,,,,1765375966
+Ethiopia,Afar,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Afar,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Afar,August,2025,0,0,0,0,5.0,2.0,0.0,3.0,1757596698
+Ethiopia,Afar,September,2025,4,2,0,2,0.0,0.0,0.0,0.0,1760036046
+Ethiopia,Afar,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Ethiopia,Afar,November,2025,2,1,0,1,2.0,1.0,1.0,0.0,1765375966
+Ethiopia,Afar,December,2025,1,1,0,0,,,,,1765375966
+Ethiopia,Amhara,June,2025,44,31,4,9,79.0,70.0,3.0,6.0,1754429217
+Ethiopia,Amhara,July,2025,81,69,3,9,97.0,76.0,3.0,18.0,1754429217
+Ethiopia,Amhara,August,2025,93,73,3,17,183.0,159.0,4.0,20.0,1757596698
+Ethiopia,Amhara,September,2025,176,153,4,19,147.0,122.0,13.0,12.0,1760036046
+Ethiopia,Amhara,October,2025,152,127,11,14,144.0,127.0,10.0,7.0,1762435626
+Ethiopia,Amhara,November,2025,144,124,10,10,113.0,99.0,4.0,10.0,1765375966
+Ethiopia,Amhara,December,2025,113,95,7,11,,,,,1765375966
+Ethiopia,Benshangul/Gumuz,June,2025,2,1,0,1,5.0,1.0,0.0,4.0,1754429217
+Ethiopia,Benshangul/Gumuz,July,2025,4,1,0,3,1.0,0.0,0.0,1.0,1754429217
+Ethiopia,Benshangul/Gumuz,August,2025,2,1,0,1,1.0,1.0,0.0,0.0,1757596698
+Ethiopia,Benshangul/Gumuz,September,2025,2,1,0,1,4.0,1.0,0.0,3.0,1760036046
+Ethiopia,Benshangul/Gumuz,October,2025,3,1,0,2,3.0,2.0,0.0,1.0,1762435626
+Ethiopia,Benshangul/Gumuz,November,2025,3,2,0,1,2.0,1.0,0.0,1.0,1765375966
+Ethiopia,Benshangul/Gumuz,December,2025,2,1,0,1,,,,,1765375966
+Ethiopia,Central Ethiopia,June,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Ethiopia,Central Ethiopia,July,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Central Ethiopia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ethiopia,Central Ethiopia,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Ethiopia,Central Ethiopia,October,2025,2,1,0,1,1.0,0.0,0.0,1.0,1762435626
+Ethiopia,Central Ethiopia,November,2025,1,0,0,1,1.0,1.0,0.0,0.0,1765375966
+Ethiopia,Central Ethiopia,December,2025,2,1,0,1,,,,,1765375966
+Ethiopia,Dire Dawa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Dire Dawa,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Ethiopia,Dire Dawa,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Ethiopia,Dire Dawa,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Ethiopia,Dire Dawa,October,2025,1,0,0,1,1.0,1.0,0.0,0.0,1762435626
+Ethiopia,Dire Dawa,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Ethiopia,Dire Dawa,December,2025,0,0,0,0,,,,,1765375966
+Ethiopia,Gambela,June,2025,4,2,0,2,9.0,4.0,0.0,5.0,1754429217
+Ethiopia,Gambela,July,2025,7,4,0,3,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Gambela,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ethiopia,Gambela,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ethiopia,Gambela,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Ethiopia,Gambela,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ethiopia,Gambela,December,2025,0,0,0,0,,,,,1765375966
+Ethiopia,Harari,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Harari,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Harari,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ethiopia,Harari,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ethiopia,Harari,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ethiopia,Harari,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ethiopia,Harari,December,2025,0,0,0,0,,,,,1765375966
+Ethiopia,Oromia,June,2025,38,20,2,16,39.0,19.0,1.0,19.0,1754429217
+Ethiopia,Oromia,July,2025,38,20,1,17,37.0,16.0,1.0,20.0,1754429217
+Ethiopia,Oromia,August,2025,36,15,1,20,51.0,24.0,0.0,27.0,1757596698
+Ethiopia,Oromia,September,2025,48,24,0,24,150.0,135.0,0.0,15.0,1760036046
+Ethiopia,Oromia,October,2025,156,134,1,21,49.0,30.0,0.0,19.0,1762435626
+Ethiopia,Oromia,November,2025,45,30,2,13,65.0,32.0,1.0,32.0,1765375966
+Ethiopia,Oromia,December,2025,60,31,1,28,,,,,1765375966
+Ethiopia,Sidama,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Sidama,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Sidama,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ethiopia,Sidama,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ethiopia,Sidama,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ethiopia,Sidama,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ethiopia,Sidama,December,2025,0,0,0,0,,,,,1765375966
+Ethiopia,Somali,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Ethiopia,Somali,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,Somali,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+Ethiopia,Somali,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Ethiopia,Somali,October,2025,1,0,0,1,3.0,1.0,0.0,2.0,1762435626
+Ethiopia,Somali,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Ethiopia,Somali,December,2025,0,0,0,0,,,,,1765375966
+Ethiopia,South Ethiopia Region,June,2025,5,3,0,2,2.0,0.0,0.0,2.0,1754429217
+Ethiopia,South Ethiopia Region,July,2025,3,0,0,3,2.0,0.0,0.0,2.0,1754429217
+Ethiopia,South Ethiopia Region,August,2025,2,0,0,2,3.0,0.0,0.0,3.0,1757596698
+Ethiopia,South Ethiopia Region,September,2025,4,1,0,3,3.0,1.0,0.0,2.0,1760036046
+Ethiopia,South Ethiopia Region,October,2025,3,1,0,2,4.0,2.0,0.0,2.0,1762435626
+Ethiopia,South Ethiopia Region,November,2025,3,2,0,1,2.0,2.0,0.0,0.0,1765375966
+Ethiopia,South Ethiopia Region,December,2025,3,2,0,1,,,,,1765375966
+Ethiopia,South West,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Ethiopia,South West,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Ethiopia,South West,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Ethiopia,South West,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Ethiopia,South West,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Ethiopia,South West,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Ethiopia,South West,December,2025,0,0,0,0,,,,,1765375966
+Ethiopia,Tigray,June,2025,3,1,0,2,1.0,0.0,0.0,1.0,1754429217
+Ethiopia,Tigray,July,2025,2,0,0,2,4.0,4.0,0.0,0.0,1754429217
+Ethiopia,Tigray,August,2025,4,3,0,1,10.0,5.0,1.0,4.0,1757596698
+Ethiopia,Tigray,September,2025,10,5,1,4,6.0,4.0,0.0,2.0,1760036046
+Ethiopia,Tigray,October,2025,8,4,1,3,2.0,2.0,0.0,0.0,1762435626
+Ethiopia,Tigray,November,2025,4,2,1,1,7.0,2.0,1.0,4.0,1765375966
+Ethiopia,Tigray,December,2025,6,2,0,4,,,,,1765375966
+Ethiopia,Addis Ababa,January,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Afar,January,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Amhara,January,2026,115,95,7,13,,,,,1765375966
+Ethiopia,Benshangul/Gumuz,January,2026,3,1,0,2,,,,,1765375966
+Ethiopia,Central Ethiopia,January,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Dire Dawa,January,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Gambela,January,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Harari,January,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Oromia,January,2026,57,31,1,25,,,,,1765375966
+Ethiopia,Sidama,January,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Somali,January,2026,0,0,0,0,,,,,1765375966
+Ethiopia,South Ethiopia Region,January,2026,3,2,0,1,,,,,1765375966
+Ethiopia,South West,January,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Tigray,January,2026,5,2,0,3,,,,,1765375966
+Ethiopia,Addis Ababa,February,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Afar,February,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Amhara,February,2026,115,95,7,13,,,,,1765375966
+Ethiopia,Benshangul/Gumuz,February,2026,3,1,0,2,,,,,1765375966
+Ethiopia,Central Ethiopia,February,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Dire Dawa,February,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Gambela,February,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Harari,February,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Oromia,February,2026,56,31,1,24,,,,,1765375966
+Ethiopia,Sidama,February,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Somali,February,2026,0,0,0,0,,,,,1765375966
+Ethiopia,South Ethiopia Region,February,2026,3,2,0,1,,,,,1765375966
+Ethiopia,South West,February,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Tigray,February,2026,6,2,0,4,,,,,1765375966
+Ethiopia,Addis Ababa,March,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Afar,March,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Amhara,March,2026,115,95,7,13,,,,,1765375966
+Ethiopia,Benshangul/Gumuz,March,2026,3,1,0,2,,,,,1765375966
+Ethiopia,Central Ethiopia,March,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Dire Dawa,March,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Gambela,March,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Harari,March,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Oromia,March,2026,56,31,1,24,,,,,1765375966
+Ethiopia,Sidama,March,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Somali,March,2026,0,0,0,0,,,,,1765375966
+Ethiopia,South Ethiopia Region,March,2026,4,2,0,2,,,,,1765375966
+Ethiopia,South West,March,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Tigray,March,2026,6,2,0,4,,,,,1765375966
+Ethiopia,Addis Ababa,April,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Afar,April,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Amhara,April,2026,115,95,7,13,,,,,1765375966
+Ethiopia,Benshangul/Gumuz,April,2026,3,1,0,2,,,,,1765375966
+Ethiopia,Central Ethiopia,April,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Dire Dawa,April,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Gambela,April,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Harari,April,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Oromia,April,2026,58,31,1,26,,,,,1765375966
+Ethiopia,Sidama,April,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Somali,April,2026,0,0,0,0,,,,,1765375966
+Ethiopia,South Ethiopia Region,April,2026,4,2,0,2,,,,,1765375966
+Ethiopia,South West,April,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Tigray,April,2026,6,2,0,4,,,,,1765375966
+Ethiopia,Addis Ababa,May,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Afar,May,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Amhara,May,2026,114,95,7,12,,,,,1765375966
+Ethiopia,Benshangul/Gumuz,May,2026,3,1,0,2,,,,,1765375966
+Ethiopia,Central Ethiopia,May,2026,2,1,0,1,,,,,1765375966
+Ethiopia,Dire Dawa,May,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Gambela,May,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Harari,May,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Oromia,May,2026,55,28,1,26,,,,,1765375966
+Ethiopia,Sidama,May,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Somali,May,2026,0,0,0,0,,,,,1765375966
+Ethiopia,South Ethiopia Region,May,2026,4,2,0,2,,,,,1765375966
+Ethiopia,South West,May,2026,0,0,0,0,,,,,1765375966
+Ethiopia,Tigray,May,2026,6,2,0,4,,,,,1765375966

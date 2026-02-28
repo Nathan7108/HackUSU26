@@ -3,8 +3,6 @@ import {
   Globe,
   LayoutDashboard,
   List,
-  Route,
-  Bell,
   TrendingUp,
   FileBarChart,
   Settings,
@@ -17,8 +15,6 @@ import { cn } from "@/lib/utils"
 const navItems = [
   { to: "/dashboard", icon: LayoutDashboard, label: "Dashboard" },
   { to: "/countries", icon: List, label: "Countries" },
-  { to: "/exposure", icon: Route, label: "Exposure" },
-  { to: "/alerts", icon: Bell, label: "Alerts" },
   { to: "/forecasts", icon: TrendingUp, label: "Forecasts" },
   { to: "/reports", icon: FileBarChart, label: "Reports" },
   { to: "/settings", icon: Settings, label: "Settings" },

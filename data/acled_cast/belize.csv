@@ -1,0 +1,235 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Belize,Belize,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560721
+Belize,Belize,April,2023,1,0,0,1,4.0,1.0,0.0,3.0,1728560721
+Belize,Belize,May,2023,3,1,0,2,6.0,1.0,0.0,5.0,1728560721
+Belize,Belize,June,2023,3,1,0,3,4.0,0.0,0.0,4.0,1728560721
+Belize,Belize,July,2023,3,0,0,3,9.0,4.0,0.0,5.0,1728560721
+Belize,Belize,August,2023,6,2,0,4,7.0,4.0,0.0,3.0,1728560721
+Belize,Belize,September,2023,7,3,0,4,0.0,0.0,0.0,0.0,1728560721
+Belize,Belize,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560721
+Belize,Belize,November,2023,2,0,0,2,2.0,1.0,0.0,1.0,1728560721
+Belize,Belize,December,2023,1,0,0,1,6.0,1.0,0.0,5.0,1728560721
+Belize,Belize,January,2024,6,1,0,5,4.0,1.0,0.0,3.0,1728560721
+Belize,Belize,February,2024,4,1,0,3,5.0,2.0,0.0,3.0,1728560721
+Belize,Belize,March,2024,4,1,0,3,5.0,2.0,0.0,3.0,1728560721
+Belize,Belize,April,2024,4,1,0,3,0.0,0.0,0.0,0.0,1728560721
+Belize,Belize,May,2024,1,0,0,1,2.0,0.0,0.0,2.0,1728560721
+Belize,Belize,June,2024,2,0,0,2,4.0,1.0,0.0,3.0,1728560721
+Belize,Belize,July,2024,4,1,0,3,1.0,0.0,0.0,1.0,1728560721
+Belize,Belize,August,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560721
+Belize,Cayo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560722
+Belize,Cayo,August,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560722
+Belize,Cayo,September,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560722
+Belize,Cayo,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560722
+Belize,Cayo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560722
+Belize,Cayo,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,March,2024,0,0,0,0,2.0,1.0,0.0,1.0,1728560722
+Belize,Cayo,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Cayo,June,2024,0,0,0,0,2.0,2.0,0.0,0.0,1728560722
+Belize,Cayo,July,2024,2,2,0,0,1.0,1.0,0.0,0.0,1728560722
+Belize,Cayo,August,2024,2,1,0,1,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560722
+Belize,Corozal,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560722
+Belize,Corozal,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560722
+Belize,Corozal,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Corozal,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Corozal,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Corozal,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Corozal,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Corozal,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560723
+Belize,Orange Walk,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560723
+Belize,Orange Walk,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Orange Walk,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Stann Creek,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560723
+Belize,Stann Creek,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Stann Creek,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560724
+Belize,Toledo,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1728560724
+Belize,Toledo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560725
+Belize,Toledo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560725
+Belize,Toledo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560725
+Belize,Toledo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560725
+Belize,Toledo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560725
+Belize,Toledo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560725
+Belize,Toledo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560725
+Belize,Belize,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730982
+Belize,Cayo,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730982
+Belize,Corozal,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Belize,Orange Walk,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Belize,Stann Creek,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Belize,Toledo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730982
+Belize,Belize,October,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010268
+Belize,Belize,November,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010268
+Belize,Cayo,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010268
+Belize,Cayo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010268
+Belize,Corozal,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010269
+Belize,Corozal,November,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010269
+Belize,Orange Walk,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010269
+Belize,Orange Walk,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010269
+Belize,Stann Creek,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010269
+Belize,Stann Creek,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010269
+Belize,Toledo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010269
+Belize,Toledo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010269
+Belize,Belize,December,2024,0,0,0,0,2.0,0.0,0.0,2.0,1737033333
+Belize,Cayo,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033333
+Belize,Corozal,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033334
+Belize,Orange Walk,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033334
+Belize,Stann Creek,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033334
+Belize,Toledo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033334
+Belize,Belize,January,2025,2,0,0,2,2.0,0.0,0.0,2.0,1738854840
+Belize,Cayo,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854840
+Belize,Corozal,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854840
+Belize,Orange Walk,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854840
+Belize,Stann Creek,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854840
+Belize,Toledo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854840
+Belize,Belize,February,2025,2,0,0,2,5.0,2.0,0.0,3.0,1741266609
+Belize,Cayo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266610
+Belize,Corozal,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266610
+Belize,Orange Walk,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266610
+Belize,Stann Creek,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266610
+Belize,Toledo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266610
+Belize,Belize,March,2025,3,1,0,2,7.0,2.0,0.0,5.0,1744287540
+Belize,Cayo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Belize,Corozal,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Belize,Orange Walk,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287540
+Belize,Stann Creek,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287540
+Belize,Toledo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287540
+Belize,Belize,April,2025,6,2,0,4,2.0,0.0,0.0,2.0,1746702909
+Belize,Cayo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belize,Corozal,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belize,Orange Walk,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belize,Stann Creek,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702909
+Belize,Toledo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702909
+Belize,Belize,May,2025,3,0,0,3,5.0,3.0,0.0,2.0,1749732004
+Belize,Cayo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belize,Corozal,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belize,Orange Walk,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belize,Stann Creek,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belize,Toledo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732004
+Belize,Belize,June,2025,3,1,0,2,1.0,1.0,0.0,0.0,1754429217
+Belize,Belize,July,2025,2,1,0,1,6.0,2.0,0.0,4.0,1754429217
+Belize,Belize,August,2025,5,2,0,3,3.0,2.0,0.0,1.0,1757596698
+Belize,Belize,September,2025,4,2,0,2,5.0,3.0,0.0,2.0,1760036046
+Belize,Belize,October,2025,4,2,0,2,2.0,1.0,0.0,1.0,1762435626
+Belize,Belize,November,2025,2,1,0,1,3.0,1.0,0.0,2.0,1765375966
+Belize,Belize,December,2025,3,1,0,2,,,,,1765375966
+Belize,Cayo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Cayo,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Belize,Cayo,August,2025,1,0,0,1,1.0,1.0,0.0,0.0,1757596698
+Belize,Cayo,September,2025,2,1,0,1,2.0,0.0,0.0,2.0,1760036046
+Belize,Cayo,October,2025,2,0,0,2,1.0,1.0,0.0,0.0,1762435626
+Belize,Cayo,November,2025,1,1,0,0,1.0,0.0,0.0,1.0,1765375966
+Belize,Cayo,December,2025,1,0,0,1,,,,,1765375966
+Belize,Corozal,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Corozal,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Corozal,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Belize,Corozal,September,2025,1,0,0,1,1.0,0.0,0.0,1.0,1760036046
+Belize,Corozal,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Belize,Corozal,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Belize,Corozal,December,2025,0,0,0,0,,,,,1765375966
+Belize,Orange Walk,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Orange Walk,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Orange Walk,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Belize,Orange Walk,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Belize,Orange Walk,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Belize,Orange Walk,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Belize,Orange Walk,December,2025,1,0,0,1,,,,,1765375966
+Belize,Stann Creek,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Stann Creek,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Stann Creek,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Belize,Stann Creek,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Belize,Stann Creek,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Belize,Stann Creek,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belize,Stann Creek,December,2025,0,0,0,0,,,,,1765375966
+Belize,Toledo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Toledo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Belize,Toledo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Belize,Toledo,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Belize,Toledo,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Belize,Toledo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Belize,Toledo,December,2025,0,0,0,0,,,,,1765375966
+Belize,Belize,January,2026,3,1,0,2,,,,,1765375966
+Belize,Cayo,January,2026,1,0,0,1,,,,,1765375966
+Belize,Corozal,January,2026,0,0,0,0,,,,,1765375966
+Belize,Orange Walk,January,2026,1,0,0,1,,,,,1765375966
+Belize,Stann Creek,January,2026,0,0,0,0,,,,,1765375966
+Belize,Toledo,January,2026,0,0,0,0,,,,,1765375966
+Belize,Belize,February,2026,3,1,0,2,,,,,1765375966
+Belize,Cayo,February,2026,1,0,0,1,,,,,1765375966
+Belize,Corozal,February,2026,0,0,0,0,,,,,1765375966
+Belize,Orange Walk,February,2026,1,0,0,1,,,,,1765375966
+Belize,Stann Creek,February,2026,0,0,0,0,,,,,1765375966
+Belize,Toledo,February,2026,0,0,0,0,,,,,1765375966
+Belize,Belize,March,2026,3,1,0,2,,,,,1765375966
+Belize,Cayo,March,2026,1,0,0,1,,,,,1765375966
+Belize,Corozal,March,2026,0,0,0,0,,,,,1765375966
+Belize,Orange Walk,March,2026,1,0,0,1,,,,,1765375966
+Belize,Stann Creek,March,2026,0,0,0,0,,,,,1765375966
+Belize,Toledo,March,2026,0,0,0,0,,,,,1765375966
+Belize,Belize,April,2026,3,1,0,2,,,,,1765375966
+Belize,Cayo,April,2026,1,0,0,1,,,,,1765375966
+Belize,Corozal,April,2026,0,0,0,0,,,,,1765375966
+Belize,Orange Walk,April,2026,1,0,0,1,,,,,1765375966
+Belize,Stann Creek,April,2026,0,0,0,0,,,,,1765375966
+Belize,Toledo,April,2026,0,0,0,0,,,,,1765375966
+Belize,Belize,May,2026,3,1,0,2,,,,,1765375966
+Belize,Cayo,May,2026,1,0,0,1,,,,,1765375966
+Belize,Corozal,May,2026,0,0,0,0,,,,,1765375966
+Belize,Orange Walk,May,2026,1,0,0,1,,,,,1765375966
+Belize,Stann Creek,May,2026,0,0,0,0,,,,,1765375966
+Belize,Toledo,May,2026,0,0,0,0,,,,,1765375966

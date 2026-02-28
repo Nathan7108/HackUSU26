@@ -1,0 +1,1951 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Algeria,Adrar,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560620
+Algeria,Adrar,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560620
+Algeria,Adrar,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560620
+Algeria,Adrar,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560620
+Algeria,Adrar,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560620
+Algeria,Adrar,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560620
+Algeria,Adrar,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560620
+Algeria,Adrar,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Adrar,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560621
+Algeria,Ain Defla,June,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560621
+Algeria,Ain Defla,July,2024,1,1,0,0,1.0,1.0,0.0,0.0,1728560622
+Algeria,Ain Defla,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Salah,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Temouchent,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Temouchent,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Temouchent,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Temouchent,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Temouchent,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Temouchent,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Temouchent,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560622
+Algeria,Ain Temouchent,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Ain Temouchent,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Alger,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Annaba,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560623
+Algeria,Annaba,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Annaba,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Batna,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560624
+Algeria,Bechar,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bechar,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560625
+Algeria,Bejaia,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Biskra,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560626
+Algeria,Blida,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Blida,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Blida,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bordj Bou Arreridj,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Bouira,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560627
+Algeria,Boumerdes,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Boumerdes,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560628
+Algeria,Chlef,May,2024,1,1,0,0,1.0,1.0,0.0,0.0,1728560628
+Algeria,Chlef,June,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Chlef,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560628
+Algeria,Constantine,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Constantine,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560629
+Algeria,Djanet,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djanet,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djanet,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,Djelfa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560630
+Algeria,El Bayadh,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Bayadh,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Bayadh,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Bayadh,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Bayadh,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Oued,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Tarf,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Tarf,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Tarf,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Tarf,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Tarf,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Tarf,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Tarf,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560631
+Algeria,El Tarf,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,El Tarf,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Ghardaia,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Guelma,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Guelma,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Guelma,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Guelma,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560632
+Algeria,Guelma,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Guelma,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Illizi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560633
+Algeria,Jijel,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Jijel,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Jijel,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Jijel,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Jijel,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Jijel,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Jijel,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Jijel,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Jijel,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Khenchela,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560634
+Algeria,Khenchela,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560634
+Algeria,Laghouat,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Laghouat,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Laghouat,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mascara,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560635
+Algeria,Medea,May,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Medea,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560635
+Algeria,Mila,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mila,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560636
+Algeria,Mostaganem,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Mostaganem,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Mostaganem,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Mostaganem,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Msila,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560637
+Algeria,Naama,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Naama,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Naama,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Naama,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Naama,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Naama,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Oran,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560638
+Algeria,Ouargla,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Ouargla,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Ouargla,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Ouargla,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Ouargla,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Ouargla,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Ouargla,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Oum El Bouaghi,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560639
+Algeria,Relizane,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Relizane,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Saida,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Setif,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560640
+Algeria,Setif,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Setif,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Sidi Bel Abbes,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560641
+Algeria,Skikda,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Skikda,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560642
+Algeria,Souk Ahras,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Souk Ahras,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Souk Ahras,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Souk Ahras,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Souk Ahras,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Souk Ahras,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Souk Ahras,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Souk Ahras,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Souk Ahras,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560643
+Algeria,Tamanrasset,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1728560643
+Algeria,Tamanrasset,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,May,2024,1,1,0,0,1.0,1.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,June,2024,1,1,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tamanrasset,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tebessa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tebessa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560643
+Algeria,Tebessa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tebessa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tiaret,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tindouf,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1728560644
+Algeria,Tindouf,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560645
+Algeria,Tindouf,June,2023,2,1,0,1,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560645
+Algeria,Tindouf,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1728560645
+Algeria,Tindouf,May,2024,1,0,0,1,1.0,0.0,1.0,0.0,1728560645
+Algeria,Tindouf,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tindouf,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tipaza,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560645
+Algeria,Tissemsilt,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tissemsilt,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tizi Ouzou,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560646
+Algeria,Tlemcen,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1728560647
+Algeria,Tlemcen,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Tlemcen,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1728560647
+Algeria,Adrar,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Ain Defla,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Ain Salah,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Ain Temouchent,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Alger,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Annaba,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Batna,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Bechar,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Bejaia,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Biskra,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Blida,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Bordj Bou Arreridj,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Bouira,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Boumerdes,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Chlef,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Constantine,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Djanet,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Djelfa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,El Bayadh,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,El Oued,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,El Tarf,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Ghardaia,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Guelma,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730978
+Algeria,Illizi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Jijel,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Khenchela,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Laghouat,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Mascara,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Medea,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Mila,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Mostaganem,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Msila,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Naama,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Oran,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Ouargla,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Oum El Bouaghi,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Relizane,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Saida,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Setif,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Sidi Bel Abbes,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Skikda,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Souk Ahras,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Tamanrasset,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Tebessa,September,2024,0,0,0,0,1.0,1.0,0.0,0.0,1730730979
+Algeria,Tiaret,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Tindouf,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Tipaza,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Tissemsilt,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Tizi Ouzou,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730979
+Algeria,Tlemcen,September,2024,0,0,0,0,2.0,0.0,1.0,1.0,1730730979
+Algeria,Adrar,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Adrar,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Ain Defla,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Ain Defla,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Ain Salah,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Ain Salah,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Ain Temouchent,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Ain Temouchent,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Alger,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Alger,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Annaba,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Annaba,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Batna,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Batna,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Bechar,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Bechar,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Bejaia,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Bejaia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Biskra,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Biskra,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Blida,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Blida,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Bordj Bou Arreridj,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Bordj Bou Arreridj,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Bouira,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Bouira,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Boumerdes,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Boumerdes,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010260
+Algeria,Chlef,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Chlef,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Constantine,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Constantine,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Djanet,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010261
+Algeria,Djanet,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010261
+Algeria,Djelfa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Djelfa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,El Bayadh,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,El Bayadh,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,El Oued,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,El Oued,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,El Tarf,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,El Tarf,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Ghardaia,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Ghardaia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Guelma,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Guelma,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Illizi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Illizi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Jijel,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Jijel,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Khenchela,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Khenchela,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Laghouat,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Laghouat,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Mascara,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Mascara,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Medea,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Medea,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Mila,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Mila,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Mostaganem,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Mostaganem,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Msila,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Msila,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Naama,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Naama,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Oran,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Oran,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Ouargla,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Ouargla,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Oum El Bouaghi,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Oum El Bouaghi,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010261
+Algeria,Relizane,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Relizane,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Saida,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Saida,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Setif,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Setif,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Sidi Bel Abbes,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Sidi Bel Abbes,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Skikda,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Skikda,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Souk Ahras,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Souk Ahras,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tamanrasset,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tamanrasset,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tebessa,October,2024,1,1,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tebessa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tiaret,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tiaret,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tindouf,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tindouf,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010262
+Algeria,Tipaza,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tipaza,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tissemsilt,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tissemsilt,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tizi Ouzou,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tizi Ouzou,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tlemcen,October,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010262
+Algeria,Tlemcen,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010262
+Algeria,Adrar,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033327
+Algeria,Ain Defla,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033327
+Algeria,Ain Salah,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Ain Temouchent,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Alger,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Annaba,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Batna,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Bechar,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Bejaia,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Biskra,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Blida,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Bordj Bou Arreridj,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Bouira,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Boumerdes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Chlef,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Constantine,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Djanet,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Djelfa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,El Bayadh,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,El Oued,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,El Tarf,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Ghardaia,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Guelma,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Illizi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Jijel,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Khenchela,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Laghouat,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Mascara,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Medea,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Mila,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Mostaganem,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Msila,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Naama,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Oran,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033328
+Algeria,Ouargla,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Oum El Bouaghi,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Relizane,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Saida,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Setif,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Sidi Bel Abbes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Skikda,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Souk Ahras,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Tamanrasset,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Tebessa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Tiaret,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Tindouf,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033329
+Algeria,Tipaza,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Tissemsilt,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Tizi Ouzou,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Tlemcen,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033329
+Algeria,Adrar,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Ain Defla,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Ain Salah,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Ain Temouchent,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Alger,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Annaba,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Batna,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Bechar,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Bejaia,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Biskra,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854834
+Algeria,Blida,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Bordj Bou Arreridj,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Bouira,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Boumerdes,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Chlef,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Constantine,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Djanet,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Djelfa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,El Bayadh,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,El Oued,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,El Tarf,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Ghardaia,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Guelma,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Illizi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Jijel,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Khenchela,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Laghouat,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Mascara,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Medea,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Mila,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Mostaganem,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Msila,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Naama,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Oran,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Ouargla,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Oum El Bouaghi,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Relizane,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Saida,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Setif,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Sidi Bel Abbes,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Skikda,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Souk Ahras,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Tamanrasset,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854835
+Algeria,Tebessa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Tiaret,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Tindouf,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854835
+Algeria,Tipaza,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Tissemsilt,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854835
+Algeria,Tizi Ouzou,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Algeria,Tlemcen,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854836
+Algeria,Adrar,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Ain Defla,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Ain Salah,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Ain Temouchent,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Alger,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Annaba,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Batna,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Bechar,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Bejaia,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Biskra,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Blida,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Bordj Bou Arreridj,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Bouira,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Boumerdes,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Chlef,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266602
+Algeria,Constantine,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Djanet,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Djelfa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,El Bayadh,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,El Oued,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,El Tarf,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Ghardaia,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Guelma,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Illizi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Jijel,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Khenchela,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Laghouat,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Mascara,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Medea,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266603
+Algeria,Mila,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Mostaganem,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Msila,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Naama,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Oran,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Ouargla,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266603
+Algeria,Oum El Bouaghi,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Relizane,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Saida,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Setif,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Sidi Bel Abbes,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Skikda,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Souk Ahras,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Tamanrasset,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266604
+Algeria,Tebessa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Tiaret,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Tindouf,February,2025,0,0,0,0,1.0,1.0,0.0,0.0,1741266604
+Algeria,Tipaza,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Tissemsilt,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Tizi Ouzou,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Tlemcen,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266604
+Algeria,Adrar,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Ain Defla,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Ain Salah,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Ain Temouchent,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Alger,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Annaba,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Batna,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Bechar,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Bejaia,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Biskra,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Blida,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Bordj Bou Arreridj,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Bouira,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Boumerdes,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Chlef,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Constantine,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Djanet,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,Djelfa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,El Bayadh,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287538
+Algeria,El Oued,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,El Tarf,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Ghardaia,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Guelma,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Illizi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Jijel,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Khenchela,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Laghouat,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Mascara,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Medea,March,2025,1,1,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Mila,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Mostaganem,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Msila,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Naama,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Oran,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Ouargla,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Oum El Bouaghi,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Relizane,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Saida,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Setif,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Sidi Bel Abbes,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Skikda,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Souk Ahras,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Tamanrasset,March,2025,0,0,0,0,1.0,1.0,0.0,0.0,1744287539
+Algeria,Tebessa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Tiaret,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Tindouf,March,2025,1,1,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Tipaza,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Tissemsilt,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Tizi Ouzou,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Tlemcen,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287539
+Algeria,Adrar,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Ain Defla,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Ain Salah,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Ain Temouchent,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Alger,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Annaba,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Batna,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Bechar,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Bejaia,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Biskra,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Blida,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Bordj Bou Arreridj,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Bouira,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Boumerdes,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Chlef,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Constantine,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Djanet,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Djelfa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,El Bayadh,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,El Oued,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,El Tarf,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Ghardaia,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Guelma,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Illizi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Jijel,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Khenchela,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Laghouat,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Mascara,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Medea,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Mila,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Mostaganem,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Msila,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Naama,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Oran,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Ouargla,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Oum El Bouaghi,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Relizane,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Saida,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Setif,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Sidi Bel Abbes,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Skikda,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Souk Ahras,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Tamanrasset,April,2025,1,1,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Tebessa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Tiaret,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Tindouf,April,2025,0,0,0,0,4.0,0.0,0.0,4.0,1746702907
+Algeria,Tipaza,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Tissemsilt,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Tizi Ouzou,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Tlemcen,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702907
+Algeria,Adrar,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Ain Defla,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Ain Salah,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Ain Temouchent,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Alger,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Annaba,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Batna,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Bechar,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Bejaia,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Biskra,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Blida,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Bordj Bou Arreridj,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Bouira,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Boumerdes,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Chlef,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Constantine,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Djanet,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Djelfa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,El Bayadh,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,El Oued,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,El Tarf,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Ghardaia,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Guelma,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Illizi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Jijel,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Khenchela,May,2025,0,0,0,0,2.0,2.0,0.0,0.0,1749732000
+Algeria,Laghouat,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Mascara,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Medea,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Mila,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Mostaganem,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Msila,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Naama,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Oran,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Ouargla,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Oum El Bouaghi,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732000
+Algeria,Relizane,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Saida,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Setif,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Sidi Bel Abbes,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Skikda,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Souk Ahras,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Tamanrasset,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Tebessa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Tiaret,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Tindouf,May,2025,4,0,0,4,0.0,0.0,0.0,0.0,1749732001
+Algeria,Tipaza,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Tissemsilt,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732001
+Algeria,Tizi Ouzou,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Tlemcen,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732001
+Algeria,Adrar,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Adrar,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Adrar,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Adrar,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Adrar,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Adrar,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Adrar,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Ain Defla,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ain Defla,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ain Defla,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Ain Defla,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Ain Defla,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Ain Defla,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Ain Defla,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Ain Salah,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ain Salah,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ain Salah,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Ain Salah,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Ain Salah,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Ain Salah,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Ain Salah,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Ain Temouchent,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ain Temouchent,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ain Temouchent,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Ain Temouchent,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Ain Temouchent,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Ain Temouchent,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Ain Temouchent,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Alger,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Alger,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Alger,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Alger,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Alger,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Alger,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Alger,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Annaba,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Annaba,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Annaba,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Annaba,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Annaba,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Annaba,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Annaba,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Batna,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Batna,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Batna,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Batna,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Batna,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Batna,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Batna,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Bechar,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Bechar,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Bechar,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Bechar,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Bechar,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Bechar,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Bechar,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Bejaia,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Bejaia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Bejaia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Bejaia,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Bejaia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Bejaia,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Bejaia,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Biskra,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Biskra,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Biskra,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Biskra,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Biskra,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Biskra,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Biskra,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Blida,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Blida,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Blida,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Blida,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Blida,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Blida,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Blida,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Bordj Bou Arreridj,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Bordj Bou Arreridj,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Bordj Bou Arreridj,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Bordj Bou Arreridj,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Bordj Bou Arreridj,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Bordj Bou Arreridj,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Bordj Bou Arreridj,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Bouira,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Bouira,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Bouira,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Bouira,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Bouira,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Bouira,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Bouira,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Boumerdes,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Boumerdes,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Boumerdes,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Boumerdes,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Boumerdes,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Boumerdes,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Boumerdes,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Chlef,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Chlef,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Chlef,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Chlef,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Chlef,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Chlef,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Chlef,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Constantine,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Constantine,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Constantine,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Constantine,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Constantine,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Constantine,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Constantine,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Djanet,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Djanet,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Djanet,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Djanet,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Djanet,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Djanet,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Djanet,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Djelfa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Djelfa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Djelfa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Djelfa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Djelfa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Djelfa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Djelfa,December,2025,0,0,0,0,,,,,1765375966
+Algeria,El Bayadh,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,El Bayadh,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,El Bayadh,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,El Bayadh,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,El Bayadh,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,El Bayadh,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,El Bayadh,December,2025,0,0,0,0,,,,,1765375966
+Algeria,El Oued,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,El Oued,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,El Oued,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,El Oued,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,El Oued,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,El Oued,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,El Oued,December,2025,0,0,0,0,,,,,1765375966
+Algeria,El Tarf,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,El Tarf,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,El Tarf,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,El Tarf,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,El Tarf,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,El Tarf,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,El Tarf,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Ghardaia,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ghardaia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ghardaia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Ghardaia,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Ghardaia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Ghardaia,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Ghardaia,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Guelma,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Guelma,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Guelma,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Guelma,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Guelma,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Guelma,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Guelma,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Illizi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Illizi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Illizi,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Algeria,Illizi,September,2025,1,1,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Illizi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Illizi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Illizi,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Jijel,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Jijel,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Jijel,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Jijel,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Jijel,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Jijel,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Jijel,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Khenchela,June,2025,2,2,0,0,1.0,1.0,0.0,0.0,1754429217
+Algeria,Khenchela,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Khenchela,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Khenchela,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Khenchela,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Khenchela,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Khenchela,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Laghouat,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Laghouat,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Laghouat,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Laghouat,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Laghouat,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Laghouat,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Laghouat,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Mascara,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Mascara,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Mascara,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Mascara,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Mascara,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Mascara,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Mascara,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Medea,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Medea,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Medea,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Medea,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Medea,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Medea,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Medea,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Mila,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Mila,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Mila,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Mila,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Mila,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Mila,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Mila,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Mostaganem,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Mostaganem,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Mostaganem,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Mostaganem,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Mostaganem,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Mostaganem,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Mostaganem,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Msila,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Msila,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Msila,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Msila,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Msila,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Msila,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Msila,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Naama,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Naama,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Naama,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Naama,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Naama,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Naama,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Naama,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Oran,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Oran,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Oran,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Oran,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Oran,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Oran,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Oran,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Ouargla,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ouargla,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Ouargla,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Ouargla,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Ouargla,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Ouargla,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Ouargla,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Oum El Bouaghi,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Oum El Bouaghi,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Oum El Bouaghi,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Oum El Bouaghi,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Oum El Bouaghi,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Oum El Bouaghi,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Oum El Bouaghi,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Relizane,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Relizane,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Relizane,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Relizane,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Relizane,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Relizane,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Relizane,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Saida,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Saida,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Saida,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Saida,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Saida,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Saida,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Saida,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Setif,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Setif,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Setif,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Setif,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Setif,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Setif,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Setif,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Sidi Bel Abbes,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Sidi Bel Abbes,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Sidi Bel Abbes,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Sidi Bel Abbes,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Sidi Bel Abbes,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Sidi Bel Abbes,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Sidi Bel Abbes,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Skikda,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Skikda,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Skikda,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Skikda,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Skikda,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Skikda,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Skikda,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Souk Ahras,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Souk Ahras,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Souk Ahras,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Souk Ahras,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Souk Ahras,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Souk Ahras,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Souk Ahras,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Tamanrasset,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tamanrasset,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tamanrasset,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Tamanrasset,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Tamanrasset,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Tamanrasset,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Tamanrasset,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Tebessa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tebessa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tebessa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Tebessa,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Algeria,Tebessa,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Algeria,Tebessa,November,2025,1,1,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Tebessa,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Tiaret,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tiaret,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tiaret,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Tiaret,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Tiaret,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Tiaret,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Tiaret,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Tindouf,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tindouf,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Algeria,Tindouf,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Algeria,Tindouf,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Algeria,Tindouf,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Algeria,Tindouf,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Algeria,Tindouf,December,2025,1,0,0,1,,,,,1765375966
+Algeria,Tipaza,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tipaza,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tipaza,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Tipaza,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Algeria,Tipaza,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Tipaza,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Tipaza,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Tissemsilt,June,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tissemsilt,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tissemsilt,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Tissemsilt,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Tissemsilt,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Tissemsilt,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Tissemsilt,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Tizi Ouzou,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tizi Ouzou,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tizi Ouzou,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Tizi Ouzou,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Tizi Ouzou,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Tizi Ouzou,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Tizi Ouzou,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Tlemcen,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tlemcen,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Algeria,Tlemcen,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Algeria,Tlemcen,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Algeria,Tlemcen,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Algeria,Tlemcen,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Algeria,Tlemcen,December,2025,0,0,0,0,,,,,1765375966
+Algeria,Adrar,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Defla,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Salah,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Temouchent,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Alger,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Annaba,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Batna,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Bechar,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Bejaia,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Biskra,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Blida,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Bordj Bou Arreridj,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Bouira,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Boumerdes,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Chlef,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Constantine,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Djanet,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Djelfa,January,2026,0,0,0,0,,,,,1765375966
+Algeria,El Bayadh,January,2026,0,0,0,0,,,,,1765375966
+Algeria,El Oued,January,2026,0,0,0,0,,,,,1765375966
+Algeria,El Tarf,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Ghardaia,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Guelma,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Illizi,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Jijel,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Khenchela,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Laghouat,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Mascara,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Medea,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Mila,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Mostaganem,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Msila,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Naama,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Oran,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Ouargla,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Oum El Bouaghi,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Relizane,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Saida,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Setif,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Sidi Bel Abbes,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Skikda,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Souk Ahras,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Tamanrasset,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Tebessa,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Tiaret,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Tindouf,January,2026,1,0,0,1,,,,,1765375966
+Algeria,Tipaza,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Tissemsilt,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Tizi Ouzou,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Tlemcen,January,2026,0,0,0,0,,,,,1765375966
+Algeria,Adrar,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Defla,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Salah,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Temouchent,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Alger,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Annaba,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Batna,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Bechar,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Bejaia,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Biskra,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Blida,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Bordj Bou Arreridj,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Bouira,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Boumerdes,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Chlef,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Constantine,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Djanet,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Djelfa,February,2026,0,0,0,0,,,,,1765375966
+Algeria,El Bayadh,February,2026,0,0,0,0,,,,,1765375966
+Algeria,El Oued,February,2026,0,0,0,0,,,,,1765375966
+Algeria,El Tarf,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Ghardaia,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Guelma,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Illizi,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Jijel,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Khenchela,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Laghouat,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Mascara,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Medea,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Mila,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Mostaganem,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Msila,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Naama,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Oran,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Ouargla,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Oum El Bouaghi,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Relizane,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Saida,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Setif,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Sidi Bel Abbes,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Skikda,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Souk Ahras,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Tamanrasset,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Tebessa,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Tiaret,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Tindouf,February,2026,1,0,0,1,,,,,1765375966
+Algeria,Tipaza,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Tissemsilt,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Tizi Ouzou,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Tlemcen,February,2026,0,0,0,0,,,,,1765375966
+Algeria,Adrar,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Defla,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Salah,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Temouchent,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Alger,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Annaba,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Batna,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Bechar,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Bejaia,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Biskra,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Blida,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Bordj Bou Arreridj,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Bouira,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Boumerdes,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Chlef,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Constantine,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Djanet,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Djelfa,March,2026,0,0,0,0,,,,,1765375966
+Algeria,El Bayadh,March,2026,0,0,0,0,,,,,1765375966
+Algeria,El Oued,March,2026,0,0,0,0,,,,,1765375966
+Algeria,El Tarf,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Ghardaia,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Guelma,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Illizi,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Jijel,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Khenchela,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Laghouat,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Mascara,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Medea,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Mila,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Mostaganem,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Msila,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Naama,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Oran,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Ouargla,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Oum El Bouaghi,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Relizane,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Saida,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Setif,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Sidi Bel Abbes,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Skikda,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Souk Ahras,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Tamanrasset,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Tebessa,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Tiaret,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Tindouf,March,2026,1,0,0,1,,,,,1765375966
+Algeria,Tipaza,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Tissemsilt,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Tizi Ouzou,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Tlemcen,March,2026,0,0,0,0,,,,,1765375966
+Algeria,Adrar,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Defla,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Salah,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Temouchent,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Alger,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Annaba,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Batna,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Bechar,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Bejaia,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Biskra,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Blida,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Bordj Bou Arreridj,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Bouira,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Boumerdes,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Chlef,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Constantine,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Djanet,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Djelfa,April,2026,0,0,0,0,,,,,1765375966
+Algeria,El Bayadh,April,2026,0,0,0,0,,,,,1765375966
+Algeria,El Oued,April,2026,0,0,0,0,,,,,1765375966
+Algeria,El Tarf,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Ghardaia,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Guelma,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Illizi,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Jijel,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Khenchela,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Laghouat,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Mascara,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Medea,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Mila,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Mostaganem,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Msila,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Naama,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Oran,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Ouargla,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Oum El Bouaghi,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Relizane,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Saida,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Setif,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Sidi Bel Abbes,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Skikda,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Souk Ahras,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Tamanrasset,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Tebessa,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Tiaret,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Tindouf,April,2026,1,0,0,1,,,,,1765375966
+Algeria,Tipaza,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Tissemsilt,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Tizi Ouzou,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Tlemcen,April,2026,0,0,0,0,,,,,1765375966
+Algeria,Adrar,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Defla,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Salah,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Ain Temouchent,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Alger,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Annaba,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Batna,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Bechar,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Bejaia,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Biskra,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Blida,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Bordj Bou Arreridj,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Bouira,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Boumerdes,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Chlef,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Constantine,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Djanet,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Djelfa,May,2026,0,0,0,0,,,,,1765375966
+Algeria,El Bayadh,May,2026,0,0,0,0,,,,,1765375966
+Algeria,El Oued,May,2026,0,0,0,0,,,,,1765375966
+Algeria,El Tarf,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Ghardaia,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Guelma,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Illizi,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Jijel,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Khenchela,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Laghouat,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Mascara,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Medea,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Mila,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Mostaganem,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Msila,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Naama,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Oran,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Ouargla,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Oum El Bouaghi,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Relizane,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Saida,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Setif,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Sidi Bel Abbes,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Skikda,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Souk Ahras,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Tamanrasset,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Tebessa,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Tiaret,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Tindouf,May,2026,1,0,0,1,,,,,1765375966
+Algeria,Tipaza,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Tissemsilt,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Tizi Ouzou,May,2026,0,0,0,0,,,,,1765375966
+Algeria,Tlemcen,May,2026,0,0,0,0,,,,,1765375966

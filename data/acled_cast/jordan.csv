@@ -1,0 +1,169 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Jordan,Ajlun,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Ajlun,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Ajlun,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Ajlun,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Aqabah,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Aqabah,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Aqabah,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Aqabah,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Balqa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Balqa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Balqa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Balqa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141049
+Jordan,Al Karak,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Al Karak,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Al Karak,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Al Karak,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Al Mafraq,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141050
+Jordan,Al Mafraq,June,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Al Mafraq,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Al Mafraq,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141050
+Jordan,Amman,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Amman,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Amman,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Amman,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,At Tafilah,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,At Tafilah,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,At Tafilah,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,At Tafilah,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Az Zarqa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Az Zarqa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Az Zarqa,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141050
+Jordan,Az Zarqa,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Irbid,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Irbid,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Irbid,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Irbid,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Jerash,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Jerash,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Jerash,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Jerash,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Maan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Maan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Maan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Maan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Madaba,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Madaba,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Madaba,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Madaba,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141050
+Jordan,Ajlun,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Al Aqabah,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Al Balqa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Al Karak,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Al Mafraq,September,2024,1,1,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Amman,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,At Tafilah,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Az Zarqa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Irbid,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Jerash,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Maan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Madaba,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730992
+Jordan,Ajlun,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Ajlun,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Al Aqabah,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Al Aqabah,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Al Balqa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Al Balqa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Al Karak,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Al Karak,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Al Mafraq,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Al Mafraq,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Amman,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Amman,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,At Tafilah,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,At Tafilah,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Az Zarqa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Az Zarqa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Irbid,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Irbid,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Jerash,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Jerash,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Maan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Maan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Madaba,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Madaba,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010289
+Jordan,Ajlun,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Ajlun,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Ajlun,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Ajlun,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Ajlun,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Ajlun,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Aqabah,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Al Aqabah,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Aqabah,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Aqabah,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Aqabah,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Aqabah,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Balqa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Al Balqa,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Balqa,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Balqa,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Balqa,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Balqa,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Karak,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Al Karak,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Karak,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Karak,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Karak,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Karak,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Mafraq,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Al Mafraq,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Mafraq,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Mafraq,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Mafraq,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Al Mafraq,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Amman,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Amman,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Amman,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Amman,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Amman,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Amman,June,2025,0,0,0,0,,,,,1737033351
+Jordan,At Tafilah,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,At Tafilah,February,2025,0,0,0,0,,,,,1737033351
+Jordan,At Tafilah,March,2025,0,0,0,0,,,,,1737033351
+Jordan,At Tafilah,April,2025,0,0,0,0,,,,,1737033351
+Jordan,At Tafilah,May,2025,0,0,0,0,,,,,1737033351
+Jordan,At Tafilah,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Az Zarqa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Az Zarqa,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Az Zarqa,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Az Zarqa,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Az Zarqa,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Az Zarqa,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Irbid,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Irbid,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Irbid,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Irbid,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Irbid,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Irbid,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Jerash,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Jerash,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Jerash,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Jerash,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Jerash,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Jerash,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Maan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Maan,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Maan,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Maan,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Maan,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Maan,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Madaba,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033351
+Jordan,Madaba,February,2025,0,0,0,0,,,,,1737033351
+Jordan,Madaba,March,2025,0,0,0,0,,,,,1737033351
+Jordan,Madaba,April,2025,0,0,0,0,,,,,1737033351
+Jordan,Madaba,May,2025,0,0,0,0,,,,,1737033351
+Jordan,Madaba,June,2025,0,0,0,0,,,,,1737033351
+Jordan,Ajlun,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Al Aqabah,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Al Balqa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Al Karak,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Al Mafraq,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Amman,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,At Tafilah,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Az Zarqa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Irbid,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Jerash,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Maan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856
+Jordan,Madaba,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854856

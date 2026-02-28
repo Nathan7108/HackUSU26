@@ -159,7 +159,7 @@ export function SentinelSearchBar() {
           Ask Sentinel AI...
         </span>
         <kbd
-          className="rounded px-1.5 py-0.5 font-data text-[9px] transition-colors"
+          className="rounded px-1.5 py-0.5 font-data text-[10px] transition-colors"
           style={{
             backgroundColor: isCommandOpen
               ? "var(--sentinel-accent-muted)"
@@ -254,7 +254,7 @@ export function SentinelSearchBar() {
                       className="animate-spin"
                       style={{ color: "var(--sentinel-accent)" }}
                     />
-                    <span className="text-[11px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
+                    <span className="text-[12px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
                       Analyzing...
                     </span>
                   </div>
@@ -314,14 +314,14 @@ export function SentinelSearchBar() {
                     clearChat()
                     setStreamingText("")
                   }}
-                  className="flex items-center gap-1.5 text-[10px] transition-opacity hover:opacity-80"
+                  className="flex items-center gap-1.5 text-[11px] transition-opacity hover:opacity-80"
                   style={{ color: "var(--sentinel-text-tertiary)" }}
                 >
                   <RotateCcw size={10} />
                   New conversation
                 </button>
                 <span
-                  className="font-data text-[9px]"
+                  className="font-data text-[10px]"
                   style={{ color: "var(--sentinel-text-tertiary)", opacity: 0.4 }}
                 >
                   esc to close

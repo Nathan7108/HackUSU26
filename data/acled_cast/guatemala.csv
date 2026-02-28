@@ -1,0 +1,859 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Guatemala,Alta Verapaz,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Alta Verapaz,July,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,August,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Alta Verapaz,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Alta Verapaz,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Alta Verapaz,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Baja Verapaz,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Baja Verapaz,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Chimaltenango,June,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Chimaltenango,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,December,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141037
+Guatemala,Chimaltenango,January,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Chimaltenango,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chimaltenango,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,June,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Chiquimula,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Chiquimula,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Chiquimula,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,El Progreso,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,El Progreso,June,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,El Progreso,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Escuintla,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,April,2023,1,0,0,0,3.0,1.0,0.0,2.0,1726141037
+Guatemala,Escuintla,May,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,August,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141037
+Guatemala,Escuintla,September,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Escuintla,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,January,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Escuintla,February,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,March,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141037
+Guatemala,Escuintla,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Escuintla,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Guatemala,March,2023,2,0,0,2,7.0,0.0,0.0,7.0,1726141037
+Guatemala,Guatemala,April,2023,4,0,0,4,16.0,2.0,0.0,14.0,1726141037
+Guatemala,Guatemala,May,2023,11,2,0,10,18.0,2.0,0.0,16.0,1726141037
+Guatemala,Guatemala,June,2023,18,3,0,15,15.0,1.0,0.0,14.0,1726141037
+Guatemala,Guatemala,July,2023,18,5,0,13,13.0,2.0,0.0,11.0,1726141037
+Guatemala,Guatemala,August,2023,14,2,0,12,23.0,4.0,0.0,19.0,1726141037
+Guatemala,Guatemala,September,2023,21,3,0,18,16.0,3.0,0.0,13.0,1726141037
+Guatemala,Guatemala,October,2023,15,2,0,13,13.0,2.0,0.0,11.0,1726141037
+Guatemala,Guatemala,November,2023,12,1,0,11,12.0,2.0,0.0,10.0,1726141037
+Guatemala,Guatemala,December,2023,10,1,0,9,6.0,0.0,0.0,6.0,1726141037
+Guatemala,Guatemala,January,2024,6,0,0,6,15.0,1.0,0.0,14.0,1726141037
+Guatemala,Guatemala,February,2024,15,1,0,14,4.0,0.0,0.0,4.0,1726141037
+Guatemala,Guatemala,March,2024,7,0,0,7,8.0,2.0,0.0,6.0,1726141037
+Guatemala,Guatemala,April,2024,10,1,0,9,16.0,1.0,1.0,14.0,1726141037
+Guatemala,Guatemala,May,2024,11,1,0,10,4.0,0.0,0.0,4.0,1726141037
+Guatemala,Guatemala,June,2024,7,1,0,6,8.0,2.0,0.0,6.0,1726141037
+Guatemala,Guatemala,July,2024,7,1,0,6,12.0,4.0,0.0,8.0,1726141037
+Guatemala,Guatemala,August,2024,11,3,0,8,7.0,1.0,0.0,6.0,1726141037
+Guatemala,Huehuetenango,March,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Huehuetenango,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,June,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141037
+Guatemala,Huehuetenango,July,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Huehuetenango,August,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141037
+Guatemala,Huehuetenango,September,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Huehuetenango,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,April,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,May,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Huehuetenango,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Izabal,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,April,2023,1,0,0,0,3.0,1.0,0.0,2.0,1726141037
+Guatemala,Izabal,May,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,July,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Izabal,August,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141037
+Guatemala,Izabal,September,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Izabal,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Izabal,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Izabal,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,April,2023,1,0,0,0,2.0,0.0,0.0,2.0,1726141037
+Guatemala,Jalapa,May,2023,2,1,0,1,2.0,0.0,0.0,2.0,1726141037
+Guatemala,Jalapa,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,July,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jalapa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,May,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Jutiapa,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,October,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141037
+Guatemala,Jutiapa,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Jutiapa,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,March,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141037
+Guatemala,Jutiapa,April,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Jutiapa,August,2024,1,1,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Peten,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,June,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141037
+Guatemala,Peten,July,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Peten,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Peten,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Peten,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Peten,August,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Quetzaltenango,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,May,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,July,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141037
+Guatemala,Quetzaltenango,August,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Quetzaltenango,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,May,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,June,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quetzaltenango,August,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141037
+Guatemala,Quiche,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Quiche,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Quiche,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Quiche,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Quiche,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Retalhuleu,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Retalhuleu,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Retalhuleu,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Retalhuleu,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Retalhuleu,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,March,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Sacatepequez,June,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141037
+Guatemala,Sacatepequez,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Sacatepequez,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Sacatepequez,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,April,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,Sacatepequez,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Sacatepequez,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,March,2023,0,0,0,0,4.0,4.0,0.0,0.0,1726141037
+Guatemala,San Marcos,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,San Marcos,August,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141037
+Guatemala,San Marcos,September,2023,2,1,0,1,2.0,0.0,0.0,2.0,1726141037
+Guatemala,San Marcos,October,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141037
+Guatemala,San Marcos,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,December,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141037
+Guatemala,San Marcos,January,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141037
+Guatemala,San Marcos,February,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141037
+Guatemala,San Marcos,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,San Marcos,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141037
+Guatemala,Santa Rosa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,June,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141038
+Guatemala,Santa Rosa,July,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Guatemala,Santa Rosa,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Guatemala,Santa Rosa,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Guatemala,Santa Rosa,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Santa Rosa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,April,2023,1,0,0,0,5.0,4.0,0.0,1.0,1726141038
+Guatemala,Solola,May,2023,3,1,0,1,2.0,2.0,0.0,0.0,1726141038
+Guatemala,Solola,June,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141038
+Guatemala,Solola,July,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141038
+Guatemala,Solola,November,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141038
+Guatemala,Solola,January,2024,1,1,0,0,2.0,2.0,0.0,0.0,1726141038
+Guatemala,Solola,February,2024,1,1,0,0,1.0,1.0,0.0,0.0,1726141038
+Guatemala,Solola,March,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Solola,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,April,2023,1,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Guatemala,Suchitepequez,May,2023,1,1,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Suchitepequez,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,April,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Guatemala,Totonicapan,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Totonicapan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,March,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141038
+Guatemala,Zacapa,April,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141038
+Guatemala,Zacapa,May,2023,3,1,0,3,3.0,0.0,0.0,3.0,1726141038
+Guatemala,Zacapa,June,2023,3,0,0,3,6.0,0.0,0.0,6.0,1726141038
+Guatemala,Zacapa,July,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141038
+Guatemala,Zacapa,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,October,2023,0,0,0,0,2.0,2.0,0.0,0.0,1726141038
+Guatemala,Zacapa,November,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141038
+Guatemala,Zacapa,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Zacapa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141038
+Guatemala,Alta Verapaz,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730730988
+Guatemala,Baja Verapaz,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Chimaltenango,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Chiquimula,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730988
+Guatemala,El Progreso,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Escuintla,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730988
+Guatemala,Guatemala,September,2024,8,1,0,7,15.0,2.0,0.0,13.0,1730730988
+Guatemala,Huehuetenango,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730730988
+Guatemala,Izabal,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Jalapa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Jutiapa,September,2024,1,1,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Peten,September,2024,1,0,0,1,2.0,0.0,0.0,2.0,1730730988
+Guatemala,Quetzaltenango,September,2024,1,1,0,0,2.0,0.0,0.0,2.0,1730730988
+Guatemala,Quiche,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Retalhuleu,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Sacatepequez,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,San Marcos,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Santa Rosa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Solola,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Suchitepequez,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Totonicapan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730988
+Guatemala,Zacapa,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730988
+Guatemala,Alta Verapaz,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010282
+Guatemala,Alta Verapaz,November,2024,1,0,0,1,2.0,1.0,0.0,1.0,1734010282
+Guatemala,Baja Verapaz,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Guatemala,Baja Verapaz,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Guatemala,Chimaltenango,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Guatemala,Chimaltenango,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010282
+Guatemala,Chiquimula,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010282
+Guatemala,Chiquimula,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010282
+Guatemala,El Progreso,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Guatemala,El Progreso,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Guatemala,Escuintla,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010282
+Guatemala,Escuintla,November,2024,0,0,0,0,1.0,1.0,0.0,0.0,1734010282
+Guatemala,Guatemala,October,2024,10,1,0,9,21.0,2.0,0.0,19.0,1734010282
+Guatemala,Guatemala,November,2024,5,1,0,4,11.0,1.0,0.0,10.0,1734010282
+Guatemala,Huehuetenango,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010282
+Guatemala,Huehuetenango,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010282
+Guatemala,Izabal,October,2024,0,0,0,0,3.0,0.0,0.0,3.0,1734010283
+Guatemala,Izabal,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Jalapa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Jalapa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Jutiapa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Jutiapa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Peten,October,2024,2,0,0,2,3.0,0.0,0.0,3.0,1734010283
+Guatemala,Peten,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Quetzaltenango,October,2024,1,0,0,1,3.0,0.0,0.0,3.0,1734010283
+Guatemala,Quetzaltenango,November,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010283
+Guatemala,Quiche,October,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010283
+Guatemala,Quiche,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Retalhuleu,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Retalhuleu,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Sacatepequez,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010283
+Guatemala,Sacatepequez,November,2024,1,0,0,1,2.0,1.0,0.0,1.0,1734010283
+Guatemala,San Marcos,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010283
+Guatemala,San Marcos,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Santa Rosa,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010283
+Guatemala,Santa Rosa,November,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010283
+Guatemala,Solola,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Solola,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Suchitepequez,October,2024,0,0,0,0,2.0,1.0,0.0,1.0,1734010283
+Guatemala,Suchitepequez,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Totonicapan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Totonicapan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Zacapa,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Zacapa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010283
+Guatemala,Alta Verapaz,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Baja Verapaz,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Chimaltenango,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Chiquimula,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,El Progreso,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Escuintla,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Guatemala,December,2024,11,1,0,10,9.0,2.0,0.0,7.0,1737033345
+Guatemala,Huehuetenango,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033345
+Guatemala,Izabal,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Jalapa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Jutiapa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Peten,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Quetzaltenango,December,2024,2,0,0,2,1.0,0.0,0.0,1.0,1737033345
+Guatemala,Quiche,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Retalhuleu,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Sacatepequez,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033345
+Guatemala,San Marcos,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033345
+Guatemala,Santa Rosa,December,2024,1,0,0,1,1.0,0.0,0.0,1.0,1737033345
+Guatemala,Solola,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Suchitepequez,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Totonicapan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Zacapa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033345
+Guatemala,Alta Verapaz,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Guatemala,Baja Verapaz,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Guatemala,Chimaltenango,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854850
+Guatemala,Chiquimula,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Guatemala,El Progreso,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854850
+Guatemala,Escuintla,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854850
+Guatemala,Guatemala,January,2025,11,2,0,9,20.0,3.0,0.0,17.0,1738854850
+Guatemala,Huehuetenango,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854850
+Guatemala,Izabal,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Guatemala,Jalapa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Guatemala,Jutiapa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854850
+Guatemala,Peten,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854850
+Guatemala,Quetzaltenango,January,2025,1,0,0,1,2.0,0.0,1.0,1.0,1738854851
+Guatemala,Quiche,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Guatemala,Retalhuleu,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Guatemala,Sacatepequez,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854851
+Guatemala,San Marcos,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854851
+Guatemala,Santa Rosa,January,2025,1,0,0,1,2.0,2.0,0.0,0.0,1738854851
+Guatemala,Solola,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Guatemala,Suchitepequez,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854851
+Guatemala,Totonicapan,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Guatemala,Zacapa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854851
+Guatemala,Alta Verapaz,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Baja Verapaz,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Chimaltenango,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Chiquimula,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,El Progreso,February,2025,1,0,0,1,1.0,0.0,0.0,1.0,1741266620
+Guatemala,Escuintla,February,2025,1,0,0,1,2.0,0.0,0.0,2.0,1741266620
+Guatemala,Guatemala,February,2025,17,2,0,15,15.0,5.0,0.0,10.0,1741266620
+Guatemala,Huehuetenango,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Izabal,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Jalapa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Jutiapa,February,2025,0,0,0,0,1.0,0.0,0.0,1.0,1741266620
+Guatemala,Peten,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Quetzaltenango,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Quiche,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Retalhuleu,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Sacatepequez,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266620
+Guatemala,San Marcos,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Santa Rosa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Solola,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Suchitepequez,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266620
+Guatemala,Totonicapan,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266621
+Guatemala,Zacapa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266621
+Guatemala,Alta Verapaz,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Baja Verapaz,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Guatemala,Chimaltenango,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Chiquimula,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,El Progreso,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Escuintla,March,2025,2,0,0,2,1.0,0.0,0.0,1.0,1744287543
+Guatemala,Guatemala,March,2025,15,4,0,11,29.0,10.0,0.0,19.0,1744287543
+Guatemala,Huehuetenango,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Izabal,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Jalapa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Jutiapa,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Peten,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Quetzaltenango,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287543
+Guatemala,Quiche,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Retalhuleu,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Sacatepequez,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Guatemala,San Marcos,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Santa Rosa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Solola,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Suchitepequez,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Totonicapan,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287543
+Guatemala,Zacapa,March,2025,0,0,0,0,1.0,0.0,0.0,1.0,1744287543
+Guatemala,Alta Verapaz,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Baja Verapaz,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Chimaltenango,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Chiquimula,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702912
+Guatemala,El Progreso,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702912
+Guatemala,Escuintla,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Guatemala,April,2025,28,7,0,21,18.0,2.0,0.0,16.0,1746702912
+Guatemala,Huehuetenango,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Izabal,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Jalapa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Jutiapa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Peten,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Quetzaltenango,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702912
+Guatemala,Quiche,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Guatemala,Retalhuleu,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702913
+Guatemala,Sacatepequez,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702913
+Guatemala,San Marcos,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Guatemala,Santa Rosa,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Guatemala,Solola,April,2025,0,0,0,0,1.0,0.0,0.0,1.0,1746702913
+Guatemala,Suchitepequez,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702913
+Guatemala,Totonicapan,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702913
+Guatemala,Zacapa,April,2025,1,0,0,1,1.0,0.0,0.0,1.0,1746702913
+Guatemala,Alta Verapaz,May,2025,0,0,0,0,2.0,1.0,0.0,1.0,1749732012
+Guatemala,Baja Verapaz,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732012
+Guatemala,Chimaltenango,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Guatemala,Chiquimula,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732012
+Guatemala,El Progreso,May,2025,1,0,0,1,2.0,0.0,0.0,2.0,1749732012
+Guatemala,Escuintla,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732012
+Guatemala,Guatemala,May,2025,19,3,0,16,43.0,11.0,0.0,32.0,1749732012
+Guatemala,Huehuetenango,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732012
+Guatemala,Izabal,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732012
+Guatemala,Jalapa,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Guatemala,Jutiapa,May,2025,0,0,0,0,1.0,1.0,0.0,0.0,1749732012
+Guatemala,Peten,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732012
+Guatemala,Quetzaltenango,May,2025,0,0,0,0,1.0,0.0,1.0,0.0,1749732013
+Guatemala,Quiche,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Guatemala,Retalhuleu,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732013
+Guatemala,Sacatepequez,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732013
+Guatemala,San Marcos,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Guatemala,Santa Rosa,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732013
+Guatemala,Solola,May,2025,1,0,0,1,0.0,0.0,0.0,0.0,1749732013
+Guatemala,Suchitepequez,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732013
+Guatemala,Totonicapan,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732013
+Guatemala,Zacapa,May,2025,1,0,0,1,1.0,0.0,0.0,1.0,1749732013
+Guatemala,Alta Verapaz,June,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Alta Verapaz,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Alta Verapaz,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Alta Verapaz,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Alta Verapaz,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Alta Verapaz,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Alta Verapaz,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Baja Verapaz,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Baja Verapaz,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Baja Verapaz,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Baja Verapaz,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Baja Verapaz,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Baja Verapaz,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Baja Verapaz,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Chimaltenango,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Guatemala,Chimaltenango,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Chimaltenango,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Guatemala,Chimaltenango,September,2025,1,0,0,1,2.0,0.0,0.0,2.0,1760036046
+Guatemala,Chimaltenango,October,2025,1,0,0,1,1.0,1.0,0.0,0.0,1762435626
+Guatemala,Chimaltenango,November,2025,1,1,0,0,1.0,0.0,0.0,1.0,1765375966
+Guatemala,Chimaltenango,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Chiquimula,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Chiquimula,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Chiquimula,August,2025,0,0,0,0,3.0,2.0,0.0,1.0,1757596698
+Guatemala,Chiquimula,September,2025,3,2,0,1,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Chiquimula,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Chiquimula,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Chiquimula,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,El Progreso,June,2025,2,0,0,2,0.0,0.0,0.0,0.0,1754429217
+Guatemala,El Progreso,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,El Progreso,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,El Progreso,September,2025,0,0,0,0,3.0,2.0,0.0,1.0,1760036046
+Guatemala,El Progreso,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Guatemala,El Progreso,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Guatemala,El Progreso,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Escuintla,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Guatemala,Escuintla,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Escuintla,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Guatemala,Escuintla,September,2025,1,1,0,0,2.0,0.0,0.0,2.0,1760036046
+Guatemala,Escuintla,October,2025,3,1,0,2,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Escuintla,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Guatemala,Escuintla,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Guatemala,June,2025,38,10,0,28,26.0,10.0,1.0,15.0,1754429217
+Guatemala,Guatemala,July,2025,30,10,1,19,31.0,11.0,0.0,20.0,1754429217
+Guatemala,Guatemala,August,2025,29,9,0,20,28.0,8.0,0.0,20.0,1757596698
+Guatemala,Guatemala,September,2025,29,9,0,20,29.0,5.0,0.0,24.0,1760036046
+Guatemala,Guatemala,October,2025,29,7,0,22,21.0,5.0,0.0,16.0,1762435626
+Guatemala,Guatemala,November,2025,23,6,0,17,18.0,5.0,1.0,12.0,1765375966
+Guatemala,Guatemala,December,2025,22,6,1,15,,,,,1765375966
+Guatemala,Huehuetenango,June,2025,1,1,0,0,2.0,1.0,0.0,1.0,1754429217
+Guatemala,Huehuetenango,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Huehuetenango,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Huehuetenango,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Huehuetenango,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Huehuetenango,November,2025,0,0,0,0,1.0,1.0,0.0,0.0,1765375966
+Guatemala,Huehuetenango,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Izabal,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Izabal,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Guatemala,Izabal,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Izabal,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Izabal,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Izabal,November,2025,0,0,0,0,2.0,1.0,0.0,1.0,1765375966
+Guatemala,Izabal,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Jalapa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Jalapa,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Guatemala,Jalapa,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Guatemala,Jalapa,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Jalapa,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Guatemala,Jalapa,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Jalapa,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Jutiapa,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Jutiapa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Jutiapa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Jutiapa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Jutiapa,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Guatemala,Jutiapa,November,2025,1,1,0,0,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Jutiapa,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Peten,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Guatemala,Peten,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Peten,August,2025,0,0,0,0,2.0,0.0,0.0,2.0,1757596698
+Guatemala,Peten,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Guatemala,Peten,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Peten,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Peten,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Quetzaltenango,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Quetzaltenango,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Guatemala,Quetzaltenango,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Quetzaltenango,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Quetzaltenango,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Guatemala,Quetzaltenango,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Quetzaltenango,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Quiche,June,2025,0,0,0,0,2.0,1.0,0.0,1.0,1754429217
+Guatemala,Quiche,July,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Quiche,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Quiche,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Quiche,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Quiche,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Quiche,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Retalhuleu,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Retalhuleu,July,2025,0,0,0,0,4.0,1.0,0.0,3.0,1754429217
+Guatemala,Retalhuleu,August,2025,2,0,0,2,2.0,1.0,0.0,1.0,1757596698
+Guatemala,Retalhuleu,September,2025,2,1,0,1,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Retalhuleu,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Retalhuleu,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Guatemala,Retalhuleu,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Sacatepequez,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Guatemala,Sacatepequez,July,2025,1,0,0,1,1.0,1.0,0.0,0.0,1754429217
+Guatemala,Sacatepequez,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Sacatepequez,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Guatemala,Sacatepequez,October,2025,1,0,0,1,1.0,0.0,0.0,1.0,1762435626
+Guatemala,Sacatepequez,November,2025,1,0,0,1,1.0,0.0,0.0,1.0,1765375966
+Guatemala,Sacatepequez,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,San Marcos,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,San Marcos,July,2025,0,0,0,0,2.0,1.0,0.0,1.0,1754429217
+Guatemala,San Marcos,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Guatemala,San Marcos,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,San Marcos,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Guatemala,San Marcos,November,2025,1,0,0,1,0.0,0.0,0.0,0.0,1765375966
+Guatemala,San Marcos,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Santa Rosa,June,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Guatemala,Santa Rosa,July,2025,1,0,0,1,2.0,1.0,0.0,1.0,1754429217
+Guatemala,Santa Rosa,August,2025,1,0,0,1,4.0,4.0,0.0,0.0,1757596698
+Guatemala,Santa Rosa,September,2025,4,4,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Santa Rosa,October,2025,1,1,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Santa Rosa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Santa Rosa,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Solola,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Solola,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Solola,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Solola,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Guatemala,Solola,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Solola,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Guatemala,Solola,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Suchitepequez,June,2025,1,0,0,1,2.0,1.0,0.0,1.0,1754429217
+Guatemala,Suchitepequez,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Guatemala,Suchitepequez,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Suchitepequez,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Guatemala,Suchitepequez,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Suchitepequez,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Guatemala,Suchitepequez,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Totonicapan,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Totonicapan,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Totonicapan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Guatemala,Totonicapan,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Guatemala,Totonicapan,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Totonicapan,November,2025,0,0,0,0,1.0,0.0,0.0,1.0,1765375966
+Guatemala,Totonicapan,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Zacapa,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Guatemala,Zacapa,July,2025,0,0,0,0,1.0,1.0,0.0,0.0,1754429217
+Guatemala,Zacapa,August,2025,0,0,0,0,1.0,1.0,0.0,0.0,1757596698
+Guatemala,Zacapa,September,2025,1,1,0,0,1.0,0.0,0.0,1.0,1760036046
+Guatemala,Zacapa,October,2025,1,0,0,1,0.0,0.0,0.0,0.0,1762435626
+Guatemala,Zacapa,November,2025,0,0,0,0,2.0,0.0,0.0,2.0,1765375966
+Guatemala,Zacapa,December,2025,0,0,0,0,,,,,1765375966
+Guatemala,Alta Verapaz,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Baja Verapaz,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chimaltenango,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chiquimula,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,El Progreso,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Escuintla,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Guatemala,January,2026,22,6,1,15,,,,,1765375966
+Guatemala,Huehuetenango,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Izabal,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jalapa,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jutiapa,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Peten,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quetzaltenango,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quiche,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Retalhuleu,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Sacatepequez,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,San Marcos,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Santa Rosa,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Solola,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Suchitepequez,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Totonicapan,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Zacapa,January,2026,0,0,0,0,,,,,1765375966
+Guatemala,Alta Verapaz,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Baja Verapaz,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chimaltenango,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chiquimula,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,El Progreso,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Escuintla,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Guatemala,February,2026,22,6,1,15,,,,,1765375966
+Guatemala,Huehuetenango,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Izabal,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jalapa,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jutiapa,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Peten,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quetzaltenango,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quiche,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Retalhuleu,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Sacatepequez,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,San Marcos,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Santa Rosa,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Solola,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Suchitepequez,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Totonicapan,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Zacapa,February,2026,0,0,0,0,,,,,1765375966
+Guatemala,Alta Verapaz,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Baja Verapaz,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chimaltenango,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chiquimula,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,El Progreso,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Escuintla,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Guatemala,March,2026,22,6,1,15,,,,,1765375966
+Guatemala,Huehuetenango,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Izabal,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jalapa,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jutiapa,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Peten,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quetzaltenango,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quiche,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Retalhuleu,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Sacatepequez,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,San Marcos,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Santa Rosa,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Solola,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Suchitepequez,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Totonicapan,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Zacapa,March,2026,0,0,0,0,,,,,1765375966
+Guatemala,Alta Verapaz,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Baja Verapaz,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chimaltenango,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chiquimula,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,El Progreso,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Escuintla,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Guatemala,April,2026,22,6,1,15,,,,,1765375966
+Guatemala,Huehuetenango,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Izabal,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jalapa,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jutiapa,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Peten,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quetzaltenango,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quiche,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Retalhuleu,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Sacatepequez,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,San Marcos,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Santa Rosa,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Solola,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Suchitepequez,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Totonicapan,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Zacapa,April,2026,0,0,0,0,,,,,1765375966
+Guatemala,Alta Verapaz,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Baja Verapaz,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chimaltenango,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Chiquimula,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,El Progreso,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Escuintla,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Guatemala,May,2026,22,6,1,15,,,,,1765375966
+Guatemala,Huehuetenango,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Izabal,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jalapa,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Jutiapa,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Peten,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quetzaltenango,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Quiche,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Retalhuleu,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Sacatepequez,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,San Marcos,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Santa Rosa,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Solola,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Suchitepequez,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Totonicapan,May,2026,0,0,0,0,,,,,1765375966
+Guatemala,Zacapa,May,2026,0,0,0,0,,,,,1765375966

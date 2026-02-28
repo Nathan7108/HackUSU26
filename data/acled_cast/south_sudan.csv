@@ -1,0 +1,391 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+South Sudan,Central Equatoria,March,2023,9,3,0,6,6.0,3.0,0.0,3.0,1726141094
+South Sudan,Central Equatoria,April,2023,7,2,0,4,7.0,1.0,0.0,6.0,1726141094
+South Sudan,Central Equatoria,May,2023,6,2,0,4,3.0,3.0,0.0,0.0,1726141094
+South Sudan,Central Equatoria,June,2023,3,2,0,1,2.0,0.0,0.0,2.0,1726141094
+South Sudan,Central Equatoria,July,2023,4,2,0,2,9.0,2.0,0.0,7.0,1726141094
+South Sudan,Central Equatoria,August,2023,7,2,0,5,10.0,0.0,0.0,10.0,1726141094
+South Sudan,Central Equatoria,September,2023,10,1,0,9,7.0,0.0,0.0,7.0,1726141094
+South Sudan,Central Equatoria,October,2023,7,1,0,6,6.0,1.0,0.0,5.0,1726141094
+South Sudan,Central Equatoria,November,2023,5,1,0,4,1.0,1.0,0.0,0.0,1726141094
+South Sudan,Central Equatoria,December,2023,4,2,0,2,2.0,0.0,0.0,2.0,1726141094
+South Sudan,Central Equatoria,January,2024,3,1,0,2,3.0,1.0,0.0,2.0,1726141094
+South Sudan,Central Equatoria,February,2024,3,1,0,2,6.0,4.0,0.0,2.0,1726141094
+South Sudan,Central Equatoria,March,2024,6,3,0,3,2.0,0.0,0.0,2.0,1726141094
+South Sudan,Central Equatoria,April,2024,3,1,0,2,1.0,1.0,0.0,0.0,1726141094
+South Sudan,Central Equatoria,May,2024,1,1,0,0,2.0,2.0,0.0,0.0,1726141094
+South Sudan,Central Equatoria,June,2024,1,1,0,0,5.0,1.0,0.0,4.0,1726141094
+South Sudan,Central Equatoria,July,2024,3,1,0,2,10.0,5.0,0.0,5.0,1726141094
+South Sudan,Central Equatoria,August,2024,8,4,0,4,3.0,0.0,0.0,3.0,1726141094
+South Sudan,Eastern Equatoria,March,2023,6,3,0,3,5.0,1.0,0.0,4.0,1726141094
+South Sudan,Eastern Equatoria,April,2023,5,2,0,3,7.0,2.0,0.0,5.0,1726141094
+South Sudan,Eastern Equatoria,May,2023,6,2,0,4,1.0,0.0,0.0,1.0,1726141094
+South Sudan,Eastern Equatoria,June,2023,3,2,0,1,7.0,2.0,0.0,5.0,1726141094
+South Sudan,Eastern Equatoria,July,2023,5,1,0,4,9.0,2.0,0.0,7.0,1726141094
+South Sudan,Eastern Equatoria,August,2023,6,1,0,5,3.0,0.0,0.0,3.0,1726141094
+South Sudan,Eastern Equatoria,September,2023,5,1,0,4,4.0,1.0,0.0,3.0,1726141094
+South Sudan,Eastern Equatoria,October,2023,5,1,0,4,11.0,3.0,0.0,8.0,1726141094
+South Sudan,Eastern Equatoria,November,2023,8,3,0,5,2.0,0.0,0.0,2.0,1726141094
+South Sudan,Eastern Equatoria,December,2023,5,2,0,3,1.0,0.0,0.0,1.0,1726141094
+South Sudan,Eastern Equatoria,January,2024,3,1,0,2,2.0,0.0,0.0,2.0,1726141094
+South Sudan,Eastern Equatoria,February,2024,2,0,0,2,5.0,1.0,0.0,4.0,1726141094
+South Sudan,Eastern Equatoria,March,2024,5,1,0,4,1.0,0.0,0.0,1.0,1726141094
+South Sudan,Eastern Equatoria,April,2024,2,1,0,1,10.0,6.0,0.0,4.0,1726141094
+South Sudan,Eastern Equatoria,May,2024,8,4,0,4,6.0,4.0,0.0,2.0,1726141094
+South Sudan,Eastern Equatoria,June,2024,5,3,0,2,3.0,3.0,0.0,0.0,1726141094
+South Sudan,Eastern Equatoria,July,2024,6,3,0,3,2.0,1.0,0.0,1.0,1726141094
+South Sudan,Eastern Equatoria,August,2024,4,2,0,2,6.0,3.0,0.0,3.0,1726141094
+South Sudan,Jonglei,March,2023,8,3,0,5,6.0,0.0,0.0,6.0,1726141094
+South Sudan,Jonglei,April,2023,6,2,0,4,17.0,4.0,0.0,13.0,1726141094
+South Sudan,Jonglei,May,2023,10,2,0,7,9.0,1.0,0.0,8.0,1726141094
+South Sudan,Jonglei,June,2023,10,2,0,8,3.0,3.0,0.0,0.0,1726141094
+South Sudan,Jonglei,July,2023,5,2,0,3,5.0,3.0,0.0,2.0,1726141094
+South Sudan,Jonglei,August,2023,6,2,0,4,10.0,1.0,0.0,9.0,1726141094
+South Sudan,Jonglei,September,2023,9,1,0,8,6.0,2.0,0.0,4.0,1726141094
+South Sudan,Jonglei,October,2023,7,2,0,5,8.0,4.0,0.0,4.0,1726141094
+South Sudan,Jonglei,November,2023,9,4,0,5,6.0,2.0,0.0,4.0,1726141094
+South Sudan,Jonglei,December,2023,7,2,0,5,7.0,1.0,0.0,6.0,1726141094
+South Sudan,Jonglei,January,2024,6,1,0,5,10.0,2.0,0.0,8.0,1726141094
+South Sudan,Jonglei,February,2024,8,1,0,7,18.0,5.0,0.0,13.0,1726141094
+South Sudan,Jonglei,March,2024,16,4,0,12,13.0,6.0,0.0,7.0,1726141094
+South Sudan,Jonglei,April,2024,10,5,0,5,12.0,3.0,0.0,9.0,1726141094
+South Sudan,Jonglei,May,2024,12,4,0,8,12.0,7.0,0.0,5.0,1726141094
+South Sudan,Jonglei,June,2024,11,5,0,6,16.0,10.0,0.0,6.0,1726141094
+South Sudan,Jonglei,July,2024,14,8,0,6,9.0,4.0,0.0,5.0,1726141094
+South Sudan,Jonglei,August,2024,9,4,0,5,8.0,2.0,0.0,6.0,1726141094
+South Sudan,Lakes,March,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141094
+South Sudan,Lakes,April,2023,3,2,0,1,3.0,0.0,0.0,3.0,1726141094
+South Sudan,Lakes,May,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141094
+South Sudan,Lakes,June,2023,2,1,0,1,3.0,3.0,0.0,0.0,1726141094
+South Sudan,Lakes,July,2023,3,2,0,1,3.0,2.0,0.0,1.0,1726141094
+South Sudan,Lakes,August,2023,2,1,0,1,2.0,2.0,0.0,0.0,1726141094
+South Sudan,Lakes,September,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141094
+South Sudan,Lakes,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141094
+South Sudan,Lakes,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141094
+South Sudan,Lakes,December,2023,2,1,0,1,3.0,2.0,0.0,1.0,1726141094
+South Sudan,Lakes,January,2024,2,1,0,1,3.0,2.0,0.0,1.0,1726141094
+South Sudan,Lakes,February,2024,2,1,0,1,3.0,3.0,0.0,0.0,1726141094
+South Sudan,Lakes,March,2024,3,2,0,1,5.0,2.0,0.0,3.0,1726141094
+South Sudan,Lakes,April,2024,5,2,0,3,9.0,4.0,0.0,5.0,1726141094
+South Sudan,Lakes,May,2024,8,4,0,4,8.0,2.0,0.0,6.0,1726141094
+South Sudan,Lakes,June,2024,8,2,0,6,3.0,3.0,0.0,0.0,1726141094
+South Sudan,Lakes,July,2024,5,3,0,2,6.0,5.0,0.0,1.0,1726141094
+South Sudan,Lakes,August,2024,3,2,0,1,2.0,0.0,0.0,2.0,1726141094
+South Sudan,Northern Bahr el Ghazal,March,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141094
+South Sudan,Northern Bahr el Ghazal,April,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141094
+South Sudan,Northern Bahr el Ghazal,May,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141094
+South Sudan,Northern Bahr el Ghazal,June,2023,1,1,0,0,2.0,1.0,0.0,1.0,1726141094
+South Sudan,Northern Bahr el Ghazal,July,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141094
+South Sudan,Northern Bahr el Ghazal,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141094
+South Sudan,Northern Bahr el Ghazal,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141094
+South Sudan,Northern Bahr el Ghazal,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Northern Bahr el Ghazal,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,May,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,June,2024,2,1,1,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Northern Bahr el Ghazal,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Unity,March,2023,2,1,0,1,2.0,0.0,0.0,2.0,1726141095
+South Sudan,Unity,April,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Unity,May,2023,3,1,0,2,2.0,1.0,0.0,1.0,1726141095
+South Sudan,Unity,June,2023,2,1,0,1,1.0,0.0,1.0,0.0,1726141095
+South Sudan,Unity,July,2023,3,1,0,2,2.0,1.0,0.0,1.0,1726141095
+South Sudan,Unity,August,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141095
+South Sudan,Unity,September,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Unity,October,2023,0,0,0,0,4.0,3.0,0.0,1.0,1726141095
+South Sudan,Unity,November,2023,3,2,0,1,1.0,1.0,0.0,0.0,1726141095
+South Sudan,Unity,December,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141095
+South Sudan,Unity,January,2024,2,1,0,1,6.0,2.0,0.0,4.0,1726141095
+South Sudan,Unity,February,2024,3,1,0,2,4.0,2.0,0.0,2.0,1726141095
+South Sudan,Unity,March,2024,4,2,0,2,3.0,0.0,0.0,3.0,1726141095
+South Sudan,Unity,April,2024,3,1,0,2,2.0,2.0,0.0,0.0,1726141095
+South Sudan,Unity,May,2024,2,2,0,0,2.0,2.0,0.0,0.0,1726141095
+South Sudan,Unity,June,2024,2,2,0,0,2.0,1.0,0.0,1.0,1726141095
+South Sudan,Unity,July,2024,3,2,0,1,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Unity,August,2024,3,2,0,1,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Upper Nile,March,2023,4,2,0,2,2.0,0.0,1.0,1.0,1726141095
+South Sudan,Upper Nile,April,2023,4,2,0,2,2.0,2.0,0.0,0.0,1726141095
+South Sudan,Upper Nile,May,2023,4,2,0,2,2.0,1.0,0.0,1.0,1726141095
+South Sudan,Upper Nile,June,2023,3,2,0,1,3.0,2.0,0.0,1.0,1726141095
+South Sudan,Upper Nile,July,2023,3,2,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Upper Nile,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Upper Nile,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Upper Nile,October,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141095
+South Sudan,Upper Nile,November,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Upper Nile,December,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Upper Nile,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Upper Nile,February,2024,0,0,0,0,4.0,2.0,0.0,2.0,1726141095
+South Sudan,Upper Nile,March,2024,4,2,0,2,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Upper Nile,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Upper Nile,May,2024,0,0,0,0,3.0,1.0,0.0,2.0,1726141095
+South Sudan,Upper Nile,June,2024,3,1,0,2,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Upper Nile,July,2024,3,1,0,2,5.0,3.0,0.0,2.0,1726141095
+South Sudan,Upper Nile,August,2024,3,1,0,2,6.0,3.0,1.0,2.0,1726141095
+South Sudan,Warrap,March,2023,5,3,0,2,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Warrap,April,2023,4,2,0,2,3.0,2.0,0.0,1.0,1726141095
+South Sudan,Warrap,May,2023,4,2,0,2,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Warrap,June,2023,1,1,0,0,7.0,1.0,0.0,6.0,1726141095
+South Sudan,Warrap,July,2023,6,1,0,5,4.0,0.0,0.0,4.0,1726141095
+South Sudan,Warrap,August,2023,5,1,0,4,3.0,1.0,0.0,2.0,1726141095
+South Sudan,Warrap,September,2023,3,1,0,2,1.0,1.0,0.0,0.0,1726141095
+South Sudan,Warrap,October,2023,2,1,0,1,8.0,7.0,0.0,1.0,1726141095
+South Sudan,Warrap,November,2023,7,6,0,1,8.0,4.0,0.0,4.0,1726141095
+South Sudan,Warrap,December,2023,6,2,0,4,5.0,3.0,0.0,2.0,1726141095
+South Sudan,Warrap,January,2024,4,2,0,2,5.0,2.0,0.0,3.0,1726141095
+South Sudan,Warrap,February,2024,3,1,0,2,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Warrap,March,2024,1,0,0,1,5.0,2.0,0.0,3.0,1726141095
+South Sudan,Warrap,April,2024,5,2,0,3,4.0,1.0,0.0,3.0,1726141095
+South Sudan,Warrap,May,2024,4,1,0,3,6.0,3.0,0.0,3.0,1726141095
+South Sudan,Warrap,June,2024,5,2,0,3,7.0,4.0,0.0,3.0,1726141095
+South Sudan,Warrap,July,2024,6,3,0,3,2.0,1.0,0.0,1.0,1726141095
+South Sudan,Warrap,August,2024,4,2,0,2,3.0,3.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,March,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Western Bahr el Ghazal,April,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,May,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,June,2023,1,1,0,0,2.0,0.0,0.0,2.0,1726141095
+South Sudan,Western Bahr el Ghazal,July,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,August,2023,1,0,0,1,2.0,0.0,1.0,1.0,1726141095
+South Sudan,Western Bahr el Ghazal,September,2023,3,1,1,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141095
+South Sudan,Western Bahr el Ghazal,November,2023,1,0,0,1,3.0,1.0,0.0,2.0,1726141095
+South Sudan,Western Bahr el Ghazal,December,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Western Bahr el Ghazal,February,2024,1,0,0,1,4.0,3.0,0.0,1.0,1726141095
+South Sudan,Western Bahr el Ghazal,March,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,April,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,May,2024,2,2,0,0,3.0,2.0,0.0,1.0,1726141095
+South Sudan,Western Bahr el Ghazal,June,2024,3,2,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Bahr el Ghazal,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,March,2023,2,1,0,1,3.0,1.0,0.0,2.0,1726141095
+South Sudan,Western Equatoria,April,2023,2,1,0,1,6.0,4.0,0.0,2.0,1726141095
+South Sudan,Western Equatoria,May,2023,4,1,0,2,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Western Equatoria,June,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141095
+South Sudan,Western Equatoria,July,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,August,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Western Equatoria,September,2023,1,0,0,1,3.0,0.0,0.0,3.0,1726141095
+South Sudan,Western Equatoria,October,2023,3,1,0,2,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,December,2023,0,0,0,0,3.0,1.0,0.0,2.0,1726141095
+South Sudan,Western Equatoria,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,March,2024,0,0,0,0,2.0,2.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,April,2024,2,2,0,0,4.0,1.0,0.0,3.0,1726141095
+South Sudan,Western Equatoria,May,2024,4,1,0,3,1.0,0.0,0.0,1.0,1726141095
+South Sudan,Western Equatoria,June,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141095
+South Sudan,Western Equatoria,August,2024,0,0,0,0,3.0,3.0,0.0,0.0,1726141095
+South Sudan,Central Equatoria,September,2024,3,0,0,3,6.0,2.0,0.0,4.0,1730731003
+South Sudan,Eastern Equatoria,September,2024,6,3,0,3,3.0,2.0,0.0,1.0,1730731003
+South Sudan,Jonglei,September,2024,8,2,0,6,3.0,0.0,0.0,3.0,1730731003
+South Sudan,Lakes,September,2024,3,1,0,2,3.0,2.0,0.0,1.0,1730731003
+South Sudan,Northern Bahr el Ghazal,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731003
+South Sudan,Unity,September,2024,1,0,0,1,1.0,1.0,0.0,0.0,1730731003
+South Sudan,Upper Nile,September,2024,4,3,0,1,0.0,0.0,0.0,0.0,1730731003
+South Sudan,Warrap,September,2024,4,3,0,1,3.0,2.0,0.0,1.0,1730731003
+South Sudan,Western Bahr el Ghazal,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730731003
+South Sudan,Western Equatoria,September,2024,4,2,0,2,0.0,0.0,0.0,0.0,1730731003
+South Sudan,Central Equatoria,October,2024,5,2,0,3,7.0,5.0,0.0,2.0,1734010310
+South Sudan,Central Equatoria,November,2024,6,4,0,2,6.0,2.0,1.0,3.0,1734010310
+South Sudan,Eastern Equatoria,October,2024,5,2,0,3,5.0,4.0,0.0,1.0,1734010310
+South Sudan,Eastern Equatoria,November,2024,6,4,0,2,3.0,2.0,0.0,1.0,1734010310
+South Sudan,Jonglei,October,2024,6,1,0,5,6.0,4.0,0.0,2.0,1734010310
+South Sudan,Jonglei,November,2024,6,3,0,3,4.0,1.0,0.0,3.0,1734010310
+South Sudan,Lakes,October,2024,4,2,0,2,2.0,0.0,0.0,2.0,1734010310
+South Sudan,Lakes,November,2024,3,1,0,2,0.0,0.0,0.0,0.0,1734010310
+South Sudan,Northern Bahr el Ghazal,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010310
+South Sudan,Northern Bahr el Ghazal,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010310
+South Sudan,Unity,October,2024,3,1,0,2,0.0,0.0,0.0,0.0,1734010310
+South Sudan,Unity,November,2024,0,0,0,0,3.0,2.0,0.0,1.0,1734010310
+South Sudan,Upper Nile,October,2024,1,0,0,1,1.0,1.0,0.0,0.0,1734010310
+South Sudan,Upper Nile,November,2024,3,1,0,2,1.0,0.0,1.0,0.0,1734010310
+South Sudan,Warrap,October,2024,5,3,0,2,2.0,2.0,0.0,0.0,1734010310
+South Sudan,Warrap,November,2024,4,2,0,2,1.0,1.0,0.0,0.0,1734010310
+South Sudan,Western Bahr el Ghazal,October,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010310
+South Sudan,Western Bahr el Ghazal,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010310
+South Sudan,Western Equatoria,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010310
+South Sudan,Western Equatoria,November,2024,3,1,0,2,1.0,0.0,0.0,1.0,1734010310
+South Sudan,Central Equatoria,December,2024,4,2,0,2,0.0,0.0,0.0,0.0,1737033373
+South Sudan,Eastern Equatoria,December,2024,4,2,0,2,0.0,0.0,0.0,0.0,1737033373
+South Sudan,Jonglei,December,2024,5,2,0,3,12.0,6.0,0.0,6.0,1737033373
+South Sudan,Lakes,December,2024,0,0,0,0,3.0,3.0,0.0,0.0,1737033374
+South Sudan,Northern Bahr el Ghazal,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033374
+South Sudan,Unity,December,2024,3,2,0,1,4.0,1.0,0.0,3.0,1737033374
+South Sudan,Upper Nile,December,2024,2,1,0,1,0.0,0.0,0.0,0.0,1737033374
+South Sudan,Warrap,December,2024,3,2,0,1,3.0,3.0,0.0,0.0,1737033374
+South Sudan,Western Bahr el Ghazal,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033374
+South Sudan,Western Equatoria,December,2024,1,0,0,1,6.0,3.0,0.0,3.0,1737033374
+South Sudan,Central Equatoria,January,2025,1,0,0,1,2.0,1.0,0.0,1.0,1738854871
+South Sudan,Eastern Equatoria,January,2025,0,0,0,0,3.0,2.0,0.0,1.0,1738854871
+South Sudan,Jonglei,January,2025,9,5,0,4,7.0,3.0,0.0,4.0,1738854871
+South Sudan,Lakes,January,2025,4,3,0,1,5.0,5.0,0.0,0.0,1738854872
+South Sudan,Northern Bahr el Ghazal,January,2025,0,0,0,0,1.0,0.0,1.0,0.0,1738854872
+South Sudan,Unity,January,2025,2,1,0,1,3.0,0.0,0.0,3.0,1738854872
+South Sudan,Upper Nile,January,2025,0,0,0,0,2.0,1.0,0.0,1.0,1738854872
+South Sudan,Warrap,January,2025,4,3,0,1,4.0,3.0,1.0,0.0,1738854872
+South Sudan,Western Bahr el Ghazal,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854872
+South Sudan,Western Equatoria,January,2025,3,2,0,1,5.0,2.0,1.0,2.0,1738854872
+South Sudan,Central Equatoria,February,2025,3,2,0,1,1.0,1.0,0.0,0.0,1741266642
+South Sudan,Eastern Equatoria,February,2025,3,2,0,1,2.0,1.0,0.0,1.0,1741266642
+South Sudan,Jonglei,February,2025,7,4,0,3,3.0,0.0,1.0,2.0,1741266642
+South Sudan,Lakes,February,2025,5,4,0,1,2.0,1.0,0.0,1.0,1741266642
+South Sudan,Northern Bahr el Ghazal,February,2025,3,1,1,1,0.0,0.0,0.0,0.0,1741266642
+South Sudan,Unity,February,2025,3,1,0,2,0.0,0.0,0.0,0.0,1741266642
+South Sudan,Upper Nile,February,2025,3,2,0,1,6.0,3.0,2.0,1.0,1741266642
+South Sudan,Warrap,February,2025,4,3,0,1,11.0,7.0,0.0,4.0,1741266642
+South Sudan,Western Bahr el Ghazal,February,2025,2,1,0,1,4.0,4.0,0.0,0.0,1741266643
+South Sudan,Western Equatoria,February,2025,4,2,0,2,9.0,6.0,0.0,3.0,1741266643
+South Sudan,Central Equatoria,March,2025,3,2,0,1,27.0,10.0,2.0,15.0,1744287549
+South Sudan,Eastern Equatoria,March,2025,4,2,0,2,13.0,5.0,0.0,8.0,1744287549
+South Sudan,Jonglei,March,2025,6,3,1,2,32.0,8.0,1.0,23.0,1744287549
+South Sudan,Lakes,March,2025,3,2,0,1,4.0,3.0,0.0,1.0,1744287549
+South Sudan,Northern Bahr el Ghazal,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287549
+South Sudan,Unity,March,2025,1,1,0,0,8.0,7.0,0.0,1.0,1744287549
+South Sudan,Upper Nile,March,2025,5,2,1,2,34.0,18.0,12.0,4.0,1744287549
+South Sudan,Warrap,March,2025,5,3,0,2,10.0,5.0,0.0,5.0,1744287549
+South Sudan,Western Bahr el Ghazal,March,2025,3,2,0,1,2.0,1.0,1.0,0.0,1744287549
+South Sudan,Western Equatoria,March,2025,5,3,0,2,10.0,2.0,0.0,8.0,1744287549
+South Sudan,Central Equatoria,April,2025,17,7,1,9,20.0,11.0,2.0,7.0,1746702918
+South Sudan,Eastern Equatoria,April,2025,13,5,0,8,8.0,6.0,0.0,2.0,1746702918
+South Sudan,Jonglei,April,2025,28,8,1,19,34.0,23.0,1.0,10.0,1746702918
+South Sudan,Lakes,April,2025,7,4,0,3,8.0,3.0,0.0,5.0,1746702918
+South Sudan,Northern Bahr el Ghazal,April,2025,2,1,0,1,0.0,0.0,0.0,0.0,1746702918
+South Sudan,Unity,April,2025,7,5,0,2,9.0,3.0,0.0,6.0,1746702918
+South Sudan,Upper Nile,April,2025,23,12,7,4,41.0,23.0,17.0,1.0,1746702918
+South Sudan,Warrap,April,2025,14,6,0,8,22.0,4.0,0.0,18.0,1746702918
+South Sudan,Western Bahr el Ghazal,April,2025,6,4,1,1,0.0,0.0,0.0,0.0,1746702918
+South Sudan,Western Equatoria,April,2025,10,4,0,6,9.0,6.0,0.0,3.0,1746702918
+South Sudan,Central Equatoria,May,2025,21,11,2,8,26.0,12.0,0.0,14.0,1749732030
+South Sudan,Eastern Equatoria,May,2025,9,6,0,3,12.0,4.0,0.0,8.0,1749732030
+South Sudan,Jonglei,May,2025,31,18,1,12,50.0,12.0,27.0,11.0,1749732030
+South Sudan,Lakes,May,2025,9,4,0,5,15.0,7.0,0.0,8.0,1749732030
+South Sudan,Northern Bahr el Ghazal,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732030
+South Sudan,Unity,May,2025,9,4,0,5,13.0,4.0,3.0,6.0,1749732030
+South Sudan,Upper Nile,May,2025,34,19,13,2,17.0,12.0,3.0,2.0,1749732030
+South Sudan,Warrap,May,2025,21,5,0,16,33.0,16.0,0.0,17.0,1749732030
+South Sudan,Western Bahr el Ghazal,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732030
+South Sudan,Western Equatoria,May,2025,10,6,0,4,21.0,15.0,1.0,5.0,1749732030
+South Sudan,Central Equatoria,June,2025,24,12,0,12,24.0,4.0,0.0,20.0,1754429217
+South Sudan,Central Equatoria,July,2025,24,6,0,18,28.0,8.0,0.0,20.0,1754429217
+South Sudan,Central Equatoria,August,2025,26,7,0,19,44.0,12.0,1.0,31.0,1757596698
+South Sudan,Central Equatoria,September,2025,34,8,0,26,18.0,6.0,4.0,8.0,1760036046
+South Sudan,Central Equatoria,October,2025,23,9,2,12,17.0,4.0,2.0,11.0,1762435626
+South Sudan,Central Equatoria,November,2025,20,7,2,11,13.0,4.0,0.0,9.0,1765375966
+South Sudan,Central Equatoria,December,2025,14,4,1,9,,,,,1765375966
+South Sudan,Eastern Equatoria,June,2025,12,5,0,7,4.0,1.0,0.0,3.0,1754429217
+South Sudan,Eastern Equatoria,July,2025,9,4,0,5,7.0,0.0,0.0,7.0,1754429217
+South Sudan,Eastern Equatoria,August,2025,9,2,0,7,6.0,2.0,0.0,4.0,1757596698
+South Sudan,Eastern Equatoria,September,2025,7,3,0,4,9.0,2.0,0.0,7.0,1760036046
+South Sudan,Eastern Equatoria,October,2025,10,3,0,7,3.0,1.0,1.0,1.0,1762435626
+South Sudan,Eastern Equatoria,November,2025,8,4,1,3,18.0,13.0,1.0,4.0,1765375966
+South Sudan,Eastern Equatoria,December,2025,17,12,1,4,,,,,1765375966
+South Sudan,Jonglei,June,2025,50,13,25,12,40.0,17.0,7.0,16.0,1754429217
+South Sudan,Jonglei,July,2025,35,13,7,15,23.0,8.0,5.0,10.0,1754429217
+South Sudan,Jonglei,August,2025,22,9,2,11,21.0,7.0,4.0,10.0,1757596698
+South Sudan,Jonglei,September,2025,20,8,1,11,26.0,8.0,7.0,11.0,1760036046
+South Sudan,Jonglei,October,2025,25,10,3,12,18.0,9.0,3.0,6.0,1762435626
+South Sudan,Jonglei,November,2025,21,8,4,9,28.0,9.0,5.0,14.0,1765375966
+South Sudan,Jonglei,December,2025,27,9,4,14,,,,,1765375966
+South Sudan,Lakes,June,2025,12,6,0,6,9.0,4.0,0.0,5.0,1754429217
+South Sudan,Lakes,July,2025,12,5,0,7,12.0,4.0,1.0,7.0,1754429217
+South Sudan,Lakes,August,2025,12,5,0,7,15.0,7.0,1.0,7.0,1757596698
+South Sudan,Lakes,September,2025,12,6,0,6,17.0,7.0,0.0,10.0,1760036046
+South Sudan,Lakes,October,2025,17,7,2,8,10.0,6.0,0.0,4.0,1762435626
+South Sudan,Lakes,November,2025,14,7,1,6,6.0,2.0,0.0,4.0,1765375966
+South Sudan,Lakes,December,2025,6,2,0,4,,,,,1765375966
+South Sudan,Northern Bahr el Ghazal,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Sudan,Northern Bahr el Ghazal,July,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+South Sudan,Northern Bahr el Ghazal,August,2025,2,0,0,2,0.0,0.0,0.0,0.0,1757596698
+South Sudan,Northern Bahr el Ghazal,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+South Sudan,Northern Bahr el Ghazal,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+South Sudan,Northern Bahr el Ghazal,November,2025,1,1,0,0,0.0,0.0,0.0,0.0,1765375966
+South Sudan,Northern Bahr el Ghazal,December,2025,0,0,0,0,,,,,1765375966
+South Sudan,Unity,June,2025,13,4,3,6,24.0,15.0,3.0,6.0,1754429217
+South Sudan,Unity,July,2025,20,11,3,6,9.0,6.0,0.0,3.0,1754429217
+South Sudan,Unity,August,2025,11,7,0,4,8.0,4.0,0.0,4.0,1757596698
+South Sudan,Unity,September,2025,10,6,0,4,8.0,4.0,0.0,4.0,1760036046
+South Sudan,Unity,October,2025,10,5,0,5,9.0,7.0,0.0,2.0,1762435626
+South Sudan,Unity,November,2025,8,5,0,3,11.0,10.0,0.0,1.0,1765375966
+South Sudan,Unity,December,2025,13,10,1,2,,,,,1765375966
+South Sudan,Upper Nile,June,2025,20,14,3,3,9.0,4.0,3.0,2.0,1754429217
+South Sudan,Upper Nile,July,2025,12,8,1,3,14.0,6.0,7.0,1.0,1754429217
+South Sudan,Upper Nile,August,2025,14,7,5,2,13.0,10.0,1.0,2.0,1757596698
+South Sudan,Upper Nile,September,2025,13,10,1,2,19.0,10.0,5.0,4.0,1760036046
+South Sudan,Upper Nile,October,2025,15,8,3,4,5.0,3.0,2.0,0.0,1762435626
+South Sudan,Upper Nile,November,2025,14,9,3,2,7.0,0.0,3.0,4.0,1765375966
+South Sudan,Upper Nile,December,2025,7,0,3,4,,,,,1765375966
+South Sudan,Warrap,June,2025,27,13,0,14,25.0,5.0,2.0,18.0,1754429217
+South Sudan,Warrap,July,2025,24,7,2,15,18.0,4.0,0.0,14.0,1754429217
+South Sudan,Warrap,August,2025,21,6,0,15,12.0,1.0,0.0,11.0,1757596698
+South Sudan,Warrap,September,2025,15,4,0,11,5.0,0.0,0.0,5.0,1760036046
+South Sudan,Warrap,October,2025,12,4,0,8,13.0,1.0,4.0,8.0,1762435626
+South Sudan,Warrap,November,2025,12,2,2,8,5.0,1.0,0.0,4.0,1765375966
+South Sudan,Warrap,December,2025,6,1,1,4,,,,,1765375966
+South Sudan,Western Bahr el Ghazal,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+South Sudan,Western Bahr el Ghazal,July,2025,1,1,0,0,0.0,0.0,0.0,0.0,1754429217
+South Sudan,Western Bahr el Ghazal,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+South Sudan,Western Bahr el Ghazal,September,2025,0,0,0,0,3.0,2.0,0.0,1.0,1760036046
+South Sudan,Western Bahr el Ghazal,October,2025,2,1,0,1,5.0,2.0,1.0,2.0,1762435626
+South Sudan,Western Bahr el Ghazal,November,2025,6,3,1,2,2.0,2.0,0.0,0.0,1765375966
+South Sudan,Western Bahr el Ghazal,December,2025,2,2,0,0,,,,,1765375966
+South Sudan,Western Equatoria,June,2025,18,12,1,5,13.0,6.0,0.0,7.0,1754429217
+South Sudan,Western Equatoria,July,2025,14,7,0,7,26.0,11.0,0.0,15.0,1754429217
+South Sudan,Western Equatoria,August,2025,22,9,0,13,18.0,12.0,0.0,6.0,1757596698
+South Sudan,Western Equatoria,September,2025,17,9,0,8,33.0,24.0,0.0,9.0,1760036046
+South Sudan,Western Equatoria,October,2025,20,12,0,8,15.0,7.0,5.0,3.0,1762435626
+South Sudan,Western Equatoria,November,2025,19,9,5,5,13.0,8.0,0.0,5.0,1765375966
+South Sudan,Western Equatoria,December,2025,14,8,1,5,,,,,1765375966
+South Sudan,Central Equatoria,January,2026,15,5,1,9,,,,,1765375966
+South Sudan,Eastern Equatoria,January,2026,16,11,1,4,,,,,1765375966
+South Sudan,Jonglei,January,2026,26,9,3,14,,,,,1765375966
+South Sudan,Lakes,January,2026,7,3,0,4,,,,,1765375966
+South Sudan,Northern Bahr el Ghazal,January,2026,0,0,0,0,,,,,1765375966
+South Sudan,Unity,January,2026,11,9,1,1,,,,,1765375966
+South Sudan,Upper Nile,January,2026,7,1,2,4,,,,,1765375966
+South Sudan,Warrap,January,2026,6,2,1,3,,,,,1765375966
+South Sudan,Western Bahr el Ghazal,January,2026,2,2,0,0,,,,,1765375966
+South Sudan,Western Equatoria,January,2026,13,8,1,4,,,,,1765375966
+South Sudan,Central Equatoria,February,2026,15,5,1,9,,,,,1765375966
+South Sudan,Eastern Equatoria,February,2026,15,10,1,4,,,,,1765375966
+South Sudan,Jonglei,February,2026,26,9,3,14,,,,,1765375966
+South Sudan,Lakes,February,2026,7,3,0,4,,,,,1765375966
+South Sudan,Northern Bahr el Ghazal,February,2026,0,0,0,0,,,,,1765375966
+South Sudan,Unity,February,2026,11,9,1,1,,,,,1765375966
+South Sudan,Upper Nile,February,2026,7,1,2,4,,,,,1765375966
+South Sudan,Warrap,February,2026,7,2,1,4,,,,,1765375966
+South Sudan,Western Bahr el Ghazal,February,2026,3,3,0,0,,,,,1765375966
+South Sudan,Western Equatoria,February,2026,13,8,1,4,,,,,1765375966
+South Sudan,Central Equatoria,March,2026,15,5,1,9,,,,,1765375966
+South Sudan,Eastern Equatoria,March,2026,16,11,1,4,,,,,1765375966
+South Sudan,Jonglei,March,2026,26,9,3,14,,,,,1765375966
+South Sudan,Lakes,March,2026,7,3,0,4,,,,,1765375966
+South Sudan,Northern Bahr el Ghazal,March,2026,0,0,0,0,,,,,1765375966
+South Sudan,Unity,March,2026,11,9,1,1,,,,,1765375966
+South Sudan,Upper Nile,March,2026,8,1,3,4,,,,,1765375966
+South Sudan,Warrap,March,2026,6,2,1,3,,,,,1765375966
+South Sudan,Western Bahr el Ghazal,March,2026,3,2,1,0,,,,,1765375966
+South Sudan,Western Equatoria,March,2026,13,8,1,4,,,,,1765375966
+South Sudan,Central Equatoria,April,2026,15,5,1,9,,,,,1765375966
+South Sudan,Eastern Equatoria,April,2026,15,10,1,4,,,,,1765375966
+South Sudan,Jonglei,April,2026,28,11,3,14,,,,,1765375966
+South Sudan,Lakes,April,2026,7,3,0,4,,,,,1765375966
+South Sudan,Northern Bahr el Ghazal,April,2026,0,0,0,0,,,,,1765375966
+South Sudan,Unity,April,2026,11,9,1,1,,,,,1765375966
+South Sudan,Upper Nile,April,2026,9,2,3,4,,,,,1765375966
+South Sudan,Warrap,April,2026,8,3,1,4,,,,,1765375966
+South Sudan,Western Bahr el Ghazal,April,2026,2,2,0,0,,,,,1765375966
+South Sudan,Western Equatoria,April,2026,15,9,1,5,,,,,1765375966
+South Sudan,Central Equatoria,May,2026,15,6,1,8,,,,,1765375966
+South Sudan,Eastern Equatoria,May,2026,15,10,1,4,,,,,1765375966
+South Sudan,Jonglei,May,2026,27,10,4,13,,,,,1765375966
+South Sudan,Lakes,May,2026,8,4,0,4,,,,,1765375966
+South Sudan,Northern Bahr el Ghazal,May,2026,0,0,0,0,,,,,1765375966
+South Sudan,Unity,May,2026,11,9,1,1,,,,,1765375966
+South Sudan,Upper Nile,May,2026,8,2,2,4,,,,,1765375966
+South Sudan,Warrap,May,2026,8,3,1,4,,,,,1765375966
+South Sudan,Western Bahr el Ghazal,May,2026,2,2,0,0,,,,,1765375966
+South Sudan,Western Equatoria,May,2026,15,9,1,5,,,,,1765375966

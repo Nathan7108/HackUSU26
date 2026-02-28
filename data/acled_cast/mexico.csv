@@ -1,0 +1,1249 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Mexico,Aguascalientes,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141058
+Mexico,Aguascalientes,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Mexico,Aguascalientes,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141058
+Mexico,Aguascalientes,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Mexico,Aguascalientes,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Mexico,Aguascalientes,August,2023,1,0,0,1,3.0,1.0,0.0,2.0,1726141058
+Mexico,Aguascalientes,September,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141058
+Mexico,Aguascalientes,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Mexico,Aguascalientes,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Mexico,Aguascalientes,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Mexico,Aguascalientes,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Mexico,Aguascalientes,February,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141058
+Mexico,Aguascalientes,March,2024,1,0,0,1,2.0,1.0,0.0,1.0,1726141058
+Mexico,Aguascalientes,April,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141058
+Mexico,Aguascalientes,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141058
+Mexico,Aguascalientes,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141058
+Mexico,Aguascalientes,July,2024,1,0,0,1,4.0,0.0,0.0,4.0,1726141058
+Mexico,Aguascalientes,August,2024,3,0,0,3,0.0,0.0,0.0,0.0,1726141058
+Mexico,Baja California,March,2023,28,6,0,22,18.0,1.0,0.0,17.0,1726141058
+Mexico,Baja California,April,2023,24,4,0,19,22.0,1.0,0.0,21.0,1726141058
+Mexico,Baja California,May,2023,23,2,0,21,25.0,7.0,0.0,18.0,1726141058
+Mexico,Baja California,June,2023,21,3,0,18,17.0,2.0,0.0,15.0,1726141058
+Mexico,Baja California,July,2023,18,3,0,15,39.0,7.0,0.0,32.0,1726141058
+Mexico,Baja California,August,2023,33,6,0,27,23.0,0.0,0.0,23.0,1726141058
+Mexico,Baja California,September,2023,25,2,0,23,27.0,6.0,0.0,21.0,1726141058
+Mexico,Baja California,October,2023,26,4,0,22,24.0,5.0,0.0,19.0,1726141058
+Mexico,Baja California,November,2023,24,5,0,19,25.0,4.0,0.0,21.0,1726141058
+Mexico,Baja California,December,2023,25,4,0,21,22.0,6.0,0.0,16.0,1726141058
+Mexico,Baja California,January,2024,20,5,0,15,19.0,5.0,0.0,14.0,1726141058
+Mexico,Baja California,February,2024,18,5,0,13,37.0,5.0,0.0,32.0,1726141058
+Mexico,Baja California,March,2024,33,5,0,28,27.0,3.0,0.0,24.0,1726141058
+Mexico,Baja California,April,2024,27,3,0,24,40.0,3.0,0.0,37.0,1726141058
+Mexico,Baja California,May,2024,35,3,0,32,37.0,3.0,0.0,34.0,1726141058
+Mexico,Baja California,June,2024,37,3,0,34,30.0,7.0,0.0,23.0,1726141058
+Mexico,Baja California,July,2024,30,6,0,24,36.0,5.0,0.0,31.0,1726141058
+Mexico,Baja California,August,2024,35,5,0,30,40.0,6.0,0.0,34.0,1726141058
+Mexico,Baja California Sur,March,2023,2,1,0,1,2.0,0.0,0.0,2.0,1726141058
+Mexico,Baja California Sur,April,2023,2,0,0,2,4.0,0.0,0.0,4.0,1726141058
+Mexico,Baja California Sur,May,2023,4,0,0,3,1.0,0.0,0.0,1.0,1726141058
+Mexico,Baja California Sur,June,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141058
+Mexico,Baja California Sur,July,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141058
+Mexico,Baja California Sur,August,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141058
+Mexico,Baja California Sur,September,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141058
+Mexico,Baja California Sur,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141058
+Mexico,Baja California Sur,November,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141058
+Mexico,Baja California Sur,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141058
+Mexico,Baja California Sur,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Mexico,Baja California Sur,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Mexico,Baja California Sur,March,2024,0,0,0,0,2.0,0.0,0.0,2.0,1726141058
+Mexico,Baja California Sur,April,2024,2,0,0,2,2.0,0.0,0.0,2.0,1726141058
+Mexico,Baja California Sur,May,2024,2,0,0,2,3.0,2.0,0.0,1.0,1726141058
+Mexico,Baja California Sur,June,2024,3,1,0,2,1.0,0.0,0.0,1.0,1726141058
+Mexico,Baja California Sur,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141058
+Mexico,Baja California Sur,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141058
+Mexico,Campeche,March,2023,7,1,0,6,7.0,0.0,0.0,7.0,1726141058
+Mexico,Campeche,April,2023,7,1,0,6,3.0,0.0,0.0,3.0,1726141058
+Mexico,Campeche,May,2023,4,1,0,4,7.0,0.0,0.0,7.0,1726141058
+Mexico,Campeche,June,2023,8,1,0,7,4.0,0.0,0.0,4.0,1726141058
+Mexico,Campeche,July,2023,5,1,0,4,5.0,3.0,0.0,2.0,1726141058
+Mexico,Campeche,August,2023,5,2,0,3,5.0,0.0,0.0,5.0,1726141058
+Mexico,Campeche,September,2023,6,1,0,5,6.0,1.0,0.0,5.0,1726141058
+Mexico,Campeche,October,2023,6,1,0,5,5.0,0.0,0.0,5.0,1726141058
+Mexico,Campeche,November,2023,5,0,0,5,7.0,0.0,0.0,7.0,1726141058
+Mexico,Campeche,December,2023,6,0,0,6,6.0,0.0,0.0,6.0,1726141058
+Mexico,Campeche,January,2024,6,1,0,5,3.0,0.0,0.0,3.0,1726141058
+Mexico,Campeche,February,2024,3,0,0,3,2.0,0.0,0.0,2.0,1726141058
+Mexico,Campeche,March,2024,3,0,0,3,1.0,0.0,0.0,1.0,1726141058
+Mexico,Campeche,April,2024,2,0,0,2,7.0,0.0,0.0,7.0,1726141058
+Mexico,Campeche,May,2024,6,0,0,6,2.0,0.0,0.0,2.0,1726141058
+Mexico,Campeche,June,2024,3,0,0,3,5.0,3.0,0.0,2.0,1726141058
+Mexico,Campeche,July,2024,4,2,0,2,4.0,2.0,0.0,2.0,1726141058
+Mexico,Campeche,August,2024,4,2,0,2,4.0,1.0,0.0,3.0,1726141058
+Mexico,Chiapas,March,2023,8,1,0,7,5.0,2.0,0.0,3.0,1726141058
+Mexico,Chiapas,April,2023,7,3,0,4,2.0,2.0,0.0,0.0,1726141058
+Mexico,Chiapas,May,2023,3,2,0,1,12.0,8.0,0.0,4.0,1726141058
+Mexico,Chiapas,June,2023,7,3,0,4,14.0,7.0,0.0,7.0,1726141058
+Mexico,Chiapas,July,2023,11,5,0,7,12.0,6.0,0.0,6.0,1726141058
+Mexico,Chiapas,August,2023,12,6,0,6,16.0,11.0,0.0,5.0,1726141058
+Mexico,Chiapas,September,2023,12,7,0,5,15.0,4.0,1.0,10.0,1726141058
+Mexico,Chiapas,October,2023,16,5,1,10,12.0,4.0,0.0,8.0,1726141058
+Mexico,Chiapas,November,2023,11,4,0,7,15.0,7.0,0.0,8.0,1726141058
+Mexico,Chiapas,December,2023,15,6,0,9,14.0,3.0,1.0,10.0,1726141058
+Mexico,Chiapas,January,2024,15,4,1,10,20.0,11.0,0.0,9.0,1726141058
+Mexico,Chiapas,February,2024,16,8,0,8,17.0,9.0,0.0,8.0,1726141058
+Mexico,Chiapas,March,2024,17,8,0,9,22.0,8.0,0.0,14.0,1726141058
+Mexico,Chiapas,April,2024,20,7,0,13,28.0,4.0,0.0,24.0,1726141058
+Mexico,Chiapas,May,2024,27,4,0,23,31.0,13.0,0.0,18.0,1726141058
+Mexico,Chiapas,June,2024,30,12,0,18,27.0,7.0,0.0,20.0,1726141058
+Mexico,Chiapas,July,2024,28,7,0,21,30.0,16.0,0.0,14.0,1726141058
+Mexico,Chiapas,August,2024,29,14,0,15,27.0,14.0,2.0,11.0,1726141058
+Mexico,Chihuahua,March,2023,20,4,0,16,14.0,1.0,0.0,13.0,1726141058
+Mexico,Chihuahua,April,2023,16,2,0,14,12.0,1.0,0.0,11.0,1726141058
+Mexico,Chihuahua,May,2023,14,2,0,12,17.0,2.0,0.0,15.0,1726141058
+Mexico,Chihuahua,June,2023,17,2,0,15,13.0,5.0,0.0,8.0,1726141058
+Mexico,Chihuahua,July,2023,11,2,0,9,16.0,7.0,0.0,9.0,1726141058
+Mexico,Chihuahua,August,2023,16,6,0,10,19.0,6.0,0.0,13.0,1726141058
+Mexico,Chihuahua,September,2023,17,5,0,12,11.0,2.0,0.0,9.0,1726141058
+Mexico,Chihuahua,October,2023,14,4,0,10,10.0,1.0,0.0,9.0,1726141058
+Mexico,Chihuahua,November,2023,10,1,0,9,14.0,5.0,0.0,9.0,1726141058
+Mexico,Chihuahua,December,2023,13,4,0,9,11.0,2.0,0.0,9.0,1726141058
+Mexico,Chihuahua,January,2024,13,3,0,10,15.0,3.0,0.0,12.0,1726141058
+Mexico,Chihuahua,February,2024,12,3,0,9,13.0,2.0,0.0,11.0,1726141058
+Mexico,Chihuahua,March,2024,13,2,0,11,9.0,1.0,0.0,8.0,1726141058
+Mexico,Chihuahua,April,2024,11,2,0,9,10.0,1.0,0.0,9.0,1726141058
+Mexico,Chihuahua,May,2024,11,1,0,10,14.0,2.0,0.0,12.0,1726141058
+Mexico,Chihuahua,June,2024,14,2,0,12,21.0,3.0,0.0,18.0,1726141058
+Mexico,Chihuahua,July,2024,19,3,0,16,13.0,3.0,0.0,10.0,1726141058
+Mexico,Chihuahua,August,2024,13,3,0,10,24.0,3.0,0.0,21.0,1726141058
+Mexico,Ciudad de Mexico,March,2023,9,2,0,7,5.0,0.0,0.0,5.0,1726141058
+Mexico,Ciudad de Mexico,April,2023,8,2,0,6,10.0,1.0,0.0,9.0,1726141058
+Mexico,Ciudad de Mexico,May,2023,10,1,0,9,11.0,2.0,0.0,9.0,1726141058
+Mexico,Ciudad de Mexico,June,2023,11,2,0,9,11.0,2.0,0.0,9.0,1726141058
+Mexico,Ciudad de Mexico,July,2023,10,2,0,9,10.0,1.0,0.0,9.0,1726141058
+Mexico,Ciudad de Mexico,August,2023,10,1,0,9,14.0,2.0,0.0,12.0,1726141058
+Mexico,Ciudad de Mexico,September,2023,12,1,0,11,6.0,3.0,0.0,3.0,1726141058
+Mexico,Ciudad de Mexico,October,2023,7,2,0,5,18.0,1.0,0.0,17.0,1726141058
+Mexico,Ciudad de Mexico,November,2023,15,1,0,14,8.0,1.0,0.0,7.0,1726141058
+Mexico,Ciudad de Mexico,December,2023,7,1,0,6,6.0,2.0,0.0,4.0,1726141058
+Mexico,Ciudad de Mexico,January,2024,5,1,0,4,11.0,3.0,0.0,8.0,1726141058
+Mexico,Ciudad de Mexico,February,2024,10,3,0,7,11.0,1.0,0.0,10.0,1726141058
+Mexico,Ciudad de Mexico,March,2024,12,2,0,10,9.0,1.0,0.0,8.0,1726141058
+Mexico,Ciudad de Mexico,April,2024,10,2,0,8,12.0,3.0,0.0,9.0,1726141058
+Mexico,Ciudad de Mexico,May,2024,12,3,0,9,26.0,3.0,0.0,23.0,1726141058
+Mexico,Ciudad de Mexico,June,2024,21,3,0,18,10.0,2.0,0.0,8.0,1726141058
+Mexico,Ciudad de Mexico,July,2024,11,2,0,9,18.0,2.0,0.0,16.0,1726141058
+Mexico,Ciudad de Mexico,August,2024,18,2,0,16,7.0,0.0,0.0,7.0,1726141058
+Mexico,Coahuila de Zaragoza,March,2023,3,1,0,2,4.0,2.0,0.0,2.0,1726141058
+Mexico,Coahuila de Zaragoza,April,2023,3,1,0,2,1.0,0.0,0.0,1.0,1726141058
+Mexico,Coahuila de Zaragoza,May,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141058
+Mexico,Coahuila de Zaragoza,June,2023,2,1,0,1,2.0,1.0,0.0,1.0,1726141059
+Mexico,Coahuila de Zaragoza,July,2023,2,1,0,1,6.0,3.0,0.0,3.0,1726141059
+Mexico,Coahuila de Zaragoza,August,2023,5,2,0,3,3.0,0.0,0.0,3.0,1726141059
+Mexico,Coahuila de Zaragoza,September,2023,5,2,0,3,2.0,0.0,0.0,2.0,1726141059
+Mexico,Coahuila de Zaragoza,October,2023,3,1,0,2,1.0,1.0,0.0,0.0,1726141059
+Mexico,Coahuila de Zaragoza,November,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141059
+Mexico,Coahuila de Zaragoza,December,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141059
+Mexico,Coahuila de Zaragoza,January,2024,1,1,0,0,1.0,0.0,0.0,1.0,1726141059
+Mexico,Coahuila de Zaragoza,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141059
+Mexico,Coahuila de Zaragoza,March,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141059
+Mexico,Coahuila de Zaragoza,April,2024,2,1,0,1,1.0,0.0,0.0,1.0,1726141059
+Mexico,Coahuila de Zaragoza,May,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141059
+Mexico,Coahuila de Zaragoza,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141059
+Mexico,Coahuila de Zaragoza,July,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141059
+Mexico,Coahuila de Zaragoza,August,2024,1,0,0,1,2.0,0.0,0.0,2.0,1726141059
+Mexico,Colima,March,2023,16,4,0,12,24.0,1.0,0.0,23.0,1726141059
+Mexico,Colima,April,2023,23,2,0,20,32.0,3.0,0.0,29.0,1726141059
+Mexico,Colima,May,2023,30,3,0,27,23.0,2.0,0.0,21.0,1726141059
+Mexico,Colima,June,2023,25,3,0,22,13.0,0.0,0.0,13.0,1726141059
+Mexico,Colima,July,2023,16,2,0,14,24.0,4.0,0.0,20.0,1726141059
+Mexico,Colima,August,2023,23,3,0,20,17.0,1.0,0.0,16.0,1726141059
+Mexico,Colima,September,2023,19,2,0,17,18.0,4.0,0.0,14.0,1726141059
+Mexico,Colima,October,2023,17,2,0,15,8.0,0.0,0.0,8.0,1726141059
+Mexico,Colima,November,2023,9,1,0,8,6.0,0.0,0.0,6.0,1726141059
+Mexico,Colima,December,2023,7,1,0,6,10.0,1.0,0.0,9.0,1726141059
+Mexico,Colima,January,2024,9,1,0,8,13.0,3.0,0.0,10.0,1726141059
+Mexico,Colima,February,2024,12,3,0,9,8.0,1.0,0.0,7.0,1726141059
+Mexico,Colima,March,2024,10,2,0,8,10.0,2.0,0.0,8.0,1726141059
+Mexico,Colima,April,2024,10,2,0,8,15.0,2.0,0.0,13.0,1726141059
+Mexico,Colima,May,2024,14,2,0,12,15.0,2.0,0.0,13.0,1726141059
+Mexico,Colima,June,2024,15,2,0,13,21.0,0.0,0.0,21.0,1726141059
+Mexico,Colima,July,2024,19,1,0,18,20.0,1.0,0.0,19.0,1726141059
+Mexico,Colima,August,2024,20,1,0,19,20.0,2.0,0.0,18.0,1726141059
+Mexico,Durango,March,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141059
+Mexico,Durango,April,2023,2,1,0,1,1.0,0.0,0.0,1.0,1726141059
+Mexico,Durango,May,2023,2,0,0,1,7.0,1.0,0.0,6.0,1726141059
+Mexico,Durango,June,2023,5,0,0,4,1.0,0.0,0.0,1.0,1726141059
+Mexico,Durango,July,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141059
+Mexico,Durango,August,2023,0,0,0,0,3.0,2.0,0.0,1.0,1726141059
+Mexico,Durango,September,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141059
+Mexico,Durango,October,2023,1,1,0,0,3.0,1.0,0.0,2.0,1726141059
+Mexico,Durango,November,2023,3,1,0,2,3.0,0.0,0.0,3.0,1726141059
+Mexico,Durango,December,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141059
+Mexico,Durango,January,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141059
+Mexico,Durango,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Durango,March,2024,0,0,0,0,2.0,1.0,0.0,1.0,1726141059
+Mexico,Durango,April,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141059
+Mexico,Durango,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141059
+Mexico,Durango,June,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141059
+Mexico,Durango,July,2024,3,0,0,3,1.0,1.0,0.0,0.0,1726141059
+Mexico,Durango,August,2024,1,1,0,0,2.0,0.0,0.0,2.0,1726141059
+Mexico,Guanajuato,March,2023,47,7,0,40,48.0,6.0,0.0,42.0,1726141059
+Mexico,Guanajuato,April,2023,47,6,0,41,53.0,3.0,0.0,50.0,1726141059
+Mexico,Guanajuato,May,2023,54,5,0,49,62.0,12.0,0.0,50.0,1726141059
+Mexico,Guanajuato,June,2023,58,8,0,50,59.0,12.0,1.0,46.0,1726141059
+Mexico,Guanajuato,July,2023,59,12,1,46,49.0,1.0,0.0,48.0,1726141059
+Mexico,Guanajuato,August,2023,51,3,0,48,54.0,4.0,0.0,50.0,1726141059
+Mexico,Guanajuato,September,2023,55,5,0,50,47.0,3.0,0.0,44.0,1726141059
+Mexico,Guanajuato,October,2023,52,6,0,46,44.0,4.0,0.0,40.0,1726141059
+Mexico,Guanajuato,November,2023,43,4,0,39,45.0,4.0,0.0,41.0,1726141059
+Mexico,Guanajuato,December,2023,45,4,0,41,36.0,4.0,0.0,32.0,1726141059
+Mexico,Guanajuato,January,2024,39,5,0,34,41.0,7.0,1.0,33.0,1726141059
+Mexico,Guanajuato,February,2024,38,6,1,31,57.0,14.0,0.0,43.0,1726141059
+Mexico,Guanajuato,March,2024,51,10,0,41,53.0,4.0,0.0,49.0,1726141059
+Mexico,Guanajuato,April,2024,52,4,0,48,64.0,9.0,0.0,55.0,1726141059
+Mexico,Guanajuato,May,2024,60,9,0,51,54.0,7.0,0.0,47.0,1726141059
+Mexico,Guanajuato,June,2024,56,7,0,49,65.0,4.0,1.0,60.0,1726141059
+Mexico,Guanajuato,July,2024,60,5,0,55,83.0,13.0,0.0,70.0,1726141059
+Mexico,Guanajuato,August,2024,77,12,0,65,68.0,4.0,2.0,62.0,1726141059
+Mexico,Guerrero,March,2023,26,6,0,20,24.0,5.0,0.0,19.0,1726141059
+Mexico,Guerrero,April,2023,25,5,0,19,24.0,4.0,0.0,20.0,1726141059
+Mexico,Guerrero,May,2023,25,5,0,20,35.0,3.0,4.0,28.0,1726141059
+Mexico,Guerrero,June,2023,35,5,3,27,29.0,5.0,0.0,24.0,1726141059
+Mexico,Guerrero,July,2023,29,4,0,24,48.0,5.0,0.0,43.0,1726141059
+Mexico,Guerrero,August,2023,41,5,0,36,50.0,9.0,4.0,37.0,1726141059
+Mexico,Guerrero,September,2023,46,7,3,36,38.0,8.0,1.0,29.0,1726141059
+Mexico,Guerrero,October,2023,38,8,1,29,21.0,3.0,0.0,18.0,1726141059
+Mexico,Guerrero,November,2023,21,4,0,17,16.0,3.0,0.0,13.0,1726141059
+Mexico,Guerrero,December,2023,17,3,0,14,25.0,2.0,0.0,23.0,1726141059
+Mexico,Guerrero,January,2024,26,4,0,22,36.0,7.0,3.0,26.0,1726141059
+Mexico,Guerrero,February,2024,31,6,2,23,46.0,3.0,0.0,43.0,1726141059
+Mexico,Guerrero,March,2024,43,4,0,39,41.0,2.0,15.0,24.0,1726141059
+Mexico,Guerrero,April,2024,33,3,5,25,26.0,5.0,3.0,18.0,1726141059
+Mexico,Guerrero,May,2024,28,5,3,20,40.0,5.0,1.0,34.0,1726141059
+Mexico,Guerrero,June,2024,38,5,1,32,51.0,3.0,2.0,46.0,1726141059
+Mexico,Guerrero,July,2024,48,3,1,44,46.0,7.0,2.0,37.0,1726141059
+Mexico,Guerrero,August,2024,47,8,2,37,51.0,7.0,1.0,43.0,1726141059
+Mexico,Hidalgo,March,2023,6,1,0,5,9.0,2.0,0.0,7.0,1726141059
+Mexico,Hidalgo,April,2023,9,2,0,7,6.0,1.0,0.0,5.0,1726141059
+Mexico,Hidalgo,May,2023,7,1,0,6,5.0,1.0,1.0,3.0,1726141059
+Mexico,Hidalgo,June,2023,4,1,0,3,4.0,1.0,0.0,3.0,1726141059
+Mexico,Hidalgo,July,2023,5,2,0,3,9.0,1.0,0.0,8.0,1726141059
+Mexico,Hidalgo,August,2023,8,1,0,7,11.0,1.0,0.0,10.0,1726141059
+Mexico,Hidalgo,September,2023,10,1,0,9,11.0,1.0,0.0,10.0,1726141059
+Mexico,Hidalgo,October,2023,12,2,0,10,8.0,4.0,0.0,4.0,1726141059
+Mexico,Hidalgo,November,2023,7,3,0,4,3.0,1.0,0.0,2.0,1726141059
+Mexico,Hidalgo,December,2023,5,2,0,3,4.0,2.0,0.0,2.0,1726141059
+Mexico,Hidalgo,January,2024,3,1,0,2,7.0,1.0,0.0,6.0,1726141059
+Mexico,Hidalgo,February,2024,7,1,0,6,9.0,3.0,0.0,6.0,1726141059
+Mexico,Hidalgo,March,2024,8,2,0,6,7.0,0.0,0.0,7.0,1726141059
+Mexico,Hidalgo,April,2024,7,1,0,6,6.0,2.0,0.0,4.0,1726141059
+Mexico,Hidalgo,May,2024,7,2,0,5,12.0,2.0,0.0,10.0,1726141059
+Mexico,Hidalgo,June,2024,11,2,0,9,5.0,0.0,0.0,5.0,1726141059
+Mexico,Hidalgo,July,2024,7,1,0,6,14.0,2.0,0.0,12.0,1726141059
+Mexico,Hidalgo,August,2024,13,2,0,11,13.0,2.0,1.0,10.0,1726141059
+Mexico,Jalisco,March,2023,21,6,0,15,34.0,7.0,1.0,26.0,1726141059
+Mexico,Jalisco,April,2023,29,6,0,23,30.0,6.0,0.0,24.0,1726141059
+Mexico,Jalisco,May,2023,30,6,0,24,50.0,8.0,0.0,42.0,1726141059
+Mexico,Jalisco,June,2023,46,6,0,40,14.0,2.0,0.0,12.0,1726141059
+Mexico,Jalisco,July,2023,20,5,0,14,35.0,4.0,2.0,29.0,1726141059
+Mexico,Jalisco,August,2023,31,4,0,27,25.0,7.0,0.0,18.0,1726141059
+Mexico,Jalisco,September,2023,25,6,0,19,35.0,5.0,0.0,30.0,1726141059
+Mexico,Jalisco,October,2023,34,5,0,29,37.0,4.0,0.0,33.0,1726141059
+Mexico,Jalisco,November,2023,33,5,0,28,28.0,7.0,0.0,21.0,1726141059
+Mexico,Jalisco,December,2023,26,6,0,20,31.0,5.0,0.0,26.0,1726141059
+Mexico,Jalisco,January,2024,36,7,0,29,22.0,5.0,0.0,17.0,1726141059
+Mexico,Jalisco,February,2024,20,5,0,15,42.0,12.0,0.0,30.0,1726141059
+Mexico,Jalisco,March,2024,38,10,0,28,34.0,1.0,0.0,33.0,1726141059
+Mexico,Jalisco,April,2024,34,2,0,32,38.0,5.0,0.0,33.0,1726141059
+Mexico,Jalisco,May,2024,37,5,0,32,42.0,4.0,0.0,38.0,1726141059
+Mexico,Jalisco,June,2024,40,4,0,36,38.0,5.0,0.0,33.0,1726141059
+Mexico,Jalisco,July,2024,38,5,0,33,49.0,4.0,0.0,45.0,1726141059
+Mexico,Jalisco,August,2024,48,4,0,44,31.0,2.0,0.0,29.0,1726141059
+Mexico,Mexico,March,2023,16,2,0,14,11.0,1.0,1.0,9.0,1726141059
+Mexico,Mexico,April,2023,13,2,0,11,10.0,1.0,0.0,9.0,1726141059
+Mexico,Mexico,May,2023,12,2,0,10,12.0,1.0,0.0,11.0,1726141059
+Mexico,Mexico,June,2023,13,2,0,11,17.0,2.0,0.0,15.0,1726141059
+Mexico,Mexico,July,2023,16,2,0,14,16.0,4.0,0.0,12.0,1726141059
+Mexico,Mexico,August,2023,17,4,0,13,15.0,1.0,0.0,14.0,1726141059
+Mexico,Mexico,September,2023,17,3,0,14,18.0,1.0,0.0,17.0,1726141059
+Mexico,Mexico,October,2023,18,2,0,16,7.0,3.0,0.0,4.0,1726141059
+Mexico,Mexico,November,2023,8,3,0,5,12.0,1.0,0.0,11.0,1726141059
+Mexico,Mexico,December,2023,12,1,0,11,10.0,3.0,0.0,7.0,1726141059
+Mexico,Mexico,January,2024,10,2,0,8,12.0,5.0,0.0,7.0,1726141059
+Mexico,Mexico,February,2024,10,4,0,6,9.0,1.0,0.0,8.0,1726141059
+Mexico,Mexico,March,2024,11,2,0,9,23.0,3.0,0.0,20.0,1726141059
+Mexico,Mexico,April,2024,19,3,0,16,17.0,1.0,0.0,16.0,1726141059
+Mexico,Mexico,May,2024,17,1,0,16,19.0,3.0,0.0,16.0,1726141059
+Mexico,Mexico,June,2024,19,3,0,16,17.0,1.0,0.0,16.0,1726141059
+Mexico,Mexico,July,2024,18,2,0,16,18.0,4.0,1.0,13.0,1726141059
+Mexico,Mexico,August,2024,20,4,1,15,15.0,4.0,1.0,10.0,1726141059
+Mexico,Michoacan de Ocampo,March,2023,37,9,0,28,55.0,29.0,0.0,26.0,1726141059
+Mexico,Michoacan de Ocampo,April,2023,49,23,0,27,41.0,9.0,0.0,32.0,1726141059
+Mexico,Michoacan de Ocampo,May,2023,43,11,0,32,37.0,12.0,0.0,25.0,1726141059
+Mexico,Michoacan de Ocampo,June,2023,37,11,0,26,32.0,14.0,1.0,17.0,1726141059
+Mexico,Michoacan de Ocampo,July,2023,34,14,1,20,53.0,12.0,9.0,32.0,1726141059
+Mexico,Michoacan de Ocampo,August,2023,51,13,7,31,63.0,15.0,3.0,45.0,1726141059
+Mexico,Michoacan de Ocampo,September,2023,60,15,2,43,40.0,9.0,4.0,27.0,1726141059
+Mexico,Michoacan de Ocampo,October,2023,42,10,3,29,46.0,14.0,1.0,31.0,1726141059
+Mexico,Michoacan de Ocampo,November,2023,43,13,1,29,35.0,11.0,0.0,24.0,1726141059
+Mexico,Michoacan de Ocampo,December,2023,36,12,0,24,53.0,16.0,3.0,34.0,1726141059
+Mexico,Michoacan de Ocampo,January,2024,50,15,2,33,43.0,7.0,0.0,36.0,1726141059
+Mexico,Michoacan de Ocampo,February,2024,41,8,0,33,40.0,13.0,2.0,25.0,1726141059
+Mexico,Michoacan de Ocampo,March,2024,42,12,2,28,39.0,11.0,1.0,27.0,1726141059
+Mexico,Michoacan de Ocampo,April,2024,39,11,1,27,51.0,18.0,1.0,32.0,1726141059
+Mexico,Michoacan de Ocampo,May,2024,49,17,1,31,28.0,8.0,0.0,20.0,1726141059
+Mexico,Michoacan de Ocampo,June,2024,31,8,0,23,42.0,7.0,2.0,33.0,1726141059
+Mexico,Michoacan de Ocampo,July,2024,42,8,2,32,47.0,20.0,0.0,27.0,1726141059
+Mexico,Michoacan de Ocampo,August,2024,45,17,1,27,41.0,14.0,4.0,23.0,1726141059
+Mexico,Morelos,March,2023,30,4,0,26,35.0,7.0,0.0,28.0,1726141059
+Mexico,Morelos,April,2023,33,4,0,29,45.0,2.0,0.0,43.0,1726141059
+Mexico,Morelos,May,2023,43,3,0,40,35.0,4.0,0.0,31.0,1726141059
+Mexico,Morelos,June,2023,36,4,0,32,21.0,2.0,0.0,19.0,1726141059
+Mexico,Morelos,July,2023,25,4,0,22,17.0,2.0,0.0,15.0,1726141059
+Mexico,Morelos,August,2023,21,3,0,18,35.0,2.0,0.0,33.0,1726141059
+Mexico,Morelos,September,2023,33,3,0,30,14.0,2.0,0.0,12.0,1726141059
+Mexico,Morelos,October,2023,20,3,0,17,11.0,2.0,0.0,9.0,1726141059
+Mexico,Morelos,November,2023,11,2,0,9,19.0,3.0,0.0,16.0,1726141059
+Mexico,Morelos,December,2023,16,2,0,14,14.0,1.0,0.0,13.0,1726141059
+Mexico,Morelos,January,2024,15,2,0,13,43.0,4.0,0.0,39.0,1726141059
+Mexico,Morelos,February,2024,33,3,0,30,28.0,5.0,0.0,23.0,1726141059
+Mexico,Morelos,March,2024,29,4,0,25,30.0,2.0,0.0,28.0,1726141059
+Mexico,Morelos,April,2024,30,3,0,27,27.0,1.0,0.0,26.0,1726141059
+Mexico,Morelos,May,2024,28,2,0,26,27.0,2.0,0.0,25.0,1726141059
+Mexico,Morelos,June,2024,27,2,0,25,30.0,2.0,0.0,28.0,1726141059
+Mexico,Morelos,July,2024,29,2,0,27,27.0,3.0,0.0,24.0,1726141059
+Mexico,Morelos,August,2024,27,3,0,24,20.0,0.0,0.0,20.0,1726141059
+Mexico,Nayarit,March,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,July,2023,0,0,0,0,3.0,0.0,0.0,3.0,1726141059
+Mexico,Nayarit,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,September,2023,1,1,0,0,1.0,0.0,0.0,1.0,1726141059
+Mexico,Nayarit,October,2023,1,0,0,1,2.0,0.0,0.0,2.0,1726141059
+Mexico,Nayarit,November,2023,2,0,0,2,1.0,0.0,0.0,1.0,1726141059
+Mexico,Nayarit,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141059
+Mexico,Nayarit,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141059
+Mexico,Nayarit,August,2024,0,0,0,0,3.0,2.0,0.0,1.0,1726141059
+Mexico,Nuevo Leon,March,2023,42,7,0,35,20.0,1.0,0.0,19.0,1726141059
+Mexico,Nuevo Leon,April,2023,33,6,0,27,47.0,10.0,0.0,37.0,1726141059
+Mexico,Nuevo Leon,May,2023,43,8,0,35,54.0,11.0,0.0,43.0,1726141059
+Mexico,Nuevo Leon,June,2023,52,9,0,43,42.0,6.0,0.0,36.0,1726141059
+Mexico,Nuevo Leon,July,2023,43,7,0,36,77.0,15.0,0.0,62.0,1726141059
+Mexico,Nuevo Leon,August,2023,65,12,0,53,56.0,4.0,0.0,52.0,1726141059
+Mexico,Nuevo Leon,September,2023,54,4,0,50,67.0,19.0,0.0,48.0,1726141059
+Mexico,Nuevo Leon,October,2023,64,16,0,48,63.0,16.0,0.0,47.0,1726141059
+Mexico,Nuevo Leon,November,2023,58,14,0,44,60.0,14.0,0.0,46.0,1726141059
+Mexico,Nuevo Leon,December,2023,58,13,0,45,43.0,5.0,0.0,38.0,1726141059
+Mexico,Nuevo Leon,January,2024,46,7,0,39,61.0,13.0,0.0,48.0,1726141059
+Mexico,Nuevo Leon,February,2024,53,11,0,42,41.0,5.0,0.0,36.0,1726141059
+Mexico,Nuevo Leon,March,2024,43,6,0,37,43.0,6.0,0.0,37.0,1726141059
+Mexico,Nuevo Leon,April,2024,45,6,0,39,65.0,5.0,0.0,60.0,1726141059
+Mexico,Nuevo Leon,May,2024,59,6,0,53,78.0,14.0,0.0,64.0,1726141059
+Mexico,Nuevo Leon,June,2024,68,13,0,55,72.0,11.0,0.0,61.0,1726141059
+Mexico,Nuevo Leon,July,2024,67,10,0,57,69.0,10.0,0.0,59.0,1726141060
+Mexico,Nuevo Leon,August,2024,69,11,0,58,63.0,10.0,0.0,53.0,1726141060
+Mexico,Oaxaca,March,2023,10,2,0,8,13.0,0.0,0.0,13.0,1726141060
+Mexico,Oaxaca,April,2023,14,2,0,12,10.0,1.0,0.0,9.0,1726141060
+Mexico,Oaxaca,May,2023,12,1,0,10,12.0,2.0,0.0,10.0,1726141060
+Mexico,Oaxaca,June,2023,12,2,0,10,14.0,2.0,0.0,12.0,1726141060
+Mexico,Oaxaca,July,2023,13,2,0,11,13.0,4.0,1.0,8.0,1726141060
+Mexico,Oaxaca,August,2023,13,4,0,9,14.0,0.0,0.0,14.0,1726141060
+Mexico,Oaxaca,September,2023,15,2,0,13,11.0,0.0,0.0,11.0,1726141060
+Mexico,Oaxaca,October,2023,13,1,0,12,7.0,0.0,0.0,7.0,1726141060
+Mexico,Oaxaca,November,2023,8,1,0,7,8.0,1.0,0.0,7.0,1726141060
+Mexico,Oaxaca,December,2023,8,1,0,7,10.0,0.0,0.0,10.0,1726141060
+Mexico,Oaxaca,January,2024,11,1,0,10,6.0,1.0,0.0,5.0,1726141060
+Mexico,Oaxaca,February,2024,5,1,0,4,8.0,0.0,0.0,8.0,1726141060
+Mexico,Oaxaca,March,2024,8,0,0,8,11.0,2.0,0.0,9.0,1726141060
+Mexico,Oaxaca,April,2024,11,2,0,9,12.0,2.0,0.0,10.0,1726141060
+Mexico,Oaxaca,May,2024,12,2,0,10,9.0,1.0,0.0,8.0,1726141060
+Mexico,Oaxaca,June,2024,10,1,0,9,12.0,0.0,0.0,12.0,1726141060
+Mexico,Oaxaca,July,2024,11,0,0,11,8.0,1.0,0.0,7.0,1726141060
+Mexico,Oaxaca,August,2024,9,2,0,7,4.0,0.0,0.0,4.0,1726141060
+Mexico,Puebla,March,2023,24,6,0,18,22.0,5.0,0.0,17.0,1726141060
+Mexico,Puebla,April,2023,22,5,0,18,21.0,4.0,0.0,17.0,1726141060
+Mexico,Puebla,May,2023,22,4,0,18,29.0,4.0,0.0,25.0,1726141060
+Mexico,Puebla,June,2023,28,4,0,24,36.0,12.0,0.0,24.0,1726141060
+Mexico,Puebla,July,2023,30,6,0,24,29.0,5.0,0.0,24.0,1726141060
+Mexico,Puebla,August,2023,30,6,0,24,28.0,8.0,0.0,20.0,1726141060
+Mexico,Puebla,September,2023,27,7,0,20,27.0,6.0,0.0,21.0,1726141060
+Mexico,Puebla,October,2023,26,5,0,21,38.0,4.0,0.0,34.0,1726141060
+Mexico,Puebla,November,2023,34,5,0,29,22.0,7.0,0.0,15.0,1726141060
+Mexico,Puebla,December,2023,22,6,0,16,19.0,5.0,0.0,14.0,1726141060
+Mexico,Puebla,January,2024,21,5,0,16,19.0,2.0,0.0,17.0,1726141060
+Mexico,Puebla,February,2024,17,3,0,14,29.0,3.0,1.0,25.0,1726141060
+Mexico,Puebla,March,2024,28,3,1,24,20.0,7.0,0.0,13.0,1726141060
+Mexico,Puebla,April,2024,22,6,0,16,32.0,6.0,0.0,26.0,1726141060
+Mexico,Puebla,May,2024,31,6,0,25,27.0,2.0,0.0,25.0,1726141060
+Mexico,Puebla,June,2024,28,3,0,25,32.0,3.0,0.0,29.0,1726141060
+Mexico,Puebla,July,2024,31,3,0,28,27.0,3.0,0.0,24.0,1726141060
+Mexico,Puebla,August,2024,27,3,0,24,23.0,3.0,0.0,20.0,1726141060
+Mexico,Queretaro,March,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Queretaro,April,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141060
+Mexico,Queretaro,May,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Queretaro,June,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Queretaro,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Queretaro,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Queretaro,September,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141060
+Mexico,Queretaro,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141060
+Mexico,Queretaro,November,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141060
+Mexico,Queretaro,December,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141060
+Mexico,Queretaro,January,2024,1,1,0,0,2.0,0.0,0.0,2.0,1726141060
+Mexico,Queretaro,February,2024,2,0,0,2,1.0,0.0,0.0,1.0,1726141060
+Mexico,Queretaro,March,2024,1,0,0,1,2.0,1.0,0.0,1.0,1726141060
+Mexico,Queretaro,April,2024,2,1,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Queretaro,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Queretaro,June,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141060
+Mexico,Queretaro,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Queretaro,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Quintana Roo,March,2023,13,2,0,11,15.0,1.0,0.0,14.0,1726141060
+Mexico,Quintana Roo,April,2023,15,1,0,13,16.0,3.0,0.0,13.0,1726141060
+Mexico,Quintana Roo,May,2023,16,2,0,14,10.0,0.0,0.0,10.0,1726141060
+Mexico,Quintana Roo,June,2023,12,2,0,10,14.0,1.0,0.0,13.0,1726141060
+Mexico,Quintana Roo,July,2023,14,1,0,12,8.0,2.0,0.0,6.0,1726141060
+Mexico,Quintana Roo,August,2023,10,2,0,8,5.0,1.0,0.0,4.0,1726141060
+Mexico,Quintana Roo,September,2023,7,2,0,5,3.0,0.0,0.0,3.0,1726141060
+Mexico,Quintana Roo,October,2023,5,1,0,4,3.0,1.0,0.0,2.0,1726141060
+Mexico,Quintana Roo,November,2023,3,1,0,2,2.0,0.0,0.0,2.0,1726141060
+Mexico,Quintana Roo,December,2023,3,1,0,2,7.0,2.0,0.0,5.0,1726141060
+Mexico,Quintana Roo,January,2024,5,1,0,4,2.0,0.0,0.0,2.0,1726141060
+Mexico,Quintana Roo,February,2024,2,0,0,2,7.0,1.0,0.0,6.0,1726141060
+Mexico,Quintana Roo,March,2024,6,1,0,5,5.0,1.0,0.0,4.0,1726141060
+Mexico,Quintana Roo,April,2024,5,1,0,4,4.0,0.0,0.0,4.0,1726141060
+Mexico,Quintana Roo,May,2024,4,0,0,4,5.0,0.0,0.0,5.0,1726141060
+Mexico,Quintana Roo,June,2024,4,0,0,4,3.0,1.0,0.0,2.0,1726141060
+Mexico,Quintana Roo,July,2024,3,1,0,2,9.0,1.0,0.0,8.0,1726141060
+Mexico,Quintana Roo,August,2024,8,1,0,7,9.0,0.0,0.0,9.0,1726141060
+Mexico,San Luis Potosi,March,2023,7,4,0,3,9.0,1.0,0.0,8.0,1726141060
+Mexico,San Luis Potosi,April,2023,9,2,0,7,7.0,2.0,0.0,5.0,1726141060
+Mexico,San Luis Potosi,May,2023,8,2,0,6,12.0,5.0,0.0,7.0,1726141060
+Mexico,San Luis Potosi,June,2023,10,3,0,7,8.0,3.0,0.0,5.0,1726141060
+Mexico,San Luis Potosi,July,2023,8,3,0,5,5.0,3.0,0.0,2.0,1726141060
+Mexico,San Luis Potosi,August,2023,6,3,0,3,8.0,2.0,0.0,6.0,1726141060
+Mexico,San Luis Potosi,September,2023,8,2,0,6,5.0,1.0,0.0,4.0,1726141060
+Mexico,San Luis Potosi,October,2023,7,2,0,5,7.0,2.0,0.0,5.0,1726141060
+Mexico,San Luis Potosi,November,2023,6,2,0,4,5.0,0.0,0.0,5.0,1726141060
+Mexico,San Luis Potosi,December,2023,6,1,0,5,3.0,1.0,0.0,2.0,1726141060
+Mexico,San Luis Potosi,January,2024,4,2,0,2,3.0,2.0,0.0,1.0,1726141060
+Mexico,San Luis Potosi,February,2024,3,2,0,1,5.0,2.0,0.0,3.0,1726141060
+Mexico,San Luis Potosi,March,2024,5,2,0,3,5.0,2.0,0.0,3.0,1726141060
+Mexico,San Luis Potosi,April,2024,5,2,0,3,11.0,3.0,0.0,8.0,1726141060
+Mexico,San Luis Potosi,May,2024,10,3,0,7,9.0,3.0,0.0,6.0,1726141060
+Mexico,San Luis Potosi,June,2024,10,3,0,7,10.0,4.0,0.0,6.0,1726141060
+Mexico,San Luis Potosi,July,2024,10,4,0,6,7.0,3.0,0.0,4.0,1726141060
+Mexico,San Luis Potosi,August,2024,7,3,0,4,5.0,0.0,0.0,5.0,1726141060
+Mexico,Sinaloa,March,2023,17,4,0,13,25.0,3.0,0.0,22.0,1726141060
+Mexico,Sinaloa,April,2023,20,2,0,18,19.0,1.0,0.0,18.0,1726141060
+Mexico,Sinaloa,May,2023,21,2,0,18,12.0,0.0,0.0,12.0,1726141060
+Mexico,Sinaloa,June,2023,14,2,0,12,24.0,3.0,0.0,21.0,1726141060
+Mexico,Sinaloa,July,2023,22,2,0,20,22.0,3.0,0.0,19.0,1726141060
+Mexico,Sinaloa,August,2023,22,3,0,19,25.0,2.0,0.0,23.0,1726141060
+Mexico,Sinaloa,September,2023,24,3,0,21,24.0,7.0,0.0,17.0,1726141060
+Mexico,Sinaloa,October,2023,22,4,0,18,24.0,3.0,0.0,21.0,1726141060
+Mexico,Sinaloa,November,2023,22,3,0,19,15.0,1.0,0.0,14.0,1726141060
+Mexico,Sinaloa,December,2023,16,2,0,14,19.0,7.0,0.0,12.0,1726141060
+Mexico,Sinaloa,January,2024,19,5,0,14,25.0,2.0,0.0,23.0,1726141060
+Mexico,Sinaloa,February,2024,23,3,0,20,21.0,2.0,0.0,19.0,1726141060
+Mexico,Sinaloa,March,2024,23,3,0,20,24.0,4.0,0.0,20.0,1726141060
+Mexico,Sinaloa,April,2024,23,4,0,19,21.0,2.0,0.0,19.0,1726141060
+Mexico,Sinaloa,May,2024,22,2,0,20,17.0,2.0,0.0,15.0,1726141060
+Mexico,Sinaloa,June,2024,18,2,0,16,22.0,3.0,0.0,19.0,1726141060
+Mexico,Sinaloa,July,2024,22,3,0,19,25.0,5.0,0.0,20.0,1726141060
+Mexico,Sinaloa,August,2024,25,4,0,21,30.0,10.0,0.0,20.0,1726141060
+Mexico,Sonora,March,2023,24,5,0,19,33.0,9.0,0.0,24.0,1726141060
+Mexico,Sonora,April,2023,28,6,0,23,12.0,2.0,0.0,10.0,1726141060
+Mexico,Sonora,May,2023,18,4,0,14,14.0,4.0,0.0,10.0,1726141060
+Mexico,Sonora,June,2023,15,4,0,11,12.0,3.0,0.0,9.0,1726141060
+Mexico,Sonora,July,2023,15,5,0,10,15.0,4.0,0.0,11.0,1726141060
+Mexico,Sonora,August,2023,16,4,0,12,14.0,5.0,0.0,9.0,1726141060
+Mexico,Sonora,September,2023,14,4,0,10,13.0,1.0,0.0,12.0,1726141060
+Mexico,Sonora,October,2023,15,3,0,12,25.0,4.0,0.0,21.0,1726141060
+Mexico,Sonora,November,2023,21,4,0,17,16.0,8.0,0.0,8.0,1726141060
+Mexico,Sonora,December,2023,15,7,0,8,19.0,7.0,0.0,12.0,1726141060
+Mexico,Sonora,January,2024,17,6,0,11,11.0,6.0,0.0,5.0,1726141060
+Mexico,Sonora,February,2024,12,6,0,6,15.0,6.0,0.0,9.0,1726141060
+Mexico,Sonora,March,2024,15,6,0,9,14.0,5.0,0.0,9.0,1726141060
+Mexico,Sonora,April,2024,14,5,0,9,14.0,4.0,0.0,10.0,1726141060
+Mexico,Sonora,May,2024,14,4,0,10,18.0,8.0,0.0,10.0,1726141060
+Mexico,Sonora,June,2024,17,7,0,10,24.0,7.0,0.0,17.0,1726141060
+Mexico,Sonora,July,2024,21,7,0,14,20.0,3.0,1.0,16.0,1726141060
+Mexico,Sonora,August,2024,21,4,1,16,12.0,1.0,0.0,11.0,1726141060
+Mexico,Tabasco,March,2023,6,1,0,5,4.0,2.0,0.0,2.0,1726141060
+Mexico,Tabasco,April,2023,5,1,0,3,8.0,0.0,0.0,8.0,1726141060
+Mexico,Tabasco,May,2023,9,1,0,8,8.0,1.0,0.0,7.0,1726141060
+Mexico,Tabasco,June,2023,8,1,0,7,5.0,2.0,0.0,3.0,1726141060
+Mexico,Tabasco,July,2023,5,1,0,3,7.0,1.0,0.0,6.0,1726141060
+Mexico,Tabasco,August,2023,7,1,0,6,15.0,3.0,0.0,12.0,1726141060
+Mexico,Tabasco,September,2023,12,2,0,10,13.0,3.0,0.0,10.0,1726141060
+Mexico,Tabasco,October,2023,12,2,0,10,6.0,1.0,0.0,5.0,1726141060
+Mexico,Tabasco,November,2023,6,1,0,5,9.0,0.0,0.0,9.0,1726141060
+Mexico,Tabasco,December,2023,10,1,0,9,10.0,3.0,0.0,7.0,1726141060
+Mexico,Tabasco,January,2024,9,2,0,7,14.0,2.0,0.0,12.0,1726141060
+Mexico,Tabasco,February,2024,12,2,0,10,26.0,8.0,0.0,18.0,1726141060
+Mexico,Tabasco,March,2024,23,7,0,16,26.0,3.0,0.0,23.0,1726141060
+Mexico,Tabasco,April,2024,24,3,0,21,35.0,14.0,0.0,21.0,1726141060
+Mexico,Tabasco,May,2024,33,12,0,21,41.0,5.0,0.0,36.0,1726141060
+Mexico,Tabasco,June,2024,38,5,0,33,36.0,8.0,0.0,28.0,1726141060
+Mexico,Tabasco,July,2024,36,8,0,28,32.0,5.0,0.0,27.0,1726141060
+Mexico,Tabasco,August,2024,35,6,0,29,18.0,0.0,0.0,18.0,1726141060
+Mexico,Tamaulipas,March,2023,7,4,0,3,14.0,9.0,0.0,5.0,1726141060
+Mexico,Tamaulipas,April,2023,12,6,0,5,21.0,13.0,0.0,8.0,1726141060
+Mexico,Tamaulipas,May,2023,17,9,0,8,25.0,23.0,0.0,2.0,1726141060
+Mexico,Tamaulipas,June,2023,24,22,0,2,21.0,16.0,0.0,5.0,1726141060
+Mexico,Tamaulipas,July,2023,20,15,0,5,27.0,22.0,0.0,5.0,1726141060
+Mexico,Tamaulipas,August,2023,23,18,0,5,22.0,16.0,0.0,6.0,1726141060
+Mexico,Tamaulipas,September,2023,22,16,0,6,13.0,8.0,0.0,5.0,1726141060
+Mexico,Tamaulipas,October,2023,15,9,0,6,13.0,10.0,0.0,3.0,1726141060
+Mexico,Tamaulipas,November,2023,13,10,0,3,15.0,11.0,0.0,4.0,1726141060
+Mexico,Tamaulipas,December,2023,14,10,0,4,19.0,12.0,0.0,7.0,1726141060
+Mexico,Tamaulipas,January,2024,17,10,0,7,12.0,9.0,0.0,3.0,1726141060
+Mexico,Tamaulipas,February,2024,12,10,0,2,5.0,3.0,0.0,2.0,1726141060
+Mexico,Tamaulipas,March,2024,8,5,0,3,7.0,6.0,0.0,1.0,1726141060
+Mexico,Tamaulipas,April,2024,9,6,0,3,7.0,3.0,0.0,4.0,1726141060
+Mexico,Tamaulipas,May,2024,8,4,0,4,13.0,6.0,0.0,7.0,1726141060
+Mexico,Tamaulipas,June,2024,13,6,0,7,6.0,4.0,0.0,2.0,1726141060
+Mexico,Tamaulipas,July,2024,7,4,0,3,13.0,4.0,0.0,9.0,1726141060
+Mexico,Tamaulipas,August,2024,12,4,0,8,19.0,8.0,0.0,11.0,1726141060
+Mexico,Tlaxcala,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,May,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141060
+Mexico,Tlaxcala,June,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,September,2023,0,0,0,0,2.0,1.0,0.0,1.0,1726141060
+Mexico,Tlaxcala,October,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141060
+Mexico,Tlaxcala,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Tlaxcala,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,April,2024,0,0,0,0,4.0,1.0,0.0,3.0,1726141060
+Mexico,Tlaxcala,May,2024,3,1,0,2,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Tlaxcala,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Tlaxcala,August,2024,1,0,0,1,4.0,0.0,0.0,4.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,March,2023,24,6,0,18,15.0,3.0,0.0,12.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,April,2023,21,6,0,15,25.0,5.0,0.0,20.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,May,2023,25,5,0,20,31.0,3.0,1.0,27.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,June,2023,31,4,0,27,42.0,9.0,0.0,33.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,July,2023,39,6,0,32,24.0,6.0,1.0,17.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,August,2023,27,7,1,19,24.0,2.0,0.0,22.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,September,2023,26,4,0,22,26.0,3.0,0.0,23.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,October,2023,28,4,0,24,22.0,4.0,0.0,18.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,November,2023,22,4,0,18,14.0,3.0,0.0,11.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,December,2023,15,4,0,11,14.0,6.0,0.0,8.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,January,2024,16,5,0,11,14.0,2.0,0.0,12.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,February,2024,14,3,0,11,16.0,1.0,0.0,15.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,March,2024,17,2,0,15,30.0,3.0,0.0,27.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,April,2024,29,3,1,25,25.0,2.0,0.0,23.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,May,2024,25,2,0,23,25.0,5.0,0.0,20.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,June,2024,26,5,0,21,27.0,6.0,0.0,21.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,July,2024,27,6,0,21,27.0,7.0,0.0,20.0,1726141060
+Mexico,Veracruz de Ignacio de la Llave,August,2024,28,7,0,21,26.0,5.0,0.0,21.0,1726141060
+Mexico,Yucatan,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,April,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141060
+Mexico,Yucatan,May,2023,3,0,0,2,1.0,0.0,0.0,1.0,1726141060
+Mexico,Yucatan,June,2023,2,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Yucatan,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,September,2023,1,1,0,0,1.0,1.0,0.0,0.0,1726141060
+Mexico,Yucatan,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Yucatan,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Yucatan,February,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141060
+Mexico,Yucatan,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Yucatan,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141060
+Mexico,Zacatecas,March,2023,26,4,0,22,21.0,3.0,0.0,18.0,1726141060
+Mexico,Zacatecas,April,2023,26,5,0,20,37.0,10.0,0.0,27.0,1726141060
+Mexico,Zacatecas,May,2023,33,7,0,26,25.0,5.0,0.0,20.0,1726141060
+Mexico,Zacatecas,June,2023,26,6,0,20,24.0,2.0,0.0,22.0,1726141060
+Mexico,Zacatecas,July,2023,27,5,0,22,31.0,10.0,0.0,21.0,1726141060
+Mexico,Zacatecas,August,2023,29,8,0,21,26.0,10.0,0.0,16.0,1726141060
+Mexico,Zacatecas,September,2023,25,8,0,17,28.0,9.0,0.0,19.0,1726141060
+Mexico,Zacatecas,October,2023,28,8,0,20,24.0,7.0,0.0,17.0,1726141060
+Mexico,Zacatecas,November,2023,23,7,0,16,18.0,6.0,0.0,12.0,1726141060
+Mexico,Zacatecas,December,2023,19,6,0,13,15.0,4.0,0.0,11.0,1726141060
+Mexico,Zacatecas,January,2024,16,5,0,11,11.0,6.0,0.0,5.0,1726141060
+Mexico,Zacatecas,February,2024,11,6,0,5,14.0,4.0,0.0,10.0,1726141060
+Mexico,Zacatecas,March,2024,14,4,0,10,7.0,2.0,0.0,5.0,1726141060
+Mexico,Zacatecas,April,2024,10,3,0,7,10.0,3.0,0.0,7.0,1726141060
+Mexico,Zacatecas,May,2024,10,3,0,7,15.0,5.0,0.0,10.0,1726141060
+Mexico,Zacatecas,June,2024,15,5,0,10,14.0,5.0,0.0,9.0,1726141060
+Mexico,Zacatecas,July,2024,14,5,0,9,17.0,5.0,0.0,12.0,1726141060
+Mexico,Zacatecas,August,2024,17,5,0,12,10.0,6.0,0.0,4.0,1726141060
+Mexico,Aguascalientes,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730995
+Mexico,Baja California,September,2024,38,5,0,33,30.0,4.0,0.0,26.0,1730730995
+Mexico,Baja California Sur,September,2024,0,0,0,0,2.0,1.0,0.0,1.0,1730730995
+Mexico,Campeche,September,2024,4,1,0,3,0.0,0.0,0.0,0.0,1730730995
+Mexico,Chiapas,September,2024,27,14,2,11,16.0,5.0,1.0,10.0,1730730995
+Mexico,Chihuahua,September,2024,23,3,0,20,28.0,10.0,0.0,18.0,1730730995
+Mexico,Ciudad de Mexico,September,2024,8,1,0,7,19.0,3.0,0.0,16.0,1730730995
+Mexico,Coahuila de Zaragoza,September,2024,2,0,0,2,2.0,1.0,0.0,1.0,1730730995
+Mexico,Colima,September,2024,20,2,0,18,20.0,1.0,0.0,19.0,1730730995
+Mexico,Durango,September,2024,2,0,0,2,2.0,0.0,0.0,2.0,1730730995
+Mexico,Guanajuato,September,2024,68,5,2,61,55.0,3.0,0.0,52.0,1730730995
+Mexico,Guerrero,September,2024,50,7,1,42,24.0,3.0,0.0,21.0,1730730995
+Mexico,Hidalgo,September,2024,13,2,1,10,10.0,2.0,0.0,8.0,1730730995
+Mexico,Jalisco,September,2024,32,3,0,29,35.0,2.0,0.0,33.0,1730730995
+Mexico,Mexico,September,2024,14,3,1,10,17.0,1.0,0.0,16.0,1730730995
+Mexico,Michoacan de Ocampo,September,2024,40,14,3,23,35.0,13.0,3.0,19.0,1730730995
+Mexico,Morelos,September,2024,21,1,0,20,35.0,5.0,0.0,30.0,1730730995
+Mexico,Nayarit,September,2024,2,1,0,1,1.0,1.0,0.0,0.0,1730730995
+Mexico,Nuevo Leon,September,2024,64,11,0,53,50.0,10.0,0.0,40.0,1730730995
+Mexico,Oaxaca,September,2024,5,1,0,4,10.0,2.0,0.0,8.0,1730730995
+Mexico,Puebla,September,2024,23,3,0,20,24.0,6.0,0.0,18.0,1730730995
+Mexico,Queretaro,September,2024,1,0,0,1,1.0,1.0,0.0,0.0,1730730995
+Mexico,Quintana Roo,September,2024,9,0,0,9,8.0,1.0,0.0,7.0,1730730995
+Mexico,San Luis Potosi,September,2024,6,1,0,5,4.0,2.0,0.0,2.0,1730730995
+Mexico,Sinaloa,September,2024,28,8,0,20,91.0,41.0,0.0,50.0,1730730995
+Mexico,Sonora,September,2024,13,2,0,11,19.0,10.0,0.0,9.0,1730730995
+Mexico,Tabasco,September,2024,20,1,0,19,25.0,0.0,0.0,25.0,1730730995
+Mexico,Tamaulipas,September,2024,17,7,0,10,4.0,2.0,0.0,2.0,1730730995
+Mexico,Tlaxcala,September,2024,4,0,0,4,0.0,0.0,0.0,0.0,1730730995
+Mexico,Veracruz de Ignacio de la Llave,September,2024,27,6,0,21,21.0,4.0,0.0,17.0,1730730995
+Mexico,Yucatan,September,2024,0,0,0,0,2.0,1.0,0.0,1.0,1730730995
+Mexico,Zacatecas,September,2024,10,5,0,5,17.0,4.0,1.0,12.0,1730730995
+Mexico,Aguascalientes,October,2024,1,0,0,1,3.0,2.0,0.0,1.0,1734010293
+Mexico,Aguascalientes,November,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010293
+Mexico,Baja California,October,2024,30,4,0,26,29.0,4.0,0.0,25.0,1734010293
+Mexico,Baja California,November,2024,29,4,0,25,41.0,3.0,0.0,38.0,1734010293
+Mexico,Baja California Sur,October,2024,2,1,0,1,1.0,1.0,0.0,0.0,1734010293
+Mexico,Baja California Sur,November,2024,1,1,0,0,1.0,0.0,0.0,1.0,1734010293
+Mexico,Campeche,October,2024,0,0,0,0,7.0,2.0,0.0,5.0,1734010293
+Mexico,Campeche,November,2024,7,2,0,5,8.0,1.0,0.0,7.0,1734010293
+Mexico,Chiapas,October,2024,17,6,1,10,15.0,3.0,0.0,12.0,1734010293
+Mexico,Chiapas,November,2024,16,4,0,12,10.0,4.0,0.0,6.0,1734010293
+Mexico,Chihuahua,October,2024,26,9,0,17,18.0,1.0,0.0,17.0,1734010293
+Mexico,Chihuahua,November,2024,20,3,0,17,16.0,2.0,0.0,14.0,1734010293
+Mexico,Ciudad de Mexico,October,2024,18,3,0,15,20.0,7.0,0.0,13.0,1734010293
+Mexico,Ciudad de Mexico,November,2024,19,6,0,13,20.0,5.0,0.0,15.0,1734010293
+Mexico,Coahuila de Zaragoza,October,2024,2,1,0,1,1.0,0.0,0.0,1.0,1734010293
+Mexico,Coahuila de Zaragoza,November,2024,1,0,0,1,2.0,1.0,0.0,1.0,1734010293
+Mexico,Colima,October,2024,19,1,0,18,20.0,1.0,0.0,19.0,1734010293
+Mexico,Colima,November,2024,19,1,0,18,22.0,0.0,0.0,22.0,1734010293
+Mexico,Durango,October,2024,2,0,0,2,1.0,0.0,1.0,0.0,1734010293
+Mexico,Durango,November,2024,1,0,1,0,6.0,0.0,1.0,5.0,1734010293
+Mexico,Guanajuato,October,2024,55,4,0,51,66.0,5.0,3.0,58.0,1734010293
+Mexico,Guanajuato,November,2024,66,5,3,58,57.0,5.0,0.0,52.0,1734010293
+Mexico,Guerrero,October,2024,27,5,0,22,46.0,14.0,0.0,32.0,1734010293
+Mexico,Guerrero,November,2024,42,11,0,31,34.0,4.0,0.0,30.0,1734010293
+Mexico,Hidalgo,October,2024,10,2,0,8,9.0,1.0,0.0,8.0,1734010293
+Mexico,Hidalgo,November,2024,9,1,0,8,6.0,0.0,0.0,6.0,1734010293
+Mexico,Jalisco,October,2024,35,3,0,32,18.0,1.0,0.0,17.0,1734010293
+Mexico,Jalisco,November,2024,21,2,0,19,28.0,5.0,0.0,23.0,1734010293
+Mexico,Mexico,October,2024,18,2,0,16,21.0,1.0,0.0,20.0,1734010293
+Mexico,Mexico,November,2024,20,1,0,19,22.0,4.0,0.0,18.0,1734010293
+Mexico,Michoacan de Ocampo,October,2024,36,13,3,20,37.0,12.0,2.0,23.0,1734010293
+Mexico,Michoacan de Ocampo,November,2024,38,13,2,23,55.0,26.0,0.0,29.0,1734010293
+Mexico,Morelos,October,2024,32,4,0,28,33.0,1.0,0.0,32.0,1734010294
+Mexico,Morelos,November,2024,33,2,0,31,18.0,1.0,0.0,17.0,1734010294
+Mexico,Nayarit,October,2024,2,1,0,1,1.0,1.0,0.0,0.0,1734010294
+Mexico,Nayarit,November,2024,1,1,0,0,2.0,2.0,0.0,0.0,1734010294
+Mexico,Nuevo Leon,October,2024,51,10,0,41,64.0,17.0,0.0,47.0,1734010294
+Mexico,Nuevo Leon,November,2024,61,14,0,47,36.0,7.0,0.0,29.0,1734010294
+Mexico,Oaxaca,October,2024,10,2,0,8,14.0,1.0,0.0,13.0,1734010294
+Mexico,Oaxaca,November,2024,14,1,0,13,14.0,1.0,0.0,13.0,1734010294
+Mexico,Puebla,October,2024,26,6,0,20,19.0,3.0,0.0,16.0,1734010294
+Mexico,Puebla,November,2024,20,4,0,16,24.0,3.0,0.0,21.0,1734010294
+Mexico,Queretaro,October,2024,1,1,0,0,2.0,0.0,0.0,2.0,1734010294
+Mexico,Queretaro,November,2024,2,0,0,2,2.0,1.0,0.0,1.0,1734010294
+Mexico,Quintana Roo,October,2024,8,1,0,7,4.0,0.0,0.0,4.0,1734010294
+Mexico,Quintana Roo,November,2024,4,0,0,4,3.0,0.0,0.0,3.0,1734010294
+Mexico,San Luis Potosi,October,2024,5,2,0,3,10.0,1.0,0.0,9.0,1734010294
+Mexico,San Luis Potosi,November,2024,9,1,0,8,5.0,1.0,0.0,4.0,1734010294
+Mexico,Sinaloa,October,2024,76,30,0,46,132.0,45.0,1.0,86.0,1734010294
+Mexico,Sinaloa,November,2024,127,41,1,85,136.0,28.0,5.0,103.0,1734010294
+Mexico,Sonora,October,2024,17,8,0,9,17.0,8.0,0.0,9.0,1734010294
+Mexico,Sonora,November,2024,17,8,0,9,8.0,4.0,0.0,4.0,1734010294
+Mexico,Tabasco,October,2024,25,1,0,24,34.0,5.0,0.0,29.0,1734010294
+Mexico,Tabasco,November,2024,33,5,0,28,15.0,4.0,0.0,11.0,1734010294
+Mexico,Tamaulipas,October,2024,6,3,0,3,9.0,3.0,0.0,6.0,1734010294
+Mexico,Tamaulipas,November,2024,9,3,0,6,18.0,11.0,1.0,6.0,1734010294
+Mexico,Tlaxcala,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010294
+Mexico,Tlaxcala,November,2024,2,0,0,2,0.0,0.0,0.0,0.0,1734010294
+Mexico,Veracruz de Ignacio de la Llave,October,2024,22,4,0,18,25.0,5.0,0.0,20.0,1734010294
+Mexico,Veracruz de Ignacio de la Llave,November,2024,24,5,0,19,25.0,2.0,0.0,23.0,1734010294
+Mexico,Yucatan,October,2024,2,1,0,1,0.0,0.0,0.0,0.0,1734010294
+Mexico,Yucatan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010294
+Mexico,Zacatecas,October,2024,16,4,1,11,10.0,2.0,1.0,7.0,1734010294
+Mexico,Zacatecas,November,2024,11,3,1,7,10.0,3.0,0.0,7.0,1734010294
+Mexico,Aguascalientes,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033355
+Mexico,Baja California,December,2024,40,3,0,37,47.0,5.0,0.0,42.0,1737033355
+Mexico,Baja California Sur,December,2024,1,0,0,1,3.0,0.0,0.0,3.0,1737033355
+Mexico,Campeche,December,2024,8,1,0,7,4.0,1.0,0.0,3.0,1737033355
+Mexico,Chiapas,December,2024,11,4,0,7,11.0,6.0,0.0,5.0,1737033355
+Mexico,Chihuahua,December,2024,16,2,0,14,24.0,5.0,5.0,14.0,1737033355
+Mexico,Ciudad de Mexico,December,2024,20,5,0,15,10.0,1.0,0.0,9.0,1737033355
+Mexico,Coahuila de Zaragoza,December,2024,2,1,0,1,3.0,0.0,0.0,3.0,1737033355
+Mexico,Colima,December,2024,21,0,0,21,14.0,1.0,0.0,13.0,1737033355
+Mexico,Durango,December,2024,5,0,1,4,1.0,0.0,0.0,1.0,1737033356
+Mexico,Guanajuato,December,2024,57,5,0,52,53.0,13.0,0.0,40.0,1737033356
+Mexico,Guerrero,December,2024,34,4,0,30,17.0,5.0,0.0,12.0,1737033356
+Mexico,Hidalgo,December,2024,6,0,0,6,3.0,0.0,0.0,3.0,1737033356
+Mexico,Jalisco,December,2024,28,5,0,23,24.0,3.0,0.0,21.0,1737033356
+Mexico,Mexico,December,2024,22,4,0,18,11.0,2.0,0.0,9.0,1737033356
+Mexico,Michoacan de Ocampo,December,2024,53,24,0,29,53.0,20.0,4.0,29.0,1737033356
+Mexico,Morelos,December,2024,19,1,0,18,21.0,4.0,0.0,17.0,1737033356
+Mexico,Nayarit,December,2024,2,2,0,0,0.0,0.0,0.0,0.0,1737033356
+Mexico,Nuevo Leon,December,2024,38,7,0,31,44.0,4.0,0.0,40.0,1737033356
+Mexico,Oaxaca,December,2024,14,1,0,13,3.0,1.0,0.0,2.0,1737033356
+Mexico,Puebla,December,2024,24,3,0,21,19.0,6.0,0.0,13.0,1737033356
+Mexico,Queretaro,December,2024,2,1,0,1,0.0,0.0,0.0,0.0,1737033356
+Mexico,Quintana Roo,December,2024,3,0,0,3,6.0,1.0,0.0,5.0,1737033356
+Mexico,San Luis Potosi,December,2024,5,1,0,4,5.0,2.0,0.0,3.0,1737033356
+Mexico,Sinaloa,December,2024,136,30,5,101,110.0,30.0,1.0,79.0,1737033356
+Mexico,Sonora,December,2024,9,4,0,5,22.0,4.0,1.0,17.0,1737033356
+Mexico,Tabasco,December,2024,18,4,0,14,8.0,2.0,0.0,6.0,1737033356
+Mexico,Tamaulipas,December,2024,17,10,1,6,8.0,5.0,0.0,3.0,1737033356
+Mexico,Tlaxcala,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033356
+Mexico,Veracruz de Ignacio de la Llave,December,2024,25,2,0,23,18.0,3.0,0.0,15.0,1737033356
+Mexico,Yucatan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033356
+Mexico,Zacatecas,December,2024,10,3,0,7,12.0,3.0,0.0,9.0,1737033356
+Mexico,Aguascalientes,January,2025,0,0,0,0,5.0,1.0,0.0,4.0,1738854859
+Mexico,Baja California,January,2025,44,5,0,39,35.0,5.0,0.0,30.0,1738854859
+Mexico,Baja California Sur,January,2025,2,0,0,2,1.0,1.0,0.0,0.0,1738854859
+Mexico,Campeche,January,2025,5,1,0,4,2.0,0.0,0.0,2.0,1738854859
+Mexico,Chiapas,January,2025,13,6,0,7,10.0,4.0,0.0,6.0,1738854859
+Mexico,Chihuahua,January,2025,21,5,1,15,27.0,5.0,0.0,22.0,1738854859
+Mexico,Ciudad de Mexico,January,2025,12,2,0,10,17.0,1.0,0.0,16.0,1738854859
+Mexico,Coahuila de Zaragoza,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854859
+Mexico,Colima,January,2025,16,1,0,15,11.0,1.0,0.0,10.0,1738854859
+Mexico,Durango,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854859
+Mexico,Guanajuato,January,2025,55,11,1,43,65.0,9.0,0.0,56.0,1738854859
+Mexico,Guerrero,January,2025,22,6,1,15,29.0,2.0,0.0,27.0,1738854859
+Mexico,Hidalgo,January,2025,5,1,0,4,10.0,2.0,0.0,8.0,1738854859
+Mexico,Jalisco,January,2025,27,4,0,23,23.0,2.0,0.0,21.0,1738854859
+Mexico,Mexico,January,2025,14,3,0,11,25.0,4.0,0.0,21.0,1738854859
+Mexico,Michoacan de Ocampo,January,2025,51,19,3,29,68.0,30.0,8.0,30.0,1738854859
+Mexico,Morelos,January,2025,25,4,0,21,24.0,0.0,0.0,24.0,1738854859
+Mexico,Nayarit,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854859
+Mexico,Nuevo Leon,January,2025,46,6,0,40,59.0,13.0,0.0,46.0,1738854859
+Mexico,Oaxaca,January,2025,5,1,0,4,6.0,3.0,0.0,3.0,1738854859
+Mexico,Puebla,January,2025,23,6,0,17,31.0,4.0,0.0,27.0,1738854859
+Mexico,Queretaro,January,2025,0,0,0,0,1.0,1.0,0.0,0.0,1738854859
+Mexico,Quintana Roo,January,2025,6,1,0,5,3.0,1.0,0.0,2.0,1738854859
+Mexico,San Luis Potosi,January,2025,6,2,0,4,7.0,2.0,0.0,5.0,1738854859
+Mexico,Sinaloa,January,2025,110,31,2,77,92.0,30.0,1.0,61.0,1738854859
+Mexico,Sonora,January,2025,19,4,0,15,14.0,3.0,0.0,11.0,1738854859
+Mexico,Tabasco,January,2025,12,3,0,9,21.0,6.0,0.0,15.0,1738854859
+Mexico,Tamaulipas,January,2025,10,6,0,4,17.0,11.0,2.0,4.0,1738854859
+Mexico,Tlaxcala,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854859
+Mexico,Veracruz de Ignacio de la Llave,January,2025,20,3,0,17,19.0,4.0,0.0,15.0,1738854859
+Mexico,Yucatan,January,2025,0,0,0,0,2.0,0.0,0.0,2.0,1738854859
+Mexico,Zacatecas,January,2025,12,3,0,9,13.0,6.0,0.0,7.0,1738854859
+Mexico,Aguascalientes,February,2025,4,1,0,3,3.0,0.0,0.0,3.0,1741266629
+Mexico,Baja California,February,2025,33,5,0,28,45.0,7.0,0.0,38.0,1741266629
+Mexico,Baja California Sur,February,2025,1,1,0,0,2.0,0.0,0.0,2.0,1741266629
+Mexico,Campeche,February,2025,2,0,0,2,5.0,0.0,0.0,5.0,1741266629
+Mexico,Chiapas,February,2025,9,4,0,5,4.0,1.0,0.0,3.0,1741266629
+Mexico,Chihuahua,February,2025,27,5,1,21,14.0,3.0,1.0,10.0,1741266629
+Mexico,Ciudad de Mexico,February,2025,17,1,0,16,25.0,3.0,0.0,22.0,1741266629
+Mexico,Coahuila de Zaragoza,February,2025,1,0,0,1,1.0,1.0,0.0,0.0,1741266629
+Mexico,Colima,February,2025,11,1,0,10,14.0,1.0,1.0,12.0,1741266629
+Mexico,Durango,February,2025,0,0,0,0,3.0,0.0,0.0,3.0,1741266629
+Mexico,Guanajuato,February,2025,56,9,0,47,69.0,7.0,0.0,62.0,1741266629
+Mexico,Guerrero,February,2025,29,3,0,26,28.0,4.0,1.0,23.0,1741266629
+Mexico,Hidalgo,February,2025,9,2,0,7,9.0,1.0,0.0,8.0,1741266629
+Mexico,Jalisco,February,2025,24,3,0,21,33.0,6.0,1.0,26.0,1741266629
+Mexico,Mexico,February,2025,25,4,0,21,29.0,3.0,0.0,26.0,1741266629
+Mexico,Michoacan de Ocampo,February,2025,60,26,5,29,78.0,34.0,5.0,39.0,1741266629
+Mexico,Morelos,February,2025,24,1,0,23,17.0,3.0,0.0,14.0,1741266629
+Mexico,Nayarit,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266629
+Mexico,Nuevo Leon,February,2025,51,12,0,39,44.0,13.0,1.0,30.0,1741266629
+Mexico,Oaxaca,February,2025,6,3,0,3,8.0,1.0,0.0,7.0,1741266629
+Mexico,Puebla,February,2025,30,4,0,26,24.0,4.0,0.0,20.0,1741266629
+Mexico,Queretaro,February,2025,1,1,0,0,0.0,0.0,0.0,0.0,1741266629
+Mexico,Quintana Roo,February,2025,3,1,0,2,2.0,0.0,0.0,2.0,1741266629
+Mexico,San Luis Potosi,February,2025,7,2,0,5,5.0,1.0,0.0,4.0,1741266629
+Mexico,Sinaloa,February,2025,89,30,2,57,87.0,26.0,1.0,60.0,1741266629
+Mexico,Sonora,February,2025,14,3,0,11,21.0,1.0,0.0,20.0,1741266629
+Mexico,Tabasco,February,2025,20,6,0,14,15.0,4.0,0.0,11.0,1741266629
+Mexico,Tamaulipas,February,2025,15,10,1,4,9.0,5.0,1.0,3.0,1741266629
+Mexico,Tlaxcala,February,2025,1,0,0,1,1.0,0.0,0.0,1.0,1741266629
+Mexico,Veracruz de Ignacio de la Llave,February,2025,20,4,0,16,27.0,4.0,0.0,23.0,1741266629
+Mexico,Yucatan,February,2025,2,0,0,2,0.0,0.0,0.0,0.0,1741266629
+Mexico,Zacatecas,February,2025,12,5,0,7,10.0,2.0,0.0,8.0,1741266629
+Mexico,Aguascalientes,March,2025,2,0,0,2,2.0,0.0,0.0,2.0,1744287545
+Mexico,Baja California,March,2025,40,7,0,33,36.0,2.0,0.0,34.0,1744287545
+Mexico,Baja California Sur,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287545
+Mexico,Campeche,March,2025,4,0,0,4,6.0,0.0,0.0,6.0,1744287545
+Mexico,Chiapas,March,2025,7,2,0,5,6.0,3.0,0.0,3.0,1744287545
+Mexico,Chihuahua,March,2025,22,3,1,18,14.0,3.0,0.0,11.0,1744287545
+Mexico,Ciudad de Mexico,March,2025,22,3,0,19,26.0,4.0,0.0,22.0,1744287545
+Mexico,Coahuila de Zaragoza,March,2025,3,1,0,2,1.0,0.0,0.0,1.0,1744287545
+Mexico,Colima,March,2025,12,1,0,11,10.0,0.0,0.0,10.0,1744287545
+Mexico,Durango,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287545
+Mexico,Guanajuato,March,2025,65,7,1,57,51.0,5.0,0.0,46.0,1744287545
+Mexico,Guerrero,March,2025,34,4,2,28,30.0,1.0,0.0,29.0,1744287545
+Mexico,Hidalgo,March,2025,10,1,0,9,8.0,0.0,0.0,8.0,1744287545
+Mexico,Jalisco,March,2025,27,5,1,21,33.0,8.0,0.0,25.0,1744287545
+Mexico,Mexico,March,2025,23,3,0,20,25.0,4.0,0.0,21.0,1744287545
+Mexico,Michoacan de Ocampo,March,2025,75,32,5,38,42.0,18.0,0.0,24.0,1744287545
+Mexico,Morelos,March,2025,23,3,0,20,13.0,1.0,0.0,12.0,1744287545
+Mexico,Nayarit,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287545
+Mexico,Nuevo Leon,March,2025,48,12,1,35,60.0,26.0,0.0,34.0,1744287545
+Mexico,Oaxaca,March,2025,7,1,0,6,9.0,1.0,0.0,8.0,1744287545
+Mexico,Puebla,March,2025,25,4,0,21,24.0,5.0,0.0,19.0,1744287545
+Mexico,Queretaro,March,2025,1,0,0,1,1.0,1.0,0.0,0.0,1744287545
+Mexico,Quintana Roo,March,2025,4,0,0,4,7.0,3.0,0.0,4.0,1744287545
+Mexico,San Luis Potosi,March,2025,6,1,0,5,5.0,1.0,0.0,4.0,1744287545
+Mexico,Sinaloa,March,2025,87,27,2,58,99.0,38.0,0.0,61.0,1744287545
+Mexico,Sonora,March,2025,17,2,0,15,23.0,4.0,0.0,19.0,1744287545
+Mexico,Tabasco,March,2025,21,4,0,17,27.0,4.0,0.0,23.0,1744287545
+Mexico,Tamaulipas,March,2025,11,6,1,4,7.0,4.0,0.0,3.0,1744287545
+Mexico,Tlaxcala,March,2025,2,0,0,2,1.0,0.0,0.0,1.0,1744287545
+Mexico,Veracruz de Ignacio de la Llave,March,2025,24,4,0,20,33.0,1.0,2.0,30.0,1744287545
+Mexico,Yucatan,March,2025,1,0,0,1,1.0,0.0,0.0,1.0,1744287545
+Mexico,Zacatecas,March,2025,11,2,0,9,14.0,6.0,0.0,8.0,1744287545
+Mexico,Aguascalientes,April,2025,2,0,0,2,2.0,2.0,0.0,0.0,1746702915
+Mexico,Baja California,April,2025,37,3,0,34,33.0,4.0,0.0,29.0,1746702915
+Mexico,Baja California Sur,April,2025,1,0,0,1,10.0,5.0,0.0,5.0,1746702915
+Mexico,Campeche,April,2025,4,0,0,4,4.0,0.0,0.0,4.0,1746702915
+Mexico,Chiapas,April,2025,8,3,0,5,5.0,1.0,0.0,4.0,1746702915
+Mexico,Chihuahua,April,2025,17,3,0,14,13.0,4.0,0.0,9.0,1746702915
+Mexico,Ciudad de Mexico,April,2025,26,4,0,22,22.0,2.0,0.0,20.0,1746702915
+Mexico,Coahuila de Zaragoza,April,2025,2,0,0,2,1.0,0.0,0.0,1.0,1746702915
+Mexico,Colima,April,2025,16,1,0,15,7.0,1.0,0.0,6.0,1746702915
+Mexico,Durango,April,2025,1,0,0,1,1.0,0.0,0.0,1.0,1746702915
+Mexico,Guanajuato,April,2025,57,6,0,51,51.0,9.0,0.0,42.0,1746702915
+Mexico,Guerrero,April,2025,30,2,1,27,59.0,6.0,0.0,53.0,1746702915
+Mexico,Hidalgo,April,2025,9,1,0,8,7.0,1.0,0.0,6.0,1746702915
+Mexico,Jalisco,April,2025,33,7,0,26,39.0,2.0,0.0,37.0,1746702915
+Mexico,Mexico,April,2025,26,4,0,22,20.0,1.0,0.0,19.0,1746702915
+Mexico,Michoacan de Ocampo,April,2025,53,21,1,31,61.0,26.0,3.0,32.0,1746702915
+Mexico,Morelos,April,2025,16,2,0,14,18.0,4.0,0.0,14.0,1746702915
+Mexico,Nayarit,April,2025,1,0,0,1,0.0,0.0,0.0,0.0,1746702915
+Mexico,Nuevo Leon,April,2025,59,21,0,38,53.0,5.0,0.0,48.0,1746702915
+Mexico,Oaxaca,April,2025,8,1,0,7,8.0,2.0,0.0,6.0,1746702915
+Mexico,Puebla,April,2025,26,5,0,21,37.0,5.0,0.0,32.0,1746702915
+Mexico,Queretaro,April,2025,3,1,0,2,1.0,0.0,0.0,1.0,1746702915
+Mexico,Quintana Roo,April,2025,6,2,0,4,6.0,3.0,0.0,3.0,1746702915
+Mexico,San Luis Potosi,April,2025,5,1,0,4,2.0,0.0,0.0,2.0,1746702915
+Mexico,Sinaloa,April,2025,96,35,1,60,124.0,48.0,4.0,72.0,1746702915
+Mexico,Sonora,April,2025,24,5,0,19,14.0,3.0,0.0,11.0,1746702915
+Mexico,Tabasco,April,2025,21,4,0,17,13.0,1.0,0.0,12.0,1746702915
+Mexico,Tamaulipas,April,2025,10,5,0,5,0.0,0.0,0.0,0.0,1746702915
+Mexico,Tlaxcala,April,2025,2,0,0,2,2.0,1.0,0.0,1.0,1746702915
+Mexico,Veracruz de Ignacio de la Llave,April,2025,25,2,0,23,34.0,6.0,0.0,28.0,1746702915
+Mexico,Yucatan,April,2025,2,0,0,2,1.0,1.0,0.0,0.0,1746702915
+Mexico,Zacatecas,April,2025,15,5,0,10,13.0,3.0,0.0,10.0,1746702915
+Mexico,Aguascalientes,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732018
+Mexico,Baja California,May,2025,34,5,0,29,40.0,4.0,0.0,36.0,1749732018
+Mexico,Baja California Sur,May,2025,6,1,0,5,7.0,3.0,0.0,4.0,1749732019
+Mexico,Campeche,May,2025,5,1,0,4,9.0,1.0,0.0,8.0,1749732019
+Mexico,Chiapas,May,2025,7,3,0,4,3.0,1.0,0.0,2.0,1749732019
+Mexico,Chihuahua,May,2025,13,4,0,9,11.0,3.0,0.0,8.0,1749732019
+Mexico,Ciudad de Mexico,May,2025,24,4,0,20,15.0,5.0,0.0,10.0,1749732019
+Mexico,Coahuila de Zaragoza,May,2025,2,1,0,1,0.0,0.0,0.0,0.0,1749732019
+Mexico,Colima,May,2025,9,2,0,7,8.0,0.0,0.0,8.0,1749732019
+Mexico,Durango,May,2025,2,1,0,1,1.0,0.0,0.0,1.0,1749732019
+Mexico,Guanajuato,May,2025,50,8,0,42,58.0,7.0,0.0,51.0,1749732019
+Mexico,Guerrero,May,2025,53,3,0,50,32.0,6.0,0.0,26.0,1749732019
+Mexico,Hidalgo,May,2025,7,1,0,6,9.0,1.0,0.0,8.0,1749732019
+Mexico,Jalisco,May,2025,39,4,0,35,31.0,2.0,0.0,29.0,1749732019
+Mexico,Mexico,May,2025,23,4,0,19,21.0,5.0,0.0,16.0,1749732019
+Mexico,Michoacan de Ocampo,May,2025,62,27,3,32,53.0,19.0,6.0,28.0,1749732019
+Mexico,Morelos,May,2025,17,3,0,14,17.0,1.0,0.0,16.0,1749732019
+Mexico,Nayarit,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732019
+Mexico,Nuevo Leon,May,2025,56,9,0,47,52.0,12.0,0.0,40.0,1749732019
+Mexico,Oaxaca,May,2025,8,2,0,6,13.0,3.0,0.0,10.0,1749732019
+Mexico,Puebla,May,2025,35,4,0,31,18.0,6.0,0.0,12.0,1749732019
+Mexico,Queretaro,May,2025,2,1,0,1,2.0,0.0,0.0,2.0,1749732019
+Mexico,Quintana Roo,May,2025,5,2,0,3,10.0,1.0,0.0,9.0,1749732019
+Mexico,San Luis Potosi,May,2025,4,1,0,3,2.0,0.0,0.0,2.0,1749732019
+Mexico,Sinaloa,May,2025,116,42,3,71,149.0,72.0,0.0,77.0,1749732019
+Mexico,Sonora,May,2025,16,4,0,12,29.0,8.0,0.0,21.0,1749732019
+Mexico,Tabasco,May,2025,17,4,0,13,17.0,3.0,0.0,14.0,1749732019
+Mexico,Tamaulipas,May,2025,4,4,0,0,8.0,5.0,0.0,3.0,1749732019
+Mexico,Tlaxcala,May,2025,2,1,0,1,0.0,0.0,0.0,0.0,1749732019
+Mexico,Veracruz de Ignacio de la Llave,May,2025,31,3,0,28,31.0,4.0,0.0,27.0,1749732019
+Mexico,Yucatan,May,2025,1,1,0,0,0.0,0.0,0.0,0.0,1749732019
+Mexico,Zacatecas,May,2025,13,3,0,10,13.0,2.0,1.0,10.0,1749732019
+Mexico,Aguascalientes,June,2025,1,1,0,0,2.0,1.0,0.0,1.0,1754429217
+Mexico,Aguascalientes,July,2025,2,1,0,1,3.0,1.0,0.0,2.0,1754429217
+Mexico,Aguascalientes,August,2025,3,1,0,2,1.0,0.0,0.0,1.0,1757596698
+Mexico,Aguascalientes,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Mexico,Aguascalientes,October,2025,1,0,0,1,1.0,1.0,0.0,0.0,1762435626
+Mexico,Aguascalientes,November,2025,1,1,0,0,0.0,0.0,0.0,0.0,1765375966
+Mexico,Aguascalientes,December,2025,0,0,0,0,,,,,1765375966
+Mexico,Baja California,June,2025,37,4,0,33,47.0,7.0,0.0,40.0,1754429217
+Mexico,Baja California,July,2025,44,5,0,39,54.0,6.0,0.0,48.0,1754429217
+Mexico,Baja California,August,2025,53,6,0,47,33.0,2.0,0.0,31.0,1757596698
+Mexico,Baja California,September,2025,36,3,0,33,46.0,3.0,0.0,43.0,1760036046
+Mexico,Baja California,October,2025,43,3,0,40,48.0,3.0,1.0,44.0,1762435626
+Mexico,Baja California,November,2025,47,4,0,43,41.0,2.0,0.0,39.0,1765375966
+Mexico,Baja California,December,2025,42,3,0,39,,,,,1765375966
+Mexico,Baja California Sur,June,2025,7,3,0,4,8.0,3.0,0.0,5.0,1754429217
+Mexico,Baja California Sur,July,2025,7,2,0,5,1.0,1.0,0.0,0.0,1754429217
+Mexico,Baja California Sur,August,2025,2,1,0,1,6.0,2.0,0.0,4.0,1757596698
+Mexico,Baja California Sur,September,2025,5,2,0,3,2.0,0.0,0.0,2.0,1760036046
+Mexico,Baja California Sur,October,2025,2,0,0,2,1.0,1.0,0.0,0.0,1762435626
+Mexico,Baja California Sur,November,2025,1,1,0,0,2.0,1.0,0.0,1.0,1765375966
+Mexico,Baja California Sur,December,2025,2,1,0,1,,,,,1765375966
+Mexico,Campeche,June,2025,8,1,0,7,1.0,0.0,0.0,1.0,1754429217
+Mexico,Campeche,July,2025,3,1,0,2,4.0,0.0,0.0,4.0,1754429217
+Mexico,Campeche,August,2025,4,0,0,4,6.0,1.0,0.0,5.0,1757596698
+Mexico,Campeche,September,2025,5,1,0,4,6.0,0.0,0.0,6.0,1760036046
+Mexico,Campeche,October,2025,6,0,0,6,1.0,0.0,0.0,1.0,1762435626
+Mexico,Campeche,November,2025,2,1,0,1,5.0,1.0,0.0,4.0,1765375966
+Mexico,Campeche,December,2025,5,1,0,4,,,,,1765375966
+Mexico,Chiapas,June,2025,3,1,0,2,5.0,1.0,0.0,4.0,1754429217
+Mexico,Chiapas,July,2025,5,1,0,4,11.0,3.0,0.0,8.0,1754429217
+Mexico,Chiapas,August,2025,11,3,0,8,7.0,2.0,0.0,5.0,1757596698
+Mexico,Chiapas,September,2025,7,2,0,5,2.0,0.0,0.0,2.0,1760036046
+Mexico,Chiapas,October,2025,2,0,0,2,5.0,3.0,0.0,2.0,1762435626
+Mexico,Chiapas,November,2025,4,2,0,2,4.0,2.0,0.0,2.0,1765375966
+Mexico,Chiapas,December,2025,4,2,0,2,,,,,1765375966
+Mexico,Chihuahua,June,2025,13,3,0,10,21.0,5.0,0.0,16.0,1754429217
+Mexico,Chihuahua,July,2025,18,3,0,15,27.0,10.0,0.0,17.0,1754429217
+Mexico,Chihuahua,August,2025,25,8,0,17,21.0,7.0,0.0,14.0,1757596698
+Mexico,Chihuahua,September,2025,23,7,0,16,13.0,3.0,0.0,10.0,1760036046
+Mexico,Chihuahua,October,2025,12,3,0,9,22.0,7.0,0.0,15.0,1762435626
+Mexico,Chihuahua,November,2025,18,3,0,15,24.0,7.0,0.0,17.0,1765375966
+Mexico,Chihuahua,December,2025,23,6,0,17,,,,,1765375966
+Mexico,Ciudad de Mexico,June,2025,12,3,0,9,32.0,9.0,0.0,23.0,1754429217
+Mexico,Ciudad de Mexico,July,2025,28,6,0,22,27.0,1.0,0.0,26.0,1754429217
+Mexico,Ciudad de Mexico,August,2025,28,2,0,26,17.0,6.0,0.0,11.0,1757596698
+Mexico,Ciudad de Mexico,September,2025,21,6,0,15,16.0,3.0,0.0,13.0,1760036046
+Mexico,Ciudad de Mexico,October,2025,16,3,0,13,22.0,6.0,0.0,16.0,1762435626
+Mexico,Ciudad de Mexico,November,2025,19,3,0,16,18.0,8.0,0.0,10.0,1765375966
+Mexico,Ciudad de Mexico,December,2025,18,7,0,11,,,,,1765375966
+Mexico,Coahuila de Zaragoza,June,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Mexico,Coahuila de Zaragoza,July,2025,3,1,0,2,1.0,0.0,0.0,1.0,1754429217
+Mexico,Coahuila de Zaragoza,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Mexico,Coahuila de Zaragoza,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Mexico,Coahuila de Zaragoza,October,2025,1,0,0,1,3.0,2.0,0.0,1.0,1762435626
+Mexico,Coahuila de Zaragoza,November,2025,2,1,0,1,1.0,0.0,0.0,1.0,1765375966
+Mexico,Coahuila de Zaragoza,December,2025,1,0,0,1,,,,,1765375966
+Mexico,Colima,June,2025,11,1,0,10,19.0,2.0,0.0,17.0,1754429217
+Mexico,Colima,July,2025,16,1,0,15,24.0,2.0,0.0,22.0,1754429217
+Mexico,Colima,August,2025,23,2,0,21,12.0,1.0,0.0,11.0,1757596698
+Mexico,Colima,September,2025,15,1,0,14,14.0,2.0,0.0,12.0,1760036046
+Mexico,Colima,October,2025,13,1,0,12,19.0,0.0,0.0,19.0,1762435626
+Mexico,Colima,November,2025,19,1,0,18,24.0,1.0,0.0,23.0,1765375966
+Mexico,Colima,December,2025,22,1,0,21,,,,,1765375966
+Mexico,Durango,June,2025,2,1,0,1,2.0,0.0,0.0,2.0,1754429217
+Mexico,Durango,July,2025,3,1,0,2,5.0,0.0,0.0,5.0,1754429217
+Mexico,Durango,August,2025,5,0,0,5,8.0,0.0,0.0,8.0,1757596698
+Mexico,Durango,September,2025,5,0,0,5,3.0,0.0,1.0,2.0,1760036046
+Mexico,Durango,October,2025,2,0,0,2,5.0,1.0,1.0,3.0,1762435626
+Mexico,Durango,November,2025,4,1,0,3,3.0,0.0,0.0,3.0,1765375966
+Mexico,Durango,December,2025,3,0,0,3,,,,,1765375966
+Mexico,Guanajuato,June,2025,56,6,0,50,49.0,7.0,0.0,42.0,1754429217
+Mexico,Guanajuato,July,2025,49,6,0,43,46.0,6.0,2.0,38.0,1754429217
+Mexico,Guanajuato,August,2025,45,6,0,39,67.0,14.0,0.0,53.0,1757596698
+Mexico,Guanajuato,September,2025,61,12,0,49,64.0,9.0,0.0,55.0,1760036046
+Mexico,Guanajuato,October,2025,58,9,0,49,71.0,7.0,0.0,64.0,1762435626
+Mexico,Guanajuato,November,2025,69,7,0,62,58.0,6.0,0.0,52.0,1765375966
+Mexico,Guanajuato,December,2025,58,7,0,51,,,,,1765375966
+Mexico,Guerrero,June,2025,33,6,1,26,39.0,7.0,1.0,31.0,1754429217
+Mexico,Guerrero,July,2025,38,6,1,31,37.0,7.0,1.0,29.0,1754429217
+Mexico,Guerrero,August,2025,36,7,0,29,34.0,3.0,0.0,31.0,1757596698
+Mexico,Guerrero,September,2025,35,4,0,31,28.0,1.0,0.0,27.0,1760036046
+Mexico,Guerrero,October,2025,29,2,0,27,25.0,3.0,1.0,21.0,1762435626
+Mexico,Guerrero,November,2025,26,4,0,22,24.0,5.0,0.0,19.0,1765375966
+Mexico,Guerrero,December,2025,24,5,0,19,,,,,1765375966
+Mexico,Hidalgo,June,2025,10,2,0,8,10.0,1.0,0.0,9.0,1754429217
+Mexico,Hidalgo,July,2025,10,1,0,9,11.0,5.0,0.0,6.0,1754429217
+Mexico,Hidalgo,August,2025,10,4,0,6,7.0,1.0,0.0,6.0,1757596698
+Mexico,Hidalgo,September,2025,7,1,0,6,13.0,3.0,0.0,10.0,1760036046
+Mexico,Hidalgo,October,2025,12,3,0,9,5.0,1.0,0.0,4.0,1762435626
+Mexico,Hidalgo,November,2025,5,1,0,4,17.0,5.0,0.0,12.0,1765375966
+Mexico,Hidalgo,December,2025,15,4,0,11,,,,,1765375966
+Mexico,Jalisco,June,2025,32,4,0,28,23.0,2.0,0.0,21.0,1754429217
+Mexico,Jalisco,July,2025,26,4,0,22,26.0,1.0,0.0,25.0,1754429217
+Mexico,Jalisco,August,2025,27,2,0,25,36.0,8.0,0.0,28.0,1757596698
+Mexico,Jalisco,September,2025,34,7,0,27,18.0,1.0,1.0,16.0,1760036046
+Mexico,Jalisco,October,2025,20,2,0,18,20.0,3.0,0.0,17.0,1762435626
+Mexico,Jalisco,November,2025,20,3,0,17,17.0,5.0,0.0,12.0,1765375966
+Mexico,Jalisco,December,2025,18,5,0,13,,,,,1765375966
+Mexico,Mexico,June,2025,19,4,0,15,22.0,1.0,0.0,21.0,1754429217
+Mexico,Mexico,July,2025,24,3,0,21,25.0,1.0,0.0,24.0,1754429217
+Mexico,Mexico,August,2025,25,2,0,23,24.0,2.0,0.0,22.0,1757596698
+Mexico,Mexico,September,2025,25,2,0,23,9.0,1.0,0.0,8.0,1760036046
+Mexico,Mexico,October,2025,9,1,0,8,11.0,2.0,0.0,9.0,1762435626
+Mexico,Mexico,November,2025,12,3,0,9,14.0,1.0,0.0,13.0,1765375966
+Mexico,Mexico,December,2025,15,2,0,13,,,,,1765375966
+Mexico,Michoacan de Ocampo,June,2025,55,22,4,29,50.0,15.0,0.0,35.0,1754429217
+Mexico,Michoacan de Ocampo,July,2025,52,17,1,34,59.0,24.0,4.0,31.0,1754429217
+Mexico,Michoacan de Ocampo,August,2025,56,23,2,31,44.0,15.0,2.0,27.0,1757596698
+Mexico,Michoacan de Ocampo,September,2025,45,16,1,28,45.0,22.0,2.0,21.0,1760036046
+Mexico,Michoacan de Ocampo,October,2025,45,21,2,22,38.0,14.0,2.0,22.0,1762435626
+Mexico,Michoacan de Ocampo,November,2025,41,16,2,23,29.0,11.0,1.0,17.0,1765375966
+Mexico,Michoacan de Ocampo,December,2025,33,13,2,18,,,,,1765375966
+Mexico,Morelos,June,2025,20,3,0,17,22.0,2.0,0.0,20.0,1754429217
+Mexico,Morelos,July,2025,22,2,0,20,26.0,2.0,0.0,24.0,1754429217
+Mexico,Morelos,August,2025,25,2,0,23,32.0,3.0,0.0,29.0,1757596698
+Mexico,Morelos,September,2025,26,3,0,23,21.0,1.0,0.0,20.0,1760036046
+Mexico,Morelos,October,2025,22,1,0,21,19.0,1.0,0.0,18.0,1762435626
+Mexico,Morelos,November,2025,20,2,0,18,43.0,2.0,0.0,41.0,1765375966
+Mexico,Morelos,December,2025,40,2,0,38,,,,,1765375966
+Mexico,Nayarit,June,2025,1,1,0,0,1.0,0.0,0.0,1.0,1754429217
+Mexico,Nayarit,July,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Mexico,Nayarit,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Mexico,Nayarit,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mexico,Nayarit,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Mexico,Nayarit,November,2025,3,1,0,2,0.0,0.0,0.0,0.0,1765375966
+Mexico,Nayarit,December,2025,0,0,0,0,,,,,1765375966
+Mexico,Nuevo Leon,June,2025,49,10,0,39,58.0,10.0,0.0,48.0,1754429217
+Mexico,Nuevo Leon,July,2025,60,12,0,48,40.0,9.0,0.0,31.0,1754429217
+Mexico,Nuevo Leon,August,2025,41,9,0,32,57.0,9.0,0.0,48.0,1757596698
+Mexico,Nuevo Leon,September,2025,54,9,0,45,50.0,12.0,0.0,38.0,1760036046
+Mexico,Nuevo Leon,October,2025,48,11,0,37,34.0,12.0,0.0,22.0,1762435626
+Mexico,Nuevo Leon,November,2025,34,10,0,24,38.0,5.0,0.0,33.0,1765375966
+Mexico,Nuevo Leon,December,2025,39,6,0,33,,,,,1765375966
+Mexico,Oaxaca,June,2025,12,2,0,10,5.0,0.0,0.0,5.0,1754429217
+Mexico,Oaxaca,July,2025,9,3,0,6,10.0,1.0,0.0,9.0,1754429217
+Mexico,Oaxaca,August,2025,10,1,0,9,7.0,0.0,0.0,7.0,1757596698
+Mexico,Oaxaca,September,2025,8,0,0,8,8.0,2.0,0.0,6.0,1760036046
+Mexico,Oaxaca,October,2025,7,2,0,5,4.0,0.0,0.0,4.0,1762435626
+Mexico,Oaxaca,November,2025,5,1,0,4,8.0,1.0,0.0,7.0,1765375966
+Mexico,Oaxaca,December,2025,8,1,0,7,,,,,1765375966
+Mexico,Puebla,June,2025,16,5,0,11,42.0,3.0,1.0,38.0,1754429217
+Mexico,Puebla,July,2025,38,3,0,35,29.0,3.0,0.0,26.0,1754429217
+Mexico,Puebla,August,2025,29,3,0,26,28.0,4.0,0.0,24.0,1757596698
+Mexico,Puebla,September,2025,31,4,0,27,25.0,4.0,0.0,21.0,1760036046
+Mexico,Puebla,October,2025,24,4,0,20,30.0,6.0,0.0,24.0,1762435626
+Mexico,Puebla,November,2025,29,5,0,24,28.0,6.0,0.0,22.0,1765375966
+Mexico,Puebla,December,2025,28,6,0,22,,,,,1765375966
+Mexico,Queretaro,June,2025,3,1,0,2,1.0,0.0,0.0,1.0,1754429217
+Mexico,Queretaro,July,2025,2,1,0,1,2.0,1.0,0.0,1.0,1754429217
+Mexico,Queretaro,August,2025,2,1,0,1,0.0,0.0,0.0,0.0,1757596698
+Mexico,Queretaro,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Mexico,Queretaro,October,2025,1,0,0,1,2.0,0.0,0.0,2.0,1762435626
+Mexico,Queretaro,November,2025,3,1,0,2,0.0,0.0,0.0,0.0,1765375966
+Mexico,Queretaro,December,2025,0,0,0,0,,,,,1765375966
+Mexico,Quintana Roo,June,2025,12,3,0,9,7.0,2.0,0.0,5.0,1754429217
+Mexico,Quintana Roo,July,2025,7,1,0,6,6.0,0.0,0.0,6.0,1754429217
+Mexico,Quintana Roo,August,2025,6,0,0,6,5.0,0.0,0.0,5.0,1757596698
+Mexico,Quintana Roo,September,2025,4,0,0,4,1.0,0.0,0.0,1.0,1760036046
+Mexico,Quintana Roo,October,2025,1,0,0,1,5.0,1.0,0.0,4.0,1762435626
+Mexico,Quintana Roo,November,2025,5,1,0,4,3.0,1.0,0.0,2.0,1765375966
+Mexico,Quintana Roo,December,2025,3,1,0,2,,,,,1765375966
+Mexico,San Luis Potosi,June,2025,3,1,0,2,5.0,2.0,0.0,3.0,1754429217
+Mexico,San Luis Potosi,July,2025,4,1,0,3,3.0,1.0,0.0,2.0,1754429217
+Mexico,San Luis Potosi,August,2025,3,1,0,2,1.0,0.0,0.0,1.0,1757596698
+Mexico,San Luis Potosi,September,2025,2,0,0,2,1.0,0.0,0.0,1.0,1760036046
+Mexico,San Luis Potosi,October,2025,1,0,0,1,2.0,1.0,0.0,1.0,1762435626
+Mexico,San Luis Potosi,November,2025,1,0,0,1,5.0,1.0,0.0,4.0,1765375966
+Mexico,San Luis Potosi,December,2025,5,1,0,4,,,,,1765375966
+Mexico,Sinaloa,June,2025,143,66,1,76,163.0,52.0,0.0,111.0,1754429217
+Mexico,Sinaloa,July,2025,163,55,1,107,131.0,36.0,0.0,95.0,1754429217
+Mexico,Sinaloa,August,2025,133,38,0,95,94.0,24.0,1.0,69.0,1757596698
+Mexico,Sinaloa,September,2025,94,26,1,67,126.0,38.0,2.0,86.0,1760036046
+Mexico,Sinaloa,October,2025,117,37,1,79,122.0,27.0,4.0,91.0,1762435626
+Mexico,Sinaloa,November,2025,121,28,2,91,102.0,11.0,3.0,88.0,1765375966
+Mexico,Sinaloa,December,2025,107,17,2,88,,,,,1765375966
+Mexico,Sonora,June,2025,24,4,0,20,21.0,3.0,0.0,18.0,1754429217
+Mexico,Sonora,July,2025,23,5,0,18,25.0,3.0,0.0,22.0,1754429217
+Mexico,Sonora,August,2025,24,3,0,21,27.0,2.0,0.0,25.0,1757596698
+Mexico,Sonora,September,2025,24,3,0,21,15.0,2.0,0.0,13.0,1760036046
+Mexico,Sonora,October,2025,15,2,0,13,26.0,3.0,0.0,23.0,1762435626
+Mexico,Sonora,November,2025,25,3,0,22,30.0,6.0,0.0,24.0,1765375966
+Mexico,Sonora,December,2025,28,5,0,23,,,,,1765375966
+Mexico,Tabasco,June,2025,18,2,0,16,5.0,0.0,0.0,5.0,1754429217
+Mexico,Tabasco,July,2025,9,3,0,6,8.0,2.0,0.0,6.0,1754429217
+Mexico,Tabasco,August,2025,8,2,0,6,7.0,2.0,0.0,5.0,1757596698
+Mexico,Tabasco,September,2025,9,2,0,7,8.0,0.0,0.0,8.0,1760036046
+Mexico,Tabasco,October,2025,8,0,0,8,9.0,2.0,0.0,7.0,1762435626
+Mexico,Tabasco,November,2025,8,1,0,7,4.0,1.0,0.0,3.0,1765375966
+Mexico,Tabasco,December,2025,4,1,0,3,,,,,1765375966
+Mexico,Tamaulipas,June,2025,7,2,0,5,2.0,0.0,0.0,2.0,1754429217
+Mexico,Tamaulipas,July,2025,7,4,0,3,3.0,0.0,0.0,3.0,1754429217
+Mexico,Tamaulipas,August,2025,3,0,0,3,2.0,1.0,0.0,1.0,1757596698
+Mexico,Tamaulipas,September,2025,4,1,0,3,12.0,9.0,0.0,3.0,1760036046
+Mexico,Tamaulipas,October,2025,11,8,0,3,8.0,2.0,0.0,6.0,1762435626
+Mexico,Tamaulipas,November,2025,9,3,0,6,1.0,1.0,0.0,0.0,1765375966
+Mexico,Tamaulipas,December,2025,2,1,0,1,,,,,1765375966
+Mexico,Tlaxcala,June,2025,0,0,0,0,2.0,0.0,0.0,2.0,1754429217
+Mexico,Tlaxcala,July,2025,3,1,0,2,0.0,0.0,0.0,0.0,1754429217
+Mexico,Tlaxcala,August,2025,0,0,0,0,1.0,0.0,0.0,1.0,1757596698
+Mexico,Tlaxcala,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Mexico,Tlaxcala,October,2025,0,0,0,0,1.0,0.0,0.0,1.0,1762435626
+Mexico,Tlaxcala,November,2025,2,1,0,1,3.0,1.0,0.0,2.0,1765375966
+Mexico,Tlaxcala,December,2025,3,1,0,2,,,,,1765375966
+Mexico,Veracruz de Ignacio de la Llave,June,2025,32,5,0,27,30.0,6.0,0.0,24.0,1754429217
+Mexico,Veracruz de Ignacio de la Llave,July,2025,29,5,0,24,39.0,12.0,0.0,27.0,1754429217
+Mexico,Veracruz de Ignacio de la Llave,August,2025,38,11,0,27,37.0,6.0,2.0,29.0,1757596698
+Mexico,Veracruz de Ignacio de la Llave,September,2025,37,6,1,30,40.0,5.0,0.0,35.0,1760036046
+Mexico,Veracruz de Ignacio de la Llave,October,2025,38,5,0,33,28.0,8.0,2.0,18.0,1762435626
+Mexico,Veracruz de Ignacio de la Llave,November,2025,26,6,0,20,24.0,4.0,0.0,20.0,1765375966
+Mexico,Veracruz de Ignacio de la Llave,December,2025,25,5,0,20,,,,,1765375966
+Mexico,Yucatan,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Mexico,Yucatan,July,2025,2,1,0,1,0.0,0.0,0.0,0.0,1754429217
+Mexico,Yucatan,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Mexico,Yucatan,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mexico,Yucatan,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mexico,Yucatan,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mexico,Yucatan,December,2025,0,0,0,0,,,,,1765375966
+Mexico,Zacatecas,June,2025,13,3,0,10,7.0,2.0,1.0,4.0,1754429217
+Mexico,Zacatecas,July,2025,8,2,1,5,4.0,2.0,0.0,2.0,1754429217
+Mexico,Zacatecas,August,2025,5,2,0,3,1.0,0.0,0.0,1.0,1757596698
+Mexico,Zacatecas,September,2025,2,0,0,2,2.0,0.0,0.0,2.0,1760036046
+Mexico,Zacatecas,October,2025,2,0,0,2,5.0,4.0,0.0,1.0,1762435626
+Mexico,Zacatecas,November,2025,2,1,0,1,3.0,2.0,0.0,1.0,1765375966
+Mexico,Zacatecas,December,2025,4,2,0,2,,,,,1765375966
+Mexico,Aguascalientes,January,2026,0,0,0,0,,,,,1765375966
+Mexico,Baja California,January,2026,41,3,0,38,,,,,1765375966
+Mexico,Baja California Sur,January,2026,3,1,0,2,,,,,1765375966
+Mexico,Campeche,January,2026,5,1,0,4,,,,,1765375966
+Mexico,Chiapas,January,2026,5,2,0,3,,,,,1765375966
+Mexico,Chihuahua,January,2026,23,6,0,17,,,,,1765375966
+Mexico,Ciudad de Mexico,January,2026,19,6,0,13,,,,,1765375966
+Mexico,Coahuila de Zaragoza,January,2026,1,0,0,1,,,,,1765375966
+Mexico,Colima,January,2026,22,1,0,21,,,,,1765375966
+Mexico,Durango,January,2026,3,0,0,3,,,,,1765375966
+Mexico,Guanajuato,January,2026,58,7,0,51,,,,,1765375966
+Mexico,Guerrero,January,2026,26,5,0,21,,,,,1765375966
+Mexico,Hidalgo,January,2026,15,4,0,11,,,,,1765375966
+Mexico,Jalisco,January,2026,20,5,0,15,,,,,1765375966
+Mexico,Mexico,January,2026,16,2,0,14,,,,,1765375966
+Mexico,Michoacan de Ocampo,January,2026,36,14,2,20,,,,,1765375966
+Mexico,Morelos,January,2026,38,2,0,36,,,,,1765375966
+Mexico,Nayarit,January,2026,0,0,0,0,,,,,1765375966
+Mexico,Nuevo Leon,January,2026,40,7,0,33,,,,,1765375966
+Mexico,Oaxaca,January,2026,8,1,0,7,,,,,1765375966
+Mexico,Puebla,January,2026,28,5,0,23,,,,,1765375966
+Mexico,Queretaro,January,2026,0,0,0,0,,,,,1765375966
+Mexico,Quintana Roo,January,2026,4,1,0,3,,,,,1765375966
+Mexico,San Luis Potosi,January,2026,4,1,0,3,,,,,1765375966
+Mexico,Sinaloa,January,2026,104,17,2,85,,,,,1765375966
+Mexico,Sonora,January,2026,28,5,0,23,,,,,1765375966
+Mexico,Tabasco,January,2026,6,2,0,4,,,,,1765375966
+Mexico,Tamaulipas,January,2026,4,2,0,2,,,,,1765375966
+Mexico,Tlaxcala,January,2026,3,1,0,2,,,,,1765375966
+Mexico,Veracruz de Ignacio de la Llave,January,2026,26,5,0,21,,,,,1765375966
+Mexico,Yucatan,January,2026,0,0,0,0,,,,,1765375966
+Mexico,Zacatecas,January,2026,5,2,0,3,,,,,1765375966
+Mexico,Aguascalientes,February,2026,0,0,0,0,,,,,1765375966
+Mexico,Baja California,February,2026,41,3,0,38,,,,,1765375966
+Mexico,Baja California Sur,February,2026,3,1,0,2,,,,,1765375966
+Mexico,Campeche,February,2026,5,1,0,4,,,,,1765375966
+Mexico,Chiapas,February,2026,5,2,0,3,,,,,1765375966
+Mexico,Chihuahua,February,2026,23,6,0,17,,,,,1765375966
+Mexico,Ciudad de Mexico,February,2026,19,6,0,13,,,,,1765375966
+Mexico,Coahuila de Zaragoza,February,2026,1,0,0,1,,,,,1765375966
+Mexico,Colima,February,2026,22,1,0,21,,,,,1765375966
+Mexico,Durango,February,2026,3,0,0,3,,,,,1765375966
+Mexico,Guanajuato,February,2026,58,7,0,51,,,,,1765375966
+Mexico,Guerrero,February,2026,26,5,0,21,,,,,1765375966
+Mexico,Hidalgo,February,2026,15,4,0,11,,,,,1765375966
+Mexico,Jalisco,February,2026,20,5,0,15,,,,,1765375966
+Mexico,Mexico,February,2026,16,2,0,14,,,,,1765375966
+Mexico,Michoacan de Ocampo,February,2026,36,14,2,20,,,,,1765375966
+Mexico,Morelos,February,2026,38,2,0,36,,,,,1765375966
+Mexico,Nayarit,February,2026,0,0,0,0,,,,,1765375966
+Mexico,Nuevo Leon,February,2026,40,7,0,33,,,,,1765375966
+Mexico,Oaxaca,February,2026,8,1,0,7,,,,,1765375966
+Mexico,Puebla,February,2026,28,5,0,23,,,,,1765375966
+Mexico,Queretaro,February,2026,0,0,0,0,,,,,1765375966
+Mexico,Quintana Roo,February,2026,4,1,0,3,,,,,1765375966
+Mexico,San Luis Potosi,February,2026,4,1,0,3,,,,,1765375966
+Mexico,Sinaloa,February,2026,103,17,2,84,,,,,1765375966
+Mexico,Sonora,February,2026,28,5,0,23,,,,,1765375966
+Mexico,Tabasco,February,2026,5,1,0,4,,,,,1765375966
+Mexico,Tamaulipas,February,2026,4,2,0,2,,,,,1765375966
+Mexico,Tlaxcala,February,2026,3,1,0,2,,,,,1765375966
+Mexico,Veracruz de Ignacio de la Llave,February,2026,26,5,0,21,,,,,1765375966
+Mexico,Yucatan,February,2026,0,0,0,0,,,,,1765375966
+Mexico,Zacatecas,February,2026,5,2,0,3,,,,,1765375966
+Mexico,Aguascalientes,March,2026,0,0,0,0,,,,,1765375966
+Mexico,Baja California,March,2026,41,3,0,38,,,,,1765375966
+Mexico,Baja California Sur,March,2026,3,1,0,2,,,,,1765375966
+Mexico,Campeche,March,2026,5,1,0,4,,,,,1765375966
+Mexico,Chiapas,March,2026,5,2,0,3,,,,,1765375966
+Mexico,Chihuahua,March,2026,23,6,0,17,,,,,1765375966
+Mexico,Ciudad de Mexico,March,2026,19,6,0,13,,,,,1765375966
+Mexico,Coahuila de Zaragoza,March,2026,1,0,0,1,,,,,1765375966
+Mexico,Colima,March,2026,22,1,0,21,,,,,1765375966
+Mexico,Durango,March,2026,3,0,0,3,,,,,1765375966
+Mexico,Guanajuato,March,2026,57,6,0,51,,,,,1765375966
+Mexico,Guerrero,March,2026,26,5,0,21,,,,,1765375966
+Mexico,Hidalgo,March,2026,15,4,0,11,,,,,1765375966
+Mexico,Jalisco,March,2026,20,5,0,15,,,,,1765375966
+Mexico,Mexico,March,2026,16,2,0,14,,,,,1765375966
+Mexico,Michoacan de Ocampo,March,2026,35,13,2,20,,,,,1765375966
+Mexico,Morelos,March,2026,38,2,0,36,,,,,1765375966
+Mexico,Nayarit,March,2026,0,0,0,0,,,,,1765375966
+Mexico,Nuevo Leon,March,2026,40,7,0,33,,,,,1765375966
+Mexico,Oaxaca,March,2026,8,1,0,7,,,,,1765375966
+Mexico,Puebla,March,2026,28,5,0,23,,,,,1765375966
+Mexico,Queretaro,March,2026,0,0,0,0,,,,,1765375966
+Mexico,Quintana Roo,March,2026,4,1,0,3,,,,,1765375966
+Mexico,San Luis Potosi,March,2026,4,1,0,3,,,,,1765375966
+Mexico,Sinaloa,March,2026,104,17,2,85,,,,,1765375966
+Mexico,Sonora,March,2026,28,5,0,23,,,,,1765375966
+Mexico,Tabasco,March,2026,5,1,0,4,,,,,1765375966
+Mexico,Tamaulipas,March,2026,4,2,0,2,,,,,1765375966
+Mexico,Tlaxcala,March,2026,3,1,0,2,,,,,1765375966
+Mexico,Veracruz de Ignacio de la Llave,March,2026,26,5,0,21,,,,,1765375966
+Mexico,Yucatan,March,2026,0,0,0,0,,,,,1765375966
+Mexico,Zacatecas,March,2026,5,2,0,3,,,,,1765375966
+Mexico,Aguascalientes,April,2026,0,0,0,0,,,,,1765375966
+Mexico,Baja California,April,2026,42,3,0,39,,,,,1765375966
+Mexico,Baja California Sur,April,2026,3,1,0,2,,,,,1765375966
+Mexico,Campeche,April,2026,5,1,0,4,,,,,1765375966
+Mexico,Chiapas,April,2026,5,2,0,3,,,,,1765375966
+Mexico,Chihuahua,April,2026,23,6,0,17,,,,,1765375966
+Mexico,Ciudad de Mexico,April,2026,19,6,0,13,,,,,1765375966
+Mexico,Coahuila de Zaragoza,April,2026,1,0,0,1,,,,,1765375966
+Mexico,Colima,April,2026,22,1,0,21,,,,,1765375966
+Mexico,Durango,April,2026,3,0,0,3,,,,,1765375966
+Mexico,Guanajuato,April,2026,58,7,0,51,,,,,1765375966
+Mexico,Guerrero,April,2026,27,5,0,22,,,,,1765375966
+Mexico,Hidalgo,April,2026,15,4,0,11,,,,,1765375966
+Mexico,Jalisco,April,2026,20,5,0,15,,,,,1765375966
+Mexico,Mexico,April,2026,16,2,0,14,,,,,1765375966
+Mexico,Michoacan de Ocampo,April,2026,36,13,2,21,,,,,1765375966
+Mexico,Morelos,April,2026,38,2,0,36,,,,,1765375966
+Mexico,Nayarit,April,2026,0,0,0,0,,,,,1765375966
+Mexico,Nuevo Leon,April,2026,41,6,0,35,,,,,1765375966
+Mexico,Oaxaca,April,2026,8,1,0,7,,,,,1765375966
+Mexico,Puebla,April,2026,29,5,0,24,,,,,1765375966
+Mexico,Queretaro,April,2026,0,0,0,0,,,,,1765375966
+Mexico,Quintana Roo,April,2026,4,1,0,3,,,,,1765375966
+Mexico,San Luis Potosi,April,2026,4,1,0,3,,,,,1765375966
+Mexico,Sinaloa,April,2026,109,20,2,87,,,,,1765375966
+Mexico,Sonora,April,2026,29,5,0,24,,,,,1765375966
+Mexico,Tabasco,April,2026,5,1,0,4,,,,,1765375966
+Mexico,Tamaulipas,April,2026,4,2,0,2,,,,,1765375966
+Mexico,Tlaxcala,April,2026,3,1,0,2,,,,,1765375966
+Mexico,Veracruz de Ignacio de la Llave,April,2026,27,5,0,22,,,,,1765375966
+Mexico,Yucatan,April,2026,0,0,0,0,,,,,1765375966
+Mexico,Zacatecas,April,2026,5,2,0,3,,,,,1765375966
+Mexico,Aguascalientes,May,2026,0,0,0,0,,,,,1765375966
+Mexico,Baja California,May,2026,41,3,0,38,,,,,1765375966
+Mexico,Baja California Sur,May,2026,3,1,0,2,,,,,1765375966
+Mexico,Campeche,May,2026,5,1,0,4,,,,,1765375966
+Mexico,Chiapas,May,2026,5,2,0,3,,,,,1765375966
+Mexico,Chihuahua,May,2026,23,6,0,17,,,,,1765375966
+Mexico,Ciudad de Mexico,May,2026,19,6,0,13,,,,,1765375966
+Mexico,Coahuila de Zaragoza,May,2026,1,0,0,1,,,,,1765375966
+Mexico,Colima,May,2026,22,1,0,21,,,,,1765375966
+Mexico,Durango,May,2026,3,0,0,3,,,,,1765375966
+Mexico,Guanajuato,May,2026,58,7,0,51,,,,,1765375966
+Mexico,Guerrero,May,2026,27,5,0,22,,,,,1765375966
+Mexico,Hidalgo,May,2026,15,4,0,11,,,,,1765375966
+Mexico,Jalisco,May,2026,20,5,0,15,,,,,1765375966
+Mexico,Mexico,May,2026,16,2,0,14,,,,,1765375966
+Mexico,Michoacan de Ocampo,May,2026,35,13,2,20,,,,,1765375966
+Mexico,Morelos,May,2026,38,2,0,36,,,,,1765375966
+Mexico,Nayarit,May,2026,0,0,0,0,,,,,1765375966
+Mexico,Nuevo Leon,May,2026,40,6,0,34,,,,,1765375966
+Mexico,Oaxaca,May,2026,8,1,0,7,,,,,1765375966
+Mexico,Puebla,May,2026,29,6,0,23,,,,,1765375966
+Mexico,Queretaro,May,2026,0,0,0,0,,,,,1765375966
+Mexico,Quintana Roo,May,2026,4,1,0,3,,,,,1765375966
+Mexico,San Luis Potosi,May,2026,4,1,0,3,,,,,1765375966
+Mexico,Sinaloa,May,2026,110,21,2,87,,,,,1765375966
+Mexico,Sonora,May,2026,28,5,0,23,,,,,1765375966
+Mexico,Tabasco,May,2026,5,1,0,4,,,,,1765375966
+Mexico,Tamaulipas,May,2026,4,2,0,2,,,,,1765375966
+Mexico,Tlaxcala,May,2026,3,1,0,2,,,,,1765375966
+Mexico,Veracruz de Ignacio de la Llave,May,2026,27,5,0,22,,,,,1765375966
+Mexico,Yucatan,May,2026,0,0,0,0,,,,,1765375966
+Mexico,Zacatecas,May,2026,5,2,0,3,,,,,1765375966

@@ -1,0 +1,430 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Mozambique,Cabo Delgado,March,2023,21,8,0,13,10.0,5.0,2.0,3.0,1726141063
+Mozambique,Cabo Delgado,April,2023,12,7,1,4,4.0,3.0,0.0,1.0,1726141063
+Mozambique,Cabo Delgado,May,2023,5,2,0,3,18.0,10.0,2.0,6.0,1726141063
+Mozambique,Cabo Delgado,June,2023,15,8,1,6,7.0,0.0,0.0,7.0,1726141063
+Mozambique,Cabo Delgado,July,2023,7,2,1,4,14.0,7.0,1.0,6.0,1726141063
+Mozambique,Cabo Delgado,August,2023,13,6,1,6,4.0,2.0,1.0,1.0,1726141063
+Mozambique,Cabo Delgado,September,2023,3,1,1,1,15.0,1.0,4.0,10.0,1726141063
+Mozambique,Cabo Delgado,October,2023,9,1,2,6,10.0,1.0,4.0,5.0,1726141063
+Mozambique,Cabo Delgado,November,2023,9,2,3,4,8.0,3.0,0.0,5.0,1726141063
+Mozambique,Cabo Delgado,December,2023,6,3,0,3,7.0,5.0,0.0,2.0,1726141063
+Mozambique,Cabo Delgado,January,2024,5,4,0,1,24.0,4.0,0.0,20.0,1726141063
+Mozambique,Cabo Delgado,February,2024,11,2,0,9,23.0,6.0,0.0,17.0,1726141063
+Mozambique,Cabo Delgado,March,2024,12,5,0,7,8.0,4.0,0.0,4.0,1726141063
+Mozambique,Cabo Delgado,April,2024,14,3,0,11,21.0,9.0,2.0,10.0,1726141063
+Mozambique,Cabo Delgado,May,2024,20,8,2,10,31.0,15.0,4.0,12.0,1726141063
+Mozambique,Cabo Delgado,June,2024,25,9,4,12,18.0,5.0,2.0,11.0,1726141063
+Mozambique,Cabo Delgado,July,2024,19,6,2,11,21.0,11.0,1.0,9.0,1726141063
+Mozambique,Cabo Delgado,August,2024,18,8,1,9,15.0,4.0,5.0,6.0,1726141063
+Mozambique,Gaza,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Gaza,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Gaza,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Inhambane,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Manica,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Manica,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Manica,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Maputo,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,March,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,July,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141063
+Mozambique,Maputo City,August,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Maputo City,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Nampula,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Nampula,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141063
+Mozambique,Nampula,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Nampula,December,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Nampula,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Nampula,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,April,2024,0,0,0,0,4.0,1.0,0.0,3.0,1726141063
+Mozambique,Nampula,May,2024,2,1,0,1,1.0,1.0,0.0,0.0,1726141063
+Mozambique,Nampula,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141063
+Mozambique,Nampula,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141063
+Mozambique,Niassa,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Mozambique,Niassa,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Niassa,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,September,2023,0,0,0,0,1.0,0.0,1.0,0.0,1726141064
+Mozambique,Sofala,October,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Mozambique,Sofala,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,June,2024,0,0,0,0,1.0,0.0,1.0,0.0,1726141064
+Mozambique,Sofala,July,2024,1,0,1,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Sofala,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,March,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Mozambique,Tete,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Mozambique,Tete,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,January,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Mozambique,Tete,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Tete,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,October,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Mozambique,Zambezia,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,December,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141064
+Mozambique,Zambezia,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Mozambique,Zambezia,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141064
+Mozambique,Zambezia,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141064
+Mozambique,Cabo Delgado,September,2024,16,6,3,7,15.0,5.0,1.0,9.0,1730730996
+Mozambique,Gaza,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Mozambique,Inhambane,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Mozambique,Manica,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Mozambique,Maputo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Mozambique,Maputo City,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Mozambique,Nampula,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730730996
+Mozambique,Niassa,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Mozambique,Sofala,September,2024,0,0,0,0,1.0,0.0,0.0,1.0,1730730996
+Mozambique,Tete,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730996
+Mozambique,Zambezia,September,2024,1,0,0,1,1.0,0.0,0.0,1.0,1730730996
+Mozambique,Cabo Delgado,October,2024,15,6,1,8,17.0,7.0,2.0,8.0,1734010295
+Mozambique,Cabo Delgado,November,2024,18,7,2,9,30.0,12.0,1.0,17.0,1734010295
+Mozambique,Gaza,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Mozambique,Gaza,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Mozambique,Inhambane,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Mozambique,Inhambane,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Mozambique,Manica,October,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010295
+Mozambique,Manica,November,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010295
+Mozambique,Maputo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Mozambique,Maputo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010295
+Mozambique,Maputo City,October,2024,0,0,0,0,2.0,0.0,0.0,2.0,1734010295
+Mozambique,Maputo City,November,2024,2,0,0,2,4.0,0.0,0.0,4.0,1734010295
+Mozambique,Nampula,October,2024,1,0,0,1,1.0,0.0,0.0,1.0,1734010296
+Mozambique,Nampula,November,2024,1,0,0,1,2.0,0.0,0.0,2.0,1734010296
+Mozambique,Niassa,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Mozambique,Niassa,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Mozambique,Sofala,October,2024,1,0,0,1,1.0,0.0,1.0,0.0,1734010296
+Mozambique,Sofala,November,2024,2,0,1,1,0.0,0.0,0.0,0.0,1734010296
+Mozambique,Tete,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Mozambique,Tete,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Mozambique,Zambezia,October,2024,1,0,0,1,0.0,0.0,0.0,0.0,1734010296
+Mozambique,Zambezia,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010296
+Mozambique,Cabo Delgado,December,2024,27,11,2,14,10.0,4.0,0.0,6.0,1737033358
+Mozambique,Gaza,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Mozambique,Inhambane,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Mozambique,Manica,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Mozambique,Maputo,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033358
+Mozambique,Maputo City,December,2024,4,0,0,4,1.0,0.0,0.0,1.0,1737033358
+Mozambique,Nampula,December,2024,2,0,0,2,2.0,1.0,0.0,1.0,1737033358
+Mozambique,Niassa,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Mozambique,Sofala,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033358
+Mozambique,Tete,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033358
+Mozambique,Zambezia,December,2024,0,0,0,0,2.0,2.0,0.0,0.0,1737033358
+Mozambique,Cabo Delgado,January,2025,12,5,0,7,19.0,1.0,1.0,17.0,1738854860
+Mozambique,Gaza,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Mozambique,Inhambane,January,2025,0,0,0,0,1.0,0.0,0.0,1.0,1738854860
+Mozambique,Manica,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854860
+Mozambique,Maputo,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854861
+Mozambique,Maputo City,January,2025,2,0,0,2,1.0,0.0,0.0,1.0,1738854861
+Mozambique,Nampula,January,2025,2,1,0,1,1.0,0.0,0.0,1.0,1738854861
+Mozambique,Niassa,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Mozambique,Sofala,January,2025,1,0,0,1,1.0,0.0,0.0,1.0,1738854861
+Mozambique,Tete,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854861
+Mozambique,Zambezia,January,2025,2,1,0,1,0.0,0.0,0.0,0.0,1738854861
+Mozambique,Cabo Delgado,February,2025,18,2,1,15,19.0,6.0,1.0,12.0,1741266631
+Mozambique,Gaza,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Mozambique,Inhambane,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266631
+Mozambique,Manica,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Mozambique,Maputo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Mozambique,Maputo City,February,2025,1,0,0,1,2.0,0.0,0.0,2.0,1741266631
+Mozambique,Nampula,February,2025,1,0,0,1,2.0,2.0,0.0,0.0,1741266631
+Mozambique,Niassa,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Mozambique,Sofala,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266631
+Mozambique,Tete,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266631
+Mozambique,Zambezia,February,2025,0,0,0,0,3.0,2.0,0.0,1.0,1741266631
+Mozambique,Cabo Delgado,March,2025,16,6,1,9,22.0,5.0,1.0,16.0,1744287546
+Mozambique,Gaza,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Mozambique,Inhambane,March,2025,0,0,0,0,2.0,0.0,0.0,2.0,1744287546
+Mozambique,Manica,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Mozambique,Maputo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Mozambique,Maputo City,March,2025,1,0,0,1,0.0,0.0,0.0,0.0,1744287546
+Mozambique,Nampula,March,2025,3,2,0,1,0.0,0.0,0.0,0.0,1744287546
+Mozambique,Niassa,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Mozambique,Sofala,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Mozambique,Tete,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287546
+Mozambique,Zambezia,March,2025,3,2,0,1,1.0,1.0,0.0,0.0,1744287546
+Mozambique,Cabo Delgado,April,2025,23,8,1,14,17.0,5.0,0.0,12.0,1746702915
+Mozambique,Gaza,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Mozambique,Inhambane,April,2025,2,0,0,2,0.0,0.0,0.0,0.0,1746702915
+Mozambique,Manica,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Mozambique,Maputo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Mozambique,Maputo City,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Mozambique,Nampula,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702915
+Mozambique,Niassa,April,2025,0,0,0,0,1.0,1.0,0.0,0.0,1746702915
+Mozambique,Sofala,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Mozambique,Tete,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702915
+Mozambique,Zambezia,April,2025,2,1,0,1,2.0,1.0,0.0,1.0,1746702915
+Mozambique,Cabo Delgado,May,2025,18,5,0,13,8.0,4.0,1.0,3.0,1749732020
+Mozambique,Gaza,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Inhambane,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Manica,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Maputo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Maputo City,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Nampula,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Niassa,May,2025,0,0,0,0,3.0,3.0,0.0,0.0,1749732020
+Mozambique,Sofala,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Tete,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Zambezia,May,2025,2,1,0,1,0.0,0.0,0.0,0.0,1749732020
+Mozambique,Cabo Delgado,June,2025,7,3,1,3,22.0,14.0,1.0,7.0,1754429217
+Mozambique,Cabo Delgado,July,2025,20,12,1,7,22.0,10.0,1.0,11.0,1754429217
+Mozambique,Cabo Delgado,August,2025,18,7,1,10,30.0,7.0,1.0,22.0,1757596698
+Mozambique,Cabo Delgado,September,2025,28,7,1,20,40.0,11.0,2.0,27.0,1760036046
+Mozambique,Cabo Delgado,October,2025,35,11,1,23,23.0,8.0,3.0,12.0,1762435626
+Mozambique,Cabo Delgado,November,2025,23,8,2,13,28.0,10.0,2.0,16.0,1765375966
+Mozambique,Cabo Delgado,December,2025,28,10,2,16,,,,,1765375966
+Mozambique,Gaza,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Gaza,July,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Mozambique,Gaza,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Gaza,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mozambique,Gaza,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mozambique,Gaza,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Gaza,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Inhambane,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Inhambane,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Inhambane,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Inhambane,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mozambique,Inhambane,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mozambique,Inhambane,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Inhambane,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Manica,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Manica,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Manica,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Manica,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mozambique,Manica,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mozambique,Manica,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Manica,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Maputo,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Mozambique,Maputo,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Mozambique,Maputo,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Maputo,September,2025,0,0,0,0,1.0,0.0,0.0,1.0,1760036046
+Mozambique,Maputo,October,2025,1,0,0,1,2.0,1.0,0.0,1.0,1762435626
+Mozambique,Maputo,November,2025,2,1,0,1,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Maputo,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Maputo City,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Maputo City,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Maputo City,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Maputo City,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mozambique,Maputo City,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mozambique,Maputo City,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Maputo City,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Nampula,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Nampula,July,2025,0,0,0,0,2.0,1.0,0.0,1.0,1754429217
+Mozambique,Nampula,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Nampula,September,2025,0,0,0,0,2.0,0.0,0.0,2.0,1760036046
+Mozambique,Nampula,October,2025,2,0,0,2,3.0,3.0,0.0,0.0,1762435626
+Mozambique,Nampula,November,2025,3,3,0,0,16.0,2.0,0.0,14.0,1765375966
+Mozambique,Nampula,December,2025,13,2,0,11,,,,,1765375966
+Mozambique,Niassa,June,2025,2,2,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Niassa,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Niassa,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Niassa,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mozambique,Niassa,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mozambique,Niassa,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Niassa,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Sofala,June,2025,0,0,0,0,1.0,0.0,0.0,1.0,1754429217
+Mozambique,Sofala,July,2025,1,0,0,1,1.0,0.0,0.0,1.0,1754429217
+Mozambique,Sofala,August,2025,1,0,0,1,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Sofala,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mozambique,Sofala,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mozambique,Sofala,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Sofala,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Tete,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Tete,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Tete,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Tete,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mozambique,Tete,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mozambique,Tete,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Tete,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Zambezia,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Zambezia,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Mozambique,Zambezia,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Mozambique,Zambezia,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Mozambique,Zambezia,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Mozambique,Zambezia,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Mozambique,Zambezia,December,2025,0,0,0,0,,,,,1765375966
+Mozambique,Cabo Delgado,January,2026,28,10,2,16,,,,,1765375966
+Mozambique,Gaza,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Inhambane,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Manica,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo City,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Nampula,January,2026,13,2,0,11,,,,,1765375966
+Mozambique,Niassa,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Sofala,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Tete,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Zambezia,January,2026,0,0,0,0,,,,,1765375966
+Mozambique,Cabo Delgado,February,2026,28,10,2,16,,,,,1765375966
+Mozambique,Gaza,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Inhambane,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Manica,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo City,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Nampula,February,2026,13,2,0,11,,,,,1765375966
+Mozambique,Niassa,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Sofala,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Tete,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Zambezia,February,2026,0,0,0,0,,,,,1765375966
+Mozambique,Cabo Delgado,March,2026,27,9,2,16,,,,,1765375966
+Mozambique,Gaza,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Inhambane,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Manica,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo City,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Nampula,March,2026,13,2,0,11,,,,,1765375966
+Mozambique,Niassa,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Sofala,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Tete,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Zambezia,March,2026,0,0,0,0,,,,,1765375966
+Mozambique,Cabo Delgado,April,2026,28,10,2,16,,,,,1765375966
+Mozambique,Gaza,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Inhambane,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Manica,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo City,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Nampula,April,2026,12,2,0,10,,,,,1765375966
+Mozambique,Niassa,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Sofala,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Tete,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Zambezia,April,2026,0,0,0,0,,,,,1765375966
+Mozambique,Cabo Delgado,May,2026,27,10,2,15,,,,,1765375966
+Mozambique,Gaza,May,2026,0,0,0,0,,,,,1765375966
+Mozambique,Inhambane,May,2026,0,0,0,0,,,,,1765375966
+Mozambique,Manica,May,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo,May,2026,0,0,0,0,,,,,1765375966
+Mozambique,Maputo City,May,2026,0,0,0,0,,,,,1765375966
+Mozambique,Nampula,May,2026,12,2,0,10,,,,,1765375966
+Mozambique,Niassa,May,2026,0,0,0,0,,,,,1765375966
+Mozambique,Sofala,May,2026,0,0,0,0,,,,,1765375966
+Mozambique,Tete,May,2026,0,0,0,0,,,,,1765375966
+Mozambique,Zambezia,May,2026,0,0,0,0,,,,,1765375966

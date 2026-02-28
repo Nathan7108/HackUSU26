@@ -1,30 +1,26 @@
-import { useEffect, useRef } from "react"
 import { AnimatePresence, motion } from "motion/react"
 import NumberFlow from "@number-flow/react"
-import { X, TrendingUp, AlertTriangle, Factory, Route, ChevronRight, Loader2, Zap, ArrowRight } from "lucide-react"
+import { X, AlertTriangle, Factory, Route, Loader2, Zap, ArrowRight } from "lucide-react"
 import { useRouter } from "@tanstack/react-router"
 import { useAppStore } from "@/stores/app"
-import { getCountryByCode } from "@/data"
 import { useAnalysis, useForecast, useDashboard } from "@/hooks/use-dashboard"
 import { riskColor, riskMutedColor, trendIcon, trendColor, formatMoney } from "@/lib/risk"
 import type { Country, Recommendation } from "@/types"
-import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Area, AreaChart } from "recharts"
+import { XAxis, YAxis, ResponsiveContainer, Area, AreaChart } from "recharts"
 
 export function IntelPanel() {
   const { selectedCountryCode, setIntelPanelOpen } = useAppStore()
   const { dashboard } = useDashboard()
-  const mockCountry = selectedCountryCode ? getCountryByCode(selectedCountryCode) : null
   const dashboardCountry = selectedCountryCode
-    ? dashboard.countries.find((c) => c.code === selectedCountryCode) ?? null
+    ? dashboard?.countries.find((c) => c.code === selectedCountryCode) ?? null
     : null
   const { data: liveOverlay, isLoading: isAnalyzing } = useAnalysis(selectedCountryCode)
   const { data: liveForecast } = useForecast(selectedCountryCode)
 
-  // Merge: backend analysis overlays on top of mock data, fall back to dashboard country
-  const baseCountry = mockCountry ?? dashboardCountry
-  const country: Country | null = baseCountry
+  // Merge: live backend analysis + forecast overlay on top of dashboard base
+  const country: Country | null = dashboardCountry
     ? {
-        ...baseCountry,
+        ...dashboardCountry,
         ...liveOverlay,
         ...(liveForecast ? { forecast: liveForecast.forecast, trend: liveForecast.trend } : {}),
       }
@@ -33,14 +29,15 @@ export function IntelPanel() {
   if (!country) return null
 
   return (
-    <AnimatePresence mode="wait">
+    <div className="w-96 shrink-0 self-stretch ml-2">
+    <AnimatePresence mode="popLayout">
       <motion.div
         key={country.code}
-        initial={{ x: 400, opacity: 0 }}
-        animate={{ x: 0, opacity: 1 }}
-        exit={{ x: 400, opacity: 0 }}
-        transition={{ type: "spring", damping: 28, stiffness: 300 }}
-        className="flex w-96 shrink-0 flex-col overflow-y-auto rounded-md border ml-2"
+        initial={{ opacity: 0, x: 40 }}
+        animate={{ opacity: 1, x: 0 }}
+        exit={{ opacity: 0, x: 40 }}
+        transition={{ duration: 0.2, ease: "easeOut" }}
+        className="flex h-full w-96 flex-col overflow-y-auto rounded-md border"
         style={{
           backgroundColor: "var(--sentinel-bg-surface)",
           borderColor: "var(--sentinel-border-subtle)",
@@ -62,19 +59,19 @@ export function IntelPanel() {
               </span>
               <span className="flex items-center gap-2">
                 <span
-                  className="font-data text-[10px]"
+                  className="font-data text-[11px]"
                   style={{ color: "var(--sentinel-text-tertiary)" }}
                 >
                   {country.code} — INTELLIGENCE BRIEF
                 </span>
                 <span
-                  className="rounded px-1.5 py-0.5 font-data text-[8px] font-bold tracking-wider"
+                  className="rounded px-1.5 py-0.5 font-data text-[10px] font-bold tracking-wider"
                   style={{
-                    backgroundColor: liveOverlay ? "rgba(34,197,94,0.12)" : "rgba(234,179,8,0.12)",
-                    color: liveOverlay ? "var(--risk-low)" : "var(--risk-elevated)",
+                    backgroundColor: liveOverlay ? "rgba(34,197,94,0.12)" : "rgba(59,130,246,0.12)",
+                    color: liveOverlay ? "var(--risk-low)" : "var(--risk-moderate)",
                   }}
                 >
-                  {liveOverlay ? "LIVE" : "MOCK"}
+                  {liveOverlay ? "LIVE" : "LOADING"}
                 </span>
               </span>
             </div>
@@ -113,7 +110,7 @@ export function IntelPanel() {
               <NumberFlow value={country.score} trend={1} />
             </span>
             <span
-              className="mt-1 rounded px-2 py-0.5 font-data text-[10px] font-semibold"
+              className="mt-1 rounded px-2 py-0.5 font-data text-[11px] font-semibold"
               style={{
                 backgroundColor: riskMutedColor[country.riskLevel],
                 color: riskColor[country.riskLevel],
@@ -139,7 +136,7 @@ export function IntelPanel() {
               </span>
             </div>
             <span
-              className="font-data text-[10px]"
+              className="font-data text-[11px]"
               style={{ color: "var(--sentinel-text-tertiary)" }}
             >
               Confidence: {Math.round(country.confidence * 100)}%
@@ -148,7 +145,7 @@ export function IntelPanel() {
               <div className="flex items-center gap-1 mt-0.5">
                 <AlertTriangle size={11} style={{ color: "var(--risk-critical)" }} />
                 <span
-                  className="font-data text-[10px] font-semibold"
+                  className="font-data text-[11px] font-semibold"
                   style={{ color: "var(--risk-critical)" }}
                 >
                   ANOMALY: {country.anomalyDriver}
@@ -169,7 +166,7 @@ export function IntelPanel() {
                   style={{ color: "var(--sentinel-accent)" }}
                 />
                 <span
-                  className="font-data text-[10px]"
+                  className="font-data text-[11px]"
                   style={{ color: "var(--sentinel-text-tertiary)" }}
                 >
                   Generating live intelligence brief...
@@ -190,7 +187,7 @@ export function IntelPanel() {
             </div>
           ) : (
             <p
-              className="text-[11px] leading-relaxed"
+              className="text-[12px] leading-relaxed"
               style={{ color: "var(--sentinel-text-secondary)" }}
             >
               {country.brief}
@@ -230,7 +227,7 @@ export function IntelPanel() {
                 >
                   <div className="flex flex-col items-center">
                     <span
-                      className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full font-data text-[9px] font-bold"
+                      className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full font-data text-[10px] font-bold"
                       style={{
                         backgroundColor: riskMutedColor[country.riskLevel],
                         color: riskColor[country.riskLevel],
@@ -246,7 +243,7 @@ export function IntelPanel() {
                     )}
                   </div>
                   <span
-                    className="text-[11px] leading-snug pt-0.5"
+                    className="text-[12px] leading-snug pt-0.5"
                     style={{ color: "var(--sentinel-text-secondary)" }}
                   >
                     {step}
@@ -300,7 +297,7 @@ export function IntelPanel() {
             {country.riskDrivers.map((driver) => (
               <div key={driver.feature} className="flex items-center gap-2">
                 <span
-                  className="font-data text-[10px] w-40 truncate"
+                  className="font-data text-[11px] w-40 truncate"
                   style={{ color: "var(--sentinel-text-secondary)" }}
                 >
                   {driver.feature.replace(/_/g, " ")}
@@ -318,7 +315,7 @@ export function IntelPanel() {
                   />
                 </div>
                 <span
-                  className="font-data text-[10px] w-8 text-right"
+                  className="font-data text-[11px] w-8 text-right"
                   style={{ color: "var(--sentinel-text-tertiary)" }}
                 >
                   {Math.round(driver.importance * 100)}%
@@ -373,13 +370,13 @@ export function IntelPanel() {
                   />
                   <div className="flex flex-col gap-0.5">
                     <span
-                      className="text-[11px] leading-snug"
+                      className="text-[12px] leading-snug"
                       style={{ color: "var(--sentinel-text-primary)" }}
                     >
                       {headline.text}
                     </span>
                     <span
-                      className="font-data text-[9px]"
+                      className="font-data text-[10px]"
                       style={{ color: "var(--sentinel-text-tertiary)" }}
                     >
                       {headline.source}
@@ -390,7 +387,7 @@ export function IntelPanel() {
             </div>
           ) : (
             <span
-              className="text-[10px] italic"
+              className="text-[11px] italic"
               style={{ color: "var(--sentinel-text-tertiary)" }}
             >
               No intelligence data available.
@@ -410,7 +407,7 @@ export function IntelPanel() {
             >
               <div className="flex items-center justify-between">
                 <span
-                  className="text-[11px] font-semibold"
+                  className="text-[12px] font-semibold"
                   style={{ color: "var(--sentinel-text-primary)" }}
                 >
                   Total Exposure
@@ -423,7 +420,7 @@ export function IntelPanel() {
                 </span>
               </div>
               <p
-                className="text-[10px] leading-relaxed"
+                className="text-[11px] leading-relaxed"
                 style={{ color: "var(--sentinel-text-secondary)" }}
               >
                 {country.exposure.description}
@@ -432,7 +429,7 @@ export function IntelPanel() {
                 <div className="flex items-center gap-1">
                   <Factory size={10} style={{ color: "var(--sentinel-text-tertiary)" }} />
                   <span
-                    className="font-data text-[9px]"
+                    className="font-data text-[10px]"
                     style={{ color: "var(--sentinel-text-tertiary)" }}
                   >
                     {country.exposure.affectedFacilities.join(", ")}
@@ -443,7 +440,7 @@ export function IntelPanel() {
                 <div className="flex items-center gap-1">
                   <Route size={10} style={{ color: "var(--sentinel-text-tertiary)" }} />
                   <span
-                    className="font-data text-[9px]"
+                    className="font-data text-[10px]"
                     style={{ color: "var(--sentinel-text-tertiary)" }}
                   >
                     Routes: {country.exposure.affectedRoutes.join(", ")}
@@ -471,7 +468,8 @@ export function IntelPanel() {
         {/* Bottom padding */}
         <div className="h-4 shrink-0" />
       </motion.div>
-    </AnimatePresence>
+      </AnimatePresence>
+    </div>
   )
 }
 
@@ -488,7 +486,7 @@ function Section({
       style={{ borderColor: "var(--sentinel-border-subtle)" }}
     >
       <h3
-        className="mb-2 font-data text-[9px] font-bold tracking-widest"
+        className="mb-2 font-data text-[10px] font-bold tracking-widest"
         style={{ color: "var(--sentinel-text-tertiary)" }}
       >
         {title}
@@ -518,13 +516,13 @@ function RecommendationCard({ rec, index }: { rec: Recommendation; index: number
     >
       <div className="flex items-start justify-between gap-2">
         <span
-          className="text-[11px] font-semibold leading-tight"
+          className="text-[12px] font-semibold leading-tight"
           style={{ color: "var(--sentinel-text-primary)" }}
         >
           {rec.action}
         </span>
         <span
-          className="shrink-0 rounded px-1.5 py-0.5 font-data text-[8px] font-bold"
+          className="shrink-0 rounded px-1.5 py-0.5 font-data text-[10px] font-bold"
           style={{
             backgroundColor: `${priorityColor[rec.priority]}20`,
             color: priorityColor[rec.priority],
@@ -534,22 +532,22 @@ function RecommendationCard({ rec, index }: { rec: Recommendation; index: number
         </span>
       </div>
       <p
-        className="text-[10px] leading-relaxed"
+        className="text-[11px] leading-relaxed"
         style={{ color: "var(--sentinel-text-secondary)" }}
       >
         {rec.description}
       </p>
       <div className="flex items-center gap-3 mt-0.5">
-        <span className="font-data text-[9px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
+        <span className="font-data text-[10px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
           Cost: <strong style={{ color: "var(--sentinel-text-secondary)" }}>{formatMoney(rec.cost)}</strong>
         </span>
-        <span className="font-data text-[9px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
+        <span className="font-data text-[10px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
           Risk↓: <strong style={{ color: "var(--risk-low)" }}>{formatMoney(rec.riskReduction)}</strong>
         </span>
-        <span className="font-data text-[9px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
+        <span className="font-data text-[10px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
           ROI: <strong style={{ color: "var(--sentinel-accent)" }}>{rec.roi}x</strong>
         </span>
-        <span className="font-data text-[9px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
+        <span className="font-data text-[10px]" style={{ color: "var(--sentinel-text-tertiary)" }}>
           {rec.leadTime}
         </span>
       </div>
@@ -587,13 +585,13 @@ function ActionPanel({ countryName, actionCount }: { countryName: string; action
         </div>
         <div className="flex flex-col items-start gap-0.5 flex-1">
           <span
-            className="text-[11px] font-semibold"
+            className="text-[12px] font-semibold"
             style={{ color: "var(--sentinel-text-primary)" }}
           >
             View Full Mitigation Portfolio
           </span>
           <span
-            className="font-data text-[9px]"
+            className="font-data text-[10px]"
             style={{ color: "var(--sentinel-text-tertiary)" }}
           >
             {actionCount} actions for {countryName} — 14 total across all hotspots

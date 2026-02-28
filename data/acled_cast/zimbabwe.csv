@@ -1,0 +1,391 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Zimbabwe,Bulawayo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Bulawayo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Harare,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Harare,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141137
+Zimbabwe,Harare,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Harare,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Harare,July,2023,0,0,0,0,4.0,0.0,1.0,3.0,1726141137
+Zimbabwe,Harare,August,2023,3,0,0,3,3.0,0.0,0.0,3.0,1726141137
+Zimbabwe,Harare,September,2023,3,0,0,3,3.0,0.0,0.0,3.0,1726141137
+Zimbabwe,Harare,October,2023,3,0,0,3,4.0,0.0,0.0,4.0,1726141137
+Zimbabwe,Harare,November,2023,4,0,0,4,3.0,0.0,0.0,3.0,1726141137
+Zimbabwe,Harare,December,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141137
+Zimbabwe,Harare,January,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Harare,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141137
+Zimbabwe,Harare,March,2024,1,0,0,1,1.0,1.0,0.0,0.0,1726141137
+Zimbabwe,Harare,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Harare,May,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141137
+Zimbabwe,Harare,June,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Harare,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141137
+Zimbabwe,Harare,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,August,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141137
+Zimbabwe,Manicaland,September,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141137
+Zimbabwe,Manicaland,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141137
+Zimbabwe,Manicaland,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Manicaland,February,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Manicaland,March,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Manicaland,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Manicaland,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Manicaland,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Manicaland,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Manicaland,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Mashonaland Central,April,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,June,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Mashonaland Central,July,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,September,2023,0,0,0,0,2.0,0.0,0.0,2.0,1726141138
+Zimbabwe,Mashonaland Central,October,2023,2,0,0,2,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,November,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Mashonaland Central,December,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Mashonaland Central,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland Central,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,September,2023,0,0,0,0,4.0,0.0,0.0,4.0,1726141138
+Zimbabwe,Mashonaland East,October,2023,3,0,0,3,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Mashonaland East,November,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland East,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Mashonaland West,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Mashonaland West,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Mashonaland West,August,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Masvingo,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,May,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Masvingo,June,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,July,2023,0,0,0,0,4.0,0.0,0.0,4.0,1726141138
+Zimbabwe,Masvingo,August,2023,3,0,0,3,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,September,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Masvingo,October,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Masvingo,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Masvingo,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Matabeleland North,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland North,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,July,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,March,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Matabeleland South,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Matabeleland South,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,July,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141138
+Zimbabwe,Midlands,August,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,September,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,October,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,December,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,February,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,April,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,July,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Midlands,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141138
+Zimbabwe,Bulawayo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Harare,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Manicaland,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Mashonaland Central,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Mashonaland East,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Mashonaland West,September,2024,1,0,0,1,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Masvingo,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Matabeleland North,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Matabeleland South,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Midlands,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730731012
+Zimbabwe,Bulawayo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Bulawayo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Harare,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Harare,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Manicaland,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Manicaland,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Mashonaland Central,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Mashonaland Central,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Mashonaland East,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Mashonaland East,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Mashonaland West,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Mashonaland West,November,2024,0,0,0,0,1.0,0.0,0.0,1.0,1734010329
+Zimbabwe,Masvingo,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Masvingo,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Matabeleland North,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Matabeleland North,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Matabeleland South,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Matabeleland South,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Midlands,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Midlands,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010329
+Zimbabwe,Bulawayo,December,2024,0,0,0,0,1.0,0.0,0.0,1.0,1737033396
+Zimbabwe,Harare,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Manicaland,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Mashonaland Central,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Mashonaland East,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Mashonaland West,December,2024,1,0,0,1,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Masvingo,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Matabeleland North,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Matabeleland South,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Midlands,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033396
+Zimbabwe,Bulawayo,January,2025,1,0,0,1,0.0,0.0,0.0,0.0,1738854885
+Zimbabwe,Harare,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Manicaland,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Mashonaland Central,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Mashonaland East,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Mashonaland West,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Masvingo,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Matabeleland North,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Matabeleland South,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Midlands,January,2025,0,0,0,0,0.0,0.0,0.0,0.0,1738854886
+Zimbabwe,Bulawayo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266657
+Zimbabwe,Harare,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Manicaland,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Mashonaland Central,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Mashonaland East,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Mashonaland West,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Masvingo,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Matabeleland North,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Matabeleland South,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Midlands,February,2025,0,0,0,0,0.0,0.0,0.0,0.0,1741266658
+Zimbabwe,Bulawayo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Harare,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Manicaland,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Mashonaland Central,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Mashonaland East,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Mashonaland West,March,2025,0,0,0,0,1.0,0.0,1.0,0.0,1744287553
+Zimbabwe,Masvingo,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Matabeleland North,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Matabeleland South,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Midlands,March,2025,0,0,0,0,0.0,0.0,0.0,0.0,1744287553
+Zimbabwe,Bulawayo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Harare,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Manicaland,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Mashonaland Central,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Mashonaland East,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Mashonaland West,April,2025,1,0,1,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Masvingo,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Matabeleland North,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Matabeleland South,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Midlands,April,2025,0,0,0,0,0.0,0.0,0.0,0.0,1746702923
+Zimbabwe,Bulawayo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Harare,May,2025,0,0,0,0,1.0,0.0,0.0,1.0,1749732041
+Zimbabwe,Manicaland,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Mashonaland Central,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Mashonaland East,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Mashonaland West,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Masvingo,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Matabeleland North,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Matabeleland South,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Midlands,May,2025,0,0,0,0,0.0,0.0,0.0,0.0,1749732041
+Zimbabwe,Bulawayo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Bulawayo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Bulawayo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Bulawayo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Bulawayo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Bulawayo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Bulawayo,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Harare,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Harare,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Harare,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Harare,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Harare,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Harare,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Harare,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Manicaland,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Manicaland,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Manicaland,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Manicaland,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Manicaland,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Manicaland,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Manicaland,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland Central,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Mashonaland Central,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Mashonaland Central,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Mashonaland Central,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Mashonaland Central,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Mashonaland Central,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Mashonaland Central,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland East,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Mashonaland East,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Mashonaland East,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Mashonaland East,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Mashonaland East,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Mashonaland East,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Mashonaland East,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland West,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Mashonaland West,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Mashonaland West,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Mashonaland West,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Mashonaland West,October,2025,1,0,1,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Mashonaland West,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Mashonaland West,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Masvingo,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Masvingo,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Masvingo,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Masvingo,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Masvingo,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Masvingo,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Masvingo,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland North,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Matabeleland North,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Matabeleland North,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Matabeleland North,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Matabeleland North,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Matabeleland North,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Matabeleland North,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland South,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Matabeleland South,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Matabeleland South,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Matabeleland South,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Matabeleland South,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Matabeleland South,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Matabeleland South,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Midlands,June,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Midlands,July,2025,0,0,0,0,0.0,0.0,0.0,0.0,1754429217
+Zimbabwe,Midlands,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Zimbabwe,Midlands,September,2025,0,0,0,0,0.0,0.0,0.0,0.0,1760036046
+Zimbabwe,Midlands,October,2025,0,0,0,0,0.0,0.0,0.0,0.0,1762435626
+Zimbabwe,Midlands,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Zimbabwe,Midlands,December,2025,0,0,0,0,,,,,1765375966
+Zimbabwe,Bulawayo,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Harare,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Manicaland,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland Central,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland East,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland West,January,2026,1,0,1,0,,,,,1765375966
+Zimbabwe,Masvingo,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland North,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland South,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Midlands,January,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Bulawayo,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Harare,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Manicaland,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland Central,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland East,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland West,February,2026,1,0,1,0,,,,,1765375966
+Zimbabwe,Masvingo,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland North,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland South,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Midlands,February,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Bulawayo,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Harare,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Manicaland,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland Central,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland East,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland West,March,2026,1,0,1,0,,,,,1765375966
+Zimbabwe,Masvingo,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland North,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland South,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Midlands,March,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Bulawayo,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Harare,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Manicaland,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland Central,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland East,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland West,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Masvingo,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland North,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland South,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Midlands,April,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Bulawayo,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Harare,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Manicaland,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland Central,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland East,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Mashonaland West,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Masvingo,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland North,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Matabeleland South,May,2026,0,0,0,0,,,,,1765375966
+Zimbabwe,Midlands,May,2026,0,0,0,0,,,,,1765375966

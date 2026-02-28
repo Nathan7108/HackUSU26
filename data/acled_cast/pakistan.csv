@@ -1,0 +1,274 @@
+country,admin1,month,year,total_forecast,battles_forecast,erv_forecast,vac_forecast,total_observed,battles_observed,erv_observed,vac_observed,timestamp
+Pakistan,Azad Jammu and Kashmir,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,April,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Azad Jammu and Kashmir,May,2023,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,June,2023,1,0,0,0,1.0,1.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,July,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,September,2023,1,0,0,1,1.0,1.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,November,2023,0,0,0,0,1.0,1.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,December,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,January,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,June,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Azad Jammu and Kashmir,July,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Azad Jammu and Kashmir,August,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Balochistan,March,2023,38,14,19,5,23.0,4.0,12.0,7.0,1726141068
+Pakistan,Balochistan,April,2023,26,8,12,6,36.0,17.0,13.0,6.0,1726141068
+Pakistan,Balochistan,May,2023,35,16,13,6,16.0,8.0,6.0,2.0,1726141068
+Pakistan,Balochistan,June,2023,25,11,11,3,18.0,8.0,5.0,5.0,1726141068
+Pakistan,Balochistan,July,2023,20,9,6,4,36.0,21.0,6.0,9.0,1726141068
+Pakistan,Balochistan,August,2023,33,20,6,7,69.0,33.0,24.0,12.0,1726141068
+Pakistan,Balochistan,September,2023,58,29,19,10,35.0,20.0,6.0,9.0,1726141068
+Pakistan,Balochistan,October,2023,36,20,7,9,32.0,14.0,10.0,8.0,1726141068
+Pakistan,Balochistan,November,2023,33,15,9,9,18.0,12.0,3.0,3.0,1726141068
+Pakistan,Balochistan,December,2023,22,14,3,5,35.0,15.0,15.0,5.0,1726141068
+Pakistan,Balochistan,January,2024,31,16,12,3,73.0,25.0,31.0,17.0,1726141068
+Pakistan,Balochistan,February,2024,63,25,28,10,147.0,34.0,88.0,25.0,1726141068
+Pakistan,Balochistan,March,2024,131,29,78,24,46.0,25.0,11.0,10.0,1726141068
+Pakistan,Balochistan,April,2024,55,26,16,13,69.0,30.0,21.0,18.0,1726141068
+Pakistan,Balochistan,May,2024,69,30,21,18,67.0,34.0,14.0,19.0,1726141068
+Pakistan,Balochistan,June,2024,66,33,14,19,60.0,28.0,22.0,10.0,1726141068
+Pakistan,Balochistan,July,2024,56,28,18,10,49.0,20.0,14.0,15.0,1726141068
+Pakistan,Balochistan,August,2024,55,25,15,15,101.0,38.0,47.0,16.0,1726141068
+Pakistan,Federal Capital Territory,March,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Federal Capital Territory,April,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Federal Capital Territory,May,2023,2,0,0,1,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Federal Capital Territory,June,2023,1,0,0,1,2.0,1.0,0.0,1.0,1726141068
+Pakistan,Federal Capital Territory,July,2023,2,1,0,1,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Federal Capital Territory,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Federal Capital Territory,September,2023,1,0,0,1,3.0,3.0,0.0,0.0,1726141068
+Pakistan,Federal Capital Territory,October,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Federal Capital Territory,November,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Federal Capital Territory,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Federal Capital Territory,January,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Federal Capital Territory,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Federal Capital Territory,March,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Federal Capital Territory,April,2024,1,0,0,1,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Federal Capital Territory,May,2024,1,0,0,1,3.0,0.0,0.0,3.0,1726141068
+Pakistan,Federal Capital Territory,June,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Federal Capital Territory,July,2024,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Federal Capital Territory,August,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,March,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,April,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,May,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,June,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,July,2023,1,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,August,2023,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,September,2023,1,0,0,1,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Gilgit-Baltistan,October,2023,2,1,0,1,1.0,1.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,November,2023,1,1,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,December,2023,0,0,0,0,1.0,0.0,0.0,1.0,1726141068
+Pakistan,Gilgit-Baltistan,January,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,February,2024,2,0,0,2,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,March,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,April,2024,1,0,0,1,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,May,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,June,2024,0,0,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,July,2024,0,0,0,0,1.0,1.0,0.0,0.0,1726141068
+Pakistan,Gilgit-Baltistan,August,2024,1,1,0,0,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,March,2023,45,25,11,9,36.0,20.0,7.0,9.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,April,2023,36,21,7,9,33.0,20.0,6.0,7.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,May,2023,34,19,8,7,48.0,24.0,12.0,12.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,June,2023,43,22,10,11,39.0,25.0,9.0,5.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,July,2023,41,25,9,8,54.0,31.0,15.0,8.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,August,2023,54,30,15,9,86.0,45.0,13.0,28.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,September,2023,70,41,14,15,63.0,35.0,15.0,13.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,October,2023,64,35,14,15,91.0,49.0,15.0,27.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,November,2023,81,46,14,21,85.0,51.0,15.0,19.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,December,2023,80,47,14,19,54.0,32.0,8.0,14.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,January,2024,60,32,10,18,76.0,34.0,15.0,27.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,February,2024,69,34,15,20,58.0,32.0,10.0,16.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,March,2024,59,31,12,16,55.0,29.0,9.0,17.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,April,2024,54,30,9,15,69.0,33.0,15.0,21.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,May,2024,68,33,15,20,62.0,25.0,11.0,26.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,June,2024,62,25,11,26,64.0,26.0,16.0,22.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,July,2024,62,26,14,22,89.0,47.0,19.0,23.0,1726141068
+Pakistan,Khyber Pakhtunkhwa,August,2024,84,43,18,23,62.0,35.0,10.0,17.0,1726141068
+Pakistan,Punjab,March,2023,12,5,1,6,0.0,0.0,0.0,0.0,1726141068
+Pakistan,Punjab,April,2023,0,0,0,0,6.0,3.0,0.0,3.0,1726141068
+Pakistan,Punjab,May,2023,7,3,0,3,3.0,1.0,0.0,2.0,1726141068
+Pakistan,Punjab,June,2023,5,1,1,3,5.0,0.0,1.0,4.0,1726141068
+Pakistan,Punjab,July,2023,5,1,1,4,2.0,0.0,0.0,2.0,1726141068
+Pakistan,Punjab,August,2023,3,0,0,3,3.0,0.0,0.0,3.0,1726141068
+Pakistan,Punjab,September,2023,4,0,0,4,3.0,1.0,0.0,2.0,1726141068
+Pakistan,Punjab,October,2023,5,1,0,4,7.0,3.0,0.0,4.0,1726141068
+Pakistan,Punjab,November,2023,7,3,0,4,5.0,1.0,0.0,4.0,1726141068
+Pakistan,Punjab,December,2023,4,1,0,3,3.0,1.0,2.0,0.0,1726141068
+Pakistan,Punjab,January,2024,4,1,1,2,7.0,1.0,0.0,6.0,1726141068
+Pakistan,Punjab,February,2024,7,1,0,6,5.0,2.0,0.0,3.0,1726141068
+Pakistan,Punjab,March,2024,4,1,0,3,3.0,0.0,0.0,3.0,1726141068
+Pakistan,Punjab,April,2024,4,0,0,4,12.0,6.0,0.0,6.0,1726141068
+Pakistan,Punjab,May,2024,10,5,0,5,6.0,4.0,0.0,2.0,1726141068
+Pakistan,Punjab,June,2024,6,4,0,2,5.0,2.0,0.0,3.0,1726141068
+Pakistan,Punjab,July,2024,5,2,0,3,5.0,0.0,0.0,5.0,1726141068
+Pakistan,Punjab,August,2024,5,0,0,5,7.0,4.0,0.0,3.0,1726141068
+Pakistan,Sindh,March,2023,5,2,0,3,11.0,2.0,2.0,7.0,1726141068
+Pakistan,Sindh,April,2023,10,2,2,6,8.0,0.0,0.0,8.0,1726141068
+Pakistan,Sindh,May,2023,9,1,0,8,13.0,3.0,0.0,10.0,1726141068
+Pakistan,Sindh,June,2023,12,2,1,9,8.0,0.0,3.0,5.0,1726141068
+Pakistan,Sindh,July,2023,10,1,3,6,11.0,0.0,1.0,10.0,1726141068
+Pakistan,Sindh,August,2023,9,0,1,8,11.0,2.0,1.0,8.0,1726141068
+Pakistan,Sindh,September,2023,11,2,1,8,14.0,3.0,1.0,10.0,1726141068
+Pakistan,Sindh,October,2023,11,2,1,8,5.0,1.0,1.0,3.0,1726141068
+Pakistan,Sindh,November,2023,7,1,1,5,3.0,0.0,0.0,3.0,1726141068
+Pakistan,Sindh,December,2023,4,1,0,3,8.0,1.0,1.0,6.0,1726141068
+Pakistan,Sindh,January,2024,8,1,1,6,8.0,1.0,0.0,7.0,1726141068
+Pakistan,Sindh,February,2024,7,1,0,6,14.0,2.0,3.0,9.0,1726141068
+Pakistan,Sindh,March,2024,11,0,2,9,10.0,5.0,1.0,4.0,1726141068
+Pakistan,Sindh,April,2024,13,5,1,7,11.0,5.0,2.0,4.0,1726141068
+Pakistan,Sindh,May,2024,11,5,2,4,9.0,1.0,1.0,7.0,1726141068
+Pakistan,Sindh,June,2024,9,1,1,7,6.0,3.0,0.0,3.0,1726141068
+Pakistan,Sindh,July,2024,7,3,1,3,8.0,2.0,1.0,5.0,1726141068
+Pakistan,Sindh,August,2024,8,2,1,5,5.0,0.0,0.0,5.0,1726141068
+Pakistan,Azad Jammu and Kashmir,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Pakistan,Balochistan,September,2024,93,36,40,17,56.0,15.0,28.0,13.0,1730730998
+Pakistan,Federal Capital Territory,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Pakistan,Gilgit-Baltistan,September,2024,0,0,0,0,0.0,0.0,0.0,0.0,1730730998
+Pakistan,Khyber Pakhtunkhwa,September,2024,62,36,8,18,106.0,76.0,15.0,15.0,1730730998
+Pakistan,Punjab,September,2024,7,4,0,3,9.0,6.0,0.0,3.0,1730730998
+Pakistan,Sindh,September,2024,7,1,0,6,5.0,0.0,0.0,5.0,1730730998
+Pakistan,Azad Jammu and Kashmir,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Pakistan,Azad Jammu and Kashmir,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Pakistan,Balochistan,October,2024,66,27,26,13,67.0,35.0,16.0,16.0,1734010299
+Pakistan,Balochistan,November,2024,66,35,16,15,81.0,45.0,21.0,15.0,1734010299
+Pakistan,Federal Capital Territory,October,2024,1,1,0,0,4.0,1.0,0.0,3.0,1734010299
+Pakistan,Federal Capital Territory,November,2024,4,1,0,3,0.0,0.0,0.0,0.0,1734010299
+Pakistan,Gilgit-Baltistan,October,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Pakistan,Gilgit-Baltistan,November,2024,0,0,0,0,0.0,0.0,0.0,0.0,1734010299
+Pakistan,Khyber Pakhtunkhwa,October,2024,89,59,14,16,82.0,43.0,16.0,23.0,1734010299
+Pakistan,Khyber Pakhtunkhwa,November,2024,80,42,16,22,96.0,57.0,23.0,16.0,1734010299
+Pakistan,Punjab,October,2024,6,3,0,3,9.0,5.0,0.0,4.0,1734010299
+Pakistan,Punjab,November,2024,9,5,0,4,5.0,3.0,0.0,2.0,1734010299
+Pakistan,Sindh,October,2024,8,3,0,5,6.0,1.0,3.0,2.0,1734010299
+Pakistan,Sindh,November,2024,6,1,3,2,3.0,1.0,0.0,2.0,1734010299
+Pakistan,Azad Jammu and Kashmir,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033361
+Pakistan,Balochistan,December,2024,80,44,21,15,64.0,32.0,19.0,13.0,1737033361
+Pakistan,Federal Capital Territory,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Pakistan,Gilgit-Baltistan,December,2024,0,0,0,0,0.0,0.0,0.0,0.0,1737033362
+Pakistan,Khyber Pakhtunkhwa,December,2024,95,56,22,17,79.0,56.0,13.0,10.0,1737033362
+Pakistan,Punjab,December,2024,6,3,0,3,6.0,2.0,2.0,2.0,1737033362
+Pakistan,Sindh,December,2024,4,1,0,3,4.0,0.0,0.0,4.0,1737033362
+Pakistan,Azad Jammu and Kashmir,January,2025,1,1,0,0,0.0,0.0,0.0,0.0,1738854862
+Pakistan,Balochistan,January,2025,72,36,21,15,95.0,46.0,24.0,25.0,1738854863
+Pakistan,Federal Capital Territory,January,2025,1,1,0,0,1.0,0.0,1.0,0.0,1738854863
+Pakistan,Gilgit-Baltistan,January,2025,1,1,0,0,0.0,0.0,0.0,0.0,1738854863
+Pakistan,Khyber Pakhtunkhwa,January,2025,76,49,14,13,92.0,43.0,20.0,29.0,1738854863
+Pakistan,Punjab,January,2025,6,2,2,2,3.0,1.0,1.0,1.0,1738854863
+Pakistan,Sindh,January,2025,5,2,0,3,3.0,0.0,1.0,2.0,1738854863
+Pakistan,Azad Jammu and Kashmir,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266633
+Pakistan,Balochistan,February,2025,91,46,29,16,88.0,36.0,19.0,33.0,1741266633
+Pakistan,Federal Capital Territory,February,2025,2,0,1,1,0.0,0.0,0.0,0.0,1741266633
+Pakistan,Gilgit-Baltistan,February,2025,1,0,0,1,0.0,0.0,0.0,0.0,1741266633
+Pakistan,Khyber Pakhtunkhwa,February,2025,83,43,19,21,79.0,49.0,15.0,15.0,1741266633
+Pakistan,Punjab,February,2025,4,1,1,2,3.0,0.0,0.0,3.0,1741266633
+Pakistan,Sindh,February,2025,3,0,1,2,5.0,1.0,0.0,4.0,1741266633
+Pakistan,Azad Jammu and Kashmir,March,2025,2,1,1,0,0.0,0.0,0.0,0.0,1744287546
+Pakistan,Balochistan,March,2025,89,39,17,33,107.0,40.0,52.0,15.0,1744287546
+Pakistan,Federal Capital Territory,March,2025,2,1,1,0,1.0,0.0,0.0,1.0,1744287546
+Pakistan,Gilgit-Baltistan,March,2025,2,1,1,0,0.0,0.0,0.0,0.0,1744287546
+Pakistan,Khyber Pakhtunkhwa,March,2025,75,46,14,15,111.0,78.0,15.0,18.0,1744287546
+Pakistan,Punjab,March,2025,6,2,1,3,12.0,8.0,2.0,2.0,1744287546
+Pakistan,Sindh,March,2025,7,2,1,4,7.0,2.0,2.0,3.0,1744287546
+Pakistan,Azad Jammu and Kashmir,April,2025,1,1,0,0,1.0,1.0,0.0,0.0,1746702916
+Pakistan,Balochistan,April,2025,102,42,45,15,94.0,37.0,30.0,27.0,1746702916
+Pakistan,Federal Capital Territory,April,2025,2,1,0,1,0.0,0.0,0.0,0.0,1746702916
+Pakistan,Gilgit-Baltistan,April,2025,1,1,0,0,0.0,0.0,0.0,0.0,1746702916
+Pakistan,Khyber Pakhtunkhwa,April,2025,98,63,16,19,112.0,53.0,29.0,30.0,1746702916
+Pakistan,Punjab,April,2025,6,2,1,3,7.0,3.0,1.0,3.0,1746702916
+Pakistan,Sindh,April,2025,7,2,2,3,10.0,4.0,1.0,5.0,1746702916
+Pakistan,Azad Jammu and Kashmir,May,2025,3,2,0,1,22.0,17.0,5.0,0.0,1749732021
+Pakistan,Balochistan,May,2025,96,39,32,25,141.0,71.0,45.0,25.0,1749732021
+Pakistan,Federal Capital Territory,May,2025,2,2,0,0,0.0,0.0,0.0,0.0,1749732022
+Pakistan,Gilgit-Baltistan,May,2025,2,2,0,0,1.0,0.0,1.0,0.0,1749732022
+Pakistan,Khyber Pakhtunkhwa,May,2025,108,53,26,29,91.0,49.0,15.0,27.0,1749732022
+Pakistan,Punjab,May,2025,6,2,1,3,24.0,4.0,17.0,3.0,1749732022
+Pakistan,Sindh,May,2025,8,2,1,5,17.0,3.0,7.0,7.0,1749732022
+Pakistan,Azad Jammu and Kashmir,June,2025,21,16,4,1,0.0,0.0,0.0,0.0,1754429217
+Pakistan,Azad Jammu and Kashmir,July,2025,4,2,1,1,0.0,0.0,0.0,0.0,1754429217
+Pakistan,Azad Jammu and Kashmir,August,2025,0,0,0,0,0.0,0.0,0.0,0.0,1757596698
+Pakistan,Azad Jammu and Kashmir,September,2025,0,0,0,0,1.0,1.0,0.0,0.0,1760036046
+Pakistan,Azad Jammu and Kashmir,October,2025,1,1,0,0,0.0,0.0,0.0,0.0,1762435626
+Pakistan,Azad Jammu and Kashmir,November,2025,0,0,0,0,0.0,0.0,0.0,0.0,1765375966
+Pakistan,Azad Jammu and Kashmir,December,2025,0,0,0,0,,,,,1765375966
+Pakistan,Balochistan,June,2025,131,69,41,21,123.0,43.0,49.0,31.0,1754429217
+Pakistan,Balochistan,July,2025,112,46,43,23,142.0,42.0,31.0,69.0,1754429217
+Pakistan,Balochistan,August,2025,142,42,31,69,131.0,35.0,28.0,68.0,1757596698
+Pakistan,Balochistan,September,2025,131,34,28,69,147.0,41.0,35.0,71.0,1760036046
+Pakistan,Balochistan,October,2025,147,42,35,70,142.0,50.0,37.0,55.0,1762435626
+Pakistan,Balochistan,November,2025,145,47,41,57,175.0,38.0,40.0,97.0,1765375966
+Pakistan,Balochistan,December,2025,172,38,38,96,,,,,1765375966
+Pakistan,Federal Capital Territory,June,2025,1,0,0,1,0.0,0.0,0.0,0.0,1754429217
+Pakistan,Federal Capital Territory,July,2025,2,1,0,1,1.0,0.0,0.0,1.0,1754429217
+Pakistan,Federal Capital Territory,August,2025,1,0,0,1,1.0,0.0,0.0,1.0,1757596698
+Pakistan,Federal Capital Territory,September,2025,1,0,0,1,0.0,0.0,0.0,0.0,1760036046
+Pakistan,Federal Capital Territory,October,2025,0,0,0,0,2.0,0.0,0.0,2.0,1762435626
+Pakistan,Federal Capital Territory,November,2025,2,0,0,2,1.0,0.0,1.0,0.0,1765375966
+Pakistan,Federal Capital Territory,December,2025,0,0,0,0,,,,,1765375966
+Pakistan,Gilgit-Baltistan,June,2025,2,0,1,1,1.0,0.0,0.0,1.0,1754429217
+Pakistan,Gilgit-Baltistan,July,2025,2,1,0,1,1.0,1.0,0.0,0.0,1754429217
+Pakistan,Gilgit-Baltistan,August,2025,1,1,0,0,1.0,1.0,0.0,0.0,1757596698
+Pakistan,Gilgit-Baltistan,September,2025,1,1,0,0,0.0,0.0,0.0,0.0,1760036046
+Pakistan,Gilgit-Baltistan,October,2025,0,0,0,0,4.0,3.0,0.0,1.0,1762435626
+Pakistan,Gilgit-Baltistan,November,2025,3,2,0,1,0.0,0.0,0.0,0.0,1765375966
+Pakistan,Gilgit-Baltistan,December,2025,0,0,0,0,,,,,1765375966
+Pakistan,Khyber Pakhtunkhwa,June,2025,88,49,16,23,93.0,40.0,26.0,27.0,1754429217
+Pakistan,Khyber Pakhtunkhwa,July,2025,95,48,25,22,123.0,66.0,35.0,22.0,1754429217
+Pakistan,Khyber Pakhtunkhwa,August,2025,121,66,35,20,152.0,81.0,40.0,31.0,1757596698
+Pakistan,Khyber Pakhtunkhwa,September,2025,154,81,40,33,122.0,61.0,30.0,31.0,1760036046
+Pakistan,Khyber Pakhtunkhwa,October,2025,124,62,31,31,139.0,84.0,28.0,27.0,1762435626
+Pakistan,Khyber Pakhtunkhwa,November,2025,129,75,27,27,147.0,78.0,32.0,37.0,1765375966
+Pakistan,Khyber Pakhtunkhwa,December,2025,145,77,32,36,,,,,1765375966
+Pakistan,Punjab,June,2025,18,4,11,3,3.0,3.0,0.0,0.0,1754429217
+Pakistan,Punjab,July,2025,8,3,2,3,4.0,2.0,1.0,1.0,1754429217
+Pakistan,Punjab,August,2025,4,2,1,1,3.0,2.0,0.0,1.0,1757596698
+Pakistan,Punjab,September,2025,4,2,0,2,0.0,0.0,0.0,0.0,1760036046
+Pakistan,Punjab,October,2025,0,0,0,0,1.0,1.0,0.0,0.0,1762435626
+Pakistan,Punjab,November,2025,1,1,0,0,5.0,1.0,0.0,4.0,1765375966
+Pakistan,Punjab,December,2025,5,1,0,4,,,,,1765375966
+Pakistan,Sindh,June,2025,17,3,6,8,3.0,0.0,1.0,2.0,1754429217
+Pakistan,Sindh,July,2025,8,2,2,4,7.0,2.0,1.0,4.0,1754429217
+Pakistan,Sindh,August,2025,7,2,1,4,13.0,2.0,0.0,11.0,1757596698
+Pakistan,Sindh,September,2025,13,2,0,11,10.0,1.0,2.0,7.0,1760036046
+Pakistan,Sindh,October,2025,11,1,3,7,11.0,0.0,2.0,9.0,1762435626
+Pakistan,Sindh,November,2025,11,0,2,9,8.0,2.0,0.0,6.0,1765375966
+Pakistan,Sindh,December,2025,10,2,2,6,,,,,1765375966
+Pakistan,Azad Jammu and Kashmir,January,2026,0,0,0,0,,,,,1765375966
+Pakistan,Balochistan,January,2026,167,38,38,91,,,,,1765375966
+Pakistan,Federal Capital Territory,January,2026,0,0,0,0,,,,,1765375966
+Pakistan,Gilgit-Baltistan,January,2026,0,0,0,0,,,,,1765375966
+Pakistan,Khyber Pakhtunkhwa,January,2026,145,77,32,36,,,,,1765375966
+Pakistan,Punjab,January,2026,5,1,0,4,,,,,1765375966
+Pakistan,Sindh,January,2026,10,2,2,6,,,,,1765375966
+Pakistan,Azad Jammu and Kashmir,February,2026,0,0,0,0,,,,,1765375966
+Pakistan,Balochistan,February,2026,167,38,38,91,,,,,1765375966
+Pakistan,Federal Capital Territory,February,2026,0,0,0,0,,,,,1765375966
+Pakistan,Gilgit-Baltistan,February,2026,0,0,0,0,,,,,1765375966
+Pakistan,Khyber Pakhtunkhwa,February,2026,145,77,32,36,,,,,1765375966
+Pakistan,Punjab,February,2026,5,1,0,4,,,,,1765375966
+Pakistan,Sindh,February,2026,11,2,2,7,,,,,1765375966
+Pakistan,Azad Jammu and Kashmir,March,2026,0,0,0,0,,,,,1765375966
+Pakistan,Balochistan,March,2026,167,38,38,91,,,,,1765375966
+Pakistan,Federal Capital Territory,March,2026,0,0,0,0,,,,,1765375966
+Pakistan,Gilgit-Baltistan,March,2026,0,0,0,0,,,,,1765375966
+Pakistan,Khyber Pakhtunkhwa,March,2026,145,77,32,36,,,,,1765375966
+Pakistan,Punjab,March,2026,5,1,0,4,,,,,1765375966
+Pakistan,Sindh,March,2026,10,2,2,6,,,,,1765375966
+Pakistan,Azad Jammu and Kashmir,April,2026,0,0,0,0,,,,,1765375966
+Pakistan,Balochistan,April,2026,167,38,38,91,,,,,1765375966
+Pakistan,Federal Capital Territory,April,2026,0,0,0,0,,,,,1765375966
+Pakistan,Gilgit-Baltistan,April,2026,0,0,0,0,,,,,1765375966
+Pakistan,Khyber Pakhtunkhwa,April,2026,145,77,32,36,,,,,1765375966
+Pakistan,Punjab,April,2026,5,1,0,4,,,,,1765375966
+Pakistan,Sindh,April,2026,11,2,2,7,,,,,1765375966
+Pakistan,Azad Jammu and Kashmir,May,2026,0,0,0,0,,,,,1765375966
+Pakistan,Balochistan,May,2026,167,38,38,91,,,,,1765375966
+Pakistan,Federal Capital Territory,May,2026,0,0,0,0,,,,,1765375966
+Pakistan,Gilgit-Baltistan,May,2026,0,0,0,0,,,,,1765375966
+Pakistan,Khyber Pakhtunkhwa,May,2026,145,77,32,36,,,,,1765375966
+Pakistan,Punjab,May,2026,5,1,0,4,,,,,1765375966
+Pakistan,Sindh,May,2026,10,2,2,6,,,,,1765375966
