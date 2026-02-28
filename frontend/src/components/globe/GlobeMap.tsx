@@ -50,6 +50,8 @@ const ISO3_TO_2: Record<string, string> = {
   IRQ: "IQ", AFG: "AF", LBY: "LY", SDN: "SD", SOM: "SO",
   COD: "CD", NGA: "NG", ETH: "ET", MLI: "ML", VEN: "VE",
   COL: "CO", MYS: "MY", BGD: "BD", LKA: "LK", NPL: "NP",
+  // Gulf states + Lebanon (Iran crisis retaliation targets)
+  BHR: "BH", ARE: "AE", QAT: "QA", KWT: "KW", JOR: "JO", LBN: "LB",
 }
 const WAYPOINTS: Record<string, [number, number][]> = {
   r1: [[109.84,40.66],[113.5,38],[117.7,39],[121.5,31.2],[120.97,24.8]],
@@ -485,29 +487,22 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
       setReady(true)
       onMapReady?.(m)
     })
-    // Continuous auto-rotate: drifts forever, user interaction cancels it.
-    // Call (m as any)._startSpin() to restart after a reset.
+    // Smooth auto-rotate: gentle continuous drift, user interaction pauses it.
     let spinning = false
     const spin = () => {
       if (!spinning) return
       const c = m.getCenter()
-      m.easeTo({ center: [c.lng + 60, c.lat], bearing: m.getBearing(), duration: 30000, easing: (t: number) => t })
+      m.easeTo({ center: [c.lng + 30, c.lat], duration: 60000, easing: (t: number) => t })
     }
     const startSpin = () => { spinning = true; spin() }
-    const stopSpin = () => { spinning = false }
-    m.on("moveend", () => { if (spinning) spin() })        // chain next segment
-    m.on("mousedown", stopSpin)                             // user interaction stops
+    const stopSpin = () => { spinning = false; m.stop() }
+    m.on("moveend", () => { if (spinning) spin() })
+    m.on("mousedown", stopSpin)
     m.on("touchstart", stopSpin)
     m.on("wheel", stopSpin)
     ;(m as any)._startSpin = startSpin
     ;(m as any)._stopSpin = stopSpin
     m.once("idle", () => { if (!cancelled) startSpin() })
-    // Reset pitch/bearing when user zooms out to overview level
-    m.on("zoomend", () => {
-      if (m.getZoom() < 2.5 && (Math.abs(m.getPitch()) > 5 || Math.abs(m.getBearing()) > 10)) {
-        m.easeTo({ pitch: 0, bearing: 0, duration: 800 })
-      }
-    })
     map.current = m
     useAppStore.getState().setMapInstance(m)
     return () => { cancelled = true; m.stop(); m.remove(); map.current = null; useAppStore.getState().setMapInstance(null) }
@@ -563,7 +558,13 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
   }, [ready, apiCountries])
 
   useEffect(() => {
-    const m = map.current; if (!m || !ready || !selectedCountryCode) return
+    const m = map.current; if (!m || !ready) return
+    if (!selectedCountryCode) {
+      // Smoothly return to overview and resume spin
+      m.flyTo({ center: [55, 20], zoom: 1.8, pitch: 0, bearing: 0, duration: 1800, essential: true })
+      m.once("moveend", () => { ;(m as any)._startSpin?.() })
+      return
+    }
     ;(m as any)._stopSpin?.()
     const coords = resolveCoords(selectedCountryCode, apiCountries)
     if (!coords) return
@@ -571,7 +572,7 @@ export function GlobeMap({ onMapReady }: GlobeMapProps = {}) {
     if (isDemoMode) {
       m.flyTo({ center: coords, zoom, pitch: 45, bearing: -20, duration: 2000, essential: true })
     } else {
-      m.flyTo({ center: coords, zoom, duration: 1500, essential: true })
+      m.flyTo({ center: coords, zoom, pitch: 0, bearing: 0, duration: 1500, essential: true })
     }
   }, [selectedCountryCode, apiCountries, isDemoMode, ready])
 

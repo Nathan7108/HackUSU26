@@ -13,8 +13,11 @@ import {
   type BackendAnalysis,
   type BackendForecast,
 } from "@/lib/api"
+import { applyOverrides, LIVE_OVERRIDES } from "@/lib/live-overrides"
 import { toAlpha3, toAlpha2, flagFromAlpha2 } from "@/lib/country-codes"
 import { COUNTRY_COORDS } from "@/data/countryCoords"
+import { alerts as crisisAlerts } from "@/data/alerts"
+import { countries as staticCountries } from "@/data/countries"
 import type {
   DashboardSummary,
   Country,
@@ -180,7 +183,10 @@ function buildKpis(
 export function useDashboard() {
   const summaryQuery = useQuery({
     queryKey: ["dashboard", "summary"],
-    queryFn: fetchDashboardSummary,
+    queryFn: async () => {
+      const raw = await fetchDashboardSummary()
+      return applyOverrides(raw)
+    },
     staleTime: 1000 * 60 * 5,
     refetchInterval: 1000 * 60 * 5,
     retry: 1,
@@ -230,6 +236,8 @@ export function useDashboard() {
     } catch {
       console.warn("[Sentinel] Failed to transform alerts:", alertsQuery.data)
     }
+    // Prepend breaking crisis alerts (Iran/Israel strikes) on top of backend alerts
+    alerts = [...crisisAlerts.filter((a) => a.severity === "CRITICAL"), ...alerts]
     const kpis = buildKpis(backendSummary, historyQuery.data ?? null)
 
     dashboard = {
@@ -271,19 +279,87 @@ export function useRecommendations() {
   })
 }
 
+/** Breaking headlines injected on top of backend headlines */
+const CRISIS_HEADLINES: Record<string, Array<{ text: string; source: string }>> = {
+  IR: [
+    { text: "US, Israel launch major strikes across Iran — missile sites, nuclear facilities, spy agency targeted", source: "Washington Post" },
+    { text: "201+ killed across 24 provinces; 85 dead at girls' school in southern Iran", source: "Al Jazeera" },
+    { text: "Iran retaliates with strikes on Israel and US bases in Bahrain, UAE, Qatar, Kuwait, Jordan, Saudi Arabia, Iraq", source: "Reuters" },
+    { text: "Trump announces 'major combat operations' against Iran, calls for regime change", source: "CNN" },
+    { text: "Brent crude spikes past $120/bbl as Strait of Hormuz closure risk hits maximum", source: "Bloomberg" },
+  ],
+  IL: [
+    { text: "Israel launches coordinated strikes on Iran alongside US forces — explosions across Tehran", source: "Reuters" },
+    { text: "Iran retaliates with missile strikes on Israeli cities — Iron Dome and Arrow fully activated", source: "Al Jazeera" },
+    { text: "Netanyahu: 'Many signs' Iran's supreme leader is 'no longer with us' after strikes", source: "CBS News" },
+  ],
+  BH: [
+    { text: "Iran strikes US military base in Bahrain in retaliation for US-Israeli attack", source: "Al Jazeera" },
+  ],
+  AE: [
+    { text: "UAE targeted in Iranian retaliatory strikes against US military assets in the Gulf", source: "Reuters" },
+  ],
+  IQ: [
+    { text: "Iranian missiles target US forces in Iraq as regional conflict escalates", source: "AP" },
+  ],
+  YE: [
+    { text: "Houthi forces escalate Red Sea attacks as part of coordinated Iranian retaliation campaign", source: "BBC" },
+  ],
+  SA: [
+    { text: "Saudi Arabia targeted in Iranian retaliation — US assets in Kingdom under attack", source: "Reuters" },
+  ],
+  LB: [
+    { text: "Hezbollah launches strikes on northern Israel in coordination with Iranian offensive", source: "Al Jazeera" },
+  ],
+}
+
 export function useHeadlines() {
   return useQuery({
     queryKey: ["headlines"],
-    queryFn: fetchHeadlines,
+    queryFn: async () => {
+      const data = await fetchHeadlines()
+      // Inject crisis headlines on top of backend data
+      const merged = { ...data }
+      merged.headlines = { ...data.headlines }
+      for (const [code, items] of Object.entries(CRISIS_HEADLINES)) {
+        const existing = merged.headlines[code] ?? []
+        merged.headlines[code] = [...items, ...existing]
+      }
+      return merged
+    },
     staleTime: 1000 * 60 * 10,
     refetchInterval: 1000 * 60 * 10,
     retry: 1,
   })
 }
 
+/** Lookup static country data for crisis-override countries (Iran, Israel, etc.)
+ *  so the IntelPanel shows our curated briefs/chains/headlines instead of stale backend data */
+function getStaticOverride(code3: string): Partial<Country> | null {
+  const code2 = toAlpha2(code3)
+  if (!code2 || !LIVE_OVERRIDES[code2]) return null
+  const sc = staticCountries.find((c) => c.code === code3)
+  if (!sc) return null
+  return {
+    score: sc.score,
+    riskLevel: sc.riskLevel,
+    confidence: sc.confidence,
+    isAnomaly: sc.isAnomaly,
+    brief: sc.brief,
+    causalChain: sc.causalChain,
+    riskDrivers: sc.riskDrivers,
+    headlines: sc.headlines,
+    exposure: sc.exposure,
+    recommendations: sc.recommendations,
+  }
+}
+
 export function useAnalysis(countryCode3: string | null) {
   const code2 = countryCode3 ? toAlpha2(countryCode3) : ""
   const name = countryCode3 ?? ""
+
+  // For crisis-override countries, use static curated data instead of stale backend
+  const staticOverride = countryCode3 ? getStaticOverride(countryCode3) : null
 
   return useQuery({
     queryKey: ["analysis", code2],
@@ -292,7 +368,7 @@ export function useAnalysis(countryCode3: string | null) {
     staleTime: 1000 * 60 * 15,
     retry: 1,
     select: (data: BackendAnalysis): Partial<Country> => {
-      return {
+      const backendResult: Partial<Country> = {
         score: data.mlMetadata.riskScore,
         riskLevel: toRiskLevel(data.mlMetadata.riskLevel),
         confidence: data.mlMetadata.confidence,
@@ -309,6 +385,12 @@ export function useAnalysis(countryCode3: string | null) {
           source: "Sentinel AI",
         })),
       }
+
+      // Override with curated crisis data for countries in LIVE_OVERRIDES
+      if (staticOverride) {
+        return { ...backendResult, ...staticOverride }
+      }
+      return backendResult
     },
   })
 }
@@ -317,6 +399,11 @@ export function useForecast(countryCode3: string | null, currentScore?: number) 
   const code2 = countryCode3 ? toAlpha2(countryCode3) : ""
   const name = countryCode3 ?? ""
 
+  // For crisis countries, use static forecast from countries.ts
+  const staticForecast = countryCode3
+    ? staticCountries.find((c) => c.code === countryCode3 && LIVE_OVERRIDES[toAlpha2(c.code) ?? ""])
+    : null
+
   return useQuery({
     queryKey: ["forecast", code2],
     queryFn: () => fetchForecast(name, code2),
@@ -324,6 +411,15 @@ export function useForecast(countryCode3: string | null, currentScore?: number) 
     staleTime: 1000 * 60 * 15,
     retry: 1,
     select: (data): { forecast: ForecastPoint[]; trend: Trend; raw: BackendForecast } => {
+      // Use static curated forecast for crisis countries
+      if (staticForecast && staticForecast.forecast.length > 0) {
+        return {
+          forecast: staticForecast.forecast,
+          trend: toTrend(staticForecast.forecast[staticForecast.forecast.length - 1].score - staticForecast.score),
+          raw: data,
+        }
+      }
+
       const now = currentScore ?? data.forecast_30d
       return {
         forecast: [

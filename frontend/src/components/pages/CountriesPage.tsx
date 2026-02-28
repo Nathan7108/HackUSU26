@@ -7,6 +7,7 @@ import {
   type ApiCountryListItem,
   type BackendCountryRow,
 } from "@/lib/api"
+import { applyOverrides } from "@/lib/live-overrides"
 import { useExposure } from "@/hooks/use-dashboard"
 import { toAlpha3, flagFromAlpha2 } from "@/lib/country-codes"
 import {
@@ -109,7 +110,10 @@ export function CountriesPage() {
   // Fetch dashboard summary for enrichment (anomaly, delta, etc.)
   const summaryQuery = useQuery({
     queryKey: ["dashboard", "summary"],
-    queryFn: fetchDashboardSummary,
+    queryFn: async () => {
+      const raw = await fetchDashboardSummary()
+      return applyOverrides(raw)
+    },
     staleTime: 1000 * 60 * 5,
     refetchInterval: 1000 * 60 * 5,
     retry: 1,
