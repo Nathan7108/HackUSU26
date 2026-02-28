@@ -17,6 +17,11 @@ import {
   type ChartConfig,
 } from "@/components/ui/chart"
 
+function formatShortDate(dateStr: string): string {
+  const d = new Date(dateStr + "T00:00:00")
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric" })
+}
+
 // ── Components ───────────────────────────────────────────────────
 
 interface KpiStripProps {
@@ -105,20 +110,7 @@ function KpiChartCard({ kpi }: { kpi: KPI }) {
             margin={{ left: 8, right: 8, top: 4, bottom: 0 }}
           >
             <CartesianGrid vertical={false} />
-            <XAxis
-              dataKey="date"
-              tickLine={false}
-              axisLine={false}
-              tickMargin={4}
-              minTickGap={48}
-              tickFormatter={(value) => {
-                const date = new Date(value)
-                return date.toLocaleDateString("en-US", {
-                  month: "short",
-                  day: "numeric",
-                })
-              }}
-            />
+            <XAxis dataKey="date" hide />
             <ChartTooltip
               content={
                 <ChartTooltipContent
@@ -143,6 +135,24 @@ function KpiChartCard({ kpi }: { kpi: KPI }) {
             />
           </LineChart>
         </ChartContainer>
+        {chartData.length >= 2 && (
+          <div
+            className="flex items-center justify-between px-1.5 pt-1"
+          >
+            <span
+              className="font-data text-[10px] tabular-nums"
+              style={{ color: "var(--sentinel-text-tertiary)" }}
+            >
+              {formatShortDate(chartData[0].date)}
+            </span>
+            <span
+              className="font-data text-[10px] tabular-nums"
+              style={{ color: "var(--sentinel-text-tertiary)" }}
+            >
+              {formatShortDate(chartData[chartData.length - 1].date)}
+            </span>
+          </div>
+        )}
       </CardContent>
     </Card>
   )
