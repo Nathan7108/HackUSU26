@@ -6,7 +6,7 @@ import { useAppStore } from "@/stores/app"
 import { useAnalysis, useForecast, useDashboard } from "@/hooks/use-dashboard"
 import { riskColor, riskMutedColor, trendIcon, trendColor, formatMoney } from "@/lib/risk"
 import type { Country, Recommendation } from "@/types"
-import { XAxis, YAxis, ResponsiveContainer, Area, AreaChart } from "recharts"
+import { XAxis, YAxis, ResponsiveContainer, Area, AreaChart, Tooltip, ReferenceLine } from "recharts"
 
 export function IntelPanel() {
   const { selectedCountryCode, setIntelPanelOpen } = useAppStore()
@@ -15,7 +15,7 @@ export function IntelPanel() {
     ? dashboard?.countries.find((c) => c.code === selectedCountryCode) ?? null
     : null
   const { data: liveOverlay, isLoading: isAnalyzing } = useAnalysis(selectedCountryCode)
-  const { data: liveForecast } = useForecast(selectedCountryCode)
+  const { data: liveForecast } = useForecast(selectedCountryCode, dashboardCountry?.score)
 
   // Merge: live backend analysis + forecast overlay on top of dashboard base
   const country: Country | null = dashboardCountry
@@ -256,7 +256,7 @@ export function IntelPanel() {
 
         {/* Forecast chart */}
         <Section title="LSTM FORECAST (90 DAY)">
-          <div className="h-28">
+          <div className="h-36">
             <ResponsiveContainer width="100%" height="100%">
               <AreaChart data={country.forecast}>
                 <defs>
@@ -279,16 +279,64 @@ export function IntelPanel() {
                   tickLine={false}
                   width={28}
                 />
+                <ReferenceLine
+                  y={country.score}
+                  stroke="var(--sentinel-border)"
+                  strokeDasharray="3 3"
+                  label={{ value: "Current", position: "right", fontSize: 9, fill: "var(--sentinel-text-tertiary)" }}
+                />
+                <Tooltip
+                  contentStyle={{
+                    backgroundColor: "var(--sentinel-bg-elevated)",
+                    border: "1px solid var(--sentinel-border-subtle)",
+                    borderRadius: 6,
+                    fontSize: 12,
+                    fontFamily: "var(--font-data)",
+                  }}
+                  labelFormatter={(d) => `Day ${d}`}
+                  formatter={(v: number) => [v, "Score"]}
+                />
                 <Area
                   type="monotone"
                   dataKey="score"
                   stroke={riskColor[country.riskLevel]}
                   fill={`url(#grad-${country.code})`}
                   strokeWidth={2}
+                  dot={{ r: 3, fill: riskColor[country.riskLevel], strokeWidth: 1.5, stroke: "var(--sentinel-bg-surface)" }}
+                  activeDot={{ r: 5, strokeWidth: 2, stroke: "var(--sentinel-bg-surface)" }}
                 />
               </AreaChart>
             </ResponsiveContainer>
           </div>
+          {/* Forecast stats */}
+          {liveForecast?.raw && (
+            <div className="mt-2 grid grid-cols-3 gap-2">
+              {([
+                { label: "30 DAY", value: liveForecast.raw.forecast_30d, delta: liveForecast.raw.forecast_30d - country.score },
+                { label: "60 DAY", value: liveForecast.raw.forecast_60d, delta: liveForecast.raw.forecast_60d - country.score },
+                { label: "90 DAY", value: liveForecast.raw.forecast_90d, delta: liveForecast.raw.forecast_90d - country.score },
+              ] as const).map((f) => (
+                <div
+                  key={f.label}
+                  className="rounded px-2 py-1.5 text-center"
+                  style={{ backgroundColor: "var(--sentinel-bg-elevated)" }}
+                >
+                  <div className="font-data text-[9px] tracking-widest" style={{ color: "var(--sentinel-text-tertiary)" }}>
+                    {f.label}
+                  </div>
+                  <div className="font-data text-sm font-bold tabular-nums" style={{ color: "var(--sentinel-text-primary)" }}>
+                    {f.value}
+                  </div>
+                  <div
+                    className="font-data text-[10px] font-semibold tabular-nums"
+                    style={{ color: f.delta > 0 ? "var(--risk-critical)" : f.delta < 0 ? "var(--risk-low)" : "var(--sentinel-text-tertiary)" }}
+                  >
+                    {f.delta > 0 ? "+" : ""}{f.delta}
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
         </Section>
 
         {/* Risk Drivers */}

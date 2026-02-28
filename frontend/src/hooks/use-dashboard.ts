@@ -11,6 +11,7 @@ import {
   type BackendDashboardSummary,
   type BackendAlert,
   type BackendAnalysis,
+  type BackendForecast,
 } from "@/lib/api"
 import { toAlpha3, toAlpha2, flagFromAlpha2 } from "@/lib/country-codes"
 import { COUNTRY_COORDS } from "@/data/countryCoords"
@@ -100,16 +101,37 @@ function trendFromHistory(currentValue: number, points: KpiDataPoint[] | undefin
   return { trend: toTrend(delta), delta }
 }
 
+/** Ensure history ends with today's live value and spans exactly 30 days */
+function ensureCurrent(hist: KpiDataPoint[], liveValue: number): KpiDataPoint[] {
+  const today = new Date().toISOString().slice(0, 10)
+  const points = [...hist]
+
+  // Append or update today's point with the live value
+  if (points.length === 0) {
+    points.push({ date: today, value: liveValue })
+  } else if (points[points.length - 1].date !== today) {
+    points.push({ date: today, value: liveValue })
+  } else {
+    points[points.length - 1] = { date: today, value: liveValue }
+  }
+
+  // Only keep last 30 days
+  const cutoff = new Date()
+  cutoff.setDate(cutoff.getDate() - 30)
+  const cutoffStr = cutoff.toISOString().slice(0, 10)
+  return points.filter((p) => p.date >= cutoffStr)
+}
+
 function buildKpis(
   summary: BackendDashboardSummary,
   history: KpiHistoryMap | null,
 ): KPI[] {
-  const gtiHist = history?.globalThreatIndex ?? []
-  const anomHist = history?.activeAnomalies ?? []
-  const highHist = history?.highPlusCountries ?? []
-  const escHist = history?.escalationAlerts24h ?? []
-
   const gti = summary.globalThreatIndex
+
+  const gtiHist = ensureCurrent(history?.globalThreatIndex ?? [], gti)
+  const anomHist = ensureCurrent(history?.activeAnomalies ?? [], summary.activeAnomalies)
+  const highHist = ensureCurrent(history?.highPlusCountries ?? [], summary.highPlusCountries)
+  const escHist = ensureCurrent(history?.escalationAlerts24h ?? [], summary.escalationAlerts24h)
 
   const gtiTrend = trendFromHistory(gti, gtiHist)
   const anomTrend = trendFromHistory(summary.activeAnomalies, anomHist)
@@ -291,7 +313,7 @@ export function useAnalysis(countryCode3: string | null) {
   })
 }
 
-export function useForecast(countryCode3: string | null) {
+export function useForecast(countryCode3: string | null, currentScore?: number) {
   const code2 = countryCode3 ? toAlpha2(countryCode3) : ""
   const name = countryCode3 ?? ""
 
@@ -301,19 +323,20 @@ export function useForecast(countryCode3: string | null) {
     enabled: !!countryCode3 && !!code2,
     staleTime: 1000 * 60 * 15,
     retry: 1,
-    select: (data): { forecast: ForecastPoint[]; trend: Trend } => {
-      const current = data.forecast_30d
+    select: (data): { forecast: ForecastPoint[]; trend: Trend; raw: BackendForecast } => {
+      const now = currentScore ?? data.forecast_30d
       return {
         forecast: [
-          { day: 0, score: current },
-          { day: 15, score: Math.round((current + data.forecast_30d) / 2) },
+          { day: 0, score: now },
+          { day: 15, score: Math.round((now + data.forecast_30d) / 2) },
           { day: 30, score: data.forecast_30d },
           { day: 45, score: Math.round((data.forecast_30d + data.forecast_60d) / 2) },
           { day: 60, score: data.forecast_60d },
           { day: 75, score: Math.round((data.forecast_60d + data.forecast_90d) / 2) },
           { day: 90, score: data.forecast_90d },
         ],
-        trend: toTrend(data.forecast_90d - current),
+        trend: toTrend(data.forecast_90d - now),
+        raw: data,
       }
     },
   })
