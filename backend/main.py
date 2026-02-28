@@ -2209,25 +2209,24 @@ async def api_forecast(request: ForecastRequest):
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
 
-    # Post-process: clamp forecasts based on current risk score
-    # Forecasts shouldn't wildly diverge from current reality
+    # Post-process: blend LSTM output with current score for realistic forecasts
+    # Raw LSTM can diverge wildly; anchor to current reality with room for movement
     current_risk = _country_scores.get(country_code, {}).get("riskScore", 0)
     if current_risk > 0:
-        # Floor: don't drop more than 10-20 points
-        if current_risk >= 81:  # CRITICAL
-            floor = max(current_risk - 10, 70)
-        elif current_risk >= 61:  # HIGH
-            floor = max(current_risk - 15, 45)
-        else:
-            floor = max(current_risk - 20, 0)
-        # Ceiling: don't spike more than 8 points above current
-        ceiling = min(100, current_risk + 8)
+        # Blend: weight toward LSTM more at longer horizons
+        for key, weight in [("forecast_30d", 0.6), ("forecast_60d", 0.7), ("forecast_90d", 0.8)]:
+            raw = forecast[key]
+            forecast[key] = round(current_risk * (1 - weight) + raw * weight, 1)
+        # Soft clamp: keep within reasonable range but allow real movement
+        floor = max(current_risk - 25, 0)
+        ceiling = min(current_risk + 20, 100)
         for key in ("forecast_30d", "forecast_60d", "forecast_90d"):
             forecast[key] = round(max(floor, min(ceiling, forecast[key])), 1)
-        # Recompute trend after clamping — use wider threshold to avoid false trends
+        # Trend: use 3-point threshold so real trends show through
+        delta = forecast["forecast_90d"] - forecast["forecast_30d"]
         forecast["trend"] = (
-            "ESCALATING" if forecast["forecast_90d"] > forecast["forecast_30d"] + 8
-            else "DE-ESCALATING" if forecast["forecast_30d"] > forecast["forecast_90d"] + 8
+            "ESCALATING" if delta > 3
+            else "DE-ESCALATING" if delta < -3
             else "STABLE"
         )
 
